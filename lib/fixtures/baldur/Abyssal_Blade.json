@@ -1,0 +1,17 @@
+{
+  "query": {
+    "normalized": [{ "from": "Abyssal_Blade", "to": "Abyssal Blade" }],
+    "pages": {
+      "10033": {
+        "pageid": 10033,
+        "ns": 0,
+        "title": "Abyssal Blade",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|name = \n|weight = 9\n|combat_abilities = +5 slashing damage vs. good-aligned opponents\n|proficiency_type = Two handed swords\n|damage = 1D10+3, + 1D4 fire damage\n|damage_type = Slashing\n|speed_factor = 7\n|strength = 14\n|dexterity = \n|intelligence = \n|appears_in = [[Baldur's Gate II: Enhanced Edition]]\n|only_usable_by = Blackguard\n|item_code = ohdsw2ha, ohdsw2hb, ohdsw2hc, ohdsw2hd\n|image = AbyssalBlade.png\n|item_icon = AbyssalBladeIcon.png\n|item_group = Weapons\n|special = +1 Dexterity, -1 Intelligence\n|thac0 = +3\n}}\n\nThe '''Abyssal Blade''' is an enchanted +3 Two-handed sword acquirable by [[Dorn Il-Khan]] during his [[Dorn's bloody path|companion quest]] in {{BGIIEESoA}}.\n\n==Description==\n{{Quote|Forged in the black heart of the Abyss by tan ar'ri sorcerers for use in the eternal Blood War, this blade was once wielded by the infamous babau assassin Khazzrax the Grasping Death. Lore tells of a blade, black as the night, that Khazzrax would use to slash his victims open, causing fire to briefly flare out of the fresh wound.}}\n\n==Upgrade==\nThis sword's combat abilities can be further upgraded by empowering it with the souls of two specific demons:\n===Empowered with Ur-Gothoz===\n* +5 slashing damage vs. good aligned opponents.\n* +5 slashing damage vs. devils\n{{Quote|Ur-Gothoz has been bound within its blade. As he rages with demonic fury at his captivity, the sword is thus empowered.|The Abysal Blade with Ur-Gothoz's empowerment}}\n===Empowered with Azothet===\n* +5 slashing damage vs. good aligned opponents.\n* +5 slashing damage vs.demons\n{{Quote|In addition to the sword's regular properties, the demon Azothet has been bound within its blade. As she rages with demonic fury at her captivity, the sword is thus empowered.|The Abysal Blade with Azothet's empowerment}}\n===Empowered with both Ur-Gothoz and Azothet===\n* +5 slashing damage vs. good aligned opponents.\n* +5 slashing damage vs. devils\n* +5 slashing damage vs.demons\n{{Quote|In addition to the sword's regular properties, two rival demons have been magically bound within its blade. As they rage with fury both at each other and against their captivity, they thus empower the blade.|The Abysal Blade with both demon's empowerment}}\n[[Category:Two-Handed Swords]]"
+          }
+        ]
+      }
+    }
+  }
+}

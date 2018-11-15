@@ -792,10 +792,10 @@ abbrev@1:
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.0.10.tgz#73f79b99945190356e0eb9be7a7437d589acb090"
-  integrity sha512-buAetJOqlLPOoYAOiQQIhStMLTKTKAl7f2VMTiLTIQntrAIvH/Wjpx/EKjbntqAKLKfCG7vR9zFFu+VyZEDbUQ==
+aberlaas@0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.0.11.tgz#0e83ca06d28e1ba6c4fdbed1c4ca7b191b894a1d"
+  integrity sha512-vgasTqLmPqxr/52tuHnpMknlaDFnXhqO5ZmQuPbk+2QPV8ZYwuVumpyysRf5ncIakSYyPgTXaDnfJTR6wr7/6g==
   dependencies:
     "@babel/cli" "7.1.2"
     "@babel/core" "7.0.0"
@@ -3157,6 +3157,19 @@ firost@0.0.10:
     pify "4.0.0"
     shelljs "0.8.2"
 
+firost@0.0.15:
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-0.0.15.tgz#be3b2490e022d2092d8605e0705a6eca00ead2ca"
+  integrity sha512-qxSzCKvVEoNM37GgSCDeHx6ieptgwJX+Tze5ssKTngjNsybgO1aDcm8bGalGV4DZHNw1JkPoGy5lCYKP/lHa4g==
+  dependencies:
+    fs-extra "7.0.0"
+    glob "7.1.3"
+    got "9.2.2"
+    json-stable-stringify "1.0.1"
+    lodash "4.17.11"
+    pify "4.0.0"
+    shelljs "0.8.2"
+
 flat-cache@^1.2.1:
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-1.3.4.tgz#2c2ef77525cc2929007dfffa1dd314aa9c9dee6f"
@@ -3424,6 +3437,18 @@ globby@8.0.1, globby@^8.0.1:
     ignore "^3.3.5"
     pify "^3.0.0"
     slash "^1.0.0"
+
+golgoth@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.6.tgz#1f338f91a0ee3df55a8e23f2e53b728eb08103f3"
+  integrity sha512-1eptrEnNAf3KTjnoJifTD+fmUbogRkWN9yweRyLfk9f+8jjiEYEonnHP5Vv1lioxkAXIDnWNxhZV1Wj1gEaSDA==
+  dependencies:
+    chalk "2.4.1"
+    lodash "4.17.11"
+    p-all "1.0.0"
+    p-map "2.0.0"
+    p-map-series "1.0.0"
+    pify "4.0.1"
 
 got@8.3.2:
   version "8.3.2"
@@ -5532,6 +5557,13 @@ p-locate@^3.0.0:
   dependencies:
     p-limit "^2.0.0"
 
+p-map-series@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/p-map-series/-/p-map-series-1.0.0.tgz#bf98fe575705658a9e1351befb85ae4c1f07bdca"
+  integrity sha1-v5j+V1cFZYqeE1G++4WuTB8Hvco=
+  dependencies:
+    p-reduce "^1.0.0"
+
 p-map@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/p-map/-/p-map-2.0.0.tgz#be18c5a5adeb8e156460651421aceca56c213a50"
@@ -5541,6 +5573,11 @@ p-map@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/p-map/-/p-map-1.2.0.tgz#e4e94f311eabbc8633a1e79908165fca26241b6b"
   integrity sha512-r6zKACMNhjPJMTl8KcFH4li//gkrXWfbD6feV8l6doRHlzljFWGJ2AP6iKaCJXyZmAUMOPtvbW7EXkbWO/pLEA==
+
+p-reduce@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/p-reduce/-/p-reduce-1.0.0.tgz#18c2b0dd936a4690a529f8231f58a0fdb6a47dfa"
+  integrity sha1-GMKw3ZNqRpClKfgjH1ig/bakffo=
 
 p-timeout@^2.0.1:
   version "2.0.1"

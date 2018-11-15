@@ -1,0 +1,19 @@
+{
+  "query": {
+    "normalized": [
+      { "from": "Adjatha_the_Drinker", "to": "Adjatha the Drinker" }
+    ],
+    "pages": {
+      "4563": {
+        "pageid": 4563,
+        "ns": 0,
+        "title": "Adjatha the Drinker",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|image = Adjatha_the_Drinker_item_artwork_BG2.png\n|item_group = Weapons\n|item_value = 3500\n|proficiency_type = Long swords\n|weight = 3 lbs.\n|lore_to_identify = 80\n|combat_type = Melee\n|hands = 1-handed\n|damage = 1D8 +2\n|thac0 = +2 bonus.\n|damage_type = Slashing\n|speed_factor = 3\n|strength = 5\n|appears_in = Baldur's Gate II.\n|not_usable_by = [[Cleric]], [[Druid]] and [[Mage]]\n|special = Heals the wielder 1 hit point every time it hits the target. Makes wielder immune to charm and domination status effects.\n|item_icon = Adjatha_the_Drinker_item_icon_BG2.png}}'''Adjatha the Drinker''' is an enchanted long sword +2. This weapon offers a bonus to speed factor, [[THAC0]] and damage of +2 and on top of that, it can absorb 1 HP every time it hits an opponent, similar to the [[Sword of Chaos]] +2 and it makes the wielder immune to charm and domination effects. This item appears [[Baldur's Gate II: Shadows of Amn]]. It can be found on the another planar prison during the side quest [[Rescue Raelis and Haer'Dalis from the planar prison]]. The [[Warden]] will drop this blade.\n\n==Description==\n{{quote|'''Adjatha the Drinker'''\u003Cbr /\u003EThis blade belonged to Dabbar, a long dead servant of Bhaal that exercised control over his minions in the most brutal of ways. In addition to strengthening the mind against the guile of others, the sword absorbs life energy from an opponent with each successful hit, healing the user. Dabbar considered it a failure of his officers if he returned from battle in less than perfect health, and as the rest of the company watched, he would administer beatings until fully healed.}}\n[[Category:Long Swords]]\n\n\n\n[[Category:Articles with redlinks]]\n[[Category:Infobox Incomplete]]"
+          }
+        ]
+      }
+    }
+  }
+}

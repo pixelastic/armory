@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "5402": {
+        "pageid": 5402,
+        "ns": 0,
+        "title": "Angurvadal",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|image = File:Angurvadal_item_artwork_BG2.png\n|item_group = Weapons\n|item_value = 7750\u0026 / 9750!\n|weight = 2 lbs.\n|lore_to_identify = 70\n|combat_type = Melee\n|proficiency_type = Long swords\n|hands = 1-handed\n|range = 1 ft.\n|damage = 1d8 +4, +1 fire damage\u0026 / 1d8 +5, +1d4 +1 points of fire damage!\n|thac0 = +4 ! / +5 bonus.\n|damage_type = Slashing\n|speed_factor = 0\n|strength = 6\n|appears_in = Baldur's Gate II\n|not_usable_by = [[Cleric]], [[Druid]], [[Mage]], [[Sorcerer]].\n|special = User can use this blade to raise strength to 22 for 60 seconds once per day\u0026.\nGrants the wearer immunity from level drain and raises strength to 22!.\n|item_icon = File:Angurvadal_item_icon_BG2.png}}'''Angurvadal +4''', also known as the Stream of Anguish, is an enchanted longsword. It inflicts 1d8+4 points of physical damage and 1 point of fire damage and it has +4 [[THAC0]] bonus. The wielder can raise his/her strength to 22 once per day for 60 seconds.The sword weighs 2 lbs and has a speed factor of 0. This item appears in [[Baldur's Gate II: Throne of Bhaal]]. It's found on the body of the Githyanki Captain, who resides on the 4th level of\u00a0[[Watcher's Keep (dungeon)|Watcher's Keep]]. It can be upgraded by [[Cespenar]] for 5,000 and it requires [[Liquid Mercury]]. The wielder needs at least 6 strength to use the weapon.\n\n===Description===\n{{quote|Also known as the Stream of Anguish, this is the legendary burning blade of Frithiof.}}\n\n==Upgraded==\n'''Angurvadal +5''' deals after the upgrade 1d8+5 points of physical damage and 1d4+2 point of fire damage and it has +5 thaco bonus. The wielder's [[strength]] is raised to 22 as long as the weapon is wielded and makes the wielder immune to [[Status Effects|level drain]].\n\n===Description===\n{{quote|The true power of Frithior's blazing sword has been unleashed by the Liquid Mercury.}}\n\n==Legend==\n\u0026 = Before the upgrade\n! = After the upgrade\n\n==External links==\nhttps://en.wikipedia.org/wiki/List_of_magical_weapons#Norse_mythology\n[[Category:Long Swords]]\n[[Category:Infobox Incomplete]]"
+          }
+        ]
+      }
+    }
+  }
+}
