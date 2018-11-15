@@ -1,9 +1,21 @@
 {
-  "name": "lootsearch",
-  "version": "0.0.1",
-  "description": "Search into existing magical items",
-  "main": "index.js",
-  "repository": "git@github.com:pixelastic/lootsearch.git",
   "author": "Pixelastic <tim@pixelastic.com>",
-  "license": "MIT"
+  "description": "Search into existing magical items",
+  "devDependencies": {
+    "aberlaas": "0.0.10"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "lootsearch",
+  "repository": "git@github.com:pixelastic/lootsearch.git",
+  "scripts": {
+    "build": "aberlaas build",
+    "build:watch": "aberlaas build --watch",
+    "lint": "aberlaas lint",
+    "lint:fix": "aberlaas lint --fix",
+    "release": "aberlaas release",
+    "test": "aberlaas test",
+    "test:watch": "aberlaas test --watch"
+  },
+  "version": "0.0.1"
 }
