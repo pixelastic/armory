@@ -1,0 +1,9 @@
+{
+  "name": "lootsearch",
+  "version": "0.0.1",
+  "description": "Search into existing magical items",
+  "main": "index.js",
+  "repository": "git@github.com:pixelastic/lootsearch.git",
+  "author": "Pixelastic <tim@pixelastic.com>",
+  "license": "MIT"
+}
