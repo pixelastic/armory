@@ -792,10 +792,10 @@ abbrev@1:
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@0.0.11:
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.0.11.tgz#0e83ca06d28e1ba6c4fdbed1c4ca7b191b894a1d"
-  integrity sha512-vgasTqLmPqxr/52tuHnpMknlaDFnXhqO5ZmQuPbk+2QPV8ZYwuVumpyysRf5ncIakSYyPgTXaDnfJTR6wr7/6g==
+aberlaas@0.0.12:
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.0.12.tgz#74f1f48ad477fdf7efa0e0bfe36e0df62409cd79"
+  integrity sha512-XWbZzKlm9vf8nOlswRHsNMa/ou/wIF3YoUSEMeaYAXRETVvTS0GUwyoOx66jnONYRl/4JdDfWy8tr6/0q03/FA==
   dependencies:
     "@babel/cli" "7.1.2"
     "@babel/core" "7.0.0"
@@ -806,13 +806,13 @@ aberlaas@0.0.11:
     babel-eslint "8.2.3"
     babel-jest "23.6.0"
     chalk "2.4.1"
-    cross-spawn "6.0.5"
     eslint "4.19.1"
     eslint-config-algolia "13.1.0"
     eslint-config-prettier "2.9.0"
     eslint-plugin-import "2.11.0"
     eslint-plugin-jest "21.15.1"
     eslint-plugin-prettier "2.6.0"
+    execa "1.0.0"
     firost "0.0.10"
     husky "1.1.3"
     inquirer "6.2.0"
@@ -2381,7 +2381,16 @@ cross-fetch@2.2.3:
     node-fetch "2.1.2"
     whatwg-fetch "2.0.4"
 
-cross-spawn@6.0.5:
+cross-spawn@^5.0.1, cross-spawn@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-5.1.0.tgz#e8bd0efee58fcff6f8f94510a0a554bbfa235449"
+  integrity sha1-6L0O/uWPz/b4+UUQoKVUu/ojVEk=
+  dependencies:
+    lru-cache "^4.0.1"
+    shebang-command "^1.2.0"
+    which "^1.2.9"
+
+cross-spawn@^6.0.0:
   version "6.0.5"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
   integrity sha512-eTVLrBSt7fjbDygz805pMnstIs2VTBNkRm0qxZd+M7A5XDdxVRWO5MxGBXZhjY4cqLYLdtrGqRf8mBPmzwSpWQ==
@@ -2389,15 +2398,6 @@ cross-spawn@6.0.5:
     nice-try "^1.0.4"
     path-key "^2.0.1"
     semver "^5.5.0"
-    shebang-command "^1.2.0"
-    which "^1.2.9"
-
-cross-spawn@^5.0.1, cross-spawn@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-5.1.0.tgz#e8bd0efee58fcff6f8f94510a0a554bbfa235449"
-  integrity sha1-6L0O/uWPz/b4+UUQoKVUu/ojVEk=
-  dependencies:
-    lru-cache "^4.0.1"
     shebang-command "^1.2.0"
     which "^1.2.9"
 
@@ -2888,6 +2888,19 @@ exec-sh@^0.2.0:
   integrity sha512-FIUCJz1RbuS0FKTdaAafAByGS0CPvU3R0MeHxgtl+djzCc//F8HakL8GzmVNZanasTbTAY/3DRFA0KpVqj/eAw==
   dependencies:
     merge "^1.2.0"
+
+execa@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-1.0.0.tgz#c6236a5bb4df6d6f15e88e7f017798216749ddd8"
+  integrity sha512-adbxcyWV46qiHyvSp50TKt05tB4tK3HcmF7/nxfAdhnox83seTDbwnaqKO4sXRy7roHAIFqJP/Rw/AuEbX61LA==
+  dependencies:
+    cross-spawn "^6.0.0"
+    get-stream "^4.0.0"
+    is-stream "^1.1.0"
+    npm-run-path "^2.0.0"
+    p-finally "^1.0.0"
+    signal-exit "^3.0.0"
+    strip-eof "^1.0.0"
 
 execa@^0.7.0:
   version "0.7.0"
