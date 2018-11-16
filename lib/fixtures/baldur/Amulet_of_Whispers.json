@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "27305": {
+        "pageid": 27305,
+        "ns": 0,
+        "title": "Amulet of Whispers",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|name                 = Amulet of Whispers\n|image                = CMISCB1.PNG\n|caption1             = \n|other_names          = \n|item_group           = Amulet\n|missable             = \n|enchantment_level    = \n|lore_to_identify     = 50\n|weight               = 1\n|area                 = [[Dead Man's Pass]]\n|place                = Hidden Cellar\n|coordinates          = \n|area_code            = \n|obtained_from        = \n|involvement          = \n|used_for             = \n|other_uses           = \n|combat_type          = \n|range                = \n|launcher             = \n|ammunition           = \n|rate_of_fire_round = \n|thac0                = \n|damage               = \n|damage_type          = \n|speed_factor         = \n|proficiency_type     = \n|hands                = \n|armor_class          = \n|slashing_modifier    = \n|crushing_modifier    = \n|piercing_modifier    = \n|missile_modifier     = \n|saving_throws        = \n|death                = \n|wands                = \n|poly                 = \n|breath               = \n|spells               = \n|fire                 = \n|magical_fire         = \n|cold                 = \n|magical_cold         = \n|electricity          = \n|acid                 = \n|magic                = \n|equipped_abilities   = * Vocalize\n|combat_abilities     = \n|charge_abilities     = * Silence, 15' Radius once per day\n|max_charges          = \n|special              = \n|strength             = \n|dexterity            = \n|constitution         = \n|intelligence         = \n|wisdom               = \n|charisma             = \n|not_usable_by        = [[Wizard Slayer]]\n|only_usable_by       = \n|other_requirements   = \n|item_value           = 6000\n|max_in_stack         = \n|appears_in           = {{BGSoD}}\n|item_code            = bdamul01.ITM\n|item_icon            = IMISCB1.PNG\n|item_icon_caption    = \n}}\n\n==Description==\n{{Quote\n|The archmage Ulcaster enjoyed making long speeches in front of his students, filibustering on any number of subjects from arcane theory to the ethics of conjuration. Most of his students enjoyed the lectures, but one of his pupils decided that he would personally stand up to interrupt the stream of words from Ulcaster's mouth.\u003Cbr /\u003E\u003Cbr /\u003EAt the next lecture, the pupil stood up and shouted, \"I won't listen to you any longer!\" To his horror, no sound issued from his throat. Ulcaster had twisted the chain of an amulet he wore, which rendered every student in the lecture hall utterly silent. The archmage was unaffected, and so carried on his lecture uninhibited.\n}}\n\n==Gallery==\n\u003Cgallery spacing=\"small\"\u003E\nCMISCB1.PNG\nIMISCB1.PNG\n\u003C/gallery\u003E\n[[Category:Items]]\n[[Category:Amulets]]\n[[Category:Items in BG: SoD]]"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "query": {
+    "normalized": [{ "from": "Algernon's_Cloak", "to": "Algernon's Cloak" }],
+    "pages": {
+      "2470": {
+        "pageid": 2470,
+        "ns": 0,
+        "title": "Algernon's Cloak",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|item_group = Armor\n|item_value = 1,750\n|store price = \n|item_icon = File:Nymph_cloak_icon.png\n|weight = 3 lbs.\n|lore_to_identify = 40\n|not_usable_by = [[Wizard Slayer]]\n|special = +2 charisma. Ability to charm people and creatures\n|image = File:Nymph_cloak2.png\n|item_code = clck08}}[[File:Algernon_pocket.png|thumb|left|Algernon being relieved of his cloak.]]This intricate cloak belongs to [[Algernon]], at [[Feldepost's Inn]]. It is a [[Nymph Cloak]] in everything but name.\u00a0\u00a0It offers a +2 [[Charisma]] bonus to the wearer, and the cloak can be used to charm creatures and persons.\u00a0You can acquire it by slaying Algernon or picking his pockets. Once equipped you can access its ability via the Quick Item slot (it casts a [[Charm Person|Charm]] spell that lasts for one hour, with a -1 penalty to the save). After you acquire it (by pick pocketing only; Algernon must remain alive to collect the quest rewards), you can bring it to [[Pheirkas]] in NW Baldur's Gate to complete the [[Steal Algernon's Cloak]] side quests\n\n==Description==\n{{Quote|Algernon's cloak is imbued with magical properties such that the wearer will seem to shine with an inner glow.}}\n\n==Bugs==\n*Due to a coding error, rather than depleting once used, the number of charges wraps around from 1 charge to 65000 charges, more than will ever be used in the game. The [[Baldur's Gate: Enhanced Edition|Enhanced Edition]] fixes this, turning the cloak back into a one-use-per-day item.\n[[Category:Cloaks]]"
+          }
+        ]
+      }
+    }
+  }
+}

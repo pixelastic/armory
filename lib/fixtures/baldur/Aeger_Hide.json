@@ -1,5 +1,6 @@
 {
   "query": {
+    "normalized": [{ "from": "Aeger's_Hide", "to": "Aeger's Hide" }],
     "pages": {
       "4584": {
         "pageid": 4584,

@@ -1,8 +1,5 @@
 {
   "query": {
-    "normalized": [
-      { "from": "Adjatha_the_Drinker", "to": "Adjatha the Drinker" }
-    ],
     "pages": {
       "4563": {
         "pageid": 4563,

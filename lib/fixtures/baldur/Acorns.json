@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "4791": {
+        "pageid": 4791,
+        "ns": 0,
+        "title": "Acorns",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|image = Acorn_item_artwork_BG2.png\n|item_group = Quest item\n|item_value = 0\n|weight = 0 lbs.\n|appears_in = Baldur's Gate II\n|quest=\n|item_icon = Acorn_item_icon_BG2.png\n}}\n\n'''Acorns''' are a quest item required to complete the quest [[Helping Irenicus's captive dryads]]. This item can only be acquired during the first chapter of [[Baldur's Gate II: Shadows of Amn]] while the quest cannot be completed until later in the game.\n\n==Location==\n*The acorns can be acquired after killing the [[duergar]] [[Ilyich]] in [[Irenicus' Dungeon]].\n\n==Description==\n{{quote|These are the dryads' magical acorns that you've obtained off of the duergar leader, Ilyich.}}\n\n[[Category:Miscellaneous items]]\n[[Category:Quest items]]"
+          }
+        ]
+      }
+    }
+  }
+}

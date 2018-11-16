@@ -1,0 +1,19 @@
+{
+  "query": {
+    "normalized": [
+      { "from": "A_Note_from_Mazzy_Fentan", "to": "A Note from Mazzy Fentan" }
+    ],
+    "pages": {
+      "12883": {
+        "pageid": 12883,
+        "ns": 0,
+        "title": "A Note from Mazzy Fentan",
+        "revisions": [
+          {
+            "*": "{{stub}}\nWallag\u003Cbr /\u003EWe travel this day to search out the wolf lair.\u00a0 My own scouting of the region has confirmed Merella's suspicions that there is a large pack of wolves acting in this area.\u00a0 On the map included I have indicated where I believe the wolf den to be located.\u00a0 Follow us if you can, but be cautious. We can ill-afford another mysterious disappearance.\u00a0 Until we meet again.\n\nMazzy\n\n(on the same sheet is drawn a crude but effective map which indicates the path to a forested area several hours north of the Imnesvale region.)\n[[Category:Items]]\n\n\n\n[[Category:Article stubs]]\n[[Category:Image Needed]]\n[[Category:Infobox Needed]]\n[[Category:Quest items]]"
+          }
+        ]
+      }
+    }
+  }
+}
