@@ -1,0 +1,17 @@
+{
+  "query": {
+    "normalized": [{ "from": "Darksteel_Shield", "to": "Darksteel Shield" }],
+    "pages": {
+      "4971": {
+        "pageid": 4971,
+        "ns": 0,
+        "title": "Darksteel Shield",
+        "revisions": [
+          {
+            "*": "{{infobox item\n|image = Darksteel_Shield_item_artwork_BG2.png\n|item_group = Armor\n|item_value = 11000\n|weight = 8 lbs.\n|lore_to_identify = 80\n|armor_class = +5 bonus\n|fire = +10\n|cold = +10\n|acid = +10\n|strength = 15\n|appears_in = Baldur's Gate II: Throne of Bhaal and Baldur's Gate II: Enhanced Edition\n|not_usable_by = [[Bard]], [[Druid]], [[Mage]], [[Sorcerer]], [[Thief]].\n|item_icon = Darksteel_Shield_item_icon_BG2.png}}'''Darksteel Shield''' is a large shield +4 which provides an armor class bonus of 5, which requires 15 strength to wear it. It also provides 10% resistance to fire, cold, acid and poison. This item appears in [[Baldur's Gate II: Throne of Bhaal]] and [[Baldur's Gate II: Enhanced Edition]], it competes with the [[Shield of the Order]] for the most powerful shield available. The shield can be found in [[Sendai's Enclave]], when you kill [[Diaytha]], the Priestess in service of [[Sendai]].\n==Description==\n{{description|Fashioned from dwarven darksteel, this heavily enchanted shield provides more protection than most suits of armor. Legend holds that it was meant to be presented as a gift to the dwarvish hero Glimred Heavyhand, but he disappeared on his ill fated quest into the bowels of the Marching Mountains before the work was completed. With Glimred gone, the shield was sold to the highest bidder - though the dwarven smiths refused to divulge the mysterious buyer's identity.}}\n[[Category:Shields]]\n[[Category:Articles with redlinks]]"
+          }
+        ]
+      }
+    }
+  }
+}

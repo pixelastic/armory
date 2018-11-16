@@ -98,12 +98,6 @@
     "title": "Arbane's Sword of Agility"
   },
   {
-    "description": "The pair of eyes that form the charm of this amulet are old and petrified, and the numbers \"331\" are engraved on their sides. Rumor has it that the eyes' original owner was a blind warrior noted for his uncanny accuracy with a bow. The amulet seems to bestow some of these traits on its wearer.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Archer%27s_Eyes",
-    "price": 4500,
-    "title": "Archer's Eyes"
-  },
-  {
     "description": "Mace +1: Ardulia's Fall\nArdulia the Agile was a man whose speed and skill at knife play made him exceptionally lethal in battle, and he repeatedly proved it by leading raids on settlements along the Sword Coast. He would often challenge the village leader for possession of the town, and with his speed, the duels were always quickly decided in his favor. Ardulia met his match one spring morn however, when he battled the priest Itgan, who wielded this mace. Ardulia seemed to stagger under each blow, slowing his pace to recoup and regain his breath. Without his speed, Ardulia was lost, and fell to the measured attacks of Itgan.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ardulia%27s_Fall",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/4d/Ardulia%27s_Fall_item_artwork_BG2.png/revision/latest?cb=20130810114120",
@@ -123,12 +117,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/77/Armor_of_Deep_Night_item_artwork_BG2.png/revision/latest?cb=20130711081626",
     "price": 10000,
     "title": "Armor of Deep Night"
-  },
-  {
-    "description": "This was the armor of Seffer Ekr, and a sign of the goddess Mielikii's{{sic",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Armor_of_Faith_%2B3",
-    "price": 3500,
-    "title": "Armor of Faith +3"
   },
   {
     "description": "Few suits of armor in all the Realms are the equal of this full plate. All that remains of the origin of the Hart are folktales and legends. The most popular of these is that an impossible battle was once fought against an army of orcs surging through the Three Trees Pass. Arngor of the Oak led the armies of men and elves and it is said that he dueled with the orc commander till the sun set and the land was bathed in a bloody mist. Finally the orc fell but Arngor had sustained wounds too vast for any to save him. His blood soaked through the armor he wore, infusing it with his courage and nobility. Thus the Armor of the Hart became known to men.",
@@ -241,12 +229,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/ae/Aule%27s_Staff.png/revision/latest?cb=20121222152354",
     "price": 5500,
     "title": "Aule's Staff"
-  },
-  {
-    "description": "This axe was wielded by an adventurer who lived within the town of Easthaven in Icewind Dale.  He died about a century ago trying to rescue his town from the ancient demon Belhifet.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Axe_of_Hrothgar",
-    "price": 26750,
-    "title": "Axe of Hrothgar"
   },
   {
     "description": "This axe was last seen in the gnarled fists of Glimred Heavyhand, an aging dwarven hero who disappeared in the deepest caverns beneath the Marching Mountains.",
@@ -438,12 +420,6 @@
     "title": "Bladesinger Chain"
   },
   {
-    "description": "This is a crossbow bolt that has been permanently enchanted with the spell Bless. The enchantment will remain until it is fired out of a crossbow, at which time the magic will fade. It has been fabled that if a rakshasa is struck with this bolt, it will die instantly.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Blessed_Bolt",
-    "price": 120,
-    "title": "Blessed Bolt"
-  },
-  {
     "description": "This is a small stone that floats in an orbit around the owner's head. Simply equip the stone to set it in its orbit. These obviously magical stones have different properties depending on their color.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Blood_Red_Ioun_Stone",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/e3/CBDION0200000.PNG/revision/latest?cb=20171031133211",
@@ -451,7 +427,7 @@
     "title": "Blood Red Ioun Stone"
   },
   {
-    "description": null,
+    "description": "Bloodstone is a dark greenish gray variety of quartz flecked with red crystal impurities. Ninety percent of the bloodstones in the realms come from the Galena Mountains in Damara, and most of those from a single mine in Bloodstone Pass. The border pass is heavily fortified and guarded as bloodstones are the chief export for this region.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Bloodstone_Gem",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b2/Gems_CMISC16_Description_image_BG1.png/revision/latest?cb=20181003175235",
     "price": 50,
@@ -470,13 +446,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/e6/Bolt_%2B1_item_artwork_BG2.png/revision/latest?cb=20130629070831",
     "price": 10,
     "title": "Bolt +1"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bolt_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/ab/Bolt_%2B2_item_artwork_BG2.png/revision/latest?cb=20130629071003",
-    "price": 15,
-    "title": "Bolt +2"
   },
   {
     "description": "These enchanted missiles far surpass the craftsmanship of any bolt, magical or otherwise, you have ever seen.",
@@ -505,13 +474,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/1d/Bolt_of_Lightning.png/revision/latest?cb=20121222152726",
     "price": 30,
     "title": "Bolt of Lightning"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bolt_of_Polymorphing",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/97/Bolt_of_Polymorphing.jpg/revision/latest?cb=20170309223317",
-    "price": 400,
-    "title": "Bolt of Polymorphing"
   },
   {
     "description": "This vicious club was created hundreds of years ago, reportedly by a shaman on a quest for revenge. His family had fallen to undead, and so personal was his rage that he amputated his own leg, using the femur for the body of the weapon. Magical runes empower it, though it is likely the sheer force of the shaman's hatred would have served on its own.",
@@ -640,12 +602,6 @@
     "title": "Bracers of Defense AC 7"
   },
   {
-    "description": "Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm. Generally, the magic that is instilled in bracers is good only during combat, since most bracers help to protect the wearer from injury, or improve chances to strike at an opponent. Exceptions do exist, though such specialized items are rare at best.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bracers_of_Defense_AC_8",
-    "price": 1000,
-    "title": "Bracers of Defense AC 8"
-  },
-  {
     "description": "Each of these soft leather bracers, dyed gray, displays the embroidered figure of a boar in shimmering red thread. The bracers were crafted by a monk of the Black Raven Monastery who took longer to achieve mastery of her art than her peers, but reached her goals eventually.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Bracers_of_Perseverance",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/95/PBRAC2600000.PNG/revision/latest?cb=20171019101939",
@@ -688,12 +644,6 @@
     "title": "Bronze Ioun Stone"
   },
   {
-    "description": "Members of the Flaming Fist mercenary company that serves Baldur's Gate and surrounding areas often carry these bucklers. A red flame emblazoned on the front of the shining bucklers clearly identifies the bearer's loyalty. Experienced Flaming Fist members often have their shields enchanted.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Buckler_of_the_Fist",
-    "price": 2500,
-    "title": "Buckler of the Fist"
-  },
-  {
     "description": "A rectangle of mammoth hide forms this small shield. No amount of cleansing can dispel the pong of decay from this poorly tanned device, yet somehow the malodorous shield fortifies its wielder.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Buckley%27s_Buckler",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/74/Buckler.png/revision/latest?cb=20130112113522",
@@ -727,24 +677,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d4/Bullet_enchanted_item_artwork_BG2.png/revision/latest?cb=20130625083924",
     "price": 25,
     "title": "Bullet +4"
-  },
-  {
-    "description": "Each of these copper bullets is molded around the vertebrae of an electric eel. Upon impact, they release a powerful jolt to the target.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_of_Electricity",
-    "price": 10,
-    "title": "Bullet of Electricity"
-  },
-  {
-    "description": "Carved from the knucklebones of slain salamanders, these incendiary missiles burst into flames once they are hurled from a sling.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_of_Fire",
-    "price": 10,
-    "title": "Bullet of Fire"
-  },
-  {
-    "description": "Chipped from the corpse of an ice elemental, these sharp projectiles shatter upon impact to chill the target with unnatural cold.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_of_Ice",
-    "price": 10,
-    "title": "Bullet of Ice"
   },
   {
     "description": "Carsomyr is a weapon of legend, perhaps one of the most powerful blades ever forged on Faerûn, though its origin and history is thought purposefully forgotten so that the sword itself shall never overshadow the importance of the struggles that must be fought today. It is infused with the very essence of virtue, and requires as much from any Paladin that would hope to wield it. The evils of the realms must truly stand aside when this weapon is brought to bear, their magic dispelled with a word, steadfastly resisted with ease. Carsomyr also harbors a special distaste for the forces of evil and chaos, and such creatures must fear additional damage from its touch in battle.",
@@ -901,7 +833,7 @@
     "title": "Club"
   },
   {
-    "description": null,
+    "description": "From chair legs to felled trees, clubs are the universal weapons of everyone from tavern brawlers to hill giants. A little extra weight, maybe a spike or two, and a little enchantment never hurt. Which is to say, it always hurts.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Club_%2B1",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Club_item_artwork_BG2.png/revision/latest?cb=20130629071941",
     "price": 1200,
@@ -934,18 +866,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/be/Composite_Longbow%2B1.png/revision/latest?cb=20121222153444",
     "price": 2500,
     "title": "Composite Longbow +1"
-  },
-  {
-    "description": "This longbow is marked with the seal of a sunburst. It probably once was a bow used by guards in the service of the god Amaunator. These guards would use the enchanted bows to keep the priests of that long dead faith safe.  Few of these bows still exist, so they are sought after by many archers looking to improve both their accuracy and their lethality. This bow requires a strength of 18 to use.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B2",
-    "price": 2750,
-    "title": "Composite Longbow +2"
-  },
-  {
-    "description": "This longbow is marked with the seal of a sunburst. It probably once was a bow used by guards in the service of the god Amaunator. These guards would use the enchanted bows to keep the priests of that long dead faith safe.  Few of these bows still exist, so they are sought after by many archers looking to improve both their accuracy and their lethality. This bow requires a strength of 18 to use.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B3",
-    "price": 3750,
-    "title": "Composite Longbow +3"
   },
   {
     "description": "This armor, long in the Corthala bloodline, protects the user against all forms of attacks. The armor is enchanted so that it grants a +3 bonus to Valygar's armor class. It also adds a bonus to resisting acid, fire and magical damage. The armor also makes Valygar immune to charm while he wears it. As it is specially fitted for Valygar, few other than he may wear it.",
@@ -990,12 +910,6 @@
     "title": "Crimson Dawn"
   },
   {
-    "description": "This homespun capelet appears to have been hand-embroidered. The delicate scrollwork around its edges shows how much time and care went into the garment's creation. Crommus, the cloak's original owner, was a ghost for many years, and some of his incorporeal essence seems to have seeped into the fabric of the capelet.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Crommus%27s_Capelet",
-    "price": 4000,
-    "title": "Crommus's Capelet"
-  },
-  {
     "description": "A devastating weapon, this crossbow unfortunately draws its power directly from the wielder. Some bowmen have used it regardless, and many to great effect, but the drawbacks must be carefully considered. Its most famous owner, Guil de Lyons, made good use of it fighting bandits in remote areas of Faerun, but he ultimately fell when he lacked the strength to defend against a rare assailant that got within striking distance.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Crossbow_of_Affliction",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/77/Crossbow_of_Affliction_item_artwork_BG2.png/revision/latest?cb=20140518091222",
@@ -1008,54 +922,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/46/CBLUN2100000.PNG/revision/latest?cb=20171130041711",
     "price": 2500,
     "title": "Cudgel of Montgomer"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Ailment",
-    "price": 300,
-    "title": "Cursed Scroll of Ailment"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Clumsiness",
-    "price": 300,
-    "title": "Cursed Scroll of Clumsiness"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Foolishness",
-    "price": 300,
-    "title": "Cursed Scroll of Foolishness"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Petrification",
-    "price": 300,
-    "title": "Cursed Scroll of Petrification"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Stupidity",
-    "price": 300,
-    "title": "Cursed Scroll of Stupidity"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Summon_Monster",
-    "price": 300,
-    "title": "Cursed Scroll of Summon Monster"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Ugliness",
-    "price": 300,
-    "title": "Cursed Scroll of Ugliness"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Weakness",
-    "price": 300,
-    "title": "Cursed Scroll of Weakness"
   },
   {
     "description": "This weapon has a bloody history, having been used to exercise its namesake many times. Popular among the assassin trade for its size and enchantment, it has been in the possession of many of the Realms' more dangerous citizens, though seldom remaining in one place any length of time.",
@@ -1135,7 +1001,7 @@
     "title": "Darkmail"
   },
   {
-    "description": null,
+    "description": "Fashioned from dwarven darksteel, this heavily enchanted shield provides more protection than most suits of armor. Legend holds that it was meant to be presented as a gift to the dwarvish hero Glimred Heavyhand, but he disappeared on his ill fated quest into the bowels of the Marching Mountains before the work was completed. With Glimred gone, the shield was sold to the highest bidder - though the dwarven smiths refused to divulge the mysterious buyer's identity.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Darksteel_Shield",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0e/Darksteel_Shield_item_artwork_BG2.png/revision/latest?cb=20130629073036",
     "price": 11000,
@@ -1394,12 +1260,6 @@
     "title": "Elements' Fury"
   },
   {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Elminster%27s_Ecologies:_Appendix_IIIa",
-    "price": 500,
-    "title": "Elminster's Ecologies: Appendix IIIa"
-  },
-  {
     "description": "Woven by the finest of elven craftsmen, this mail feels more akin to cloth than to metal. The armor may be worn by thieves with few penalties and by fighter-mages without removing their spellcasting ability.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Elven_Chain_%2B1",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3e/Elven_Chain_Mail_%2B1_item_artwork_BG2.png/revision/latest?cb=20130716132832",
@@ -1433,12 +1293,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/97/PSLNG0800000.PNG/revision/latest?cb=20171129115112",
     "price": 2500,
     "title": "Erinne Sling"
-  },
-  {
-    "description": "This morning star was the personal weapon of the cleric Everard.  Everard was a powerful priest of Tempus who sacrificed his life in the battle against the demon Belhifet.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Everard%27s_Morning_Star",
-    "price": 0,
-    "title": "Everard's Morning Star"
   },
   {
     "description": "Ring of wizardry:  'Evermemory'\nLong ago, a grand wizard from Amn was rumored to have defied Mystra's limitations on the magical arts.  Legends spoke of this wizard being able to cast spells without the limitation of memorization.  In the end it was found that his powers stemmed from the several magical rings that he had made for himself.  His proclaimed \"everlasting memory\" was a hoax, though his rings continue to be one of the most sought after items in the Realms.",
@@ -1546,12 +1400,6 @@
     "title": "Frostreaver"
   },
   {
-    "description": "Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Full_Plate_Armor",
-    "price": 6000,
-    "title": "Full Plate Armor"
-  },
-  {
     "description": "Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail.  With its magical enchantments, this suit of full plate is ideal for warriors.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Full_Plate_Armor_%2B1",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/79/Full_Plate_Mail_%2B1_item_artwork_BG2.png/revision/latest?cb=20130730164157",
@@ -1594,7 +1442,7 @@
     "title": "Gem of Seeing"
   },
   {
-    "description": null,
+    "description": "This is one part of the Gesen Bow, a powerful short bow created by Gesen Khan... and used on its own creator when it was stolen by the Shadow Thieves.  Legend relates that the bow fires bolts of lightning instead of arrows, and it has been highly sought in the past by Shadow Thieves for use by their assassins and by Cowled Wizards for study..",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Gesen_Bow_String",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0a/Bow_String_item_artwork_BG2.png/revision/latest?cb=20130629071550",
     "price": 0,
@@ -1608,7 +1456,7 @@
     "title": "Giant Hair Crossbow"
   },
   {
-    "description": null,
+    "description": "Prized for its noble origin as much as for its benefits to the wearer, this helm was originally intended to be a simple gift. There was no great crisis at hand, nor dangerous evil to be overthrown; just a wish for a friend to give a gift to another. It could just have easily been a good book or bottle of wine, but adventurers are eminently more practical in their gift giving. The helm has seen many great battles since its creation, but the simple virtue at its core is what has always been remembered.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Gift_of_Peace",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/ed/Helm_Winged_item_artwork_BG2.png/revision/latest?cb=20130907183033",
     "price": 2000,
@@ -1713,7 +1561,7 @@
     "title": "Golden Ioun Stone"
   },
   {
-    "description": null,
+    "description": "Pantaloons of a quality heretofore unseen by the eyes of either man or beast. Dynamic styling and comfort that cradles, cuddles and coddles. Seduce your thighs, cajole your calves; enjoy Golden Pantaloons... TODAY! Trousers you would be proud to take home to mother, if mother rode fast and fought hard.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Golden_Pantaloons",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/cb/CMISC4700000.PNG/revision/latest?cb=20180218093424",
     "price": 2,
@@ -1916,12 +1764,6 @@
     "title": "Helm of Brilliance"
   },
   {
-    "description": "As its name suggests, the Helm of Charm Protection protects its wearer from any magical attempts at emotional manipulation. As a precaution, some high-profile mercenary groups regularly equip their members with such helmets to ensure that they can perform their prescribed duties without external interference.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Helm_of_Charm_Protection",
-    "price": 800,
-    "title": "Helm of Charm Protection"
-  },
-  {
     "description": "This pitted bronze helmet boasts a dark crest that stretches laterally across the crown. Three silver coins, blackened with tarnish, are set in a line over the brow. The helm carries a sense of ancient resolve, of a purpose not yet fulfilled but never abandoned.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Helm_of_Unwavering_Purpose",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/4e/CBDHEL1000000.PNG/revision/latest?cb=20171019045012",
@@ -1936,17 +1778,11 @@
     "title": "Helm of the Noble"
   },
   {
-    "description": "With the addition of the horns, the Helm of the Rock is even more powerful.  Generals and military leaders can command both fear and respect simply by wearing this helm.",
+    "description": "This helm grants a warrior immunities far beyond mere physical protections. It is obvious there once used to be a set of horns protruding from the metal cap, though the horns and any magic associated with them have long since disappeared.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Helm_of_the_Rock",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/13/Helm_of_the_Rock_%28horns%29_item_artwork_BG2.png/revision/latest?cb=20130907181719",
     "price": 5000,
     "title": "Helm of the Rock"
-  },
-  {
-    "description": "A glittering green jewel adorns this battered metal helm infused with the power of the dwarven god Dumathoin.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Helmet_of_Dumathoin",
-    "price": 4000,
-    "title": "Helmet of Dumathoin"
   },
   {
     "description": "The cursed Helm of Opposite Alignment is a truly fearsome item. As its name suggests, it has the power to alter the fundamental ethical framework, nay, the very identity of anyone unlucky enough to wear it. It can ruin homes, friendships, even entire cities or nations. Should the legions of evil ever force one onto the head of a benevolent solar, the multiverse, as we know it, will surely meet an abrupt and painful end.",
@@ -1984,7 +1820,7 @@
     "title": "History of the Nether Scrolls"
   },
   {
-    "description": null,
+    "description": "Rings of this type were given to faithful priests of Sune who demonstrated actions of astounding integrity and kindness.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Honorary_Ring_of_Sune",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/22/Honorary_Ring_of_Sune.png/revision/latest?cb=20121222154812",
     "price": 10000,
@@ -2012,23 +1848,11 @@
     "title": "Ice Star"
   },
   {
-    "description": "This is the magical scimitar +3, Frostbrand.  It is one of Drizzt's personal weapons.|",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Icingdeath",
-    "price": 7550,
-    "title": "Icingdeath"
-  },
-  {
     "description": "This ancient bronze sword is set with six matching bloodstones, and was apparently forged for Azoun the First, a long dead king of Cormyr. It saw little use, and eventually found its way to a favored of the king's guards. Despite the aid of its illusionary magic, that unnamed soldier fell in a later battle, and the sword was lost to brigands or scavengers.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ilbratha",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/e9/Ilbratha_item_artwork_BG2.png/revision/latest?cb=20130907191148",
     "price": 7500,
     "title": "Ilbratha"
-  },
-  {
-    "description": "The abilities conferred by this powerfully enchanted cloak attest to the fact that protection can take many forms — including hiding from view and running away.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Improved_Cloak_of_Protection",
-    "price": 7000,
-    "title": "Improved Cloak of Protection"
   },
   {
     "description": "For many generations this magical shaft has been separated from Ixil's Spike, the enchanted head of the legendary spear. However, even incomplete, this artifact is still a weapon of great power.",
@@ -2066,13 +1890,7 @@
     "title": "Jhor the Bleeder"
   },
   {
-    "description": "Joril was a powerful Frost giant that lived with his clan in the Spine of the World.  His magic dagger was lost when he was killed by a band of adventurers.  Eventually the dagger wound up in the town of Kuldahar where it was reforged so that it could be used as a Two handed sword.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Joril%27s_Dagger",
-    "price": 0,
-    "title": "Joril's Dagger"
-  },
-  {
-    "description": null,
+    "description": "The origins of this throwing axe are known only to denizens of the Underdark. What is known is that clans of duergar have gone to war simply to possess this artifact.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/K%27logarath",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b4/K%27Logarath_item_artwork_BG2.png/revision/latest?cb=20131109230756",
     "price": 25000,
@@ -2275,12 +2093,6 @@
     "title": "Lock of Hair from Kirinhale"
   },
   {
-    "description": "Esthia and Ambrose both served as Knights of the Mystic Fire, paladins dedicated to Mystra, goddess of magic. Esthia had this necklace commissioned for Ambrose, telling him it would ensure his safety when she could not hold him in her arms. \n\nOn his last mission, Ambrose sent the necklace back to Esthia with a note telling her he had met another woman and would never return to the chapterhouse. Heartbroken, Esthia threw the necklace into a ditch, where it was later found by a peddler.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Locket_of_Embracing",
-    "price": 2500,
-    "title": "Locket of Embracing"
-  },
-  {
     "description": "Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Lon%27s_Amulet",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8a/CMISC7R00000.PNG/revision/latest?cb=20171019122809",
@@ -2365,7 +2177,7 @@
     "title": "Mace +3"
   },
   {
-    "description": null,
+    "description": "This heavy mace was created for a very specific purpose: to slay undead. Any such creature hit by it not only feels the sting of the weapon, but also has a chance of being simply blasted from existence. There are legends that speak of a priest so holy a single glancing touch could send a vampire to oblivion, but whether the weapon empowered her or she empowered it is a topic for theologians.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Mace_of_Disruption",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3f/Mace_of_Disruption_item_artwork_BG2.png/revision/latest?cb=20180802162005",
     "price": 4500,
@@ -2498,7 +2310,7 @@
     "title": "Melodic Chain"
   },
   {
-    "description": null,
+    "description": "Harps are stringed instruments often used by bards. This small harp is ideal for the traveling warbler or tales and ballads.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Methild%27s_Harp",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c2/CMISC3O00000.PNG/revision/latest?cb=20171201034644",
     "price": 0,
@@ -2617,12 +2429,6 @@
     "title": "Orc Leather"
   },
   {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Ostentatious_Boots",
-    "price": 1000,
-    "title": "Ostentatious Boots"
-  },
-  {
     "description": "Defenders of justice are ever eager to acquire another tool which may be used to thwart the machinations of evil. However, these particular gauntlets can only be worn by a warrior of the purest heart.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Paladin%27s_Bracers",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/4d/Paladin%27s_Bracers_item_artwork_BG2.png/revision/latest?cb=20131213194322",
@@ -2635,12 +2441,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/fd/Dusty_Rose_Ioun_Stone_item_artwork_BG2.png/revision/latest?cb=20130711084632",
     "price": 5000,
     "title": "Pale Green Ioun Stone"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Peacock_Cap",
-    "price": 4750,
-    "title": "Peacock Cap"
   },
   {
     "description": "Legend tells us that this particular type of ioun stone is crafted with the enslaved soul of a troll. This pearly white ioun stone will grant the wearer the ability to regenerate at a rate of 1 Hit Point every 5 rounds.",
@@ -2783,7 +2583,7 @@
     "title": "Protector of the Dryads"
   },
   {
-    "description": null,
+    "description": "The Mist of Shadows were an elite group of elven rangers that roamed the Cormanthor wood, and were the bane of bandits and monsters alike. This particular armor was worn by Indeera Lakhan, one of the group's most highly decorated officers, and second in command. This suit is named for her, though how it came to part her company is unknown.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Protector_of_the_Second",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7b/Protector_of_the_Second_item_artwork_BG2.png/revision/latest?cb=20140105210646",
     "price": 3500,
@@ -2816,12 +2616,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/2b/Quarter_Staff_%2B2_item_artwork_BG2.png/revision/latest?cb=20140106221134",
     "price": 2500,
     "title": "Quarterstaff +2"
-  },
-  {
-    "description": null,
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Quarterstaff_%2B3",
-    "price": 0,
-    "title": "Quarterstaff +3"
   },
   {
     "description": "When the half-elven bard Beleress left his home in Evereska, his musical tutor gave him this suit of armor as a parting gift. The brightly colored armor looks stylish as it protects, though it wasn't able to keep its original owner from falling prey to hill giants on his travels. On the breastplate of the armor appears a stylized golden heart, a mark of respect to Hanali Celanil. When Beleress died, a scar appeared on the golden heart that persists to this day.",
@@ -2873,23 +2667,11 @@
     "title": "Red Potion"
   },
   {
-    "description": "Thought only a decoration from some forgotten festhall, this shield languished in the backroom of a shop until a young noble purchased it as parade armor. Its dormant enchantments were discovered when a later attempt on his life was foiled, as the shield reflected each attack back at the would-be assassins. Subsequent study has linked it to Myth Rhynn or perhaps some other ancient excavation.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Reflection_Shield",
-    "price": 2500,
-    "title": "Reflection Shield"
-  },
-  {
     "description": "A great amount of irony surrounds the creation of this magical cloak. Relair was a mage who overestimated the control he had over magic, and in the course of creating this garment he apparently inflicted lycanthropy upon himself. The wearer can change form whenever he wishes. Relair was not so lucky.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Relair%27s_Mistake",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c9/Relair%27s_Mistake.png/revision/latest?cb=20121222222823",
     "price": 4000,
     "title": "Relair's Mistake"
-  },
-  {
-    "description": "The tale of this weapon lost its significance in the sea of great stories that are told about the High Forest, but some bards still sing the song of the skilled archer Adaniss Rhyte.\n<br />\"Oh, shocked from the strike of his powerful bow,<br />The slain game sought by Adaniss falls.<br />Long ago in the time of the Quiet Earth,<br />The hunt from the famed High Forest calls.<br /><br />\"The Duke of Everlund known for his boast <br />Of the trophies held in his pride as dear. <br />Intensely enraged at his rival hunter<br />Whose bounty by far surpassed his one year.<br /><br />\"One morn tragedy befell the land<br />With the misconceived death of the Duke's prized hound.<br />Fallen at the base of a great elm tree <br />A bow's shot death in its heart was found.<br /><br />\"With skill so great targets in his eyes were at the mercy of his arrow's flight.<br />His hands sure and still,<br />Never missing a kill,<br />None could match the marksmanship of Adaniss Rhyte.<br /><br />\"The same eve Adaniss called on the Duke,<br />His solemn mistake he wished to repay.<br />But the noble's rage claimed ten pounds of flesh<br />And an archer's arm hit the ground that day.<br /><br />\"The evil lord demanded justice unjust<br />The most vile curse on his arm to be cast.<br />Vengeance he sought for the price he had paid<br />Rhyte vowed the hound's arrow not to be his last.<br /><br />\"In sorrow the town helped him forge an axe<br />Blessed to honor his most glorious day.<br />With the mark of Rhyte's arrow to guide its strike<br />And reputed to kill in the very same way.<br /><br />\"With skill so great targets in his eyes were at the mercy of his arrow's flight.<br />His hands sure and still,<br />Never missing a kill,<br />None could match the marksmanship of Adaniss Rhyte.<br /><br />\"Again called the forest with its precious game,<br />And a prize Adaniss with thrill did he seek. <br />But none could be finer than the great clawed falcon <br />Sought by all amidst the forest's Lost Peaks.<br /><br />\"Once more the rivalry of the Duke did stir,<br />For he thought of his skills with Rhyte's bow to be best.<br />And set his sights on the glorious bird <br />To emerge as the holder of its sainted crest.<br /><br />\"The two climbed the peaks and searched days on end,<br />Each of their wills set as strong as the stone.<br />They found each other at a cliff by chance;<br />Both of their hatreds ran as deep as the bone.<br /><br />\"With skill so great targets in his eyes were at the mercy of his arrow's flight.<br />His hands sure and still,<br />Never missing a kill,<br />None could match the marksmanship of Adaniss Rhyte.<br /><br />\"The Duke drew the bow and pulled the string taut,<br />But first flew Adaniss's axe with its blow.<br />Cleaved, the lord stumbled to cliff's edge and off,<br />Defeated by Rhyte's last arrow...<br /><br />\"With skill so great targets in his eyes were at the mercy of his arrow's flight.<br />His hands sure and still,<br />Never missing a kill,<br />None could match the marksmanship of Adaniss Rhyte.<br />None could match the marksmanship of Adaniss Rhyte.\"",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Rhyte%27s_Last_Arrow",
-    "price": 6000,
-    "title": "Rhyte's Last Arrow"
   },
   {
     "description": "This axe of hurling is one of the most heavily enchanted weapons of its type. Its marking are vaguely dwarven, but no dwarf yet encountered of Faerûn has claimed a kinship with the maker. This causes some to speculate that it may not be the product of a terrestrial dwarven hand, rather some extraplanar variant. Dwarves laugh this off, off course, claiming the maker likely has no time for nosy scholars.",
@@ -2990,7 +2772,7 @@
     "title": "Ring of the Princes"
   },
   {
-    "description": null,
+    "description": "Also known as the Breaker of Castles, with one word, this ring can unleash fantastic and deadly powers. When it is triggered, a barely discernible ram-like shape billows forth from the ring. This force can potentially knock opponents off of walls, destroy castle gates, or crush enemies, but it is damaging as well in its own right.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ring_of_the_Ram",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d1/CRING3300000.PNG/revision/latest?cb=20180216104515",
     "price": 4500,
@@ -3095,12 +2877,6 @@
     "title": "Runehammer"
   },
   {
-    "description": "An explorer traveling to the Spine of the World commissioned this cloak when she heard a white dragon had been spotted in the area. After she safely returned to the warmth of the south, she sold the elegant sable cloak.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Sable_Cloak",
-    "price": 6000,
-    "title": "Sable Cloak"
-  },
-  {
     "description": "Once a very powerful shield used by the clerics of Bane, most of the enchantments fled with their god's demise. The basic magical protection of still remains, making it useful for any adventurer.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Saving_Grace",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/5/5b/Shield_of_the_Order_item_artwork_BG2.png/revision/latest?cb=20140216203618",
@@ -3108,7 +2884,7 @@
     "title": "Saving Grace"
   },
   {
-    "description": null,
+    "description": "The scimitar, or \"shamshir\" as it was originally called, has a single-edged blade with a significant curve, and is tapered to an elongated, sharp point. It is perhaps slower than other weapons of the same type, though it compensates by the amount of damage it is capable of. This particular weapon has been enhanced magically to compliment the skill of the wielder.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Scimitar_%2B1",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/fe/Scimitar_item_artwork_BG2.png/revision/latest?cb=20140726103253",
     "price": 1000,
@@ -3220,12 +2996,6 @@
     "title": "Short Sword +2"
   },
   {
-    "description": "---",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Short_Sword_%2B3",
-    "price": 0,
-    "title": "Short Sword +3"
-  },
-  {
     "description": "This blade is highly prized by those who serve the Shadowlord, as well as any who engage in shadowy business.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Short_Sword_of_Mask",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/e5/Short_Sword_of_Mask_item_artwork_BG2.png/revision/latest?cb=20140216204513",
@@ -3331,12 +3101,6 @@
     "title": "Sling of Arvoreen"
   },
   {
-    "description": "The Sling of Everard was a holy weapon created by the god Tempus and given to Everard to help him defeat the enemies of Icewind Dale.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Sling_of_Everard",
-    "price": 0,
-    "title": "Sling of Everard"
-  },
-  {
     "description": "Unlike most other slings, the Sling of Seeking is capable of throwing stones and allowing a strength bonus to be applied to the damage it inflicts.  Although the sling is magical, giving it a bonus to hit and to damage, it is capable of inflicting strength damage due to its design, not magic.|Original game",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Sling_of_Seeking",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/2e/Sling_of_Seeking_item_artwork_BG2.png/revision/latest?cb=20140307234502",
@@ -3356,12 +3120,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/32/Small_Shield_item_artwork_BG2.png/revision/latest?cb=20140307234705",
     "price": 2500,
     "title": "Small Shield +2"
-  },
-  {
-    "description": "These boots were crafted by a young mage who wished to be trained as a shadowdancer, but was turned away for being too loud when he walked. \"A shadowdancer weaves between the shadows and makes no sound,\" they said. \"You move like an elephant climbing a tree.\"\n\nUndeterred, the mage crafted a set of boots that caused his feet to become insubstantial, allowing him to walk with quiet confidence and avoid stepping on nasty substances.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Soft_Feet",
-    "price": 7500,
-    "title": "Soft Feet"
   },
   {
     "description": "Two Handed Sword +4: Soul Reaver\nA social faux pas placed upstart Andor Licon in a duel with Baron Eeirk, heir to a warrior king. Though they seemed of even skill, Andor grew oddly weaker with each hit of the Baron's family blade. Panicking, he bade his bodyguards kill Eeirk. Despite his claims of morality, some noted that the young noble had positioned his men before the duel was even underway, and though he professed disdain for its dark magic, Andor made a tidy fortune off the sale of the evil blade.",
@@ -3413,7 +3171,7 @@
     "title": "Spell Breaker"
   },
   {
-    "description": null,
+    "description": "This sword was originally forged by the dwarves of the Orothiar tribe in Cloakwood. They created the blade to help foster goodwill between them and the Grand Dukes of Baldur's Gate. Wielded by the Grand Dukes for about a century, the sword was eventually lost, ironically in a fight against ettercaps and spiders. Who wields the blade is now unknown, but its recovery would aid greatly in fighting the current spider infestation that plagues the Cloakwood.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Spider%27s_Bane",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/96/Spiders_bane.png/revision/latest?cb=20121205230802",
     "price": 11000,
@@ -3446,12 +3204,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Staff_of_Air_item_artwork_BG2.png/revision/latest?cb=20140321211411",
     "price": 2500,
     "title": "Staff of Air"
-  },
-  {
-    "description": "This was a lesser version of the Staff of the Woodlands.  It was created by Arundel, an arch druid that lived in the city of Kuldahar before he was killed by the demon Belhifet.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Staff_of_Arundel",
-    "price": 0,
-    "title": "Staff of Arundel"
   },
   {
     "description": "''The staff allows the user to dominate another creature, each use draining one charge. This item is of the kind used by nefarious people seeking to sway others to follow their ways.''",
@@ -3536,30 +3288,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/de/Staff_of_the_Woodlands_item_artwork_BG2.png/revision/latest?cb=20140321212143",
     "price": 7000,
     "title": "Staff of the Woodlands"
-  },
-  {
-    "description": "These gauntlets assist in the stalking and killing of prey. Favored by hunters and rogues of all kinds, they display their full power when donned by a Stalker. Made of supple leather with brass-buckled straps along the side, these gauntlets are often decorated with embroidered figures of stags, foxes, or, as is the case with this pair, wolves.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Stalker_Gauntlets",
-    "price": 5000,
-    "title": "Stalker Gauntlets"
-  },
-  {
-    "description": "Noted dwarven smith Hedda Perigot crafted this suit of armor in response to a challenge. Fellow smiths discussed their disdain of working with non-metal or stone materials at the tavern one night, and Hedda bragged that she had no such difficulties. The smiths challenged her to create a hybrid suit of half-metal, half-armor. Hedda set to work making the lightest, most flexible steel plates she could and affixing them to a well-made leather breastplate. The result was a shimmering suit of splint mail that weighed less than a normal suit and proved most useful against slashing attacks. Hedda won the bet, and free drinks for a month.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Stalwart_Scales",
-    "price": 5500,
-    "title": "Stalwart Scales"
-  },
-  {
-    "description": "These boots belonged to Crommus the Minstrel many centuries ago. When Artipheon the mage slew Crommus and severed the bard's voice, some of Artipheon's power infused Crommus's boots. The once ordinary midnight-blue leather boots now glitter as if hundreds of twinkling stars were embedded in the material.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Star-Strewn_Boots",
-    "price": 2000,
-    "title": "Star-Strewn Boots"
-  },
-  {
-    "description": "This buckler is of fine dwarven make. Its surface displays the image of a stout dwarven warrior, his face glaring resolutely at whatever foe the bearer faces.",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Steadfast",
-    "price": 3500,
-    "title": "Steadfast"
   },
   {
     "description": "Stiletto of Demarchess +2\nMost who take up the trade of murder for hire do so for reasons other than personal pleasure, but not so the Lady Demarche. She took special pleasure in the torture of her targets...which is why she made this dagger. With but one touch of its polished blade an opponent was rendered immobile, incapable of so much as screaming, yet the victim could watch and feel all that happened to them. While her opponent was thus held, the Lady would slowly bleed them, sometimes taking several hours before allowing her subject to succumb to the final agony of death. The Lady finally fell victim to her own evil; disarmed by a rival and struck by her own Stiletto her fate was soon sealed.",
@@ -3961,7 +3689,7 @@
     "title": "Topsider's Crutch"
   },
   {
-    "description": null,
+    "description": "This Mage Robe has been perfected for use by any rambling, itinerant mage that travels from town to town. Its enchantments provide protection from the bandit's arrow and from the jealous thief-mage that lies in ambush with his Stinking Cloud. As with other robes of its kind, the Traveler's Robe can only be worn by mages.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Traveler%27s_Robe",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c3/Travel_robe_2.png/revision/latest?cb=20120607223935",
     "price": 600,
@@ -3980,12 +3708,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d6/CBOW1400000.PNG/revision/latest?cb=20180328071720",
     "price": 3500,
     "title": "Tuigan Bow"
-  },
-  {
-    "description": "This is the magical scimitar +3 that bears the name Twinkle. It is one of the personal weapons of Drizzt. Due to its magical nature, only those pure of heart can use it.|",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Twinkle",
-    "price": 11000,
-    "title": "Twinkle"
   },
   {
     "description": "The two handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one has been enchanted with a few magical properties.",
@@ -4051,7 +3773,7 @@
     "title": "Violet Potion"
   },
   {
-    "description": null,
+    "description": "The wakizashi, or companion sword, is extremely important to the samurai. It is worn at all times, even indoors, and is near the samurai when he sleeps at night. Wu Jen masters have concealed within this wakishashi great power, unleashed only when the wielder is in the thick of battle. How or why this wakizashi made it to Faerun is unknown, but if the samurai who owned it still lives, he will certainly be looking for it.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Wakizashi_%2B1",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Wakizashi_%2B1_item_artwork_BG2.png/revision/latest?cb=20130810132303",
     "price": 1500,
@@ -4112,12 +3834,6 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3a/War_Hammer_%2B2_item_artwork_BG2.png/revision/latest?cb=20140426144651",
     "price": 3000,
     "title": "War Hammer +2"
-  },
-  {
-    "description": "--------",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/War_Hammer_%2B3",
-    "price": 0,
-    "title": "War Hammer +3"
   },
   {
     "description": "Two Handed Sword +4, Warblade\nThis large sword is an enchanted version of the barbaric swords of the Northern tribes. Forged during battle and dipped in the blood of the brave fallen, the enchantment granted to the blade by the barbarian gods is incredible.",
