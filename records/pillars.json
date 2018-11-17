@@ -21,6 +21,13 @@
     "title": "Aattuuk"
   },
   {
+    "description": "Despite being topped by a mere fragment of Abydon's original hammer, this weapon, now sized for kith hands, is still an instrument of awesome destructive force. The faces of the great hammer's head still bear the toolmarks of their creator. Not even the fires of the White Forge could erase Abydon's work.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Abydon%27s_Hammer",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/a/a4/War_hammer_abydons_hammer_icon.png",
+    "price": 3210,
+    "title": "Abydon's Hammer"
+  },
+  {
     "description": "A sailor of Vailian descent, Acina the Gaunt, a moniker she earned for her unusually lean frame, came of age in the Living Lands. Raised among ravenous beasts and carnivorous plants, the young dwarf took to the arbalest and arquebus shortly after she learned to walk. By the time she went to sea, she was one of the quickest shots around with either.\n\nThe impulsive Acina soon fell in with a ship granted a letter of marque by the Vailian Republics to counter Príncipi predation in the Deadfire. Though she earned her repute by the speed and accuracy of her shots, pirates around the region knew her almost as well for this hat, a sharp piece of headwear preserved with the fastidiousness born of the knowledge that few things pose greater danger than equipment ill-maintained.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Acina%27s_Tricorn",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/5/53/Poe2_hat_tricorn_with_eyepatch_icon.png",
@@ -33,6 +40,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/27/Poe2_hatchet_unique_02_icon.png",
     "price": 2807,
     "title": "Acolyte's Frostbite"
+  },
+  {
+    "description": "This morning star appears to be of Engwithan make, and likely owes its long survival to having been protected against the elements in a peat bog. Few Engwithan weapons have been found in any kind of usable condition since Dyrwoodan expeditions began searching their ruins, but this morning star is a rare exception.\n\nThe weapon is composed of a bronze shaft and a head of living adra. The grip is wound tightly with copper, and the spikes on the head are also made from copper.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Acuan_Giamas",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/d/df/Morning_star_acuan_giamas_icon.png",
+    "price": 2410,
+    "title": "Acuan Giamas"
   },
   {
     "description": "Aedrin's Wrecker was known to many even when Aedrin herself was known to few. A rogue and expert markswoman, she fought in the War of Defiance and felled Aedyran soldiers from the shadows. She once told a pupil that she'd rather shoot an enemy in the back than give him the opportunity to strike back. Her patience was even more famous than her aim. She was reputed to have hidden in a tree for three days straight while she waited for an Aedyran general to pass along the road to Madsdam. Her skill was such that none were able to confirm the tale.",
@@ -182,6 +196,13 @@
     "title": "Azureith's Stiletto"
   },
   {
+    "description": "This heater shield bears the black wolf of the Badgradr line, as well as the personal sigil of the shield's last bearer, Mecgrun Badgradr.\n\nA renowned fighter, Mecgrun had a reputation for practicality and ingenuity, and in his hands his shield was as much a weapon as his blade. Mecgrun had a particular fondness for taking on spellcasters, for his shield could reflect his foes' own arrows or spells against them, and a blow to the face from the Barricade was usually enough to put an end to further casting.\n\nWhile their Ungradr cousins went on to rule the Coldwater region, the Badgradrs did not survive the War of Defiance. Mecgrun himself perished in the Battle of Defiance Bay, and his shield passed into the hands of a series of noble masters before slipping from common recollection.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Badgradr%27s_Barricade",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/2b/Shield_medium_badgradrs_barricade_icon.png",
+    "price": 805,
+    "title": "Badgradr's Barricade"
+  },
+  {
     "description": "Badrwn, an orlan warrior from the Fisher Crane tribe, served Eír Glanfath with distinction during the War of the Black Trees. He was infamous among the encroaching soldiers of the Dyrwood for his rapid, daring raids into the hearts of their outposts, primarily under the cover of darkness. Badrwn's cloak, much like its former owner, is a practical thing. Dirt, moss, and blood have made the simple homespun garment into a mottled mosaic that seems to disappear amongst the rocks and trees. The frayed hem is silent, even when drawn over stone and dry leaves.\n\nWith the Glanfathan defeat and the end of the war, Badrwn and his most loyal followers made their way to the Deadfire, where they plundered merchant ships for many years. This cloak is all that remains of the fabled leader.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Badrwn%27s_Cover",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/87/Poe2_cloak_badrwns_cover_icon.png",
@@ -210,11 +231,32 @@
     "title": "Baubles of the Fin"
   },
   {
+    "description": "Matron Beregan gave you this battle horn to summon her ogres to fight the Eyeless at Cayron's Scar. Dented metal bands encircle the battle horn, and a tattered, gold ribbon hangs from the middle.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Beregan%27s_Battle_Horn",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/0/01/Beregans_battle_horn_icon.png",
+    "price": 800,
+    "title": "Beregan's Battle Horn"
+  },
+  {
     "description": "Beza was a senior member of the Colligia me Definsia Mutio a prestigious Vailian dueling society. The club's standard duel for members of equal standing was single blade against single blade, fought until first blood was drawn. The duelists wore leather armor, padded doublets, and masks - enough to prevent a minor strike from becoming a lethal blow. Beza had a blade constructed that proved extremely effective at biting through such protection. Her fellow duelists came to fear her and her jagged sabre.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Beza%27s_Toothed_Blade",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/9/9c/Poe2_sabre_bezas_toothed_blade_icon.png",
     "price": 1107,
     "title": "Beza's Toothed Blade"
+  },
+  {
+    "description": "This sabre belonged to the first mate of the Hangman's Bounty, a notorious pirate ship that roamed the Deadfire Archipelago three centuries ago. Legend has it that the crew seized a slave galley and, after killing the masters, decided to sell the slaves at the next port. One of the slaves, an elderly man with a scarred face and beady black eyes, came forward and demanded that he and his fellows be set free.\n\nThe pirates laughed and refused him, but the old slave persisted. He warned them of the terrible plagues and punishments awaiting them, yet still they refused. When he raised his voice in anger, the first mate drew her sabre and ran him through. Putrid green bile poured from the wound, running upward along the sword while the sailors watched in horror. The corruption spread from the dying slave's chest to the first mate's sabre and arm, filling her veins with venom and her flesh with squirming maggots.\n\nThe rest of the crew drove the ship aground and fled, leaving the slaves to flee and the first mate to rot next to her tainted blade.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Bittercut",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/a/a9/Sabre_bittercut_icon.png",
+    "price": 305,
+    "title": "Bittercut"
+  },
+  {
+    "description": "Though its maker's mark can be traced to an otherwise unremarkable smithy in Dawning, this shield earned its fame within the keeping of Poldur Grynt, a young Aedyran lord whose fondness for dueling became the inspiration for many anti-Aedyr folksongs and plays in the time during and after the War of Defiance.\n\nGrynt cultivated a reputation as a relentless and unbeatable foe, for whenever a duel seemed to be going poorly he would raise his black shield and resume the fight with renewed vigor. Grynt employed the shield to great effect for several years, until he finally found himself severely outmatched by a more experienced rival. Mistakenly believing that the shield could preserve him even at the precipice of death, Grynt fled the field, only to bleed out on the bank of the Isce Îen River.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Black_Sanctuary",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/2a/Shield_small_black_sanctuary_icon.png",
+    "price": 805,
+    "title": "Black Sanctuary"
   },
   {
     "description": "This tattered hood was once worn by a notorious killer who once prowled the streets of Defiance Bay, ambushing aristocratic men under the cover of darkness. The few witnesses to the deeds of this mysterious figure described him as polite and well-dressed, save for his blood-caked hood. He always allowed his victims to ready their weapon before setting upon them. If his target drew a pistol, he drew his own. If they drew a blade, he met steel with steel. He was a skilled and brutal duelist, dispatching his opponents quickly and without flourish before vanishing into the shadows.\n\nThe gentlemen-killer became known as \"Lord Blackblade\" to the populous, and he terrorized the denizens of Defiance Bay for over five years, leaving a pile of corpses in his wake. While the \"lord\" was eventually caught and put down by a task force of the Dozens, his identity was never revealed. Rumors abound of the hooded killer's true name. Some maintain Backblade was the bastard son of the duc himself and the palace concealed this fact to prevent a scandal. Others believe he was nothing more than a common cutthroat putting on airs, a sadist with a quick blade and a taste for blood.",
@@ -236,6 +278,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/e5/Poe2_helm_plate_blackened_icon.png",
     "price": 890,
     "title": "Blackened Plate Helm"
+  },
+  {
+    "description": "Matha Faett was discovered slumbering in an Engwithan ruin deep in the heart of Eir Glanfath. She was a great worm, a subterranean animal rarely seen by kith. Nearly all of her body was burrowed in the dirt beyond the walls of the ruin, so the Dyrwoodan looters that provoked her were more than a little shocked to see that when she emerged she was perhaps three times the height of a person, and thirty times as long.\nThe initial group of looters escaped with their lives, and returned with large hunting parties aimed at slaying her, for the ruins she took over were home to one of the finest collections of relics yet found in Eir Glanfath. But Matha Faett killed those hunters by the score. Her body was coated in an acidic mucus that devoured weapons before they could pierce her flesh, and she vomited bile upon her attackers that burned away flesh and bone alike, leaving no trace of them for future looters to find.\nHer reign there ended when the Hounds of Galawain were paid a vast sum to see her destroyed. They sent one woman, Cillanna Fealmes, whose stature was such that few questioned her going in alone. She ordered built a set of custom weapons and armor, including this breastplate, which was blackened to resist the monster's corrosive bile.\nShe entered the ruins to find Matha Faett had died sometime in the last month, and the smell was so overpowering that it knocked her unconscious for hours.\nWhen she emerged from the ruins unscathed in her black armor, she was nicknamed the Blackwarden before she could even recount the tale. So much did she like the nickname that she happily bent the truth in order to keep it.\nThe smell did not leave the armor until well after Cillanna's death, and it has seen very little wear as a result.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Blackwarden%27s_Breast",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/23/Breastplate_blackwardens_breastplate_icon.png",
+    "price": 740,
+    "title": "Blackwarden's Breast"
   },
   {
     "description": "An Aedyran explorer once heard a legend of an Engwithan tomb filled with the dead empire's greatest treasures. Dead-set on making a name and a fortune for himself, he had one of the finest smiths in the Dyrwood craft a blade worthy of his task.\n\nHe descended into a place known as the Endless Paths of Od Nua and was never heard from again. His possessions were scattered by the strange evils that dwelled within, and his priceless blade was shattered.",
@@ -341,6 +390,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/7/7b/Poe2_shield_large_adra_icon.png",
     "price": 1157,
     "title": "Cadhu Scalth"
+  },
+  {
+    "description": "Captain Viccilo was a pirate captain, beloved by his crew for his sense of humor and notorious practical jokes. One day, the crew decided to get him back. They pretended to mutiny, and marooned him on a desert island for two days. They gave him only a hatchet for splitting coconuts, knowing the small island had no coconut trees.\n\nWhen they dragged him back up onto the ship, he was half dead of thirst, and the first mate offered him a cup of water. Viccilo gulped it all down, only to realize it was salt water, and he spent the next while vomiting on the deck, lacking even the energy to get up from the floor. The crew laughed at the spectacle, and Viccilo said afterward there were no hard feelings.\n\nBut Viccilo was a changed man after his brush with death. He laughed with his men, but beneath the surface he was full of rage. It took him weeks to fully recover, and when he felt well enough, he used his hatchet to murder his crew as they slept.\n\nThe hatchet is dark gray with red coral glowing in veins along the handle and blade. Some of Captain Viccilo's vengeful essence is thought to have slipped into the blade, and some killed by it are believed to have died not from their wounds, but from dehydration.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Captain_Viccilo%27s_Anger",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/0/0d/Hatchet_captain_viccilos_anger_icon.png",
+    "price": 805,
+    "title": "Captain Viccilo's Anger"
   },
   {
     "description": "Casità Samelia wore this breastplate while defending a ship of Darcozzi family dignitaries from a band of cutthroat pirates. In addition to a powerful warship and a bloodthirsty crew, the pirates also commanded a fearsome sea drake. Long-used to immediate capitulation in the face of such advantages, they were taken aback when the Darcozzi sloop, rather than heaving-to, came about, ready to fight.\n\nSword in hand, Samelia called for ramming speed and boarding action. Her crew and small cadre of paladins were outnumbered but not outmatched. They valiantly took the fight to their attackers but lost all initiative when the pirate's drake entered the fray. Only Samelia stood against the beast.\n\nThe enraged drake raked her across the breastplate, tearing it from her body and ripping steel and flesh. Mortally wounded, Samelia plunged her blade into the drake and pushed it back, forcing them both overboard. Her triumphant crew could only watch as their captain disappeared into the depths, her blade still embedded in the felled drake’s chest. On the deck, the paladin's ruined breastplate was all that remained of her.",
@@ -462,6 +518,20 @@
     "title": "Cog of Cohh"
   },
   {
+    "description": "The Comtessa of Manetti was pledged to the Marceso of Veralta, but her heart belonged to her captain of the guard. When she learned that her love meant to challenge the marceso for her affections, she enchanted his gauntlet to protect him during the duel. When the young captain threw it at the marceso's feet, the two men drew swords and fought across the grounds of the marceso's palace.\n\nWhenever they sparred near the fallen gauntlet, the captain had the upper hand. Yet every time the young captain drove the marceso back, the tide turned.\n\nEventually, the captain caught wise. He allowed the marceso to press him once more. As they passed the fallen gauntlet, he threw his strength into one final onslaught, winning the duel - and the hand of his beloved - with his blade at the marceso's throat.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Comtessa%27s_Gage",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/11/Gage_for_the_countess_icon.png",
+    "price": 210,
+    "title": "Comtessa's Gage"
+  },
+  {
+    "description": "This dazzling cloak was a gift from two Vailian ducs, a reward for your help in recovering lost Glanfathan astronomical knowledge. Looking at the cloak from different angles produces a variety of shimmering colors and creates the illusion that you are gazing into an impossibly deep expanse of space.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Constellated_Cloak",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/4/42/PX2_cloak_constellated_cloak_icon.png",
+    "price": 510,
+    "title": "Constellated Cloak"
+  },
+  {
     "description": "This armor evokes the imagery of the Kazuwari arena. A cuirass of treated wood secures a thick and riveted leather galerus. Abstract etchings of the Deadfire's many predators grace the pauldrons and greaves, and the cuirass boasts a scene of spirits on the hunt.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Contender%27s_Armor",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/f/f2/Breastplate_armor_heavyt_ceremonial_garb_icon.png",
@@ -488,6 +558,20 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/c/c3/Poe2_hat_woedica_hood_icon.png",
     "price": 111,
     "title": "Cowl of the Piercing Gaze"
+  },
+  {
+    "description": "This patch was a gift from a Glanfathan anamfatha, a reward for your help in recovering a precious adra ban eye that was stolen from a sculpture during the Broken Stone War. Like the original eye, the patch features a cross on its surface.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Crossed_Patch",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/5/5a/PX2_Hat_Crossed_Patch_icon.png",
+    "price": 310,
+    "title": "Crossed Patch"
+  },
+  {
+    "description": "Curoc was an Aedyran noble in Readceras who owned six hundred acres of vorlas fields. He considered himself a pious man, and his neighbors and tenant farmers knew him for his fervent devotion to Woedica. He labored alongside his tenants and kept meticulous records of production and sales. Yet he was also known for his pitiless temper and his ruthlessness with shirkers. He carried a switch with him and would savagely thrash any worker he caught dawdling or lagging.\n\nYet he was a favorite of the imperial governor, and so his excesses went overlooked.\n\nOne day, Waidwen approached him while he was doling out an especially savage beating. Waidwen, fresh from his encounter with Eothas, demanded that Curoc release his victim. When the lord refused, Waidwen asked what the tenant farmer had done to deserve such treatment.\n\n\"He neglects his duties in the field,\" Curoc replied. \"Every day, he gathers less, yet still he enjoys the protection of my estate.\"\n\n\"Is it any wonder that your harsh treatment of the man would render him unable to fulfill his duties? Let him enjoy a week of rest. He will return to your service renewed,\" said Waidwen.\n\nCuroc sneered. \"You would reward his indolence! It is my right and my responsibility to discipline him for his errors.\"\n\n\"What authority gave you such power over this man?\" Waidwen asked.\n\n\"Woedica, the Oathbinder. It is she who set me above the farmer as his lord and employer and her order that I serve in disciplining him.\"\n\nBut Waidwen persisted. \"Does not the quiet winter beget the fruitful spring? It is by Eothas' clemency that we enjoy rebirth in each new life and restoration with each morning. And it is Eothas' season that blesses your fields. I say to you again: release this man.\"\n\nIn his fury, Curoc turned on Waidwen, his switch raised to strike. Yet the rod grew suddenly hot in his hand. He cried out, and as he held the rod, it ignited. The flame that gushed forth blinded him instantly, scarring his face in the manner of the Burned Queen.\n\nCuroc dropped the smoldering rod and fled to tell the governor of what he had witnessed.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Curoc%27s_Brand",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/b/b4/Wand_curocs_brand_icon.png",
+    "price": 1405,
+    "title": "Curoc's Brand"
   },
   {
     "description": "According to legend, an ancient watershaper of Ukaizo forged this scepter upon the ocean's floor. They carved the shaft from the finest sandalwood. For the tip, they sought a rare pearl shaped within a skiff-sized mollusk over a thousand years. Only through Ondra's blessings was the watershaper able to pluck it from the creature without being consumed whole.\nThe scepter is said to be part of a ritual for pleasing Ngati, though the details of this lecherous affair are lost to time.",
@@ -560,6 +644,13 @@
     "title": "Devil of Caroc Breastplate"
   },
   {
+    "description": "The inventor Galvino constructed the Devil of Caroc's ornate body out of forged bronze inlaid with intricate silver panels and featuring elaborate etchings in the Vailian style. Held together with myriad small brass pins and hinges, it is a marvel of craftsmanship and serves as an ambulant vessel for her soul.\nWhether for aesthetic or functional reasons, Galvino fitted the face with onyx eyes. Their smooth finish reflects the Devil's surroundings impassively, though occasionally a glint of imperfections within the stone or some deep-seated spark of malevolence shines through.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Devil_of_Caroc%27s_Body",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/e8/Plate_armor_devil_of_caroc_icon.png",
+    "price": 200,
+    "title": "Devil of Caroc's Body"
+  },
+  {
     "description": "Seven centuries ago, the Vailian Duc Alfan med Roca contracted a group of Goldpact Knights to slay a dragon in the mountains that bordered his lands. The band's commander, Pietra Vives, returned alone three weeks later. She was the sole survivor. \nThough the dragon bore grave wounds, it was not slain, she claimed, and thus she couldn't consider her duty discharged. She gathered another group of hunters, each as renowned with a blade or bow as she, paid them from her own coffers, and struck forth again. \nThis time she returned with the head of the monster pulled behind her steed. \n\nAccording to legend, Pietra led a master swordsmith into the hills to locate the corpse. He crafted a saber from each massive claw, and Pietra granted the weapons to the families of her fallen soldiers along with their share of the bounty. This particular blade passed down the Segreto family line, eventually following their flight from collapsing Vailia to the Deadfire and into the nascent Príncipi.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Dire_Talon",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/b/b6/Sabre_LAX01_diretalon_icon.png",
@@ -586,6 +677,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/a/ac/Poe2_arquebus_dragons_dowry_icon.png",
     "price": 9050,
     "title": "Dragon's Dowry"
+  },
+  {
+    "description": "This shield was traditionally passed between dragon hunters to honor exceptional feats and kills. Receiving the Dragon's Maw Shield is one of the highest honors among dragon hunters, and over the years, it's been the object of countless bets, soured friendships, lifelong apprenticeships, and violent deaths.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Dragon%27s_Maw_Shield",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/2d/Shield_dragons_mouth_shield_icon.png",
+    "price": 905,
+    "title": "Dragon's Maw Shield"
   },
   {
     "description": "The Drake's Bell was commissioned by Lord Saelfor, a young and enthusiastic novice in the Society of the Talon. The Society of the Talon was enjoying renewed popularity after the discovery of dragon nests in the northern coasts of the Dyrwood, and Saelfor was determined to prove himself a stalwart hunter of beasts. He tasked the family smith with providing him with a blade as impressive in size and bearing as in purpose. The smith delivered the Drake's Bell – an estoc intended to cleave through the hide of even the hardiest of beasts.\n\nSaelfor found his interest in the hunt waning swiftly after a few close encounters with wurms, but he donated the Drake's Bell to the Society in thanks for their tutelage. In the hands of skilled men and women, the weapon proved invaluable, and the distinctive sound of its blade striking scales earned it its new title.",
@@ -707,6 +805,13 @@
     "title": "Elewys' Locket"
   },
   {
+    "description": "The best swindlers know how to put on a good show. Many charm with their words or with sleight-of-hand, but Elryn made his living with his eye for fashion. The son of a tailor, Elryn picked up his father's trade when his father died, but soon found that his love of stitching far outstripped his desire to keep ledgers, and it wasn't long before he was on the street with no means of plying his trade.\nBut while begging for coins, he noticed that he fared better than the other beggars, and eventually he realized it was because the jacket he wore – one that he had fashioned himself – drew attention. When he had scraped together enough money, he poured it into making a jacket so splendid and unique that it would disarm even the wariest of passersby.\nIt worked exactly as he intended. And in fact so disarming was the jacket that he found he could read and beguile people quite easily once he'd drawn them in with it. He made promises he couldn't keep. He picked pockets with his left hand while pointing out the jacket's fine detail work with his right. In a matter of months, he had money enough to buy back and reopen his father's shop. But thrill and convenience of his new profession kept Elryn right where he was, begging and sweet talking and manipulating. At the end of each day he would steal away to a fine abode on the other side of town where no one knew him.\nThings took a turn for Elryn when he met a young woman who captivated him from the moment he laid eyes on her. He tried to work his charms on her but found instead that he tripped over his own tongue and could barely get a word out. Yet the woman seemed to enjoy his efforts in spite of it all, and he finally convinced her to come to his home. He awoke the next morning to find his house had been emptied of every valuable and coin he'd ever saved or swindled, and only then did he realize it hadn't been the woman that captivated him at all – it had been her stunning velvet bodice – and he knew he'd been had by a kindred soul. Alas, his prized jacket was among the items she removed, and Elryn lived out the rest of his days in poverty.\nWhere most padded armor is constructed in vertical strips, Elryn's jacket bears a distinctive diamond pattern. It has a high collar and long sleeves that go all the way to the wrists, and it has an uncanny way of catching people off-guard.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Elryn%27s_Jacket",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/b/b0/Padded_armor_elryns_jacket_icon.png",
+    "price": 1040,
+    "title": "Elryn's Jacket"
+  },
+  {
     "description": "Endre was a monk dedicated to achieving perfection of body and mind. Contrary to traditional monastic beliefs which embraced pain, Endre believed pain was nothing but an illusion. It was merely a projection of weakness, and weakness had to be purged. He engaged in brutal self-flagellation as a catalyst for his transcendence, using this vicious flail for the bloody ritual.\n\nHis extreme practices were cautiously tolerated by his monastic brothers. However, when Endre declared himself first among equals and demanded the obedience of his fellow warriors, they immediately decried his fanaticism. Endre saw his first task as self-appointed leader would be to bring his wayward brothers to heel. If they would not bleed of their own volition, he would bleed them.\n\nThe resulting melee was a bloody affair. It seemed Endre had indeed acquired great power through his suffering. Despite his wounds, his fellow monks were unable to match his prowess. The battle ended only when Endre was shot with several arrows. He died standing, his gore-covered flail still in hand.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Endre%27s_Flog_of_Obedience",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/c/cf/Poe2_flail_endres_flog_of_obedience_icon.png",
@@ -754,6 +859,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/f/f9/Poe2_quarterstaff_orb_purple_icon.png",
     "price": 70,
     "title": "Fampyr Quarterstaff"
+  },
+  {
+    "description": "Adventurers from all over Eora go to the Living Lands in search of fame and fortune. Antonino went to rob them.\n\nHe had earned a reputation as a cunning thief in Biageppe, but a reputation is the last thing a cunning thief needs. So he left Biageppe and, indeed, the Vailian Republics for fresh opportunities in the Living Lands, taking with him little more than his coin purse and a fresh change of smallclothes.\n\nUnfortunately, Antonino soon learned that the hardened treasure-hunters of the Living Lands were little like the plump merchants of the Republics. Within a few weeks, he'd exhausted his meager supplies and had earned nothing for his suffering. Desperate, he stumbled across a rough-looking pair from the Deadfire Archipelago and begged to share their fire. They agreed too easily.\n\nWhen the bandits made their move, Antonino was ready. He snatched the pistol from one and fired on the other. With the first attacker advancing, he pulled the trigger again only to hear a dull thud. While his assailant laughed, Antonino pulled back and struck the man's bald head with the pistol. The bandit collapsed, dead instantly.\n\nAntonino eventually became a successful and feared robber and the subject of many campfire tales. Even as his fortunes increased, he kept the stolen pistol, a sturdy piece of case-hardened metal that served him throughout his career.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Fellstroke",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/3/30/Pistol_fellstroke_icon.png",
+    "price": 1000,
+    "title": "Fellstroke"
   },
   {
     "description": "These riding boots are crafted from fine, embroidered leather. They once belonged to the Dyrwoodan erl Fenan Cört - a man known as a proud military commander, accomplished huntsman, and a lover of dance. Though sturdy and practical, they are also exceedingly comfortable. The sprung toes allow for easy, rounded steps and the heels offer good support. Brass hobnails provide solid traction and allow for more athletic endeavors than the luxurious-looking footwear would suggest.",
@@ -812,6 +924,13 @@
     "title": "Forgiveness"
   },
   {
+    "description": "Devotees of Ondra tell stories of her romance with the moons, especially her unrequited love for Senn Beläfa. Yet it was Ionni Brathr, the smaller of the two moons, that Ondra pulled into the sea thousands of years ago.\n\nSmall fragments of Ionni Brathr are believed to exist in some of the more remote places of Eora, lost tokens of the goddess' passion. Such moon fragments, and the crater lakes that often form around them, are known as \"Ondra's Tears.\"\n\nThis flail is made with a piece of Ionni Brathr that was discovered by some of the Pargrunen dwarven explorers in the White March.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Forgotten_Tear_of_the_Beloved",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/d/de/Flail_forgotten_tear_of_the_beloved_icon.png",
+    "price": 905,
+    "title": "Forgotten Tear of the Beloved"
+  },
+  {
     "description": "Light and fast, rapiers are precise weapons favored by urban duelists. They are not known for being especially powerful, but a skilled wielder can rely on rapiers to accurately land blows.\n\nThis rapier has been meticulously polished. The hilt is surrounded by elaborate, gilded guards and quillons.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Fortanero%27s_Rapier",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/c/c4/Rapier_fortanero_icon.png",
@@ -831,6 +950,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/8e/Poe2_war_bow_frostseeker_icon.png",
     "price": 1964,
     "title": "Frostseeker"
+  },
+  {
+    "description": "Frythr, the \"Coward of Kindle Vale,\" fled more battles than most men fought. He nevertheless rose to the rank of steadman, likely because he survived his doomed platoons on several noteworthy occasions. After an otherwise undistinguished military career, he was finally caught abandoning his comrades during a minor skirmish in the War of Black Trees. His commanding officer executed him on the spot.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Frythr%27s_Plated_Greaves",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/26/Frythrs_plated_greaves_icon.png",
+    "price": 410,
+    "title": "Frythr's Plated Greaves"
   },
   {
     "description": "Captain Furrante never renounced his commitment to the ideals of the Darcozzi Paladini. He wore this breastplate as a symbol of his enduring zeal. His devotion to the future of his people was never diminished by his own agendas and he always considered himself to be the protector of the Príncipi as an emerging civilization. Until his end, he claimed that he was the best sort of friend and the worst sort of enemy. Time would prove him correct.",
@@ -903,6 +1029,13 @@
     "title": "Godansthunyr"
   },
   {
+    "description": "Ashfall was one of the most hotly contested Aedyran settlements in Dyrwood, and Baldwen Strangbrod was honored to receive an appointment as thayn there. However, he worried over his two children, who displayed little of his martial skill.\n\nHe hired a Vailian wizard to assist in his children's training, and this wizard crafted a rod specifically for that purpose. He promised that the rod's missiles were mild enough to avoid seriously injuring the thayn's heirs but that the weapon would, in time, reveal the nature of their weakness.\n\nThe rod performed exactly as the wizard had promised. Yet after months of training, Baldwen's children were no better in combat, but half of Ashfall knew of their weak parries and blind spots. When both heirs fell to a Glanfathan raid, the wizard fled, taking Golden Gaze with him.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Golden_Gaze",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/82/Rod_golden_gaze_icon.png",
+    "price": 1205,
+    "title": "Golden Gaze"
+  },
+  {
     "description": "This crossbow was the prized possession of a pair of thieves that tormented the nobility of New Heomar for nearly five years. Stolen from the cart of a wealthy merchant, the gilded crossbow quickly began to feature in their crimes. One thief would approach the target in question, while the other wielded Good Friend from afar. The two were credited with many daring escapes, including one occasion in which one thief, destined to hang, was freed at the last moment by a last-minute bolt through the rope. No threat of pain or capture could faze them, it was said, if either was caught alone - for they knew that sooner or later, their Good Friend would be along to free them.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Good_Friend",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/4/47/Crossbow_good_friend_icon.png",
@@ -915,6 +1048,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/9/97/Poe2_sabre_grave-calling_icon.png",
     "price": 5707,
     "title": "Grave Calling"
+  },
+  {
+    "description": "A twisted piece of wood grips a glowing adra chunk with root-like tendrils. Something about the staff resonates in your soul. When you hold it, you hear the distant whisper of wind through the trees.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Greenstone_Staff",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/4/46/Quarterstaff_greenstone_staff_icon.png",
+    "price": 1410,
+    "title": "Greenstone Staff"
   },
   {
     "description": "This bronze sword is not associated with a great smith, but with a modest artisan. The young craftswoman, noted for her talent at engraving and jewelry, received the unfinished blade from her local lord with a commission for a brass crossguard and pommel.\n\nElated at the trust shown in her talents, the artisan worked tirelessly to complete the order. As she etched and polished, her faithful dog Griffin stayed at her side day and night. As days turned to weeks, the artisan began to forego food and sleep in her effort to fulfill her commission. When she became discouraged, Griffin - her ever faithful companion - was there to encourage her with a nuzzle and a loving lick.\n\nOne day while working, the artisan looked down at her feet to find her beloved canine companion cold and still. Griffin had died curled at her feet, faithful to the last. Heartbroken, the artisan decided to commemorate the hound on the piece into which she had poured her heart and soul. She crafted the pommel into Griffin's likeness, taking some comfort in knowing that when the lord carried his sword, he too would always have a loyal companion at his side.",
@@ -1111,6 +1251,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/9/93/Poe2_robe_armor_ragged_icon.png",
     "price": 1240,
     "title": "Humility"
+  },
+  {
+    "description": "It began as nothing more than an accident. A Dyrwoodan hunter on an expedition stepped on the tail of a sleeping stelgaer, and the animal would have torn into him except one of its teeth became lodged in the hunter's mail, affording him an opportunity to slay the beast. The tooth he left in the mail as a kind of trophy.\nOther expeditions would gain him new trophies – teeth or bones – which he would sew into the armor's links as a point of pride. The hunter himself was eventually slain by a group of Fangs who found him walking out of an Engwithan ruin with a bag full of things they did not feel were his. But they kept up his tradition, sewing one of the hunter's teeth into the mail.\nOver the years, they added to the collection, until the wearer was killed. The mail would change hands from time to time in this way when the owner was slain by a beast or someone with a grudge, but without fail, each new owner would add his trophies to the mail, and the armor is now a fearsome pastiche of the remains of beasts and people alike.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Hunter%27s_Mail",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/f/f8/Mail_armor_hunters_mail_icon.png",
+    "price": 540,
+    "title": "Hunter's Mail"
   },
   {
     "description": "A folk tale tells of a stag that could outwit any hunter. The beast would see his enemies approach before they ever came within sight, and outrun them easily, leaving no trail to follow. At last, a great hunter declared that he would be the one to kill the stag, for no quarry had ever eluded him before. The man set out early the next morning, vowing to return triumphant. Neither hunter nor stag, however, were ever seen again. Some claim the hunter succeeded and decided not to return, his prowess proved to the only one that mattered. Some say the hunter fell to a trick, and that the stag fled, seeking lands where it would never again be troubled by hunters.\nThe crafter of this armor favors one telling of the tale, for the Husk of the Great Stag is said to have been made from that same stag's hide. Dressed in the stag's skin, the wearer is granted the beast's fleet-footed alertness, able to keep one step ahead of hidden dangers.",
@@ -1400,6 +1547,13 @@
     "title": "Magran's Favor"
   },
   {
+    "description": "Maneha's armor reflects her extensive travels and experiences on the roads and waves of Eora. It incorporates brass baubles, the teeth of ferocious creatures, and myriad small bits of fashion Maneha took a fancy to on her adventures.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Maneha%27s_Armor",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/0/04/Hide_armor_manehas_armor_icon.png",
+    "price": 640,
+    "title": "Maneha's Armor"
+  },
+  {
     "description": "This cape is interwoven with copper thread and was created by an eccentric wizard to provide protection from electricity. The wizard's initial experiments were promising - the garment seemed to absorb and redirect the effects of the wizard's most potent lightning spells. After countless self-administered shocks he was left no worse for wear, save for a few burns and a persistent nervous twitch that intensified with his proximity to metal objects.\n\nEver a perfectionist, the enchanter was unsatisfied with his limited data. Simple spells were insufficient. He needed to pit the cape against the fury of a proper storm. When such a storm arrived, the wizard donned the cape and climbed to the spire atop his laboratory and called the lightning to himself. Seven lightning bolts struck the wizard simultaneously, throwing him from the spire to his sand garden below. There was a brilliant flash upon impact that turned the sand to glass and set his arboretum aflame. Broken and concussed, but very much alive, the enchanter praised his experiment as a resounding success.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Mantle_of_the_Seven_Bolts",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/7/78/Poe2_cloak_mantle_seven_bolts_icon.png",
@@ -1566,6 +1720,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/5/5f/Leather_armor_night_runner_icon.png",
     "price": 440,
     "title": "Night-Runner"
+  },
+  {
+    "description": "Shadows ooze and pool around you, filling your mind with memories of furtive expeditions, clandestine meetings, and the traffic of secrets. You hear the whispers of the men and women who snuck, struck, and survived by the power of this weapon.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Nightshroud",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/e9/Mace_nightshroud_icon.png",
+    "price": 1305,
+    "title": "Nightshroud"
   },
   {
     "description": "A grimoire is the lifeblood of any wizard's magical repertoire. These books are painstakingly constructed with rare materials arranged in precise configurations, and are able to temporarily hold fragments of ambient soul essence, which is channeled through the book and discharged in the form of a spell.\n\nIt is a popular misconception among the uninitiated that wizards are the shapers of the magical energies they wield. In truth it is the pages of the grimoire that do the shaping. The art of wizardry is in the disciplined control and manipulation of the grimoire, with the most skilled wizards able to coax spells of maximal effectiveness and magnitude from their tomes.\n\nThough all grimoires are limited by a finite set of pages, many accomplished wizards are known to carry several grimoires at once to handle a variety of situations.",
@@ -1778,6 +1939,13 @@
     "title": "Ragged Cloak"
   },
   {
+    "description": "This gray cloak is covered in a multitude of stylized eyes, symbols of the god Wael. It is said to have been created by the wizard Göryn, who hoped that the pious endeavor might invoke Wael's protection. Set against the many eyes of the Hundred Mysteries, Göryn hoped, his enemies would stumble after falsehoods, while he would remain resistant to the bewildering effects of the world's mysteries.\nThose who have come across the cloak since have found much use in its enchantments. What became of Göryn himself is unknown, however, for nothing else remains of the man or his works.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Raiment_of_Wael%27s_Eyes",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/7/7e/Robe_armor_raiment_of_waels_eyes_icon.png",
+    "price": 340,
+    "title": "Raiment of Wael's Eyes"
+  },
+  {
     "description": "These plated boots are badly corroded around the heels. They were worn by a Bleak Walker at the battle of the Rakhan Moor, where the mercenary paladins infamously put down a fledgling peasant revolt on behalf of the local lords. The dissidents had taken refuge in the moor in hopes the unstable ground and acidic peat bogs would discourage pursuit. Undeterred, the Bleak Walkers marched on the peasants’ camp shoulder-to-shoulder, shields locked. Many of them sank into the fuming fen, dying with little protest. The terrified rebels watched in horror as the grim paladins who survived the deadly march accelerated into a final charge, breaking through the upstarts’ thin ranks before butchering them all.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Rakhan_Field_Boots",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/1d/Poe2_boots_09_icon.png",
@@ -1911,6 +2079,13 @@
     "title": "Ritezzi's Thorn"
   },
   {
+    "description": "The ceremonial garb of the Tidebringer, a devout Ondrite elected by their conclave to take on the mantle of leadership at the Abbey of the Fallen Moon.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Robes_of_the_Tidebringer",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/0/0f/Robe_of_the_tidebringer_icon.png",
+    "price": 620,
+    "title": "Robes of the Tidebringer"
+  },
+  {
     "description": "At the beginning of Waidwen's Legacy, a cleric of Berath in New Heomar petitioned his god to end the Hollowborn curse. He knelt on the stone floor of his temple and prayed for five days straight, forsaking food, water, and sleep for the sake of his vigil. On the evening of the fifth day, he fell into an exhausted slumber and dreamt that the Pallid Knight told him to restore the cycle by returning the souls of the living to it. When he awoke, he found a large but plain candlestick from the temple altar lying next to his hand.\n\nHe fashioned the candlestick into a weapon, and he prowled the city, murdering the elderly and the infirm in Berath's name. As the death toll climbed into the dozens, a mob of the vengeful and bereaved formed to track him down. They caught up with the cleric outside his temple and turned his own weapon on him, bashing his skull apart in the streets. Several onlookers claimed to see an elderly dwarf, cloaked and impossibly emaciated, standing in the shadows and laughing.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Rod_of_Pale_Shades",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/9/90/Rod_of_pale_shades_icon.png",
@@ -1960,6 +2135,13 @@
     "title": "Rust's Poignard"
   },
   {
+    "description": "This dark green enameled steel breastplate was the property of Ryona, an adventurer who hailed from the Vailian Republics and found her calling running with expedition companies in the Dyrwood. A small amount of copper chain extends under the breastplate for additional protection.\nRyona ended her career early after giving up her expedition group to a dragon in the White March in exchange for her own life.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Ryona%27s_Breastplate",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/6/6d/Breastplate_ryonas_breastplate_icon.png",
+    "price": 1240,
+    "title": "Ryona's Breastplate"
+  },
+  {
     "description": "Since its inception, the Vailian dueling society Colligia me Definsia Mutio generally restricted membership to citizens of the Republics. An exception was made when the legendary Aedyran duelist Rännig Daecia petitioned to join. He was ushered into the ranks of the Vailian elite and amazed onlookers and opponents alike with breathtaking displays of swordsmanship. His contemporaries noted that he never fought with any embellishment or grandeur. Rather, he displayed a flawless mastery of fundamental techniques.\n\nRännig was gracious in victory and humble in defeat, although the latter is only speculation. According to the society's records, he never lost a bout. Even his rapier was without pretention, lacking the filigree and finery of most Vailian weapons, though his compatriots did not hold that against him. He maintained the weapon meticulously and kept it polished to a mirror shine.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Rännig%27s_Wrath",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/f/f8/Poe2_rapier_ranniqs_wrath_icon.png",
@@ -1972,6 +2154,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/7/7b/Hatchet_reghar_konnek_icon.png",
     "price": 905,
     "title": "Rêghar Konnek"
+  },
+  {
+    "description": "Sabra Marie was owned by an archer from the Vailian Republics who fought for Dyrwoodan independence. When the War of Defiance began, many from the newly-independent Republics took up the cause and joined the battle to the north.\n\nThe Vailian had a longer – and more melodious – name for his bow, but \"Sabra Marie\" quickly became the local bastardization. No recorded histories explain where he got the bow, but plenty attest to its usefulness against larger forces. Quick, powerful shots fired from cover scattered and confused many Aedyran units throughout the war.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Sabra_Marie",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/4/41/War_bow_sabra_marie_icon.png",
+    "price": 2010,
+    "title": "Sabra Marie"
   },
   {
     "description": "According to tradition, the man who would become Saint Omaku crafted this bow out of wild mangrove trees on a semi-mythical island known to the people of the Deadfire as Galawain’s Grove. There, if the legends are to be believed, Galawain gave Omaku charge over life and death on the island. He was tasked to maintain the balance of predator and prey, strong and weak. The penitent Omaku thus became the warden of Galawain’s creation, culling and healing in equal stride. He spent the long days of his life in service to the sanctity of the hunt.",
@@ -2135,6 +2324,13 @@
     "title": "Shining Bulwark"
   },
   {
+    "description": "Silver Flash is the invention of Dyrwoodan silver prospector Engar Resc, who discovered a rich vein of silver in an otherwise empty cave. He had begun to mine it when the cave's owner – the largest bear he had ever seen, by his account – found him there and threatened to charge.\n\nEngar had come prepared and discharged his blunderbuss at the beast as it ran at him, but the weapon rarely hit where it was aimed, and Engar was horribly mauled. Only by playing dead was he able to escape with his life.\n\nSwearing to never allow it to happen again, Engar used some of his own silver to fashion a new blunderbuss that would never miss, and would slow the charge of any bear. The barrel is beautifully plated with a reflective silver, and engineered to create a blinding flash when it fires, bright enough to stop an animal in its tracks.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Silver_Flash",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/7/71/Blunderbuss_silver_flash_icon.png",
+    "price": 1600,
+    "title": "Silver Flash"
+  },
+  {
     "description": "This ring is heavy and rough-hewn. It looks like it was cast from a poorly-refined lump of silver. Tiny impurities still glisten around the band. Given the obvious tool-marks, it appears to have been made by an amateur rather than a professional jeweler.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Silver_Lover%27s_Ring",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/25/Ring_silver_lovers_ring_icon.png",
@@ -2191,6 +2387,13 @@
     "title": "Spellkeeper"
   },
   {
+    "description": "Spelltongue was first forged in Rauatai as a dueling weapon, and it has changed hands dozens of times since then. Its forked tip, undulating blade, and blue coloration made it a quick favorite among novices whose confidence often outpaced their skill.\n\nIt was most recently won by Matapa, a young woman from one of the wealthy aumaua families of Tongira. With the blade in hand, she declared to her parents that she would take Spelltongue and seek her fortune in Takowa as a duelist. Her parents attempted to dissuade her, but her resolve became clear, and they eventually offered their reluctant congratulations and threw a great feast in her honor.\n\nAfter Matapa had drunk her fill of wine and gorged herself on buttered lobster and sea snails in cream, her mother challenged her to a duel. Matapa laughed, but her mother promised her that, if she won, she would receive half of her family's fortune the next morning. If she lost, she would surrender Spelltongue without complaint. Matapa regarded her mother, a petite woman – by aumaua standards – with little combat experience. She accepted and the duel began, Matapa brandishing Spelltongue and her mother armed with a wooden practice sword.\n\nMatapa's mother was nimble, and Matapa's thrusts and ripostes were quick but sloppy. Her mother led her around the feast table and into the darkened courtyard, where Matapa tripped. Falling, Matapa ran Spelltongue through her mother's thigh even as the older woman held her wooden sword to the younger woman's neck. The onlookers declared the duel a tie, and Matapa received her inheritance at the cost of her prized sword. Matapa's parents quietly sold the blade to a merchant bound for Dyrwood, and Matapa, sobered by her loss, abandoned her ambitions as a duelist and instead became a successful playwright.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Spelltongue",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/84/Rapier_spelltongue_icon.png",
+    "price": 305,
+    "title": "Spelltongue"
+  },
+  {
     "description": "During his long custodianship of Splintered Reef, Menzzago maintained a near constant field of magic to control the undead under his command. It was an endless task. A living being would have gone mad from the mental drudgery. As a fampyr, however, Menzzago required only the most minor diversion to retain what remained of his sanity.\n\nHe set aside a tiny portion of his mind and reached out to the innumerable vermin of the Reef. He found kindred spirits in the many spiders skittering about his prison. They were like him, endlessly weaving and maintaining their tiny kingdoms. Also like him, they had a lovely work ethic.\n\nSo he put them to work. Using small fraction of his power, he induced the spiders to weave for him something pretty. Menzzago took great pleasure in how they danced like puppets on gossamer strings. Eventually the spiders produced for him a bolt of beautiful, durable silk. Menzzago made use of it to create this robe.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Spider_Silk_Robe",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/e8/Poe2_robe_arkemyr_icon.png",
@@ -2219,6 +2422,20 @@
     "title": "St. Garam's Spark"
   },
   {
+    "description": "A strictly devoted follower of Woedica, Wygelt was haunted by dreams of criminals committing horrific acts of violence, only to escape punishment or receive one that was unduly light. She came to believe Woedica was speaking to her through these dreams, demanding these people receive justice.\n\nWygelt found these criminals in hideouts and homes, and very often in jail, serving inadequate sentences. She would steal into these places, which were frequently under heavy guard, find her way to the criminal, and pronounce the judgment of Woedica. (Her incredible knack for reaching these places were in some instances later declared as miracles when she was canonized.) If the criminal was lucky, it would only mean disfigurement, but most were executed on the spot with Wygelt's cudgel.\n\nEventually Wygelt's reputation spread too far, and many criminals that feared her began to set traps and issue bounties. When she was finally caught, she was clubbed to death with her own weapon. It is said that with her final words, she declared that she was a murderer, and that she deserved this fate.\n\nSt. Wygelt's cudgel is a simple spiked club with a leather-wrapped handle. The wood itself is irreversibly stained reddish brown with the blood of criminals.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/St._Wygelt%27s_Cudgel",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/86/Club_st_wygelts_cudgel_icon.png",
+    "price": 405,
+    "title": "St. Wygelt's Cudgel"
+  },
+  {
+    "description": "This sword is well-made but modest in design. The lone flourish is a feather pattern radiating from the hilt, and even this has been crafted with exquisite care - each barb and shaft is a smooth, straight line beneath your fingers. Power and warmth radiate from this blade.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/St._Ydwen%27s_Redeemer",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/f/f4/Great_sword_st_ydwens_redeemer_icon.png",
+    "price": 2010,
+    "title": "St. Ydwen's Redeemer"
+  },
+  {
     "description": "Ajamuut, a dwarf matron of Naasitaq, carried this spear on many of her long hunts. To feed her tribe she required a tool that could put a beast down quickly from ambush. She had no intention of dishonoring herself or the hunt by merely maiming her quarry. If she failed to grant the animal a clean kill, the barbed spearhead at least granted her assurance her prey would tire, weaken, and expire from blood loss.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Stalker%27s_Patience",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/15/Poe2_spear_04_icon.png",
@@ -2238,6 +2455,20 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/4/43/Robe_armor_starlit_garb_icon.png",
     "price": 640,
     "title": "Starlit Garb"
+  },
+  {
+    "description": "Steadfast is a single-edged backsword with a recurved guard and a wire-wrapped grip. Though not especially fancy, the crafter's skill is readily apparent to any who hold the weapon in their hands.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Steadfast",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/2b/Sword_steadfast_icon.png",
+    "price": 705,
+    "title": "Steadfast"
+  },
+  {
+    "description": "This bow is as smooth and light as driftwood, yet as hard as a sturdy mast. It feels warm in your hands, as if one of its previous owners had just passed it to you. As you hold it, you can almost feel the sea spray on your cheeks and hear storm-whipped waves in your ears.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Stormcaller",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/4/46/Hunting_bow_stormcaller_icon.png",
+    "price": 810,
+    "title": "Stormcaller"
   },
   {
     "description": "The lower Nāga castes often gift shark teeth to venerated shaman as a token of respect. The shaman weave these teeth into strands, which are worn as necklaces. The more teeth a shaman possesses, the more renown they acrue. Should the necklace be lost or destroyed, the shaman is chastised, their renown made forfeit, and they are forced to start the necklace again.",
@@ -2366,6 +2597,13 @@
     "title": "The Changeling's Mantle"
   },
   {
+    "description": "The Right Lord Lorel Taenring found himself in the unenviable position of being caught in a war between two branches of his own family, fought over hunting rights to certain lands that were jointly owned. While most family members found it easy to choose a side, Lorel could not bring himself to take up arms against anyone in his large extended family.\n\nHe had this brigandine decorated in two tones, each representing the opposing family banners, and had the local spellwrights imbue it with the power to raise a wall of briars, which he hoped to use to keep the sides divided on the battlefield.\n\nWhen the two sides met in combat, he rode out to the center of the battlefield, raising briar patches and waving to both sides, calling out for them to stop their mad feud. Unfortunately, his decorative brigandine had the opposite effect of what he intended, and each side read it as being the uniform of the other. He was felled by a rain of arrows from both directions.\n\nWhen his family realized he had died, they put their battle on hold and discussed peace. Then they began to argue about where Lorel would be buried and the feud began anew.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Colored_Coat",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/a/a1/Brigandine_the_colored_coat_icon.png",
+    "price": 1040,
+    "title": "The Colored Coat"
+  },
+  {
     "description": "The Disappointer was touted as a powerful, reliable weapon, but it has consistently failed every one of its unfortunate owners.\n\nThis is a terrible weapon that disappoints anyone who uses it. The gun appears well-made at first glance, but closer scrutiny reveals poor design and shoddy craftsmanship. Those who aren't fooled by its appearance still occasionally attempt to use it just to see if maybe the whole thing was made to look this way as an elaborate ruse, hoping that it is an artifact of extreme power, crafted by a master who desired to conceal its remarkable nature. It wasn't, and it isn't.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Disappointer",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/2/2e/Pistol_backer_the_disappointer_icon.png",
@@ -2394,6 +2632,20 @@
     "title": "The Giftbearer's Cloth"
   },
   {
+    "description": "Still polished to a mirror sheen, this set of golden scale armor was one of the last great works of Rus Stanclef. A well-respected smith, Stanclef was inspired by a local fable revolving around a golden dragon, and modeled this set of armor after the beast in question.\nHe imbued the Golden Scales with protective enchantments against flame, as well as the same reflective properties which protected its namesake against ranged opponents. The result was an eye-catching and effective piece of armor, and it proved especially popular amongst those intent on being the center of attention.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Golden_Scales",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/10/Scale_armor_the_golden_scales_icon.png",
+    "price": 1140,
+    "title": "The Golden Scales"
+  },
+  {
+    "description": "This estoc has a smooth, sturdy blade that tapers to a needle-sharp point. The groans of a dozen tortured souls ring from the metal, binding the weapon to the hand of its wielder for so long as the curse persists.\nA few verses are etched along the blade:\n\"'Tis a traitor's fate to sleep and never rest \nWhilst knowledge of his deed stays lodged within his breast. \nBut earnest penance heals the sorrowful man \nAnd worthy actions stay the executioner's hand.\"\nA new verse appeared when the blade was drawn from its pedestal. It reads:\n\"Seek the whirling agent made of copper, adra, stone \nAwaken first your essence so that you may atone.\"",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Grey_Sleeper",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/0/0f/Estoc_the_grey_sleeper_icon.png",
+    "price": 2210,
+    "title": "The Grey Sleeper"
+  },
+  {
     "description": "Saint Rumbalt was among the first of the Eothasian pilgrims to take up the Emperor's offer of resettlement in the distant territory of Readceras. A dedicated priest of the Shining God, Rumbalt was regarded as a leader in his community, known both for his unwavering dedication to his congregation and his stern vigilance against lapses in doctrine. What survives of his sermons reflects this duality, for he emphasized the redemptive power of the faith even as he warned against the dire punishments awaiting those who rejected Eothas' beneficence.\nThe colonization efforts brought Eothasian settlers into direct conflict with the native orlan populations, and Rumbalt was among those credited with routing several brutal attacks upon the settlement. Ultimately, however, Rumbalt was mortally wounded during a violent raid. Witnesses claimed that upon the moment of his death, Rumbalt's body was suffused by an overwhelming burst of light, knocking the remaining orlan warriors flat or else scattering them back into the forest. Accounts arose of Rumbalt's final hours, describing the great miracles which were observed to have occurred during the day preceding his death. Eothas, it was said, had informed Rumbalt of his fate, and the priest accepted this gladly and without fear, for he knew that death was only the first step in his rebirth. He subsequently marked each of his final 27 hours with a miraculous act, such that his congregation would know of the gift Eothas had bestowed upon him, and continue Rumbalt's work in his stead.\nRather than stanch the flow of Eothasian settlers, Rumbalt's death only encouraged more pilgrims to venture across the sea, eager to set their eyes upon the final resting place of Eothas' favored servant. The Hours of Saint Rumbalt was forged in dedication to this patron saint of the resettlement, and its blade is inscribed with markings counting the 27 hours before Rumbalt's passing. In such manner was the blade imbued with the saint's power. It was said that a man might kneel before the sword and know with precision the moment of his death.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Hours_of_St._Rumbalt",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/c/c0/Great_sword_the_hours_of_st_rumbalt_icon.png",
@@ -2406,6 +2658,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/88/Sceptre_the_ladys_hand_icon.png",
     "price": 1205,
     "title": "The Lady's Hand"
+  },
+  {
+    "description": "According to legend, this shield was one of twelve fashioned for a small subset of paladins from the Order of Kind Wayfarers. Calling themselves the Towers, the paladins charged themselves with protecting the small outlying villages and towns clustered along the foothills of the White March.\n\nThough their numbers were few, the paladins were known for their unwavering dedication, moving swiftly to engage any threat to innocent travelers. Those with the fortune to fight beside these warriors often said that they felt as if otherwise fatal blows would glance harmlessly off their armor, and claimed that the paladins had brought them fortune.\n\nAs the years passed, each of the paladins succumbed to age or violence, until only one remained. The last Tower became a legendary figure in her own right, walking a lonely patrol along the eastern roads of the Dyrwood.\n\nThis shield is said to have been pulled from the Lake of Drowned Tombs by a villager from Goodhope. The battered kite shield remains a fine piece of craftsmanship, though the green paint of its heraldic tower has been scraped away in several places.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Last_Tower",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/7/78/Shield_large_the_last_tower_icon.png",
+    "price": 805,
+    "title": "The Last Tower"
   },
   {
     "description": "One of the many accoutrements of famed Vailian magician Mallia ne Spettacolira, this cape went missing during the finale of her most memorable show along with Mallia herself and a sizeable portion of those in attendance. It reappeared only recently, flying atop a flagpole in the Sacred Stair district of Nekataka. Mallia had fulfilled her promise. They had indeed seen her. Now they did not.\n\nSeveral other props have been recovered over the years. The Box of Death and Dismemberment materialized at the wedding of Erlu Lüfolcg in the Dyrwood, where it brought a dramatic conclusion to the nuptials by crushing the father of the bride. The Tumbling Ring of Conflagration is said to have apparated onto the deck of a Huana gunboat in the Deadfire some weeks later, though surviving crew members tell conflicting accounts of what started the resulting fire.\n\nOf the great magician and her audience, there has been no sign.",
@@ -2471,6 +2730,13 @@
     "title": "The Undying Burden"
   },
   {
+    "description": "\"Simple\" might be as specific as one can be when describing this dagger. Its handle is leather-wrapped and plain. Its blade is bronze. It has no markings, no filigree, no gems or fancy metalwork. It appears well made, but it is so unremarkable that it is a challenge to judge.\nThere is a sense in holding it that there must be something more there, if only because it is difficult to believe any craftsman would take so little pride in his work.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Unlabored_Blade",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/b/b0/Unlabored_blade_lvl5_icon.png",
+    "price": 605,
+    "title": "The Unlabored Blade"
+  },
+  {
     "description": "The White Spire was found among the possessions of a member of the order of Bleak Walkers, though it seems to have predated her. The spiraling engravings upon the blade are flanked by small, finely etched symbols of binding and enchantment, which might be credited with the permanent chill of the metal, and the thin dusting of frost upon the estoc's hilt.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/The_White_Spire",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/ef/Estoc_the_white_spire_icon.png",
@@ -2483,6 +2749,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/16/Poe2_morning_star_fine_icon.png",
     "price": 3614,
     "title": "The Willbreaker"
+  },
+  {
+    "description": "A dozen unique pollaxes were created at the request of Escimo IV, Duc of lfl Ancenze, to equip his royal bodyguards. Each was meant to pay tribute to one of the governing factors of maritime fortune. Additional pollaxes were made to honor the rain, the stars, the sun, the waves, and other symbols.\n\nThe Wind's Arm was the personal favorite of Escimo IV, who had earned his nickname \"Casità mel Alisias\" – the Captain of the Wind – in his years serving the Ancenzan navy. It was said of Escimo that whichever way he needed to go, the winds would already be blowing that way. He gave the Wind's Arm to his most skilled guard, who called upon it more than once to keep overexcited Vailians from getting too close to the throne.\n\nThe pollaxe is made in the image of the wind itself. A face is engraved on the axe head, blowing wind outward along the curves of the blade. The grain of the wood itself is not vertical, but rather sweeps around the ash-gray pole.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/The_Wind%27s_Arm",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/b/bb/Pollaxe_winds_arm_icon.png",
+    "price": 1610,
+    "title": "The Wind's Arm"
   },
   {
     "description": "This arquebus was the personal tool of Devio Fortunito, a Vailian gun for hire. It utilizes a powerful black-runepowder blend and fires conical slugs through a spiral threaded barrel. The gun is unmatched in range and penetrative power. Devio used it to great effect over his bloody career.\n\nHis most noteworthy act of marksmanship took place at the funeral of Agati Salagna, a minor functionary of the Vailian shipwright's guild. The guildsman, though two days' dead - by Devio's hand, no less - drew quite a crowd to his interment service. Throngs of mourners filled the chapel of Berath in the gardens of Revua. Among the crowd was none other than Traria Salagna, the head of the Salagna clan and a brazenly corrupt bureaucrat. She was Devio's target.\n\nDevio, perched atop the nearby ducal mausoleum, was annoyed to find his sightline to Traria obstructed by the chapel bells. While it complicated the shot, it would not save Traria. Devio took aim and fired. The slug punched through the three brass bells, sounding a chime that drowned out the gun's report. The crowd, startled by the sudden cacophony, watched in horror as the Salagna matriarch fell dead, shot cleanly through the heart.",
@@ -2541,6 +2814,20 @@
     "title": "Tuotilo's Palm"
   },
   {
+    "description": "Twin Sting is a crossbow with an unusual design: it is built to fire two bolts before requiring a reload. Few are the practical uses of such a weapon that would be worth the trade-off of the extra weight. This item, however, was built to fulfill a very particular need.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Twin_Sting",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/82/Crossbow_twin_sting_icon.png",
+    "price": 1210,
+    "title": "Twin Sting"
+  },
+  {
+    "description": "This hat was designed by an apprentice wizard who sought to create the perfect magical accessory. He spent weeks binding spells and wards to the material, but when he finished, he felt that it looked rather plain. He wanted to strike an imposing figure for peers and rivals, so he spent a few more days adding embellishments - a crest of feathers behind one ear, a band of silk around the brim. It was an improvement, but it also showed the young wizard how poorly he'd chosen his original color scheme, so he spent a few more days experimenting with other shades in suede, satin, and leather. \nWhile the poor young apprentice obsessed over his hat, his peers continued studying spells and hexes. By the time of his first duel, he had assembled a fantastic wardrobe but forgotten many of his spells. His performance ended his budding career in magic most ignominiously, but he went on to become a successful tailor.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Ultimate_Hat_of_Alluring_Perfection",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/5/5a/Ultimate_hat_of_alluring_perfection_icon.png",
+    "price": 1210,
+    "title": "Ultimate Hat of Alluring Perfection"
+  },
+  {
     "description": "The origin of this item is a point of contention among the followers of Eothas and Woedica. Eothasians claim that their priests had it commissioned in the early aftermath of the Saint's War in hopes that it would coas their god back into the world to finish what he started. Woedicans, on the other hand, claim that the item is older than that, an instrument of retribution against oathbreakers originally employed by the Steel Garrote, an order of Woedican paladins devoted to the enforcement of oaths and contracts, often in mirthless fashion.\nThe flail itself is unique in that the spiked ball at its end was fashioned out of an incense burner, and when it sees vigorous use, the smell of incense blankets the area. Its reputation has led to a handful of notable deceptions whereby people who'd defied their agreements were frightened into honoring them when the smell of incense was introduced into their negotiation room or bedchamber.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Unforgiven",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/d/dd/Flail_backer_unforgiven_icon.png",
@@ -2574,6 +2861,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/b/b2/Padded_armor_vengiatta_rugia_icon.png",
     "price": 840,
     "title": "Vengiatta Rugia"
+  },
+  {
+    "description": "This stiletto was crafted shortly before the fall of Durgan's Battery. In addition to its exceptional quality and the use of Durgan steel in its construction, it also features an enchantment that its previous owner used to ignite cannons and the occasional stove.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Vent_Pick",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/18/Stiletto_vent_pick_icon.png",
+    "price": 805,
+    "title": "Vent Pick"
   },
   {
     "description": "A Readceran fairy tale tells of a blacksmith who was traveling through the woods on his way home from a distant village. The wheel of his wagon broke and he had to make camp and repair it. During the night, a pack of hunting stelgaers ventured into his encampment, and he hid among the trees. Just as one of the beasts picked up his scent, a delemgan stepped out of the copse and in front of the blacksmith.\nThe stelgaers soon lost interest, and when the blacksmith had recovered from his terror, he thanked the delemgan, Vierina, and begged to know how he could express his gratitude. Thrice she bade him forget about her and continue on his way, but seeing the man's zeal, she finally relented.\n\"Enemies encroach on my wood,\" she said. \"Bring me a means of defending it.\" The blacksmith swore that he'd return with a worthy gift and so departed. Weeks later, he forged a dagger and sought her in the forest. She saw the gift and smiled sadly.\n\"A noble attempt, yet I fear it would do little to clear the foes that spring up in my midst. Please, return home and know that you have my thanks for your efforts.\" But the blacksmith shook his head and, over her protests, promised to bring her a suitable gift.\nAfter months behind the forge, he'd crafted several fine battle axes, and he brought the best of these to Vienna. Even her graciousness did not conceal the horror on her face. \"Surely my enemies would seize this and turn it against me and my forest. Please, go to your village and forget about this.\" But, deaf to her objections, he vowed to try again.\nSo the blacksmith devoted a year to crafting the finest, sharpest spearheads any had seen. People came from near and far to purchase the very weapons that he had crafted, finished, and deemed unworthy of Vierina. And as his reputation grew, so did the village around him. After a year of labor, he returned to the forest with the finest spear any had ever seen. The wilds seemed to have dwindled, and finding her was no easy task When he eventually did, he presented the spear. \"A weapon worthy of you,\" he said. \"Long enough that none may snatch it from your grasp.\"\nBut she recoiled from the wooden pole. \"I could not defend myself with the bones of my own felled trees. I beg you, go and do not return.\" Yet he made an oath to bring her a final gift to fit her purposes.\nAfter years of work, he crafted the finest rapier in the land, its blade as narrow and fine as a needled leaf. In that time, the sale of his lesser attempts had made him a wealthy man, and his village had grown to a small city. When he returned to the forest a final time, he hardly recognized it. The sprawling woodlands had been whittled to a few scrabby thickets, and Vienna was nowhere to be found. He returned once again to his forge and spent the rest of his days making rapiers to wreak vengeance upon Vierina's unknown tormentors.",
@@ -2639,6 +2933,13 @@
     "title": "Watershaper's Focus"
   },
   {
+    "description": "A famed dwarven explorer, Katrenn exemplified her people's reputation for wanderlust, undertaking journeys spanning nations on both sides of the Great Eastern Ocean. To aid her in her expeditions, she commissioned a set of hide armor which would allow her to cross treacherous terrain without hindrance. Inspired by her stories, the armorer enchanted the hide to grant the wearer uncommon stamina. The sight of Katrenn running along unscathed through a field of thorny brambles became a common one.\nIt is said that Katrenn's fame and experience was such that she was asked to accompany the expedition which would ultimately result in the founding of Durgan's Battery. Whatever the truth of the matter, no further records of her exploits exist.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Wayfarer%27s_Hide",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/ea/Hide_armor_wayfarers_hide_icon.png",
+    "price": 940,
+    "title": "Wayfarer's Hide"
+  },
+  {
     "description": "Eismaar was a wizard from the White that Wends. Later in life, he developed an obsession with Rymrgand, convinced that if he could see the great aurochs with his own eyes, the mysteries of creation and destruction would become clear to him. He wandered the frozen continent for decades with little more than his quarterstaff, Wend-Walker, and his sealskin coat, chasing the rumors of Glamfellen tribes and the death-cold gales that swept the glaciers.\n\nA migrating tribe eventually came upon Wend-Walker, planted in the snow and pointing to the sky. There was no sign of Eismaar, but the legend spread that he had found Rymrgand and now follows in the shadow of the mighty beast.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Wend-Walker",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/5/58/Quarterstaff_wend_walker_icon.png",
@@ -2674,6 +2975,13 @@
     "title": "Whispers of the Endless Paths"
   },
   {
+    "description": "While its original bearer's name has been lost to the ages, the famed White Crest armor features in many tales of a dwarven adherent of Ondra whose blows struck his enemies with all the overbearing power of the sea. The armor's weight was such that the warrior is described as moving as if through shallow water, but foes believing themselves to have the advantage of speed often found they could not outrun the warrior's lightning spells.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/White_Crest_Armor",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/1/1d/Plate_armor_white_crest_icon.png",
+    "price": 900,
+    "title": "White Crest Armor"
+  },
+  {
     "description": "This is said to be the mask of Baasajujak, an evil delempŵgra of Nasitaaq myth. According to legend, she would often lure children from the safety of their villages into the woods. There she would confound their minds, causing them to become lost and frightened. As her victims wandered further into her domain, Baasajujak would fill their hearts with ever-increasing dread. Eventually she would reveal herself, her terrible face concealed beneath a mask made of leaves, bark, and other dying things. When the child, terrified beyond sanity, could endure no more, Baasajujak would lower her mask, revealing her true visage. Her victims, it is said, then died of fright.",
     "originalUrl": "https://pillarsofeternity.gamepedia.com/Whitewitch_Mask",
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/8/89/Poe2_helm_whitewitch_mask_icon.png",
@@ -2707,6 +3015,13 @@
     "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/e/ee/Poe2_necklace_03_icon.png",
     "price": 50,
     "title": "Wise Teeth Necklace"
+  },
+  {
+    "description": "The elven kingdom of Kulklin warred with the Aedyr Kingdom for nearly two centuries before the two powers merged. During that time, many of the fiercest conflicts flared up along the edge of the Cythwood, where the two powers shared a border.\nThe Cythwood elves used the jungle terrain to their advantage and quickly became infamous for their cunning and brutal tactics. Skirmishers would fell trees behind invading Aedyran forces while druids made more to grow in their path, confusing and stalling their foes. They would often pair these maneuvers with devastating, lightning-fast attacks, surrounding lost platoons and dragging stragglers into the forest. Most notoriously, they would hang their victims from the trees to warn off further attacks.\nThe Kulklin of the Cythwood were swift and improvised attacks quickly, owing in part to their use of everyday tools – axes, knives, and bows – as weapons of war. Axes such as Wodewys would have been used against folk and tree alike.",
+    "originalUrl": "https://pillarsofeternity.gamepedia.com/Wodewys",
+    "picture": "https://d1u5p3l4wpay3k.cloudfront.net/eternitywiki/a/ae/Battle_axe_wodewys_icon.png",
+    "price": 905,
+    "title": "Wodewys"
   },
   {
     "description": "Woedica's most feared avatar, the Strangler, manifests in the world to punish oathbreakers. If tales be true, once the Strangler has marked a victim for death, no force or barrier can keep her from her justice. Traitors, usurpers, perjurers, and all manner of those who turn their backs on solemn vows fear the clutching strength of the goddess. These gloves, while unlikely those of the Strangler herself, contain a dreadful, vengeful charm. The leather along the knuckles is stretched from frequent clenching and the palms are polished smooth.",
