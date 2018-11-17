@@ -4,7 +4,7 @@
   "devDependencies": {
     "aberlaas": "0.0.12",
     "firost": "0.0.15",
-    "golgoth": "0.0.6",
+    "golgoth": "0.0.7",
     "query-string": "6.2.0",
     "wtf_wikipedia": "6.3.0"
   },
@@ -16,6 +16,7 @@
     "build": "aberlaas build",
     "build:watch": "aberlaas build --watch",
     "download:baldur": "babel-node ./scripts/download-baldur.js",
+    "download:pillars": "babel-node ./scripts/download-pillars.js",
     "lint": "aberlaas lint",
     "lint:fix": "aberlaas lint --fix",
     "release": "aberlaas release",

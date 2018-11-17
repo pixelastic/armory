@@ -3459,10 +3459,10 @@ globby@8.0.1, globby@^8.0.1:
     pify "^3.0.0"
     slash "^1.0.0"
 
-golgoth@0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.6.tgz#1f338f91a0ee3df55a8e23f2e53b728eb08103f3"
-  integrity sha512-1eptrEnNAf3KTjnoJifTD+fmUbogRkWN9yweRyLfk9f+8jjiEYEonnHP5Vv1lioxkAXIDnWNxhZV1Wj1gEaSDA==
+golgoth@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.7.tgz#3aa2e2cecff10ad44f7de3d824afe6e51a5d36f6"
+  integrity sha512-IyJlufPnN7i2cIIxLpI5332Hf1lYTjjiGV2jOOgKuZ0VYbjfLYZc8JbTUeUP5BN6yKD05H+F8aXyIoQc46U2gw==
   dependencies:
     chalk "2.4.1"
     lodash "4.17.11"
@@ -3470,6 +3470,7 @@ golgoth@0.0.6:
     p-map "2.0.0"
     p-map-series "1.0.0"
     pify "4.0.1"
+    progress "2.0.1"
 
 got@8.3.2:
   version "8.3.2"
@@ -5877,7 +5878,7 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.0.tgz#a37d732f4271b4ab1ad070d35508e8290788ffaa"
   integrity sha512-MtEC1TqN0EU5nephaJ4rAtThHtC86dNN9qCuEhtshvpVBkAW5ZO7BASN9REnF9eoXGcRub+pFuKEpOHE+HbEMw==
 
-progress@^2.0.0:
+progress@2.0.1, progress@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.1.tgz#c9242169342b1c29d275889c95734621b1952e31"
   integrity sha512-OE+a6vzqazc+K6LxJrX5UPyKFvGnL5CYmq2jFGNIBWHpc4QyE49/YOumcrpQFJpfejmvRtbJzgO1zPmMCqlbBg==
