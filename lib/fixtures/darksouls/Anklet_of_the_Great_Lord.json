@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "8102": {
+        "ns": 0,
+        "pageid": 8102,
+        "revisions": [
+          {
+            "*": "<onlyinclude>{{Armor | W = {{{1|}}}\n|name-page    = Anklet of the Great Lord\n|name-display = Anklet of the Great Lord\n|name-image   = Anklet of the Great Lord.png\n|upgrade-type = None\n|upgrade-can  = False\n|upgrade-max  = 0\n|upgrade-cost = 200\n|weight-class = Light\n|type         = Legs Armor\n|image        = [[File:Anklet of the Great Lord.png]]\n|poise        = 0.0\n|weight       = 2.8\n|durability   = 400\n}}</onlyinclude>\nThe '''Anklet of the Great Lord''' is a [[:Category:Dark Souls: Legs Armor|legs armor]] piece in ''[[Dark Souls]]''. It is part of the [[Great Lord Set]].\n\n{{Description\n|First paragraph = Anklet of Gwyn, Lord of Cinder, who linked the First Flame.\n|Second paragraph = Lord Gwyn, bearer of the ultimate soul, divided that power among his clan before linking the flame. When he departed, he left only with his greatsword, his garb, and the crown, now bereft of power.\n}}\n==Availability==\n*Purchased from [[Domhnall of Zena]] for 20,000 [[souls]] after the player has defeated [[Gwyn, Lord of Cinder]], and started a [[New Game Plus|new game]].\n\n==Characteristics==\n\n\n\n==Upgrades==\nCannot be reinforced.\n<onlyinclude>{{ArmorBox | W = {{{1|}}} | G = {{{2|}}} | Show = False | name-page = Anklet of the Great Lord\n| 15.0 | 16.2 | 17.3 | 13.8 | 15.0 | 19.0 | 19.0 | 14.0 | 7.0 | 18.0\n}}</onlyinclude>\n[[Category:Dark Souls: Legs Armor]]"
+          }
+        ],
+        "title": "Anklet of the Great Lord"
+      }
+    }
+  }
+}

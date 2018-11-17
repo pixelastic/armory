@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "8053": {
+        "ns": 0,
+        "pageid": 8053,
+        "revisions": [
+          {
+            "*": "<onlyinclude>{{Armor | W = {{{1|}}}\n|name-page    = Black Manchette\n|name-display = Black Manchette\n|name-image   = Black Manchette.png\n|upgrade-type = Unique\n|upgrade-can  = True\n|upgrade-max  = 5\n|upgrade-cost = 200\n|weight-class = Light\n|type         = Hands Armor\n|image        = [[File:Black Manchette.png]]\t\n|poise        = 0.0\n|weight       = 1.8\n|durability   = 400\n}}</onlyinclude>\n{{For|the [[Dark Souls II]] variant|Manchettes of Judgment}}\nThe '''Black Manchette'''s are [[:Category:Dark Souls: Hands Armor|hands armor]] pieces in ''[[Dark Souls]]''. They are part of the [[Black Set]].\n\n{{Description\n|First paragraph = Manchette worn by pardoners serving Velka, the Goddess of Sin.\n|Second paragraph = The pardoners' attire is uniformly black in color and said to be imbued with Velka's mystical power, which provides resistance against all manner of magic.\n}}\n==Availability==\nFound in the Annex portion of the [[Painted World of Ariamis]], close to [[Vow of Silence]]. Can most easily be accessed after finding the [[Annex Key]], although it is possible to reach it without the key.\n\n==Characteristics==\n\n\n\n==Upgrades==\nRequires 200 [[souls]] per upgrade.\n<onlyinclude>{{ArmorBox | W = {{{1|}}} | G = {{{2|}}} | name-page = Black Manchette\n| Name = Black Manchette | Type = Unique\n| 11.0 | 12.0 | 11.0 | 11.0 | 14.0 | 11.0 |  9.0 | 10.0 | 10.0 | 5.0\n| 11.9 | 12.9 | 11.9 | 11.9 | 15.1 | 11.9 |  9.7 | 10.5 | 10.5 | 5.2\n| 13.1 | 14.3 | 13.1 | 13.1 | 15.1 | 11.9 |  9.7 | 10.5 | 10.5 | 5.2\n| 14.2 | 15.5 | 14.2 | 14.2 | 18.1 | 14.2 | 11.6 | 11.4 | 11.4 | 5.7\n| 15.3 | 16.7 | 15.3 | 15.3 | 19.5 | 15.3 | 12.5 | 11.8 | 11.8 | 5.9\n| 17.1 | 18.6 | 17.1 | 17.7 | 21.7 | 17.1 | 14.0 | 12.7 | 12.7 | 6.3\n}}</onlyinclude>\n[[Category:Dark Souls: Hands Armor]]"
+          }
+        ],
+        "title": "Black Manchette"
+      }
+    }
+  }
+}

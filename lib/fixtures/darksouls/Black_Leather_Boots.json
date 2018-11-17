@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "7512": {
+        "ns": 0,
+        "pageid": 7512,
+        "revisions": [
+          {
+            "*": "<onlyinclude>{{Armor | W = {{{1|}}}\n|name-page    = Black Leather Boots\n|name-display = Black Leather Boots\n|name-image   = Black Leather Boots.png\n|upgrade-type = Light\n|upgrade-can  = True\n|upgrade-max  = 10\n|upgrade-cost = 200\n|weight-class = Light\n|type         = Legs Armor\n|image        = {{Switch|[[File:Black Leather Boots.png]]|[[File:Black Leather Boots Female.png]]}}\n|poise        = 0.0\n|weight       = 3.0\n|durability   = 250\n}}</onlyinclude>\n{{For|the [[Dark Souls II]] variant|Black Leather Boots (Dark Souls II)}}\n{{For|the [[Dark Souls III]] variant|Black Leather Boots (Dark Souls III)}}\nThe '''Black Leather Boots''' are [[:Category:Dark Souls: Legs Armor|legs armor]] in ''[[Dark Souls]]''. They are part of the [[Black Leather Set]].\n\n{{Description\n|First paragraph = These boots made of smooth black leather are extremely quiet, a good thing for those who hide in the shadows.\n|Second paragraph = The leather itself is thick, offering a decent level of protection.\n}}\n==Availability==\n*Starting equipment for the [[Thief]] [[Classes (Dark Souls)|class]].\n*Lower [[Undead Burg]], in one of the buildings that a [[Hollow Thief]] is in.\n\n==Characteristics==\n*Has a different appearance depending on the player's gender.\n\n==Notes==\n*Grants 100 [[Soul (Dark Souls)|souls]] when fed to [[Kingseeker Frampt]].\n\n==Upgrades==\nRequires 200 [[Soul (Dark Souls)|souls]] per upgrade.\n<onlyinclude>{{ArmorBox | W = {{{1|}}} | G = {{{2|}}} | name-page = Black Leather Boots\n| Name = Black Leather Boots | Type = Light\n| 12.0 | 12.8 | 12.0 | 12.0 | 19.0 | 13.0 | 15.0 | 23.0 | 31.0 | -\n| 13.2 | 14.1 | 13.2 | 13.2 | 20.9 | 14.3 | 16.5 | 23.0 | 31.0 | -\n| 14.4 | 15.4 | 14.4 | 14.4 | 22.8 | 15.6 | 18.0 | 23.0 | 31.0 | -\n| 15.6 | 16.7 | 15.6 | 15.6 | 24.7 | 16.9 | 19.5 | 23.0 | 31.0 | -\n| 17.2 | 18.4 | 17.2 | 17.2 | 27.2 | 18.6 | 21.4 | 24.2 | 32.6 | -\n| 18.7 | 20.0 | 18.7 | 18.7 | 29.6 | 20.3 | 23.4 | 25.3 | 34.1 | -\n| 20.3 | 21.7 | 20.3 | 20.3 | 32.1 | 22.0 | 25.4 | 26.4 | 35.6 | -\n| 22.2 | 23.8 | 22.2 | 22.2 | 35.2 | 24.1 | 27.7 | 27.6 | 37.2 | -\n| 24.1 | 25.8 | 24.1 | 24.1 | 38.2 | 26.1 | 30.1 | 28.7 | 38.7 | -\n| 26.0 | 27.9 | 26.0 | 26.0 | 41.2 | 28.2 | 32.6 | 29.9 | 40.3 | -\n| 29.0 | 31.1 | 29.0 | 29.0 | 46.0 | 31.5 | 36.3 | 32.2 | 43.4 | -\n}}</onlyinclude>\n[[Category:Dark Souls: Legs Armor]]"
+          }
+        ],
+        "title": "Black Leather Boots"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "5586": {
+        "ns": 0,
+        "pageid": 5586,
+        "revisions": [
+          {
+            "*": "{{Ring\n|image  = Ring bellowing dragoncrest ring.png\n|found  = Purchase from [[Griggs of Vinheim]] - 20,000 [[Souls (Dark Souls)|souls]]\n|effect = Boosts [[Sorcery (Dark Souls)|sorcery]] strength.\n}}\n{{For|the [[Dark Souls III]] variant|Bellowing Dragoncrest Ring (Dark Souls III)}}\nThe '''Bellowing Dragoncrest Ring''' is a [[Rings (Dark Souls)|ring]] in ''[[Dark Souls]]''.\n\n{{Description\n|First paragraph  = A special ring granted to only the most accomplished sorcerers at the Vinheim Dragon School.\n|Second paragraph = The ring is engraved with an everlasting dragon, and boosts the strength of sorceries.}}\n\n==Effect==\nIncreases [[Sorcery (Dark Souls)|sorcery]] and [[Pyromancy (Dark Souls)|pyromancy]] damage by roughly 20%. It does not increase the damage of magical weapon [[Weapon Augmentation|buffs]] such as [[Magic Weapon]].\n\n{{RingsNav}}"
+          }
+        ],
+        "title": "Bellowing Dragoncrest Ring"
+      }
+    }
+  }
+}

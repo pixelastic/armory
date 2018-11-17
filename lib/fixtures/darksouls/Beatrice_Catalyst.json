@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "6482": {
+        "ns": 0,
+        "pageid": 6482,
+        "revisions": [
+          {
+            "*": "{{CastingTool\n|image = Cata Beatrices Catalyst.png\n|found = [[Valley of Drakes]] - Corpse\n|atk-physical = 40\n|atk-magic = -\n|atk-fire = -\n|atk-lightning = -\n|critical = 100\n|res-physical = 26\n|res-magic = 8\n|res-fire = 20\n|res-lightning = 20\n|stability = 16\n|mag-adjust = 108 - 230\n|str-bonus = E\n|dex-bonus = -\n|int-bonus = A\n|fth-bonus = -\n|str-req = 6\n|dex-req = -\n|int-req = 10\n|fth-req = -\n|weight = 2.0\n|durability = 90\n|weapon-type = Catalyst\n|atk-type = [[Strike]]\n|notes = Stats are identical to the [[Sorcerer's Catalyst]].\n}}\n{{For|the [[Dark Souls III]] variant|Heretic's Staff}}\n'''Beatrice's Catalyst '''is a [[catalysts|catalyst]] in ''[[Dark Souls]]''.\n\n{{Description\n|First paragraph = Catalyst belonging to Beatrice, the rogue witch. Contrasts with Vinheim catalysts. This ancient catalyst shows signs of being used for age-old sorceries. It has passed the hands of many generations to get here.\n}}\n==Availability==\nFound off a corpse (presumably [[Witch Beatrice|Beatrice's]]) along with [[Witch Set|Beatrice's set]] in the [[Valley of the Drakes]] after defeating the [[Four Kings]].\n\n==Characteristics==\nBeatrice's Catalyst is nearly identical to the [[Sorcerer's Catalyst]]. The only differences are that the Sorcerer's Catalyst deals slightly more damage with the strong attack but blocks less [[Fire (Damage Type)|fire]] damage.\n\n==Magic Adjust==\n{| class=\"article-table rounded\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"text-align:center; width:400px;\"\n|-\n! style=\"text-align:center; border-radius:10px 0 0 0; width:50%;\" |[[Intelligence (Dark Souls)|Intelligence]]\n! style=\"text-align:center; border-radius:0 10px 0 0; width:50%;\" |Magic Adjust\n|-\n|10\n|109\n|-\n|15\n|114\n|-\n|20\n|142\n|-\n|25\n|170\n|-\n|30\n|198\n|-\n|35\n|205\n|-\n|40\n|211\n|-\n|45\n|219\n|-\n|50\n|226\n|-\n| style=\"border-bottom:0px;\" |99\n| style=\"border-bottom:0px;\" |240\n|}\n<gallery>\nBeatrice Catalyst IG.png\n</gallery>\n{{CatalystsNav}}"
+          }
+        ],
+        "title": "Beatrice's Catalyst"
+      }
+    }
+  }
+}

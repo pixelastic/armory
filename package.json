@@ -17,6 +17,7 @@
     "build:watch": "aberlaas build --watch",
     "download:baldur": "babel-node ./scripts/download-baldur.js",
     "download:pillars": "babel-node ./scripts/download-pillars.js",
+    "download:darksouls": "babel-node ./scripts/download-darksouls.js",
     "lint": "aberlaas lint",
     "lint:fix": "aberlaas lint --fix",
     "release": "aberlaas release",

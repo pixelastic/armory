@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "3032": {
+        "ns": 0,
+        "pageid": 3032,
+        "revisions": [
+          {
+            "*": "{{CastingTool\n|image = 111.png\n|found = [[Reah of Thorolund]] - Drop<br>[[Petrus of Thorolund]] - Drop\n|atk-physical = 14\n|atk-magic = 0\n|atk-fire = 0\n|atk-lightning = 0\n|critical = 100\n|res-physical = 26\n|res-magic = 8\n|res-fire = 20\n|res-lightning = 20\n|stability = 16\n|mag-adjust = 102 - 234\n|str-bonus = -\n|dex-bonus = -\n|int-bonus = -\n|fth-bonus = A\n|str-req = 4\n|dex-req = -\n|int-req = -\n|fth-req = 16\n|weight = 0.3\n|durability = 50\n|weapon-type = Talisman\n|atk-type = [[Strike]]\n|notes = -\n}}\n{{For|the [[Dark Souls III]] variant|Saint's Talisman}}\n'''Ivory Talisman '''is a [[talismans|talisman]] in ''[[Dark Souls]]''.\n\n{{Description\n|First paragraph = Medium for casting miracles of the Gods. Ivory Talismans are granted only to female clerics, and their value is affected dramatically by their owner's faith.}}\n\n==Availability ==\n[[Reah of Thorolund]] drops it upon death. If [[Petrus of Thorolund]] had killed her already, then he drops it instead.\n\n==Characteristics==\nThe Ivory Talisman has the second-highest potential magic adjust of all the talismans, tying with the [[Sunlight Talisman]] and losing only to the [[Darkmoon Talisman]]. Along with the Sunlight Talisman, it is better than all other talismans bar the Darkmoon Talisman after [[Faith (Dark Souls)|Faith]] level 43. Should players not want to bother with the [[Blade of the Darkmoon]], this may well end up being the best talisman for them to use.\n\n==Magic Adjust==\n{| class=\"article-table rounded\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"text-align:center; width:400px;\"\n|-\n! style=\"text-align:center; border-radius:10px 0 0 0; width:50%;\" |[[Faith (Dark Souls)|Faith]]\n! style=\"text-align:center; border-radius:0 10px 0 0; width:50%;\" |Magic Adjust\n|-\n|16\n|102\n|-\n|20\n|113\n|-\n|25\n|131\n|-\n|30\n|149\n|-\n|35\n|167\n|-\n|40\n|185\n|-\n|45\n|203\n|-\n|50\n|221\n|-\n| style=\"border-bottom:0px;\" |99\n| style=\"border-bottom:0px;\" |234\n|}\n<gallery>\nReah Talisman.png\n</gallery>\n{{TalismansNav}}"
+          }
+        ],
+        "title": "Ivory Talisman"
+      }
+    }
+  }
+}
