@@ -6,6 +6,7 @@ Thumbs.db
 node_modules
 npm-debug.log
 tmp
-yarn-error.log
 yalc.lock
+yarn-error.log
 *~
+_cache

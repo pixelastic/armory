@@ -3,7 +3,7 @@
   "description": "Search into existing magical items",
   "devDependencies": {
     "aberlaas": "0.0.12",
-    "firost": "0.0.15",
+    "firost": "0.0.17",
     "golgoth": "0.0.7",
     "query-string": "6.2.0",
     "wtf_wikipedia": "6.3.0"

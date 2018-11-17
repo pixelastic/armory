@@ -3178,10 +3178,10 @@ firost@0.0.10:
     pify "4.0.0"
     shelljs "0.8.2"
 
-firost@0.0.15:
-  version "0.0.15"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-0.0.15.tgz#be3b2490e022d2092d8605e0705a6eca00ead2ca"
-  integrity sha512-qxSzCKvVEoNM37GgSCDeHx6ieptgwJX+Tze5ssKTngjNsybgO1aDcm8bGalGV4DZHNw1JkPoGy5lCYKP/lHa4g==
+firost@0.0.17:
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-0.0.17.tgz#ad48f9e63a185044ce7e55cddec9c1eba42f0e60"
+  integrity sha512-I7/KV+harhHc7yJCt2rr4xsBz4OXtaFiICUE0P0rIz2I/QT5F1pCnqpsQ4H9bSXLTtCUw8X3XTa8mgWzIXBI4g==
   dependencies:
     fs-extra "7.0.0"
     glob "7.1.3"
@@ -3189,6 +3189,7 @@ firost@0.0.15:
     json-stable-stringify "1.0.1"
     lodash "4.17.11"
     pify "4.0.0"
+    query-string "6.2.0"
     shelljs "0.8.2"
 
 flat-cache@^1.2.1:
