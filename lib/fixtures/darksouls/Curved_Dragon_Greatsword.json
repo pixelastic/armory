@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "47549": {
+        "ns": 0,
+        "pageid": 47549,
+        "revisions": [
+          {
+            "*": "{{DaSIIWeapon\n|image = Curved Dragon Greatsword.png\n|weapon-type = Curved Greatsword\n|atk-type = Slash\n|phys-atk = 160\n|phys-def = 60.0\n|mag-def = 10.0\n|fire-def = 40.0\n|ltn-def = 40.0\n|dark-def = 30.0\n|psn-def = 20.0\n|bld-def = 20.0\n|counter = 110\n|petrify-def = 20.0\n|poise-dmg = 45\n|curse-def = 20.0\n|stability = 40\n|durability = 60\n|weight = 18.0\n|str-req = 30\n|dex-req = 18\n|int-req = -\n|fth-req = -\n|str-bonus = B\n|dex-bonus = S\n|mag-bonus = -\n|fire-bonus = -\n|ltn-bonus = -\n|dark-bonus = -\n|found = [[Weaponsmith Ornifex]] - Trade\n}}\nThe '''Curved Dragon Greatsword''' is a [[Curved Greatswords (Dark Souls II)|curved greatsword]] in ''[[Dark Souls II]]''.\n\n{{Description\n|First paragraph = A curved greatsword forged from the soul of the Ancient Dragon.\n|Second paragraph = In the Age of the Ancients, the world was unformed, shrouded by fog. A land of grey crags, archtrees, and everlasting dragons.\n|Third paragraph = Effect: special attack (strong attack)\n}}\n\n==Availability==\nTrade the [[Ancient Dragon Soul]] along with 1,500 souls to [[Weaponsmith Ornifex]].\n\n==Characteristics==\nLike most [[Curved Greatswords (Dark Souls II)|Curved Greastwords]], has a somewhat slow attack speed, but compensates for this with its high damage potential. Pressing the strong attack button generates a gale-like wind in a line formation, consuming 10 durability (this can be reduced through use of the [[Bracing Knuckle Ring]] variants).\n\n== Upgrades ==\nUpgrades to +5 with [[Petrified Dragon Bone]]s.\n\n{{clr}}\n\n==Moveset==\n{{Moveset\n|1hWeak = Horizontal swipe from right to left. Additional input produces a similar swipe from left to right.\n|1hStrong = Performs an overhead slam and performs its special attack.\n|2hWeak = Very slow downward slash. Additional input produces an upwards slash.\n|2hStrong = Very slow overhead slam that performs the special attack.\n|Jump = Leaps into the air and slams the weapon onto the ground.\n|Run = Performs a 360 spin hitting foes in front of the player in a wide arc.\n|Kick = Guard Break\n|LhWeak = Guard\n|LhStrong = Guard|Roll = Upwards diagonal slash from left to right. }}\n\n==Upgrades==\n\n==Trivia==\n*The description of the weapon is taken from the prologue of ''[[Dark Souls]]''.\n\n==Gallery==\n<gallery position=\"center\" captionalign=\"center\">\nCurved Dragon Greatsword IG.png|In-game\n</gallery>\n\n{{DaSIICurvedGreatswordsNav}}\n[[Category:Dark Souls II: Curved Greatswords]]\n[[Category:Dark Souls II: Boss Soul Weapons]]\n[[Category:Dark Souls II: Edit Priority 4]]"
+          }
+        ],
+        "title": "Curved Dragon Greatsword"
+      }
+    }
+  }
+}
