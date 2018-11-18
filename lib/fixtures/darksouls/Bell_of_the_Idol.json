@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "34028": {
+        "ns": 0,
+        "pageid": 34028,
+        "revisions": [
+          {
+            "*": "{{BetaContent}}\nThe '''Idol's Chime''' is a [[:Category:Sacred Bells|sacred bell]] in ''[[Dark Souls II]]''.\n\n{{Description\n|First paragraph  = Sacred bell imbued with the prayers of a renowned saint. Catalyst for miracles and hexes.\n|Second paragraph = The saint came to these lands from a peaceful country. However, no more can be divulged about her to such transient travellers.}}\n\nAttack type: Spell/[[Strike (damage type)|Strike]]\n[[Category:Dark Souls II: Weapons]]\n[[Category:Sacred Bells]]"
+          }
+        ],
+        "title": "Bell of the Idol"
+      }
+    }
+  }
+}

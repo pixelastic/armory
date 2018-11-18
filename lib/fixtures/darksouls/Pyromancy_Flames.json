@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "52302": {
+        "ns": 0,
+        "pageid": 52302,
+        "revisions": [
+          {
+            "*": "'''Flames''' are casting tools for [[Pyromancy (Dark Souls II)|Pyromancies]] in ''[[Dark Souls II]]'', and are the only casting tools in the game which are able to cast them. They are unique amongst casting tools for the cheapness of upgrading them, in that only the cost of Souls needed to upgrade them increases; the player will only ever need one [[Fire Seed]] per upgrade. However, this is counterbalanced by the fact that Fire Seeds are found sporadically throughout the game.\n\n{{DaSIIWeaponTypeBox/Top | Pyromancy Flame\n}}\n{{DaSIIWeaponTypeBox/Row\n| name  = Pyromancy Flame (Dark Souls II) | name-display = Pyromancy Flame\n| image = Pyromancy Flame II.png\n| - | - | 125 | - | - | - | - | 100 | 5 | - | - | - | -\n| 25 | 5 | 30 | 20 | 20 | 5 | 5 | 5 | 5 | - | - | - | A | - | -\n| stability = - | durability = 50 | weight = 0.0\n}}\n{{DaSIIWeaponTypeBox/Row\n| name  = Dark Pyromancy Flame\n| image = Dark Pyromancy Flame.png\n| - | - | 150 | - | - | - | - | 100 | 5 | - | - | - | -\n| 25 | 5 | 30 | 20 | 20 | 5 | 5 | 5 | 5 | - | - | - | S | - | -\n| stability = - | durability = 60 | weight = 0.0\n}}\n{{DaSIIWeaponTypeBox/Bottom}}\n\n\n\n\n{{DaSIIWeaponsNav}}\n[[Category:Dark Souls II: Casting Tools]]\n[[Category:Dark Souls II: Pyromancy Flames]]"
+          }
+        ],
+        "title": "Pyromancy Flames"
+      }
+    }
+  }
+}

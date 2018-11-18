@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "29538": {
+        "ns": 0,
+        "pageid": 29538,
+        "revisions": [
+          {
+            "*": "{{Weapon\n|image       = No Image.gif\n|weight      = 0.0\n|durability  = 0\n|weapon-type = Dagger\n|atk-type    = -\n}}\nThe '''Black Dagger''' is a [[Daggers|dagger]] which was [[:Category:Dark Souls: Removed Content|removed]] from the final release of ''[[Dark Souls]]''.\n\n==General Information==\nAs it was cut from the final release of the game, it is unknown how the player would have obtained the Black Dagger normally. However, it has been suggested that, because of its similar design to the [[Darksword]] of the [[Darkwraith (covenant)|Darkwraith]] [[covenant]], it may have been intended to be either an alternate weapon for the [[Darkwraith (enemy)|Darkwraiths]] in the [[New Londo Ruins]], or as an additional covenant item given to the player by [[Darkstalker Kaathe]] upon ranking up in the Darkwraith covenant.\n\nDue to its nature as cut content, the Black Dagger is simply a texture in the game files. This means that even if the player modified their save file, it would not have its own stats anyway, as an existing weapon's model has to be overridden in order to 'obtain' it. Hence, the weapon can only be seen by those who are modifying the game to use its model.\n\n==Gallery==\n<gallery captionalign=\"center\">\nBlack Dagger ig.jpg|The Black Dagger in-game.\n</gallery>\n[[Category:Dark Souls: Daggers]]\n[[Category:Dark Souls: Removed Content]]"
+          }
+        ],
+        "title": "Black Dagger"
+      }
+    }
+  }
+}

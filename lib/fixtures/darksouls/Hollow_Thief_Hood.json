@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "8115": {
+        "ns": 0,
+        "pageid": 8115,
+        "revisions": [
+          {
+            "*": "<onlyinclude>{{Armor | W = {{{1|}}}\n|name-page    = Hollow Thief&#39;s Hood\n|name-display = Hollow Thief&#39;s Hood\n|name-image   = Hollow Thief&#39;s Hood.png\n|upgrade-type = Light\n|upgrade-can  = True\n|upgrade-max  = 10\n|upgrade-cost = 200\n|weight-class = Light\n|type         = Head Armor\n|image        = [[File:Hollow Thief's Hood.png]]\n|name = Hollow Thief's Hood\n|poise        = 0.0\n|weight       = 1.1\n|durability   = 250\n}}</onlyinclude>\nThe '''Hollow Thief&#39;s Hood''' is a [[:Category:Dark Souls: Head Armor|head armor]] piece in ''[[Dark Souls]]''. It is part of the [[Hollow Thief's Set]].\n\n{{Description\n|First paragraph = Hood worn by Hollow thieves. Used to hide a guilty countenance.\n}}\n==Availability==\nDropped by the [[Hollow Thief|Hollow Thieves]] in the Lower [[Undead Burg]]. They also drop the other pieces of the [[Hollow Thief's Set]].\n\n==Characteristics==\n*This hood gives no [[Poise (Dark Souls)|Poise]], but it is lightweight and gives decent [[Poison (Dark Souls)|Poison]] resist.\n\n==Upgrades==\nRequires 200 [[Soul (Dark Souls)|souls]] per upgrade.\n<onlyinclude>{{ArmorBox | W = {{{1|}}} | G = {{{2|}}} | name-page = Hollow Thief&#39;s Hood\n| Name = Hollow Thief's Hood | Type = Light\n|  8.0 |  8.7 |  8.0 |  8.3 |  8.0 |  5.0 |  7.0 | 6.0 | 11.0 | -\n|  8.8 |  9.6 |  8.8 |  9.2 |  8.8 |  5.5 |  7.7 | 6.0 | 11.0 | -\n|  9.6 | 10.5 |  9.6 | 10.0 |  9.6 |  6.0 |  8.4 | 6.0 | 11.0 | -\n| 10.4 | 11.3 | 10.4 | 10.8 | 10.4 |  6.5 |  9.1 | 6.0 | 11.0 | -\n| 11.4 | 12.5 | 11.4 | 11.9 | 11.4 |  7.1 | 10.0 | 6.3 | 11.5 | -\n| 12.5 | 13.6 | 12.5 | 13.0 | 12.5 |  7.8 | 10.9 | 6.6 | 12.1 | -\n| 13.5 | 14.7 | 13.5 | 14.1 | 13.5 |  8.5 | 11.8 | 6.9 | 12.7 | -\n| 14.8 | 16.1 | 14.8 | 15.4 | 14.8 |  9.2 | 12.9 | 7.2 | 13.2 | -\n| 16.1 | 17.5 | 16.1 | 16.7 | 16.1 | 10.1 | 14.1 | 7.5 | 13.7 | -\n| 17.4 | 18.9 | 17.4 | 18.1 | 17.4 | 10.9 | 15.2 | 7.8 | 14.3 | -\n| 19.4 | 21.1 | 19.4 | 20.1 | 19.4 | 12.1 | 16.9 | 8.4 | 15.4 | -\n}}</onlyinclude>\n[[Category:Dark Souls: Head Armor]]"
+          }
+        ],
+        "title": "Hollow Thief's Hood"
+      }
+    }
+  }
+}

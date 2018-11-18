@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "34026": {
+        "ns": 0,
+        "pageid": 34026,
+        "revisions": [
+          {
+            "*": "{{DaSIIWeapon\n|name        = Greataxe\n|image       = <tabber>Normal =\n[[File:Greataxe II.png]]\n|-|Golden =\n[[File:Event Greataxe.png]]\n</tabber>\n|found       = [[Blacksmith McDuff]] - purchase\n|weapon-type = [[Greataxes (Dark Souls II)|Greataxe]]\n|atk-type    = [[Slash (damage type)|Slash]]\n|phys-atk    = 195\n|phys-def    = 55.0\n|mag-atk     = 0\n|mag-def     = 10.0\n|fire-atk    = 0\n|fire-def    = 30.0\n|ltn-atk     = 0\n|ltn-def     = 30.0\n|dark-atk    = 0\n|dark-def    = 30.0\n|psn-atk     = 0\n|psn-def     = 15.0\n|bld-atk     = 0\n|bld-def     = 15.0\n|counter     = 110\n|petrify-def = 15.0\n|poise-dmg   = 50\n|curse-def   = 15.0\n|stability   = 40\n|durability  = 80\n|weight      = 15.0\n|str-req     = 32\n|dex-req     = 10\n|int-req     = -\n|fth-req     = -\n|str-bonus   = C \n|dex-bonus   = E\n|mag-bonus   = -\n|fire-bonus  = -\n|ltn-bonus   = -\n|dark-bonus  = -\n}}\n{{For|2=Greataxe (disambiguation)}}\nThe '''Greataxe''' is a [[Greataxes (Dark Souls II)|greataxe]] in ''[[Dark Souls II]]''.\n\n{{Description\n|First paragraph  = A greataxe wielded with both hands.\n|Second paragraph = This greataxe, crafted with a gigantic, weighty blade, is designed to inflict heavy damage, and requires inhuman strength to handle.\n|Third paragraph  = Each swing of the greataxe requires the full force of the body, leaving the wielder wide open. Mastering this weapon will require the most thorough training of both body and mind.}}\n\n==Availability==\n*Sold by [[Steady Hand McDuff]] for 6,200 [[Souls (Dark Souls II)|souls]] after he is given the [[Dull Ember]].\n*It is possible for a [[Raw Stone|Raw]]-infused Greataxe+3 to drop from the invader [[Melinda the Butcher]] in [[the Gutter]].\n\n==Characteristics==\nThe Greataxe, while rather standard, can prove to be a rather solid and efficient weapon. It has the lowest [[Strength (Dark Souls II)|Strength]] requirement of the greataxes that have the heavy greataxe moveset, as well as the lowest [[weight]], making it much easier to wield for lower level builds. It has the highest [[durability]] of all the greataxe-class weapons, being tied with the [[Gyrm Greataxe]] at 80. Although the [[Drakekeeper's Greataxe]] has longer reach and better [[Parameter Bonus (Dark Souls II)|scaling]], the standard Greataxe is made available much earlier in the game and has the same moveset.\n{{Clr}}\n==Moveset==\n{{DaSIIMoveset\n|1hWeak   = Over-arm swings.\n|1hStrong = A slow over arm swing.\n|2hWeak   = A slow strong slash from left to right.\n|2hStrong = A slow over arm slash.\n|Jump     = A leaping vertical cleave. \n|Run      = A fast slash from left to right. \n|Roll     = A strong left to right slash\n|PSWeak   = \n|PSStrong = \n|Gbreak   = A standard guard break. \n|OhWeak   = Over-arm swings. \n|OhStrong = A slow over arm swing.\n}}\n\n{{DaSIIGreataxesNav}}\n{{Stub}}\n[[Category:Dark Souls II: Standard Weapons]]"
+          }
+        ],
+        "title": "Greataxe (Dark Souls II)"
+      }
+    }
+  }
+}

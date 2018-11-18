@@ -5,6 +5,8 @@
     "aberlaas": "0.0.12",
     "firost": "0.0.18",
     "golgoth": "0.0.7",
+    "got": "9.3.2",
+    "he": "1.2.0",
     "query-string": "6.2.0",
     "wtf_wikipedia": "6.3.0"
   },
@@ -25,6 +27,5 @@
     "test:watch": "aberlaas test --watch"
   },
   "version": "0.0.1",
-  "dependencies": {
-  }
+  "dependencies": {}
 }

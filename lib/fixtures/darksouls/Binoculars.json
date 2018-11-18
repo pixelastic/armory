@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "45544": {
+        "ns": 0,
+        "pageid": 45544,
+        "revisions": [
+          {
+            "*": "{{DaSIIItem\n|name = Binoculars\n|image = Binoculars II.png\n|found = [[Majula]] - Corpse\n|use = Allows the player to zoom in when used\n}}\n{{For|the [[Dark Souls]] variant|Binoculars}}\n{{For|the [[Dark Souls III]] variant|Binoculars (Dark Souls III)}}\n\nThe '''Binoculars''' are a [[:Category:Dark Souls II: Weapons|weapon]] in ''[[Dark Souls II]]''.\n\n{{Description\n|First paragraph = Binoculars are used to peer at distant sights.<br>Equip in place of a weapon to use.\n|Second paragraph = A rare tool crafted in Volgen.<br>These won't help you in battle, but with a<br>little creativity, can be put to good use.}}\n\n==Availability==\nThe Binoculars can be found on a corpse hanging from a cliff in [[Majula]]. Along the cliff's edge near the cave leading to [[Things Betwixt]], the player must drop down onto a ledge where they must drop down again onto a path below.\n\n==General Information==\nBinoculars in ''Dark Souls II'' work slightly different to their [[Binoculars|equivalent]] in ''[[Dark Souls]]''. They now occupy a weapon slot rather than item slot, and if the player dual wields them with a catalyst, it's possible to use the zoom to manually aim spells. While this can be tricky at first, manual aiming is incredibly useful for casters, greatly extending the range of their targeting abilities, and essentially removing any need for a bow or crossbow.\n\n==Trivia==\n* Even though the binoculars is equipped in the weapon slot it is not possible to attack with them, instead pressing (and holding) the attack button will put the game in first person view (like aiming with a bow/crossbow but without the crosshairs).\n[[Category:Dark Souls II: Weapons]]"
+          }
+        ],
+        "title": "Binoculars (Dark Souls II)"
+      }
+    }
+  }
+}

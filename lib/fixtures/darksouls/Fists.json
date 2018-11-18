@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "3716": {
+        "ns": 0,
+        "pageid": 3716,
+        "revisions": [
+          {
+            "*": "'''Fists''' are the weapons in ''[[Dark Souls]]'' available to the player by default should they have no [[Weapons (Dark Souls)|weapons]] equipped. Throughout the entire game, stronger alternatives are available, and fists' only effective use are as humiliation weapons or when the player wants to cut down on [[weight]] while avoiding confrontations.\n\n==Characteristics==\n\nFists are one of the few examples of a weapon that cannot be two-handed. They cannot be [[Weapon Modification|upgraded]]. Also, regardless of the player's [[Strength (Dark Souls)|Strength]] or [[Dexterity (Dark Souls)|Dexterity]] level, their fists will always have an attack value of 20.\n\nPlayers that join the [[Path of the Dragon]] [[covenant]] deal substantially more damage with their fists when in dragonoid form, in that their dragon-like fists have an attack rating of 400.\n\n==Moveset==\n{| border=\"0\" cellpadding=\"1\" cellspacing=\"1\" class=\"article-table\" style=\"width:100%; border: 1px solid #000;\"\n! style=\"text-align: center; border: 1px solid #000; width:20%;\" |Attack\n! style=\"text-align: center; border: 1px solid #000;\" |Description\n|-\n! style=\"text-align: center; border: 1px solid #000;\" | One-handed weak attack\n| style=\"border: 1px solid #000;\" |Right hook. Combos into backhand.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |One-handed strong attack\n| style=\"border: 1px solid #000;\" |Right uppercut.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |Jump attack\n| style=\"border: 1px solid #000;\" |Jumping downward jab.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |Running attack\n| style=\"border: 1px solid #000;\" |Running backhand.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |Rolling attack\n| style=\"border: 1px solid #000;\" |Right hook.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |Kick\n| style=\"border: 1px solid #000;\" |Knee. Identical in function to the standard kick.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |Left-handed weak attack\n| style=\"border: 1px solid #000;\" |Left jab.\n|-\n! style=\"text-align: center; border: 1px solid #000;\" |Left-handed strong attack\n| style=\"border: 1px solid #000;\" |Standard parry.\n|}\n\n{{GauntletsNav}}\n[[Category:Dark Souls: Weapons]]\n[[Category:Image Needed]]"
+          }
+        ],
+        "title": "Fists"
+      }
+    }
+  }
+}

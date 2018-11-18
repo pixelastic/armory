@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "7174": {
+        "ns": 0,
+        "pageid": 7174,
+        "revisions": [
+          {
+            "*": "{{Main|Armor (Dark Souls)}}\n{{For|unique armor in [[Dark Souls II]]|Unique Armor (Dark Souls II)}}\n\n'''Unique Armor''' are [[Armor (Dark Souls)|armor]] pieces in ''[[Dark Souls]]'' that do not belong to any set, some of which can be obtained only once per playthrough.\n\n==List of unique helmets==\n{{ArmorPieceBox\n|Bloated Head\n|Bloated Sorcerer Head\n|Fang Boar Helm\n|Gargoyle Helm\n|Mask of the Child\n|Mask of the Father\n|Mask of the Mother\n|Royal Helm\n|Sack\n|Sunlight Maggot\n|Symbol of Avarice\n}}\n[[Category:Dark Souls: Armor]]\n[[Category:Dark Souls: Unique Armor]]"
+          }
+        ],
+        "title": "Unique Armor (Dark Souls)"
+      }
+    }
+  }
+}

@@ -9,6 +9,8 @@ List of magical items from the following games:
 - Baldur's Gate: Siege of Dragonspear
 - Baldur's Gate: Tales of the Sword Coast
 - Dark Souls
+- Dark Souls II
+- Dark Souls III
 - Pillars of Eternity
 - Pillars of Eternity II: Beast of Winter
 - Pillars of Eternity II: Deadfire
@@ -28,3 +30,4 @@ List of magical items from the following games:
 - The Witcher?
 - Diablo
 - Dragon Age
+- Bloodborne
