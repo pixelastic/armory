@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "137509": {
+        "ns": 0,
+        "pageid": 137509,
+        "revisions": [
+          {
+            "*": "{{DaSIIIArmor\n|name       = Sage's Big Hat\n|image      = Sage's Big Hat.png\n|buy-price   = 10000\n|price      = 1,000\n|phys-def   = 2.5\n|strike-def = 2.0\n|slash-def  = 2.0\n|thrust-def = 1.6\n|mag-def    = 5.2\n|fire-def   = 3.6\n|ltn-def    = 4.6\n|dark-def   = 4.6\n|bld-def    = 15\n|psn-def    = 21\n|fst-def    = 13\n|cur-def    = 26\n|weight     = 1.9\n|poise      = 0.4\n|durability = 230\n|notes      = \n}}\nThe '''Sage's Big Hat''' is a [[Unique Armor (Dark Souls III)|unique]] [[:Category:Dark Souls III: Head Armor|head armor]] in ''[[Dark Souls III]]''.\n\n{{Description\n|First paragraph  = Enormous hat that completely obscures the face. Belonged to twin gurus known as the Crystal Sages.\n|Second paragraph = The pair are said to be successors to the great sage [[Big Hat Logan|Logan]], and this big hat is a symbol of their pedigree.}}\n\n==Availability==\nSold by the [[Shrine Handmaid]] for 10,000 [[Souls (Dark Souls III)|souls]] once the [[Crystal Sage]] has been defeated in the [[Road of Sacrifices]].\n\n==Trivia==\n*Underneath the hat is the skull of some malformed creature.\n*This mask is reminiscent of the beaked masks of [[Wikipedia:Plague doctor|plague doctors]] (even the lenses are nearly identical), which was used as a respirator and was often filled with pleasant scents, such as flowers and spices. They filled the beaks with these things due to the belief that plague was spread through bad scents at the time of their use. How this relates to the [[Crystal Sage|Sages]] is uncertain.\n{{DaSIIIUniqueArmorNav}}\n[[Category:Dark Souls III: Unique Armor]]\n[[Category:Dark Souls III: Head Armor]]"
+          }
+        ],
+        "title": "Sage's Big Hat"
+      }
+    }
+  }
+}
