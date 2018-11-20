@@ -2460,6 +2460,11 @@ dateformat@^3.0.0:
   resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-3.0.3.tgz#a6e37499a4d9a9cf85ef5872044d62901c9889ae"
   integrity sha512-jyCETtSl3VMZMWeRo7iY1FL19ges1t55hMo5yaam4Jrsm5EPL89UQkoQRyiI+Yf4k8r2ZpdngkV8hr1lIdjb3Q==
 
+dayjs@1.7.7:
+  version "1.7.7"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.7.7.tgz#8df20f78ac2476e3f5348ef49f8f22ebc3016370"
+  integrity sha512-Qlkiu0NNDpYwhk0syK4ImvAl/5YnsEMkvC2O123INviGeOA3Q8s5VyVkZzmN5SC7Wv9bb1+rfwO+uSqtHB4UWw==
+
 debug@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
@@ -3468,18 +3473,22 @@ globby@8.0.1, globby@^8.0.1:
     pify "^3.0.0"
     slash "^1.0.0"
 
-golgoth@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.7.tgz#3aa2e2cecff10ad44f7de3d824afe6e51a5d36f6"
-  integrity sha512-IyJlufPnN7i2cIIxLpI5332Hf1lYTjjiGV2jOOgKuZ0VYbjfLYZc8JbTUeUP5BN6yKD05H+F8aXyIoQc46U2gw==
+golgoth@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.9.tgz#b39b6264a1f86220c9de5e5e11f8dfc1f06b2551"
+  integrity sha512-jwVDnSkr9vzPDFOr9Y5gkbg0Yt6wJ/+nMyeG6n1blEQAHdylu1yI8cTW/CZhpzyjRkbQCSDK6k6D3wFBGS1RQA==
   dependencies:
     chalk "2.4.1"
+    dayjs "1.7.7"
+    firost "0.0.18"
+    got "9.3.2"
     lodash "4.17.11"
     p-all "1.0.0"
     p-map "2.0.0"
     p-map-series "1.0.0"
     pify "4.0.1"
     progress "2.0.1"
+    query-string "6.2.0"
 
 got@8.3.2:
   version "8.3.2"
