@@ -3473,10 +3473,10 @@ globby@8.0.1, globby@^8.0.1:
     pify "^3.0.0"
     slash "^1.0.0"
 
-golgoth@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.9.tgz#b39b6264a1f86220c9de5e5e11f8dfc1f06b2551"
-  integrity sha512-jwVDnSkr9vzPDFOr9Y5gkbg0Yt6wJ/+nMyeG6n1blEQAHdylu1yI8cTW/CZhpzyjRkbQCSDK6k6D3wFBGS1RQA==
+golgoth@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.0.10.tgz#2859fa95a65fb6e10a141daf37ac59bf27b04e16"
+  integrity sha512-Lxw1SvuUSqE6YFvYmA7BW6YJ64NZhKOZrMf9LRroI1npLysynijJqUHldcDTMvYmCbBUEPe8TJ1pFK0Hw/vvHg==
   dependencies:
     chalk "2.4.1"
     dayjs "1.7.7"
