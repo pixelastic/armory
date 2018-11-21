@@ -602,6 +602,13 @@
     "title": "Bracers of Defense AC 7"
   },
   {
+    "description": "Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm. Generally, the magic that is instilled in bracers is good only during combat, since most bracers help to protect the wearer from injury, or improve chances to strike at an opponent. Exceptions do exist, though such specialized items are rare at best.",
+    "originalUrl": "http://baldursgate.wikia.com/wiki/Bracers_of_Defense_AC_8",
+    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c2/Bracers_of_Defense_AC_8_item_artwork_BG2.png/revision/latest?cb=20130604144103",
+    "price": 1000,
+    "title": "Bracers of Defense AC 8"
+  },
+  {
     "description": "Each of these soft leather bracers, dyed gray, displays the embroidered figure of a boar in shimmering red thread. The bracers were crafted by a monk of the Black Raven Monastery who took longer to achieve mastery of her art than her peers, but reached her goals eventually.",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Bracers_of_Perseverance",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/95/PBRAC2600000.PNG/revision/latest?cb=20171019101939",
@@ -866,6 +873,20 @@
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/be/Composite_Longbow%2B1.png/revision/latest?cb=20121222153444",
     "price": 2500,
     "title": "Composite Longbow +1"
+  },
+  {
+    "description": "This longbow is marked with the seal of a sunburst. It probably once was a bow used by guards in the service of the god Amaunator. These guards would use the enchanted bows to keep the priests of that long dead faith safe.  Few of these bows still exist, so they are sought after by many archers looking to improve both their accuracy and their lethality. This bow requires a strength of 18 to use.",
+    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B2",
+    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/31/Composite_Long_Bow_item_artwork_1_BG2.png/revision/latest?cb=20130625165621",
+    "price": 2750,
+    "title": "Composite Longbow +2"
+  },
+  {
+    "description": "This longbow is marked with the seal of a sunburst. It probably once was a bow used by guards in the service of the god Amaunator. These guards would use the enchanted bows to keep the priests of that long dead faith safe.  Few of these bows still exist, so they are sought after by many archers looking to improve both their accuracy and their lethality. This bow requires a strength of 18 to use.",
+    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B3",
+    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/31/Composite_Long_Bow_item_artwork_1_BG2.png/revision/latest?cb=20130625165621",
+    "price": 3750,
+    "title": "Composite Longbow +3"
   },
   {
     "description": "This armor, long in the Corthala bloodline, protects the user against all forms of attacks. The armor is enchanted so that it grants a +3 bonus to Valygar's armor class. It also adds a bonus to resisting acid, fire and magical damage. The armor also makes Valygar immune to charm while he wears it. As it is specially fitted for Valygar, few other than he may wear it.",
