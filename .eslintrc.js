@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./node_modules/aberlaas/eslint.js'],
+  extends: ['./node_modules/aberlaas/lib/configs/eslint.js'],
 };

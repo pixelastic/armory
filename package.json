@@ -1,28 +1,38 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
+  "dependencies": {},
   "description": "Search into existing magical items",
   "devDependencies": {
-    "aberlaas": "0.0.12",
-    "golgoth": "0.0.11",
+    "aberlaas": "1.4.3",
+    "firost": "1.5.0",
+    "golgoth": "1.2.0",
     "he": "1.2.0",
+    "norska": "0.9.13",
     "wtf_wikipedia": "6.3.0"
   },
+  "files": [
+    "lib/*.js"
+  ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/main.js",
   "name": "lootsearch",
   "repository": "git@github.com:pixelastic/lootsearch.git",
   "scripts": {
     "build": "aberlaas build",
+    "build:prod": "./scripts/build-prod",
     "build:watch": "aberlaas build --watch",
+    "ci": "./scripts/ci",
+    "cms": "./scripts/cms",
     "download:baldur": "babel-node ./scripts/download-baldur.js",
-    "download:pillars": "babel-node ./scripts/download-pillars.js",
     "download:darksouls": "babel-node ./scripts/download-darksouls.js",
+    "download:pillars": "babel-node ./scripts/download-pillars.js",
+    "husky:precommit": "./scripts/husky-precommit",
     "lint": "aberlaas lint",
     "lint:fix": "aberlaas lint --fix",
     "release": "aberlaas release",
+    "serve": "./scripts/serve",
     "test": "aberlaas test",
     "test:watch": "aberlaas test --watch"
   },
-  "version": "0.0.1",
-  "dependencies": {}
+  "version": "0.0.1"
 }
