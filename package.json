@@ -32,7 +32,8 @@
     "release": "aberlaas release",
     "serve": "./scripts/serve",
     "test": "aberlaas test",
-    "test:watch": "aberlaas test --watch"
+    "test:watch": "aberlaas test --watch",
+    "download:images": "node ./scripts/downloadImages.js"
   },
   "version": "0.0.1"
 }
