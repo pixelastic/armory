@@ -1,5 +1,4 @@
-#!/usr/bin/env node
-import pillars from '../lib/pillars';
+const pillars = require('../lib/pillars');
 
 (async () => {
   await pillars.run();

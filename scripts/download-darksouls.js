@@ -1,5 +1,4 @@
-#!/usr/bin/env node
-import darksouls from '../lib/darksouls';
+const darksouls = require('../lib/darksouls');
 
 (async () => {
   await darksouls.run();
