@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "33465": {
+        "ns": 0,
+        "pageid": 33465,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|name                 = Agathor's Near-Universal Solvent\n|bg1ee_tbp1           = no\n|bg1_wo_totsc         = no\n|bg1_w_totsc          = no\n|bg1_totsc            = no\n|bg1ee_wo_sod         = no\n|bg1ee_w_sod          = no\n|bg1ee_sod            = yes\n|bg2_soa_wo_tob       = no\n|bg2_soa_w_tob        = no\n|bg2ee_soa            = no\n|bg2_tob              = no\n|bg2ee_tob            = no\n|bg2ee_tbp2_got       = no\n|cut_content          = no\n|mod_content          = no\n|image                = Potion7.png\n|caption1             = \n|other_names          = \n|general              = Potion\n|enchantment_level    = 0\n|magical              = yes\n|cursed               = \n|critical_item        = \n|lore_to_identify     = 20\n|weight               = 1 lb.\n|area                 = [[Bridgefort Interior]]\n|obtained_from        = [[Roark]]\n|involvement          = \n|used_for             = \n|other_uses           = \n|strength             = <!-- 0 -->\n|dexterity            = 9\n|constitution         = <!-- 0 -->\n|intelligence         = 3\n|wisdom               = <!-- 0 -->\n|charisma             = <!-- 0 -->\n|not_usable_by        = <!-- This is likely wrong, but I cannot check it -->\n|other_requirements   = \n|item_value           = 50\n|item_icon            = IPOTN01.PNG\n|item_code            = bdmisc02 \n|max_in_stack         = 1\n}}__NOTOC__\n\n\n{{Description|header=yes|source_is_item=yes|Created by the mad dwarf alchemist Agathor, this highly corrosive material comes in two vials. Individually, the chemicals within are harmless, but when combined, they create a powerful substance that will eat away at almost any material exposed to it. Handle the vials with caution; lunatic dwarf alchemy is not something you want to play around with.}}\n\n==Cultural References==\nAgathor's Near-Universal Solvent is likely a reference to ''the&nbsp;Universal&nbsp;Solvent'' (better known under its brand name [[w:c:scrooge-mcduck:Omnisolve|Omnisolve™]]) - a highly corrosive substance from [[w:c:disney:Duck_universe|Duck universe]] capable of dissolving anything but pure diamonds in mere seconds.\n[[Category:Article stubs]]\n[[Category:Infobox incomplete]]"
+          }
+        ],
+        "title": "Agathor's Near-Universal Solvent"
+      }
+    }
+  }
+}
