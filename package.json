@@ -3,12 +3,12 @@
   "dependencies": {},
   "description": "Collection of magical items with lore from video games",
   "devDependencies": {
-    "aberlaas": "1.4.3",
-    "firost": "1.5.0",
+    "aberlaas": "1.7.1",
+    "firost": "1.7.0",
     "golgoth": "1.2.0",
     "he": "1.2.0",
     "import2require": "0.1.2",
-    "norska": "0.9.13",
+    "norska": "0.9.19",
     "wtf_wikipedia": "6.3.0"
   },
   "files": [],
@@ -16,22 +16,20 @@
   "name": "artefacts",
   "repository": "git@github.com:pixelastic/artefacts.git",
   "scripts": {
-    "build": "aberlaas build",
+    "build": "./scripts/build",
     "build:prod": "./scripts/build-prod",
-    "build:watch": "aberlaas build --watch",
     "ci": "./scripts/ci",
     "cms": "./scripts/cms",
     "download:baldur": "babel-node ./scripts/download-baldur.js",
     "download:darksouls": "babel-node ./scripts/download-darksouls.js",
+    "download:images": "node ./scripts/downloadImages.js",
     "download:pillars": "babel-node ./scripts/download-pillars.js",
     "husky:precommit": "./scripts/husky-precommit",
-    "lint": "aberlaas lint",
-    "lint:fix": "aberlaas lint --fix",
-    "release": "aberlaas release",
+    "lint": "./scripts/lint",
+    "lint:fix": "./scripts/lint-fix",
     "serve": "./scripts/serve",
-    "test": "aberlaas test",
-    "test:watch": "aberlaas test --watch",
-    "download:images": "node ./scripts/downloadImages.js"
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
   },
   "version": "0.0.1"
 }
