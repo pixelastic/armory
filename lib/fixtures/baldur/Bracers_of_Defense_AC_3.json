@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "5219": {
+        "ns": 0,
+        "pageid": 5219,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|name                 = Bracers of Defense AC 3\n|bg1ee_tbp1           = no\n|bg1_wo_totsc         = no\n|bg1_w_totsc          = no\n|bg1_totsc            = no\n|bg1ee_wo_sod         = no\n|bg1ee_w_sod          = no\n|bg1ee_sod            = no\n|bg2_soa_wo_tob       = yes\n|bg2_soa_w_tob        = no\n|bg2ee_soa            = yes\n|bg2_tob              = no\n|bg2ee_tob            = no\n|bg2ee_tbp2_got       = no\n|cut_content          = no\n|mod_content          = no\n|image                = Bracers of Defense A.C. 3 item artwork BG2.png\n|caption1             = \n|other_names          = \n|critical_item        = no\n|cursed               = no\n|magical              = yes\n|general              = Bracers\n|not_usable_by        = [[Wizard Slayer]], [[Kensai]]\n|item_value           = 6500\n|max_in_stack         = 1\n|item_icon            = Bracers of Defense A.C. 3 item icon BG2.png\n|lore_to_identify     = 75\n|weight               = 2 lbs.\n|armor_class          = 3\n|item_code            = BRAC15.itm\n}}The '''Bracers of Defense AC 3''' give the wearer a [[Armor_Class#Base_AC|Base AC]] of 3. As for all bracers of defense, if the character is already wearing armor whith a better AC, this item will have no effect. In [[Baldur's Gate II: Shadows of Amn]] they have a weight of 1 lbs, though the description reads 2. This is fixed to match the description in [[Baldur's Gate II: Enhanced Edition]].\n\n{{Description|Grinning Glen, the Knight of Fools, wore these bracers while competing in jousting tourneys. With his skill, charm, and bravado -- no man other than he would joust without armor --  he soon became a favorite to the ladies that watched the events. Too much of a favorite it would seem, for one afternoon he was caught frolicking with a knight's betrothed.  A challenge was issued, but in his rush Glen forget to don his bracers. Glen died with a confused grin on his face as the knight's sword struck him, never knowing his own folly.|[[Bracers of Defense AC 3]]|header=yes}}\n\n==Locations==\n* Sold exclusively by [[Ribald Barterman]] in his [[Adventurer Mart]], [[Waukeen's Promenade]]\n\n===Undroppable / Unstealable===\n* Several fellow gladiators in [[The Black Pits II: Gladiators of Thay]] wear them, but never drop them.\n* [[Aran Linvail]] also likes to keep them for himself as does [[Degardan]]\n* And finally, [[Nyalee]] in [[Baldur's Gate II: Throne of Bhaal]] is also very fond of them."
+          }
+        ],
+        "title": "Bracers of Defense AC 3"
+      }
+    }
+  }
+}
