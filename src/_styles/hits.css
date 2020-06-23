@@ -1,0 +1,22 @@
+/**
+ * Hits
+ **/
+.ais-Hits-list {
+  @apply flrw;
+}
+.ais-Hits-item {
+  @apply fla w-100p relative flcnw h-14;
+}
+
+/* Empty results */
+#hits > div:first-child {
+  @apply fla flcnw;
+}
+.ais-Hits--empty {
+  @apply fla flcnw;
+}
+
+/* Highlight */
+.ais-highlight {
+  @apply px-001 bold underline bg-transparent white;
+}

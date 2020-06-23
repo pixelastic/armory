@@ -24,12 +24,14 @@ html(lang='en')
     meta(property='og:description', content=pageDescription)
     meta(property='og:image', content!=pageImage)
     script!=tweaks.ensureUrlTrailingSlashSource
-    link(rel="shortcut icon", href=`${url.pathToRoot}/favicon.png`)
+    link(rel="shortcut icon", href=`${url.pathToRoot}favicon.png`)
     link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))
-    body.arial
-      include /_includes/header
-      .container.mx-auto.p-3.mt-8
-        block content
+    body.verdana.bg-gray-8
+      block content
+      script!=`window.ALGOLIA_CONFIG = ${JSON.stringify(data.algolia)};`
+      script!=`window.CLOUDINARY_CONFIG = ${JSON.stringify(data.cloudinary)};`
+      script!=`window.PATH_TO_ROOT = "${url.pathToRoot}";`
       each jsFile in runtime.jsFiles
         script(src=`${url.pathToRoot}${jsFile}`)
+
 

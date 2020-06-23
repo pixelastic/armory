@@ -1,9 +1,15 @@
 extends /_includes/_layouts/core
 
 block config
-  - pageTitle = "Custom title"
-  - pageDescription = "Custom description"
   //- see also: pageAuthor, pageImage, pageTwitter, pageUrl
 
 block content
-  p This is your website
+  .container.mx-auto.pt-1
+    #searchbox.mb-2
+    #hits.mx-2
+    #pagination.hidden
+
+  textarea#hitTemplate(hidden)
+    include /_includes/_templates/hit
+  textarea#emptyTemplate(hidden)
+    include /_includes/_templates/empty
