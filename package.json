@@ -4,6 +4,7 @@
   "description": "Collection of magical items with lore from video games",
   "devDependencies": {
     "aberlaas": "1.7.1",
+    "algolia-indexing": "1.0.0",
     "firost": "1.7.0",
     "golgoth": "1.2.0",
     "he": "1.2.0",
@@ -22,8 +23,9 @@
     "cms": "./scripts/cms",
     "download:baldur": "node ./scripts/download-baldur.js",
     "download:darksouls": "node ./scripts/download-darksouls.js",
-    "download:images": "node ./scripts/downloadImages.js",
+    "download:images": "node ./scripts/download-images.js",
     "download:pillars": "node ./scripts/download-pillars.js",
+    "indexing": "node ./scripts/indexing.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
