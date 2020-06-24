@@ -9,7 +9,8 @@
     "golgoth": "1.2.0",
     "he": "1.2.0",
     "import2require": "0.1.2",
-    "norska": "0.9.19",
+    "netlify-cli": "2.54.0",
+    "norska": "0.10.0",
     "wtf_wikipedia": "6.3.0"
   },
   "files": [],

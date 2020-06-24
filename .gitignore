@@ -10,3 +10,6 @@ yalc.lock
 yarn-error.log
 *~
 _cache
+
+# Local Netlify folder
+.netlify
