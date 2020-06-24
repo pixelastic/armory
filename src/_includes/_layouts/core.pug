@@ -28,9 +28,15 @@ html(lang='en')
     link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))
     body.verdana.bg-gray-8
       block content
-      script!=`window.ALGOLIA_CONFIG = ${JSON.stringify(data.algolia)};`
-      script!=`window.CLOUDINARY_CONFIG = ${JSON.stringify(data.cloudinary)};`
-      script!=`window.PATH_TO_ROOT = "${url.pathToRoot}";`
+      - 
+        const config = {
+          algolia: data.algolia,
+          cloudinary: data.cloudinary,
+          url,
+          isProduction: data.site.isProduction
+        }
+
+      script!=`window.CONFIG = ${JSON.stringify(config)};`
       each jsFile in runtime.jsFiles
         script(src=`${url.pathToRoot}${jsFile}`)
 

@@ -14,7 +14,7 @@ const algoliaConfig = require('../src/_data/algolia.js');
   const settings = {
     searchableAttributes: ['title', 'description'],
     attributesForFaceting: ['game'],
-    customRanking: [],
+    customRanking: ['desc(wordCount)'],
   };
 
   indexing.verbose();
@@ -24,7 +24,14 @@ const algoliaConfig = require('../src/_data/algolia.js');
 
   const files = await glob('./src/_data/baldur.json');
   const gameRecords = await pMap(files, async filepath => {
-    return await readJson(filepath);
+    const items = await readJson(filepath);
+    return _.map(items, item => {
+      const wordCount = _.words(item.description).length;
+      return {
+        ...item,
+        wordCount,
+      };
+    });
   });
   const records = _.flatten(gameRecords);
   await indexing.fullAtomic(credentials, records, settings);

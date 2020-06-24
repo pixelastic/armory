@@ -6,7 +6,7 @@ const {
   pagination,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
-const credentials = window.ALGOLIA_CONFIG;
+const credentials = window.CONFIG.algolia;
 const transforms = require('./_scripts/transforms.js');
 
 const widgets = [
