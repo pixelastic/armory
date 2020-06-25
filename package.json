@@ -11,6 +11,7 @@
     "import2require": "0.1.2",
     "netlify-cli": "2.54.0",
     "norska": "0.10.0",
+    "pluralize": "8.0.0",
     "wtf_wikipedia": "6.3.0"
   },
   "files": [],

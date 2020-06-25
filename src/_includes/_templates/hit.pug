@@ -3,6 +3,7 @@
     .fln.w-13.h-100p.bg-baldur-scroll.bg-cover.rounded-l-4
       img.lazyload.w-100p.h-100p.object-contain(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")
     .fla.flcnw.py-01.px-1
-      .bold.text-4 {{{title}}}
+      a.bold.text-4(href="{{originalUrl}}") {{{title}}}
+      .text-2 {{type}}
       .pt-02.text-3.arial.overflow-hidden {{{description}}}
 

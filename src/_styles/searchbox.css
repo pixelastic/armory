@@ -18,10 +18,10 @@
   }
 }
 .ais-SearchBox-input {
-  @apply h-8 text-6 w-100p bg-transparent;
-  @apply white text-opacity-75p;
+  @apply h-8 text-6 w-100p bg-transparent pl-2;
+  @apply gray-9 text-opacity-75p;
   &::placeholder {
-    @apply white text-opacity-75p italic text-6;
+    @apply text-opacity-75p italic text-6;
   }
   &:focus {
     @apply outline-none gray-9 text-opacity-100p;

@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "5389": {
+        "ns": 0,
+        "pageid": 5389,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = \n|image = File:Celestial_Fury_item_artwork_BG2.png\n|item_group = Weapons\n|lore_to_identify = 60\n|weight = 3 lbs.\n|combat_type = Melee\n|thac0 = +3\n|damage = 1d10+3\n|damage_type = Slashing\n|speed_factor = 1\n|proficiency_type = Katanas\n|hands = 1-handed\n|special = Stuns opponents unless it make a save vs. spells. 5% chance 20 electrical damage is inflicted\nBlindness and Lightning Strike may be used once per day\n|strength = 6\n|not_usable_by = [[Cleric]], [[Druid]], [[Mages]], [[Sorcerer]]\n|item_value = 7800\n|appears_in = [[Baldur's Gate II: Shadows of Amn]], [[Baldur's Gate II: Enhanced Edition]]\n|item_code = sw1h51\n|item_icon = File:Celestial_Fury_item_icon_BG2.png\n}}'''Celestial Fury''' is a [[katana +3]] in terms of the level of enchantment. It inflicts 1d10+3 points of damage, stuns opponents when they can't make make a save vs. spells (Booming Thunder) and there is a 5% to inflict +20 points of electrical damage (Shocking Blow). The wielder of the blade may also use [[Blindness]] and Lightning Strike (10d6 electrical damage on one creature) once per day when wielding the katana. It has a +3 [[THAC0]] bonus, a speed factor of 1, and it weighs 3 lbs.\n\n==Location==\n===[[Baldur's Gate II: Shadows of Amn]] and the [[Baldur's Gate II: Enhanced Edition|Enhanced Edition]]===\n*Dropped by [[Koshi]] in the [[Guarded Compound]] in [[Athkatla|Athkatla's]] [[Temple District]]\n\n==Description==\n{{quote|Many centuries ago, a trumpet archon named Chin Yi fell in love with a mortal man in Shou Lung and swore to protect him from enemies should he ever ride to war. When that time came, however, Chin Yi's patron goddess Kwan Ying forbade her to intervene, not wishing to contribute to the bloodshed. When Chin Yi's beloved was cut down by a yuan-ti warlord, her grief was terrible and her wrath immediate: Ignoring Kwan Ying's warnings, she flew onto the battlefield and took up her beloved's katana, using the blade to cut down the warlord and all those who served him. She continued the slaughter of the yuan-ti army until Kwan Ying herself appeared before her, arms open and eyes full of sympathy. \"If it will stop this slaughter, I will ease your pain and end your suffering.\"\n\n''\"I do not wish to end my suffering,\" replied Chin Yi. \"I wish for my fury to sound throughout the ages, now and forever.\" Wanting to help her servant, but not wishing to unleash such powerful fury on the world, Kwan Ying bound Chin Yi's spirit to the blade of the man she had failed to protect, and then hid the weapon in a warrior's tomb. The tomb was later infiltrated and the weapon stolen, and although Chin Yi's cries could no longer be heard through the steel of the blade, her vengeance was as brutal as ever.''}}\n\n==Achievements==\n{{main|Achievements}}\n[[File:Fury of the Heavens Achievement icon BG2EE.jpg|left]]\n===Fury of the Heavens===\nAcquire the Celestial Fury blade.\n{{clr}}\n\n==External links==\n* {{FRW}}\n[[Category:Katana]]\n[[Category:Infobox upgrade]]\n[[Category:Electricity damage]]"
+          }
+        ],
+        "title": "Celestial Fury"
+      }
+    }
+  }
+}

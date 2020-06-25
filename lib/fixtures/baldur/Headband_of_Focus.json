@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "25930": {
+        "ns": 0,
+        "pageid": 25930,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = \n|name = Headband of Focus\n|image = PCOMPO17.PNG\n|item_group = Circlet\n|lore_to_identify = 75\n|weight = 1\n|area = [[Coalition Camp]]\n|obtained_from = [[Waizahb]]\n|equipped_abilities = * THAC0: +2 (unarmed attacks)\n* Critical Hit Chance: +5% (unarmed attacks)\n|charge_abilities = * Draw Upon Holy Might once per day\n|not_usable_by = [[Bard]], [[Cleric]], [[Cleric/Mage]], [[Cleric/Thief]], [[Cleric/Ranger]], [[Fighter]], [[Fighter/Druid]], [[Fighter/Mage]], [[Fighter/Cleric]], [[Fighter/Mage/Cleric]], [[Fighter/Mage/Thief]], [[Fighter/Thief]], [[Mage]], [[Mage/Thief]], [[Paladin]], [[Ranger]], [[Thief]], [[Druid]]\n|item_value = 7500\n|appears_in = [[Baldur's Gate: Siege of Dragonspear]]\n|item_code = bdhelm15.ITM|item_icon = 1BAND02.PNG\n}}\n\nMay be purchased from [[Waizahb]].\n\n==Description==\n\n{{Quote\n|A worshipper of Nobanion crafted this gold silk headband, embroidered with abstract running lions along its length, while meditating on the teachings of Lord Firemane. When the headband was complete, the worshipper found that Nobanion had rewarded his fealty by granting the headband the ability to conjure a surge of might within the wearer.\n}}\n\n==Gallery==\n\n<gallery spacing=\"small\">\nPCOMPO17.PNG\n1BAND02.png\n</gallery>\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Headband of Focus"
+      }
+    }
+  }
+}

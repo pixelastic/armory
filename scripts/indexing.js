@@ -13,7 +13,7 @@ const algoliaConfig = require('../src/_data/algolia.js');
   };
   const settings = {
     searchableAttributes: ['title', 'description'],
-    attributesForFaceting: ['game'],
+    attributesForFaceting: ['game', 'type'],
     customRanking: ['desc(wordCount)'],
   };
 

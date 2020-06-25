@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "17403": {
+        "ns": 0,
+        "pageid": 17403,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = |appears_in = [[Baldur's Gate: Siege of Dragonspear]]|item_code = BDSW1H08|name = Dervish Crescent +2|weight = 3|thac0 = -2 bonus|damage = 1d8+2, +1 fire|damage_type = Slashing|speed_factor = 3|proficiency_type = Scimitar/Wakizashi/Ninjatō|hands = One-handed|special = Equipped abilities:<br>Movement Speed: +1<br><br>Combat abilities:<br>10% chance per kill that the wielder will be affected by Fireshield (Red)|strength = 10|lore_to_identify = 70|not_usable_by = Cleric<br>Mage|item_value = 9000|image = BDDSW11600000.PNG|item_icon = BDISW10800000.PNG}}Sold by Nazramu, a djinn you \"pulled\" into your world using [[Spectacles of Spectacle]] during [[Zaviak]]'s [[Zaviak's Vision Quest|Vision Quest]].\n\n==Description==\n{{Quote|The length of this blade is etched with flames, genies, and whirlwinds. Small glittering particles along its length evoke a sandstorm. The style and quality of the blade indicates it was made in Calimshan.}}\n[[Category:Items]]\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Dervish Crescent"
+      }
+    }
+  }
+}

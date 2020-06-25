@@ -1,4 +1,4 @@
-const baldur = require('../lib/baldur.js');
+const baldur = require('../lib/baldur');
 
 (async () => {
   await baldur.run();
