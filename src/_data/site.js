@@ -1,4 +1,4 @@
-module.exports = function() {
+module.exports = function () {
   const isProduction = process.env.NODE_ENV === 'production';
   return {
     defaultDescription:

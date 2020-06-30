@@ -5,7 +5,7 @@ const readJson = require('firost/lib/readJson');
 const glob = require('firost/lib/glob');
 const algoliaConfig = require('../src/_data/algolia.js');
 
-(async function() {
+(async function () {
   const credentials = {
     appId: algoliaConfig.appId,
     apiKey: process.env.ALGOLIA_API_KEY,
@@ -23,9 +23,9 @@ const algoliaConfig = require('../src/_data/algolia.js');
   });
 
   const files = await glob('./src/_data/baldur.json');
-  const gameRecords = await pMap(files, async filepath => {
+  const gameRecords = await pMap(files, async (filepath) => {
     const items = await readJson(filepath);
-    return _.map(items, item => {
+    return _.map(items, (item) => {
       const wordCount = _.words(item.description).length;
       return {
         ...item,
