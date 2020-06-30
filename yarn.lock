@@ -2018,10 +2018,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-algolia-indexing@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/algolia-indexing/-/algolia-indexing-1.0.0.tgz#6fa2dc3373765a8f7213c42dce4332f9774201d7"
-  integrity sha512-8zz/9CJHqGSUscoZsLz+C7t2o7VEzZiv0u7EAROBjW+72r29AiLdnDpc/ibZxxW2Yj6zJW0nalbxiTCsCZvrNA==
+algolia-indexing@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/algolia-indexing/-/algolia-indexing-1.0.1.tgz#747c98ab0e4b6c174fe357b421a10a6a8592f82a"
+  integrity sha512-o0gJRb/N0CEsvczZMBXrV028WZLtljX6/XjYMONPI5eRIYDlqMFHvjRV3jSa158Qbg8owaJC9sFQm/f/XZTMXQ==
   dependencies:
     algoliasearch "4.2.0"
     firost "1.5.1"
