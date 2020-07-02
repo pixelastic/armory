@@ -26,18 +26,11 @@ html(lang='en')
     script!=tweaks.ensureUrlTrailingSlashSource
     link(rel="shortcut icon", href=`${url.pathToRoot}favicon.png`)
     link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))
-    body.verdana.bg-gray-8
-      block content
-      - 
-        const config = {
-          algolia: data.algolia,
-          cloudinary: data.cloudinary,
-          url,
-          isProduction: data.site.isProduction
-        }
+  body.verdana.bg-gray-8
+    block content
 
-      script!=`window.CONFIG = ${JSON.stringify(config)};`
-      each jsFile in runtime.jsFiles
-        script(src=`${url.pathToRoot}${jsFile}`)
+    script!=`window.CONFIG = ${JSON.stringify(data.config)};`
+    each jsFile in runtime.jsFiles
+      script(src=`${url.pathToRoot}${jsFile}`)
 
 

@@ -18,5 +18,5 @@
 
 /* Highlight */
 .ais-highlight {
-  @apply px-001 bold underline bg-transparent white;
+  @apply px-001 bold orange bg-black bg-opacity-10p;
 }

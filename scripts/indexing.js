@@ -3,13 +3,12 @@ const pMap = require('golgoth/lib/pMap');
 const _ = require('golgoth/lib/lodash');
 const readJson = require('firost/lib/readJson');
 const glob = require('firost/lib/glob');
-const algoliaConfig = require('../src/_data/algolia.js');
 
 (async function () {
   const credentials = {
-    appId: algoliaConfig.appId,
+    appId: process.env.ALGOLIA_APP_ID,
     apiKey: process.env.ALGOLIA_API_KEY,
-    indexName: algoliaConfig.indexName,
+    indexName: process.env.ALGOLIA_INDEX_NAME,
   };
   const settings = {
     searchableAttributes: ['title', 'description'],
@@ -22,7 +21,7 @@ const algoliaConfig = require('../src/_data/algolia.js');
     batchMaxSize: 100,
   });
 
-  const files = await glob('./src/_data/baldur.json');
+  const files = await glob('./records/baldur.json');
   const gameRecords = await pMap(files, async (filepath) => {
     const items = await readJson(filepath);
     return _.map(items, (item) => {
