@@ -2619,23 +2619,6 @@
   },
   {
     "_geoloc": {
-      "lat": -27.756,
-      "lng": -26.662
-    },
-    "description": "This is a monument to the dwarven hero Durlag. It is a sword that has been fused into the rock and cannot be removed.<ref name=\"AR0511t5\" />",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Durlag%27s_Pride",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/15/Durlag%27s_Pride.png/revision/latest?cb=20191106190220",
-    "price": 0,
-    "slug": "durlagsPride",
-    "title": "Durlag's Pride",
-    "type": "Sword",
-    "typePlural": "Swords",
-    "uniqueSlug": "baldur-durlagsPride"
-  },
-  {
-    "_geoloc": {
       "lat": -52.53,
       "lng": -18.835
     },
@@ -2956,23 +2939,6 @@
     "type": "Miscellaneous",
     "typePlural": "Miscellaneous",
     "uniqueSlug": "baldur-fflarsScabbard"
-  },
-  {
-    "_geoloc": {
-      "lat": -35.567,
-      "lng": -36.663
-    },
-    "description": "One of the most powerful crossbows in the realms, Firetooth has no need for ammunition as it automatically launches magical arrows of fire.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Firetooth_(crossbow)",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b9/Firetooth_item_artwork_BG2.png/revision/latest?cb=20130730162749",
-    "price": 13250,
-    "slug": "firetooth",
-    "title": "Firetooth",
-    "type": "Light Crossbow",
-    "typePlural": "Light Crossbows",
-    "uniqueSlug": "baldur-firetooth"
   },
   {
     "_geoloc": {
