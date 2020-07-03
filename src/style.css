@@ -4,6 +4,7 @@
 @import 'tailwindcss/utilities';
 
 @import '_styles/searchbox.css';
+@import '_styles/filters.css';
 @import '_styles/hits.css';
 
 .bg-baldur-scroll {

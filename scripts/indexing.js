@@ -22,7 +22,7 @@ const config = require('../src/_data/config.js');
     batchMaxSize: 100,
   });
 
-  const files = await glob('./records/baldur.json');
+  const files = await glob('./src/_data/baldur.json');
   const gameRecords = await pMap(files, async (filepath) => {
     const items = await readJson(filepath);
     return _.map(items, (item) => {

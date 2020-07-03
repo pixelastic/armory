@@ -4,6 +4,7 @@ const {
   configure,
   hits,
   pagination,
+  refinementList,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
@@ -31,6 +32,15 @@ const widgets = [
       showReset: false,
       showSubmit: false,
       showLoadingIndicator: false,
+    },
+  },
+  {
+    type: refinementList,
+    options: {
+      container: '#type',
+      attribute: 'type',
+      limit: 8,
+      sortBy: ['count:desc', 'name:asc'],
     },
   },
   /**
