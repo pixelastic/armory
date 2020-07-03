@@ -2090,7 +2090,7 @@
     "type": "Scimitar"
   },
   {
-    "description": "A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using <PRO_HISHER> shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
+    "description": "A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using their shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Drow_Shield",
@@ -2530,7 +2530,7 @@
     "type": "Gauntlet"
   },
   {
-    "description": "This finely cut and polished stone is indistinguishable from an ordinary jewel in appearance, although a Detect Magic will reveal its enchantment. When gazed through, the gem of seeing enables the user to detect all hidden, illusionary, invisible, astral, ethereal, or out-of-phase things within viewing range, as though <PRO_HESHE> were affected by a True Seeing spell.",
+    "description": "This finely cut and polished stone is indistinguishable from an ordinary jewel in appearance, although a Detect Magic will reveal its enchantment. When gazed through, the gem of seeing enables the user to detect all hidden, illusionary, invisible, astral, ethereal, or out-of-phase things within viewing range, as though they were affected by a True Seeing spell.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Gem_of_Seeing",
@@ -4147,7 +4147,7 @@
     "type": "Ioun Stone"
   },
   {
-    "description": "This much-used but still razor-sharp blade was found in the chest of Ophyllis, a treasurer of the Ducal Palace in Baldur's Gate. While his position ensured that Ophyllis possessed many chests, he only used one to house his lungs, and it was in this particular chest the sword was placed. Ophyllis died an agonized, painful death, but not before he gave the sword to a <PRO_MANWOMAN> to whom he owed a deep personal debt. His mournful voice can still be heard by those who wield the blade.",
+    "description": "This much-used but still razor-sharp blade was found in the chest of Ophyllis, a treasurer of the Ducal Palace in Baldur's Gate. While his position ensured that Ophyllis possessed many chests, he only used one to house his lungs, and it was in this particular chest the sword was placed. Ophyllis died an agonized, painful death, but not before he gave the sword to a person to whom he owed a deep personal debt. His mournful voice can still be heard by those who wield the blade.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ophyllis%27s_Short_Sword",
@@ -4609,7 +4609,7 @@
     "type": "Ring"
   },
   {
-    "description": "Daravorn Kheld was gifted with great talents in the field of thievery and felt that it would be a disservice to the world if he were to perish, and so he commissioned the creation of this ring. Merely putting the ring on causes the outline of the wearer to become shifting and wavering, making it more difficult to spot <PRO_HIMHER> from a distance and target <PRO_HIMHER> with missile weapons. When activated, several exact duplicates of the ring wearer spring up from nowhere. These images do exactly what the original does, making it impossible for opponents to be certain which are the illusions. The effect is fleeting, however, and is best used to escape an unruly situation. Daravorn successfully escaped many potential dangers using this ring, but was eventually captured and drowned within an enclosed water trap.",
+    "description": "Daravorn Kheld was gifted with great talents in the field of thievery and felt that it would be a disservice to the world if he were to perish, and so he commissioned the creation of this ring. Merely putting the ring on causes the outline of the wearer to become shifting and wavering, making it more difficult to spot them from a distance and target them with missile weapons. When activated, several exact duplicates of the ring wearer spring up from nowhere. These images do exactly what the original does, making it impossible for opponents to be certain which are the illusions. The effect is fleeting, however, and is best used to escape an unruly situation. Daravorn successfully escaped many potential dangers using this ring, but was eventually captured and drowned within an enclosed water trap.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ring_of_Duplication",

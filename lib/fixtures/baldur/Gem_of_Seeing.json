@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "19701": {
+        "ns": 0,
+        "pageid": 19701,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = |item_value = 6000|lore_to_identify = 50|charge_abilities = [[True Seeing]] once per day (recharge after resting) for 1 [[Game_Terminology#R|turn]]|not_usable_by = Wizard Slayer|item_code = OHRSCRL1.itm|obtained_from = Reward for passing the Blinding Sun trial in [[Heretic Temple]]|appears_in = BG2EE: SoA|image = CMISC6O00000.PNG|item_icon = OHRSCRL100000.PNG}}Mystic gem capable of fast casting [[True Seeing]].\n\n== Acquisition ==\nIt's one of the [[New items in Baldur's Gate II: Enhanced Edition|new items]] in {{BGIIEESoA}}, obtained during [[Rasaad's Journey]] sidequest as a reward for passing the Blinding sun trial in [[Heretic Temple]].\n\n==Description==\n{{Quote|This finely cut and polished stone is indistinguishable from an ordinary jewel in appearance, although a Detect Magic will reveal its enchantment. When gazed through, the gem of seeing enables the user to detect all hidden, illusionary, invisible, astral, ethereal, or out-of-phase things within viewing range, as though <PRO_HESHE> were affected by a True Seeing spell.}}\n[[Category:Miscellaneous items]]\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Gem of Seeing"
+      }
+    }
+  }
+}

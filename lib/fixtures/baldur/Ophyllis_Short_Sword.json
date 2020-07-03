@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "23010": {
+        "ns": 0,
+        "pageid": 23010,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = |name = Ophyllis's Short Sword +2| general              = Short sword|enchantment_level = 2|lore_to_identify = 65|weight = 2 lb|combat_type = Melee|range = 1 ft|strength = 4|item_value = 7500|appears_in = BG:SoD|item_code = BDSW1H20.itm|thac0 = -2 bonus|damage = 1d6+2 (piercing)|speed_factor = 1|proficiency_type = Short Sword|hands = 1-handed|equipped_abilities = Immunity to Command, Greater Command, and Power Word (any)|combat_abilities = 20% chance per hit of casting [[Deafness]] on the target (bypass MR, save vs. Spell neg)|not_usable_by = Cleric, Druid, Mage, Sorcerer, Shaman<br />Beastmaster|image = CSW1H0900000.PNG|item_icon = ISW1H7400000.PNG}}'''Ophyllis's Short Sword''' is pulled from [[Ophyllis]]'s chest at the end of [[My Missed Fortune|his quest line]] as his amendment for failure to protect the Ward's gold.\n\n==Description==\n{{Quote|This much-used but still razor-sharp blade was found in the chest of Ophyllis, a treasurer of the Ducal Palace in Baldur's Gate. While his position ensured that Ophyllis possessed many chests, he only used one to house his lungs, and it was in this particular chest the sword was placed. Ophyllis died an agonized, painful death, but not before he gave the sword to a <PRO_MANWOMAN> to whom he owed a deep personal debt. His mournful voice can still be heard by those who wield the blade.}}\n[[Category:Items in BG: SoD]]\n[[Category:New items in BG: SoD]]\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Ophyllis's Short Sword"
+      }
+    }
+  }
+}

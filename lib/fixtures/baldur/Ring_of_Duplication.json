@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "23437": {
+        "ns": 0,
+        "pageid": 23437,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = |appears_in = BGIIEE:SoA|item_group = Ring|missable = Only the during encounter with Vagrant Blades|item_value = 4000|item_code = OHRRING1.itm|lore_to_identify = 45|weight = 0|equipped_abilities = *Armor Class: -1 vs. missile attacks\n*Hide In Shadows: +10|charge_abilities = [[Mirror Image]] for 18 rounds three times per <s>day</s> rest (5 images)|not_usable_by = Wizard Slayer|image = OHRCRNG100000.PNG|item_icon = OHRIRNG100000.PNG}}Dropped by [[Dalton]] from the [[Vagrant Blades]] adventure group in the southeastern part of [[Abandoned Amphitheater]], an area visited during [[Rasaad yn Bashir|Rasaad]]'s [[Rasaad's Journey|companion quest]].\n\n==Description==\n{{Quote|Daravorn Kheld was gifted with great talents in the field of thievery and felt that it would be a disservice to the world if he were to perish, and so he commissioned the creation of this ring. Merely putting the ring on causes the outline of the wearer to become shifting and wavering, making it more difficult to spot <PRO_HIMHER> from a distance and target <PRO_HIMHER> with missile weapons. When activated, several exact duplicates of the ring wearer spring up from nowhere. These images do exactly what the original does, making it impossible for opponents to be certain which are the illusions. The effect is fleeting, however, and is best used to escape an unruly situation. Daravorn successfully escaped many potential dangers using this ring, but was eventually captured and drowned within an enclosed water trap.}}\n[[Category:Items]]\n[[Category:Rings]]\n[[Category:Items in BG II: EE: SoA]]\n[[Category:New items in BG II: EE: SoA]]\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Ring of Duplication"
+      }
+    }
+  }
+}
