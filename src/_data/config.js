@@ -7,8 +7,8 @@ module.exports = {
   baseUrl,
   cloudinary: norskaConfig.cloudinary,
   algolia: {
-    appId: process.env.ALGOLIA_APP_ID,
+    appId: 'O3F8QXYK6R',
     apiKey: '730f3328ddee2cec9d3407c72626c825',
-    indexName: process.env.ALGOLIA_INDEX_NAME,
+    indexName: 'gamemaster_artefacts',
   },
 };

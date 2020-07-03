@@ -3,12 +3,13 @@ const pMap = require('golgoth/lib/pMap');
 const _ = require('golgoth/lib/lodash');
 const readJson = require('firost/lib/readJson');
 const glob = require('firost/lib/glob');
+const config = require('../src/_data/config.js');
 
 (async function () {
   const credentials = {
-    appId: process.env.ALGOLIA_APP_ID,
+    appId: config.algolia.appId,
     apiKey: process.env.ALGOLIA_API_KEY,
-    indexName: process.env.ALGOLIA_INDEX_NAME,
+    indexName: config.algolia.indexName,
   };
   const settings = {
     searchableAttributes: ['title', 'description'],
