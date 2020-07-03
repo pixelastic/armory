@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "9169": {
+        "ns": 0,
+        "pageid": 9169,
+        "revisions": [
+          {
+            "*": "{{confuse|Dragon's Breath (spell)}}\n\n{{infobox item\n|name = Dragon's Breath +4\n|bg1ee_tbp1           = no\n|bg1_wo_totsc         = no\n|bg1_w_totsc          = no\n|bg1_totsc            = no\n|bg1ee_wo_sod         = no\n|bg1ee_w_sod          = no\n|bg1ee_sod            = no\n|bg2_soa_wo_tob       = yes\n|bg2_soa_w_tob        = no\n|bg2ee_soa            = yes\n|bg2_tob              = no\n|bg2ee_tob            = no\n|bg2ee_tbp2_got       = no\n|cut_content          = no\n|mod_content          = no\n|cursed               = no\n|critical_item        = no\n|image = Dragon's Breath item artwork BG2.png\n|item_group = Weapons\n|lore_to_identify = 75\n|weight = 12 lbs.\n|combat_type = Melee\n|range = 2 ft.\n|thac0 = -4 bonus\n|enchantment = 4\n|damage = 1d10\n|damage_type = Piercing\n|speed_factor = 5\n|proficiency_type = Halberd\n|hands = 2-handed\n|dmg_acid = 1\n|dmg_cold = 1\n|dmg_electricity = 1\n|dmg_fire = 1\n|dmg_poison = 1\n|strength = 13\n|not_usable_by = [[Beast Master]], [[Cleric]], [[Druid]], [[Mage]], [[Monk]], [[Sorcerer]], [[Thief]]\n|item_value = 6500\n|item_code = HALB05\n|item_icon = Dragon's Breath item icon BG2.png\n}}\n'''Dragon's Breath''' is an enchanted halberd +4, which deals piercing and 1 point of every magical damage type.\n\nThis item appears in [[Baldur's Gate II: Shadows of Amn]] and [[Baldur's Gate II: Enhanced Edition]]. It is dropped by Boz in the [[Underdark]] when you leave [[Ust Natha]] after being asked to rescue [[Phaere]].\n\n==Description==\n{{quote|Halberd +4 Dragon's Breath\nTrying to profit from the strength of greater beings, many years ago the mage Ullion founded a dragon-worshipping cult under the moniker \"Son of Drago.\" Attracting followers with promises of conquest, he sought to secure his authority by enchanting this symbolic weapon for his bodyguard, Jaramor Bold. When the Dragon's Breath strikes an opponent it releases the harsh flames of a red dragon, the poisonous vapor of the green dragon, the blue dragon's lightning bolt, a spray of a black dragon's acid, and the white dragon's penetrating cold. Unfortunately, Ullion was the first to feel its effects, slain by the ambitious Jaramor who sought to rule. There was no real power to be had without the mage, so the entire organization soon collapsed on itself.}}\n\n==Gameplay==\n*The fire, acid elemental damage on hit can be used to kill [[:Category:Trolls|trolls]].\n*The three types of elemental (fire, cold and electricity) damage will also bypass effects such as [[Stoneskin]] even if the physical damage is blocked, making the weapon an excellent enemy caster interrupter .\n*It deals every type of magical damage, which makes it good weapon to determine if an opponent is completely immune to a specific element. Another weapon for this purpose could be the [[Flail_of_Ages#Flail_of_Ages_+5|Flail of Ages +5]].\n[[Category:Halberds]]\n[[Category:Piercing damage]]\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Dragon's Breath (item)"
+      }
+    }
+  }
+}

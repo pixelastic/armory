@@ -256,10 +256,10 @@
   },
   {
     "_geoloc": {
-      "lat": -61.066,
-      "lng": -58.824
+      "lat": -10.966,
+      "lng": -26.542
     },
-    "description": "Mace +1: Ardulia's Fall\nArdulia the Agile was a man whose speed and skill at knife play made him exceptionally lethal in battle, and he repeatedly proved it by leading raids on settlements along the Sword Coast. He would often challenge the village leader for possession of the town, and with his speed, the duels were always quickly decided in his favor. Ardulia met his match one spring morn however, when he battled the priest Itgan, who wielded this mace. Ardulia seemed to stagger under each blow, slowing his pace to recoup and regain his breath. Without his speed, Ardulia was lost, and fell to the measured attacks of Itgan.",
+    "description": "Ardulia the Agile was a man whose speed and skill at knife play made him exceptionally lethal in battle, and he repeatedly proved it by leading raids on settlements along the Sword Coast. He would often challenge the village leader for possession of the town, and with his speed, the duels were always quickly decided in his favor. Ardulia met his match one spring morn however, when he battled the priest Itgan, who wielded this mace. Ardulia seemed to stagger under each blow, slowing his pace to recoup and regain his breath. Without his speed, Ardulia was lost, and fell to the measured attacks of Itgan.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ardulia%27s_Fall",
@@ -2347,10 +2347,10 @@
   },
   {
     "_geoloc": {
-      "lat": 46.264,
-      "lng": -1.288
+      "lat": -8.668,
+      "lng": -33.874
     },
-    "description": "Halberd +3: Dragon's Bane\nThis was the weapon of Thorvin Dukal, one of seven self-proclaimed Dragonslayers who spent years railing against what they called \"an insidious dragon infestation that threatened Faerun.\" Thorvin had this weapon enchanted at great expense and used it on many occasions, though of dragons only a single white has fallen to it. The Dragonslayers met their match in a cantankerous ancient red who slew the entire group in an epic battle. This weapon did not end up in the beast's hoard however, as the creature returned to its lair to recuperate and when it emerged the field of combat was well scavenged.",
+    "description": "This was the weapon of Thorvin Dukal, one of seven self-proclaimed Dragonslayers who spent years railing against what they called \"an insidious dragon infestation that threatened Faerun.\" Thorvin had this weapon enchanted at great expense and used it on many occasions, though of dragons only a single white has fallen to it. The Dragonslayers met their match in a cantankerous ancient red who slew the entire group in an epic battle. This weapon did not end up in the beast's hoard however, as the creature returned to its lair to recuperate and when it emerged the field of combat was well scavenged.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Dragon%27s_Bane",
@@ -2364,20 +2364,20 @@
   },
   {
     "_geoloc": {
-      "lat": 30.437,
-      "lng": -3.071
+      "lat": 56.609,
+      "lng": 39.313
     },
-    "description": "Halberd +4 Dragon's Breath\nTrying to profit from the strength of greater beings, many years ago the mage Ullion founded a dragon-worshipping cult under the moniker \"Son of Drago.\" Attracting followers with promises of conquest, he sought to secure his authority by enchanting this symbolic weapon for his bodyguard, Jaramor Bold. When the Dragon's Breath strikes an opponent it releases the harsh flames of a red dragon, the poisonous vapor of the green dragon, the blue dragon's lightning bolt, a spray of a black dragon's acid, and the white dragon's penetrating cold. Unfortunately, Ullion was the first to feel its effects, slain by the ambitious Jaramor who sought to rule. There was no real power to be had without the mage, so the entire organization soon collapsed on itself.",
+    "description": "Trying to profit from the strength of greater beings, many years ago the mage Ullion founded a dragon-worshipping cult under the moniker \"Son of Drago.\" Attracting followers with promises of conquest, he sought to secure his authority by enchanting this symbolic weapon for his bodyguard, Jaramor Bold. When the Dragon's Breath strikes an opponent it releases the harsh flames of a red dragon, the poisonous vapor of the green dragon, the blue dragon's lightning bolt, a spray of a black dragon's acid, and the white dragon's penetrating cold. Unfortunately, Ullion was the first to feel its effects, slain by the ambitious Jaramor who sought to rule. There was no real power to be had without the mage, so the entire organization soon collapsed on itself.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Dragon%27s_Breath_(item)",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a6/Dragon%27s_Breath_item_artwork_BG2.png/revision/latest?cb=20200304141743",
     "price": 6500,
-    "slug": "dragonsBreathItem",
-    "title": "Dragon's Breath (item)",
+    "slug": "dragonsBreath",
+    "title": "Dragon's Breath",
     "type": "Halberd",
     "typePlural": "Halberds",
-    "uniqueSlug": "baldur-dragonsBreathItem"
+    "uniqueSlug": "baldur-dragonsBreath"
   },
   {
     "_geoloc": {
@@ -2636,10 +2636,10 @@
   },
   {
     "_geoloc": {
-      "lat": -3.946,
-      "lng": 38.554
+      "lat": -52.53,
+      "lng": -18.835
     },
-    "description": "Halberd +2 Duskblade\nThough once a simple halberd, this weapon spent many hundreds of years in a tomb next to the soul phylactery of a powerful lich. The creature was eventually erased from existence, purportedly by another of its kind, but such close proximity to that concentrated evil has imbued this blade with the very essence of night and the chill of darkness, energy that becomes deadly in combat. It is a foul weapon, and a warrior should use it with caution.",
+    "description": "Though once a simple halberd, this weapon spent many hundreds of years in a tomb next to the soul phylactery of a powerful lich. The creature was eventually erased from existence, purportedly by another of its kind, but such close proximity to that concentrated evil has imbued this blade with the very essence of night and the chill of darkness, energy that becomes deadly in combat. It is a foul weapon, and a warrior should use it with caution.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Duskblade",
@@ -2959,8 +2959,8 @@
   },
   {
     "_geoloc": {
-      "lat": 38.579,
-      "lng": -58.339
+      "lat": -35.567,
+      "lng": -36.663
     },
     "description": "One of the most powerful crossbows in the realms, Firetooth has no need for ammunition as it automatically launches magical arrows of fire.",
     "game": "Baldur's Gate",
@@ -2968,16 +2968,16 @@
     "originalUrl": "http://baldursgate.wikia.com/wiki/Firetooth_(crossbow)",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b9/Firetooth_item_artwork_BG2.png/revision/latest?cb=20130730162749",
     "price": 13250,
-    "slug": "firetoothCrossbow",
-    "title": "Firetooth (crossbow)",
+    "slug": "firetooth",
+    "title": "Firetooth",
     "type": "Light Crossbow",
     "typePlural": "Light Crossbows",
-    "uniqueSlug": "baldur-firetoothCrossbow"
+    "uniqueSlug": "baldur-firetooth"
   },
   {
     "_geoloc": {
-      "lat": -49.698,
-      "lng": 15.203
+      "lat": 22.679,
+      "lng": -60.868
     },
     "description": "This throwing knife is imbued with magical fire, and was supposedly carved from an extracted red dragon tooth. Tavern tales suggest that the beast is still alive, her anger fueling the enchantment within the weapon. Though fanciful, the story is consistent, and it is said the dagger returns to the thrower \"as though on wings.\"",
     "game": "Baldur's Gate",
@@ -2985,11 +2985,11 @@
     "originalUrl": "http://baldursgate.wikia.com/wiki/Firetooth_(dagger)",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d5/Fire_Tooth_item_artwork_BG2.png/revision/latest?cb=20200326073730",
     "price": 5500,
-    "slug": "firetoothDagger",
-    "title": "Firetooth (dagger)",
+    "slug": "firetooth",
+    "title": "Firetooth",
     "type": "Throwing Dagger",
     "typePlural": "Throwing Daggers",
-    "uniqueSlug": "baldur-firetoothDagger"
+    "uniqueSlug": "baldur-firetooth"
   },
   {
     "_geoloc": {
@@ -3741,10 +3741,10 @@
   },
   {
     "_geoloc": {
-      "lat": 12.836,
-      "lng": 63.252
+      "lat": -50.657,
+      "lng": -49.849
     },
-    "description": "Harrower +1, +3 vs. undead\nThis double-edged long sword gleams white even in the reddest of torchlight. The Dethek runes along its sides name the blade \"Harrower,\" a weapon once wielded by Ariabel, a Waterdhavian Paladin of Lathander who once carried the weapon into combat against the vampire Zerafex and her host of unholy spawn. Ariabel did not survive the contest, but decades later a gang of Tethyrian tomb robbers recovered her sword from the crypt where she fell.",
+    "description": "This double-edged long sword gleams white even in the reddest of torchlight. The Dethek runes along its sides name the blade \"Harrower,\" a weapon once wielded by Ariabel, a Waterdhavian Paladin of Lathander who once carried the weapon into combat against the vampire Zerafex and her host of unholy spawn. Ariabel did not survive the contest, but decades later a gang of Tethyrian tomb robbers recovered her sword from the crypt where she fell.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Harrower",
@@ -4132,8 +4132,8 @@
   },
   {
     "_geoloc": {
-      "lat": 24.132,
-      "lng": -42.149
+      "lat": -36.153,
+      "lng": 8.131
     },
     "description": "This \"dagger\" is actually the tip of Ixil's Nail - an artifact of almost unimaginable power. Even this small piece of the legendary spear is a fierce weapon.",
     "game": "Baldur's Gate",
@@ -4141,11 +4141,11 @@
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ixil%27s_Spike_(dagger)",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/92/Ixil%27s_Spike_item_artwork_BG2.png/revision/latest?cb=20131109222915",
     "price": 2000,
-    "slug": "ixilsSpikeDagger",
-    "title": "Ixil's Spike (dagger)",
+    "slug": "ixilsSpike",
+    "title": "Ixil's Spike",
     "type": "Dagger",
     "typePlural": "Daggers",
-    "uniqueSlug": "baldur-ixilsSpikeDagger"
+    "uniqueSlug": "baldur-ixilsSpike"
   },
   {
     "_geoloc": {
@@ -4387,10 +4387,10 @@
   },
   {
     "_geoloc": {
-      "lat": -16.903,
-      "lng": 37.68
+      "lat": -34.393,
+      "lng": 5.884
     },
-    "description": "''Kundane +2: Sword of Quickness''\n\n''Disfigured as a child, Dramnek Olk was ostracized and ridiculed by his peers. In his loneliness he spent many hours alone on the hills overlooking Trademeet. A nearby wizard, Galloma discovered the youth and found in him a kindred soul. The two fast became friends; master and apprentice. Galloma died before Dramnek's tutorage could be completed however and the youth found himself once more alone in the world.  Eventually he made his way to the streets of Athkatla. There he became a cutpurse, augmenting his thieving skills with the little magic he'd learned from Galloma.  Eventually he crafted this sword, which enhanced Dramnek's weak physical body. This weapon has no speed factor.''",
+    "description": "''Disfigured as a child, Dramnek Olk was ostracized and ridiculed by his peers. In his loneliness he spent many hours alone on the hills overlooking Trademeet. A nearby wizard, Galloma discovered the youth and found in him a kindred soul. The two fast became friends; master and apprentice. Galloma died before Dramnek's tutorage could be completed however and the youth found himself once more alone in the world.  Eventually he made his way to the streets of Athkatla. There he became a cutpurse, augmenting his thieving skills with the little magic he'd learned from Galloma.  Eventually he crafted this sword, which enhanced Dramnek's weak physical body. This weapon has no speed factor.''",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Kundane",
@@ -5628,10 +5628,10 @@
   },
   {
     "_geoloc": {
-      "lat": 13.687,
-      "lng": -44.297
+      "lat": -3.124,
+      "lng": 7.055
     },
-    "description": "Ring of Protection +1: Ring of the Princes\n\nThis ring and several of its type were originally crafted to protect the sons of King Castter De'wess, though who uttered the enchantment is unknown. History records that the rings remained within that family for at least 13 generations, though they were all apparently lost within the space of one.  Enmity between the King and the family of the creator may be to blame.",
+    "description": "This ring and several of its type were originally crafted to protect the sons of King Castter De'wess, though who uttered the enchantment is unknown. History records that the rings remained within that family for at least 13 generations, though they were all apparently lost within the space of one.  Enmity between the King and the family of the creator may be to blame.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Ring_of_the_Princes",
@@ -6325,10 +6325,10 @@
   },
   {
     "_geoloc": {
-      "lat": 63.331,
-      "lng": -8.384
+      "lat": -42.834,
+      "lng": -44.619
     },
-    "description": "Two Handed Sword +4: Soul Reaver\nA social faux pas placed upstart Andor Licon in a duel with Baron Eeirk, heir to a warrior king. Though they seemed of even skill, Andor grew oddly weaker with each hit of the Baron's family blade. Panicking, he bade his bodyguards kill Eeirk. Despite his claims of morality, some noted that the young noble had positioned his men before the duel was even underway, and though he professed disdain for its dark magic, Andor made a tidy fortune off the sale of the evil blade.",
+    "description": "A social faux pas placed upstart Andor Licon in a duel with Baron Eeirk, heir to a warrior king. Though they seemed of even skill, Andor grew oddly weaker with each hit of the Baron's family blade. Panicking, he bade his bodyguards kill Eeirk. Despite his claims of morality, some noted that the young noble had positioned his men before the duel was even underway, and though he professed disdain for its dark magic, Andor made a tidy fortune off the sale of the evil blade.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Soul_Reaver",
@@ -7243,10 +7243,10 @@
   },
   {
     "_geoloc": {
-      "lat": 20.953,
-      "lng": 20.553
+      "lat": 54.064,
+      "lng": -51.799
     },
-    "description": "Ring of protection +2: The Guard's Ring.\n\nThe guard was an immortal sentry assigned to protect a tomb that sheltered the body of a princess of the Akanal. Over millennia respect for the grave disappeared with the memory of the royal family, and adventurers began to try their luck with the Guard. It was inevitable that he would eventually be bested, and when he was, the ring he wore was one of many treasures taken from the tomb.",
+    "description": "The guard was an immortal sentry assigned to protect a tomb that sheltered the body of a princess of the Akanal. Over millennia respect for the grave disappeared with the memory of the royal family, and adventurers began to try their luck with the Guard. It was inevitable that he would eventually be bested, and when he was, the ring he wore was one of many treasures taken from the tomb.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/The_Guard%27s_Ring",
@@ -8127,8 +8127,8 @@
   },
   {
     "_geoloc": {
-      "lat": -1.282,
-      "lng": 15.202
+      "lat": 53.788,
+      "lng": -0.804
     },
     "description": "Bala's Axe -Wizard Slayer: Bala was once a foul-tempered prince of a gully dwarf clan, which was enslaved by a cruel elven mage in Thesk. Though Bala managed to escape the more cowardly traits of his race he was even more filthy and obnoxious than the average gully dwarf. Sickened of his enslavement, Bala crept into the mage's lair and cracked the elf's skull open. Although rumor has it that it was the dwarf's stench that overcame the mage, it was, in fact, his enchanted axe that dispelled the elf's magical defense. It is obvious from poor craftmanship that Bala crafted the axe. The mystery lies in where its power originates. After a lenghty career of mage-slaying, Bala died, never having revealed his secret to those who were willing to risk a lice infestation by approaching him. Some say that the axe was powered by Bala's intense hatred of wizards. The axe gives the owner the ability to dispel magic once a day.",
     "game": "Baldur's Gate",
@@ -8136,11 +8136,11 @@
     "originalUrl": "http://baldursgate.wikia.com/wiki/Wizard_Slayer_(weapon)",
     "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/18/Battle_Axe%2B1.png/revision/latest?cb=20121222152618",
     "price": 3000,
-    "slug": "wizardSlayerWeapon",
-    "title": "Wizard Slayer (weapon)",
+    "slug": "wizardSlayer",
+    "title": "Wizard Slayer",
     "type": "Axe",
     "typePlural": "Axes",
-    "uniqueSlug": "baldur-wizardSlayerWeapon"
+    "uniqueSlug": "baldur-wizardSlayer"
   },
   {
     "_geoloc": {
@@ -8229,10 +8229,10 @@
   },
   {
     "_geoloc": {
-      "lat": 6.268,
-      "lng": -0.667
+      "lat": 37.985,
+      "lng": 13.727
     },
-    "description": "Morningstar +2: Wyvern's Tail\nThe large spike at the head of this morningstar is actually the lethal stinger of a wyvern. The mage-fighter Sedej created this weapon, using his magical abilities to keep the stinger capable of producing poison. The magic he used has actually made the Wyvern's Tail a living weapon, that pulses with life in the hands of its wielder.",
+    "description": "The large spike at the head of this morningstar is actually the lethal stinger of a wyvern. The mage-fighter Sedej created this weapon, using his magical abilities to keep the stinger capable of producing poison. The magic he used has actually made the Wyvern's Tail a living weapon, that pulses with life in the hands of its wielder.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
     "originalUrl": "http://baldursgate.wikia.com/wiki/Wyvern%27s_Tail",
