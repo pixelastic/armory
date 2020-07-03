@@ -12,6 +12,7 @@ module.exports = {
         options: {
           hitsPerPage: 4,
           facetFilters: [`type:${item.type}`],
+          aroundLatLng: `${item._geoloc.lat}, ${item._geoloc.lng}`,
         },
       },
       {
