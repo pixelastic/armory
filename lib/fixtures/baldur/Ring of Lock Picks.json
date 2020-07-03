@@ -1,0 +1,16 @@
+{
+  "query": {
+    "pages": {
+      "7819": {
+        "ns": 0,
+        "pageid": 7819,
+        "revisions": [
+          {
+            "*": "{{infobox item\n|cursed               = \n|critical_item        = \n|image = File:Ring_of_Lock_Picks_item_artwork_BG2.png\n|item_group = Armor\n|lore_to_identify = 55\n|weight = 0 lbs.\n|special = +25% to lock picking.\n|only_usable_by = Thieves\n|item_value = 3000\n|appears_in = Baldur's Gate II and Baldur's Gate II: EE\n|item_code = RING35\n|item_icon = File:Ring_of_Lock_Picks_item_icon_BG2.png\n}}The '''Ring of Lock Picks''' is a [[ring]] in ''[[Baldur's Gate II: Shadows of Amn|Shadows of Amn]]'' that's only usable by [[thieves]].\n\n==Location==\nFound in the cellar of the [[Shadow Thief Guildhall]].\n\nIf you side with the [[Shadow Thieves]], you should talk to the Shadow Thief in the north eastermost room. If you side with the other side, you have the opportunity to obtain it while murdering everyone.\n\n==Description==\n{{quote|Ring of Lock Picks\nDerek Drak, one of the most talented burglars in the Shadow Thieve's guild, wore this ring on many of his scores. The ring enhanced Derek's already impressive lock picking abilities. In the city of Athkatla there wasn't a door that could not be unlocked by Derek. To activate the ring, the proper command word must be known at which point the garnet stone on the ring will polymorph into the shape of a key that closely fits the lock.}}\n[[Category:Rings]]\n[[Category:Infobox Incomplete]]\n[[Category:Infobox upgrade]]"
+          }
+        ],
+        "title": "Ring of Lock Picks"
+      }
+    }
+  }
+}

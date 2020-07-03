@@ -2,10 +2,10 @@
  * Filters
  **/
 .ais-RefinementList-list {
-  @apply flrw flspb;
+  @apply flrw;
 }
 .ais-RefinementList-item {
-  @apply fln px-01;
+  @apply fln pr-1;
   .ais-RefinementList-label {
     @apply bg-gray-3 rounded-2 flrnw pointer shadow-2;
     @apply transform transition-transform transition-colors;
@@ -30,7 +30,7 @@
   }
 }
 .ais-RefinementList-item--selected {
-   @apply bold;
+  @apply bold;
   .ais-RefinementList-label {
     @apply bg-orange-8 white;
     .ais-RefinementList-count {
