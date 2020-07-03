@@ -1,0 +1,21 @@
+extends /_includes/_layouts/core
+
+block config
+  - pageId = "item"
+
+block content
+
+  .flrnw.flc.helvetica
+    .fln.bg-gray-3.rounded-4.shadow.p-1
+      .flrnw
+        .fln.w-13.flcnw
+          .flrnw.flc.bg-baldur-scroll.rounded-4.shadow-2
+            +img(src=`/assets/pictures/${data.item.gameSlug}/${data.item.slug}.png`)
+          .fln.flcnw.py-1
+            .fln.text-2.text-center=data.item.type
+            a.fln.pt-1.text-2.blue-8.hover_blue.transition-colors(href=data.item.originalUrl target="_blank") See on wiki
+
+        .fln.flcnw.py-01.px-1
+          .bold.text-4=data.item.title
+          .w-75ch.helvetica.pt-02.text-3.lh-4=data.item.description
+

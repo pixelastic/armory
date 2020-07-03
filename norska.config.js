@@ -7,10 +7,10 @@ module.exports = {
   },
   hooks: {
     async afterHtml({ createPage }) {
-      const template = '_includes/_layouts/page.pug';
+      const template = '_includes/_layouts/item.pug';
 
-      // const items = [...baldurItems];
-      const items = [baldurItems[332]];
+      const items = [...baldurItems];
+      // const items = [baldurItems[332]];
       await pMap(items, async (item) => {
         const { gameSlug, slug } = item;
         const destination = `${gameSlug}/${slug}/index.html`;

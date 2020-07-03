@@ -9548,10 +9548,10 @@ norska-cloudinary@^0.13.6:
     norska-config "^0.13.6"
     norska-helper "^0.13.0"
 
-norska-cms@^0.13.6:
-  version "0.13.6"
-  resolved "https://registry.npmjs.org/norska-cms/-/norska-cms-0.13.6.tgz#530d24b618bd70f6d6cc7a910bd953c306bf5f35"
-  integrity sha512-foPZhMGe/hZMjFPjhGxlw0PoV9hsAh5qlA/Qw3S6pwlAKh92/MLHSfPTPFHWp3JTsEEP82wJp+g0+vyaWy3A2w==
+norska-cms@^0.13.7:
+  version "0.13.7"
+  resolved "https://registry.npmjs.org/norska-cms/-/norska-cms-0.13.7.tgz#07d9cbe83b23798d92f8dbff584c5c7a5aceb0b7"
+  integrity sha512-Bsw/xYIrpCtZBD0PfMWldF3iKbWQZird93k8melQIliE4J2ygFz64Ct9ddXJQ7t7sw4GFdv2oUkWLE+I6FIr9Q==
   dependencies:
     connect-livereload "0.6.1"
     express "4.17.1"
@@ -9561,7 +9561,7 @@ norska-cms@^0.13.6:
     multer "1.4.2"
     nodemon "2.0.4"
     norska-config "^0.13.6"
-    norska-css "^0.13.6"
+    norska-css "^0.13.7"
     norska-helper "^0.13.0"
     open "7.0.4"
 
@@ -9574,10 +9574,10 @@ norska-config@^0.13.6:
     golgoth "1.3.0"
     norska-helper "^0.13.0"
 
-norska-css@^0.13.6:
-  version "0.13.6"
-  resolved "https://registry.npmjs.org/norska-css/-/norska-css-0.13.6.tgz#d92e63bf9ddb4b734c7bd22a8daa7371390f75ab"
-  integrity sha512-54bS/uJSdcFMORVffZySEtmZ4f1/VBcLjDRbjEwlcJtvs1oP8Pyd51XCssl+cy/lN0ZfwVKLf9eq2g1JVaqg4w==
+norska-css@^0.13.7:
+  version "0.13.7"
+  resolved "https://registry.npmjs.org/norska-css/-/norska-css-0.13.7.tgz#ae483e70a53533c1605fbe207ee960dfbd9bb73d"
+  integrity sha512-dDOs+6vGS6MbdbmtcJ3qO3Lr661eE1WVKZUAg6eplquNk06ltEj+ol56w4HxOABzTJ2uCm0bD3eMhwUouxhn5A==
   dependencies:
     "@fullhuman/postcss-purgecss" "1.3.0"
     autoprefixer "9.8.4"
@@ -9590,7 +9590,7 @@ norska-css@^0.13.6:
     postcss-import "12.0.1"
     postcss-nested "4.2.1"
     purge-from-html "1.0.3"
-    tailwind-config-norska "0.2.3"
+    tailwind-config-norska "0.2.4"
     tailwindcss "1.4.6"
 
 norska-data@^0.13.6:
@@ -9602,10 +9602,10 @@ norska-data@^0.13.6:
     golgoth "1.3.0"
     norska-config "^0.13.6"
 
-norska-frontend@^0.13.6:
-  version "0.13.6"
-  resolved "https://registry.npmjs.org/norska-frontend/-/norska-frontend-0.13.6.tgz#9bee2ae628ee402ea95afe0c4a3022bd3b33b1b8"
-  integrity sha512-yoJdFlXl77cSZvFp1MCSnv8E/jrrud+dv7e4iovcoj0ZlDeRdOEiwPPStH6qd9cw/rrvyvpvdjmWZqrseVuhpA==
+norska-frontend@^0.13.7:
+  version "0.13.7"
+  resolved "https://registry.npmjs.org/norska-frontend/-/norska-frontend-0.13.7.tgz#5bc28b8e654dae28a6ac30f00a6db0b53f1044f9"
+  integrity sha512-WuZRz3qmK2e3TW4M/Ff1XYbNuhHu10xn2U0SGn2dL73u/d2dowVZnN85zkNGdHUZmyBM4/pBuXXOMd3Kf7Uavw==
   dependencies:
     algoliasearch "4.3.0"
     instantsearch.js "4.7.0"
@@ -9620,10 +9620,10 @@ norska-helper@^0.13.0:
   dependencies:
     golgoth "1.3.0"
 
-norska-html@^0.13.6:
-  version "0.13.6"
-  resolved "https://registry.npmjs.org/norska-html/-/norska-html-0.13.6.tgz#259ea1e78ac9a9e993f30e47f173cd9384630e07"
-  integrity sha512-jONc3x8MmMIatwPj97lS3+gEDnwCnjKeqQ/ncksukjA3m2FPNjilFmZYN8PxQKCLIfIeKoAk034xrKP0kBcTQg==
+norska-html@^0.13.7:
+  version "0.13.7"
+  resolved "https://registry.npmjs.org/norska-html/-/norska-html-0.13.7.tgz#7972b2efe1ac414e4c18938c43d09b2dab95b613"
+  integrity sha512-WpL1JcvyWIMEbt6CNKS57BYzwfqaCR52R+cFaDlRkQhRekqHIReEUv6xKGKKy8ADhicQij49UpEDJREtUuIZvg==
   dependencies:
     ensure-url-trailing-slash "0.1.4"
     firost "1.10.1"
@@ -9634,7 +9634,7 @@ norska-html@^0.13.6:
     norska-cloudinary "^0.13.6"
     norska-config "^0.13.6"
     norska-data "^0.13.6"
-    norska-frontend "^0.13.6"
+    norska-frontend "^0.13.7"
     norska-helper "^0.13.0"
     norska-revv "^0.13.6"
     pug "3.0.0"
@@ -9685,10 +9685,10 @@ norska-revv@^0.13.6:
     norska-helper "^0.13.0"
     rev-hash "^3.0.0"
 
-norska@0.13.6:
-  version "0.13.6"
-  resolved "https://registry.npmjs.org/norska/-/norska-0.13.6.tgz#c1db3e7a689db7ae2bed8237a6cc1953589b7d70"
-  integrity sha512-D8VfRXq5WJO8Fd7uL6Wj/65jXbyf135I3xE0k76SmTvwSfp+62zGhdKj8DyDrAiUHSBNTYCbpFJFkB1b859iUQ==
+norska@0.13.7:
+  version "0.13.7"
+  resolved "https://registry.npmjs.org/norska/-/norska-0.13.7.tgz#6acd40369537e2fea3b9c07b37f7a5f985f1533e"
+  integrity sha512-4jr4yVA+5S4T90X3d+CymWJSYdz6TX/xEgnNzT0ER8SgEZOKp4kiiwk4UygwWm2tYK3CLPTM2pT0LrsJP7V1ew==
   dependencies:
     firost "1.10.1"
     golgoth "1.3.0"
@@ -9696,12 +9696,12 @@ norska@0.13.6:
     minimist "1.2.5"
     norska-assets "^0.13.6"
     norska-cloudinary "^0.13.6"
-    norska-cms "^0.13.6"
+    norska-cms "^0.13.7"
     norska-config "^0.13.6"
-    norska-css "^0.13.6"
-    norska-frontend "^0.13.6"
+    norska-css "^0.13.7"
+    norska-frontend "^0.13.7"
     norska-helper "^0.13.0"
-    norska-html "^0.13.6"
+    norska-html "^0.13.7"
     norska-init "^0.13.6"
     norska-js "^0.13.6"
     norska-netlify "^0.13.6"
@@ -12764,10 +12764,10 @@ table@^5.2.3, table@^5.4.6:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
-tailwind-config-norska@0.2.3:
-  version "0.2.3"
-  resolved "https://registry.npmjs.org/tailwind-config-norska/-/tailwind-config-norska-0.2.3.tgz#1329c143e2c66dd0df22f6c7b780e3f19a820b2f"
-  integrity sha512-BKe0rubsHNh2CHqGdmjd/X+smJN6velEq1PfuK6fZ6H+TfD0hvVV1TfY3H/Z80jZhFXvqtFHqQR3kOLn/eYC8Q==
+tailwind-config-norska@0.2.4:
+  version "0.2.4"
+  resolved "https://registry.npmjs.org/tailwind-config-norska/-/tailwind-config-norska-0.2.4.tgz#22eb35ecd5077c714014215afa0d02851d71393e"
+  integrity sha512-1+eCCZakx4676CzfK5ykcOhLEnuSRaxBi+WEaQ/Xjl1cZCwti8bQhTxR6zudzZK1TnReIKdXhnFtsRbYPovntg==
   dependencies:
     golgoth "1.3.0"
     hex-rgb "4.1.0"

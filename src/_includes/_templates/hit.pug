@@ -1,9 +1,11 @@
-a.fla.mb-1.mr-1.flcnw(href="{{link}}")
-  .fla.flrnw.bg-gray-3.rounded-4.shadow
-    .fln.w-13.h-100p.bg-baldur-scroll.bg-cover.rounded-l-4
-      img.lazyload.w-100p.h-100p.object-contain(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")
-    .fla.flcnw.py-01.px-1
-      .bold.text-4 {{{title}}}
-      .text-2 {{type}}
-      .pt-02.text-3.arial.overflow-hidden {{{description}}}
+.fla.flrnw.flrch
+  a.fln.mb-1.mr-1.flcnw.transform.transition-transform.duration-03.hover_scale-110p(href="{{link}}")
+    .fla.flrnw.bg-gray-3.rounded-4.shadow
+      .fln.w-13.h-100p.bg-baldur-scroll.bg-cover.rounded-l-4
+        img.lazyload.w-100p.h-100p.object-contain(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")
+      .fln.flcnw.my-01.mx-1.w-75ch.relative
+        .bold.text-4 {{{title}}}
+        .text-2 {{type}}
+        .pt-02.text-3.arial.overflow-hidden {{{description}}}
+        .absolute.bottom-0.w-100p.bg-gradient-y.bg-gradient-to-gray-3.h-6
 

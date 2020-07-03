@@ -16,10 +16,10 @@
 #index .__content {
   @apply hidden;
 }
-#page .__hits {
+#item .__hits {
   @apply hidden;
 }
-#page[data-hasQuery] {
+#item[data-hasQuery] {
   .__hits {
     @apply block;
   }
