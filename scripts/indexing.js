@@ -13,7 +13,7 @@ const config = require('../src/_data/config.js');
   };
   const settings = {
     searchableAttributes: ['title', 'description'],
-    attributesForFaceting: ['game', 'type'],
+    attributesForFaceting: ['game', 'gameSlug', 'uniqueSlug', 'type'],
     customRanking: ['desc(wordCount)'],
   };
 

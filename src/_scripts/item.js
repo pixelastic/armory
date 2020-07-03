@@ -11,7 +11,7 @@ module.exports = {
         type: configure,
         options: {
           hitsPerPage: 4,
-          facetFilters: [`type:${item.type}`],
+          facetFilters: [`type:${item.type}`, `uniqueSlug:-${item.uniqueSlug}`],
           aroundLatLng: `${item._geoloc.lat}, ${item._geoloc.lng}`,
         },
       },
