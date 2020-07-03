@@ -1,6 +1,4 @@
+const huskyConfig = require('aberlaas/lib/configs/husky.js');
 module.exports = {
-  hooks: {
-    'pre-commit': 'yarn run lint',
-    'pre-push': 'yarn run test',
-  },
+  ...huskyConfig,
 };

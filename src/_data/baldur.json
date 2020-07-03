@@ -231,50 +231,6 @@
     "type": "Light Armor"
   },
   {
-    "description": "The flight arrow, as its name implies, is built for distance. These are lightweight arrows and are often used for hunting. Most of these arrows are made of ash or birch and are thirty to forty inches long.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Arrow",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/6d/Arrow_item_artwork_BG2.png/revision/latest?cb=20200318100335",
-    "price": 0,
-    "slug": "arrow",
-    "title": "Arrow",
-    "type": "Arrow"
-  },
-  {
-    "description": "Minor enchantments guarantee magical arrows improved accuracy.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Arrow_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7c/Arrow_%2B1_item_artwork_BG2.png/revision/latest?cb=20130629065831",
-    "price": 0,
-    "slug": "arrow1",
-    "title": "Arrow +1",
-    "type": "Arrow"
-  },
-  {
-    "description": "These arrows were enhanced through magical means when they were created. They appear slightly straighter than the average arrow, almost alive as they effortlessly leave your bow and streak towards their target with deadly accuracy.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Arrow_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/f9/Arrow_%2B2_item_artwork_BG2.png/revision/latest?cb=20200328154920",
-    "price": 0,
-    "slug": "arrow2",
-    "title": "Arrow +2",
-    "type": "Arrow"
-  },
-  {
-    "description": "These enchanted missiles far surpass the craftsmanship of any arrow, magical or otherwise, you have ever seen.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Arrow_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0b/Arrow_%2B3_item_artwork_BG2.png/revision/latest?cb=20130629070133",
-    "price": 20,
-    "slug": "arrow3",
-    "title": "Arrow +3",
-    "type": "Arrow"
-  },
-  {
     "description": "This is an arrow whose head has been enchanted with the same energy used in an Antimagic Field spell. It is said that the wizard who perfected the creation of these arrows was later hunted down and murdered by his own peers. Very few wizards in Faerûn know how to create these arrows, and they seldom reveal this knowledge for fear of retribution from other wizards.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -462,28 +418,6 @@
     "type": "Club"
   },
   {
-    "description": "Most thieves favor bladed weapons when striking from the shadows, but not all. Whether due to religious convictions, personal preference, or anti-establishment tendencies, some thieves prefer to backstab their enemies with a blunt instrument.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Backwhacker_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/81/CBLUN01.PNG/revision/latest?cb=20180407210621",
-    "price": 4500,
-    "slug": "backwhacker2",
-    "title": "Backwhacker +2",
-    "type": "Club"
-  },
-  {
-    "description": "A simple cloth bag may be used for holding any number of items.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bag_of_Plenty",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/20/PQUIVR0300000.PNG/revision/latest?cb=20180302160345",
-    "price": 2000,
-    "slug": "bagOfPlenty",
-    "title": "Bag of Plenty",
-    "type": "Sling"
-  },
-  {
     "description": "This ostentatious peacock-blue hat is festooned with green and purple feathers. Once the possession of an unfailingly chipper bard, the hat was stolen when the bard couldn't resist showing off the hat in a seedy tavern and bragging about its magical powers. In truth the hat has only moderate enchantments on it, but its stylish appearance makes it a coveted choice for many bards.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -506,39 +440,6 @@
     "type": "Gauntlet"
   },
   {
-    "description": "Also known as the hand-and-a-half sword, the bastard sword derives its name from the fact that it is is halfway between the two-handed sword and the long sword. The bastard sword has a double edged blade and a long grip, which can accommodate both hands if preferred. The overall length of the sword ranged between four feet and four feet ten inches.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bastard_Sword_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7c/Bastard_Sword%2B1.png/revision/latest?cb=20121222152500",
-    "price": 2500,
-    "slug": "bastardSword1",
-    "title": "Bastard Sword +1",
-    "type": "Bastard Sword"
-  },
-  {
-    "description": "Not only has a smith made this sword so that it is better balanced and more durable than a standard blade, powerful enchantments have also been placed on it. It is faster, more accurate, and hits for far more damage than the standard of its type.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bastard_Sword_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/40/Bastard_Sword_%2B2_item_artwork_BG2.png/revision/latest?cb=20200420011643",
-    "price": 5000,
-    "slug": "bastardSword2",
-    "title": "Bastard Sword +2",
-    "type": "Bastard Sword"
-  },
-  {
-    "description": "Also known as the hand-and-a-half sword, the bastard sword derives its name from the fact that it is halfway between the two-handed sword and the long sword. This is a magical bastard sword.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bastard_Sword_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/fe/Bastard_Sword_%2B3_item_artwork_BG2.png/revision/latest?cb=20140704224156",
-    "price": 5500,
-    "slug": "bastardSword3",
-    "title": "Bastard Sword +3",
-    "type": "Bastard Sword"
-  },
-  {
     "description": "The grand mage Batalista intended this item to aid in his travels in the Plane of Fire, and it is said he repeatedly summoned a salamander from that realm to aid in the construction. Salamanders not being known for their patience, it is likely he should not have pestered his \"instructor\" quite so much. The finger bearing the finished ring was indeed untouched by the inferno that claimed his tower. Had that finger still been attached, Batalista himself might have fared better.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -548,28 +449,6 @@
     "slug": "batalistasPassport",
     "title": "Batalista's Passport",
     "type": "Ring"
-  },
-  {
-    "description": "The most common version of the battle axe is a stout pole about four feet in length with a single-edged, trumpet-shaped blade mounted on one end.  Battle axes are also called broad axes. Magical battle axes are normally crafted by dwarves to help defend their warriors against their harsher neighbors. This magical axe has seen many battles but its enchantments and craftsmanship make it a very capable weapon still.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Battle_Axe_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/6c/Battle_Axe_%2B2_%282%29_item_artwork_BG2.png/revision/latest?cb=20130716130851",
-    "price": 3000,
-    "slug": "battleAxe2",
-    "title": "Battle Axe +2",
-    "type": "Axe"
-  },
-  {
-    "description": "The most common version of the battle axe is a stout pole about four feet in length with a single-edged, trumpet-shaped blade mounted on one end.  Battle axes are also called broad axes. Magical battle axes are normally crafted by dwarves to help defend their warriors against their harsher neighbors. This magical axe has seen many battles but its enchantments and craftsmanship make it a very capable weapon still.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Battle_Axe_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/6c/Battle_Axe_%2B2_%282%29_item_artwork_BG2.png/revision/latest?cb=20130716130851",
-    "price": 4000,
-    "slug": "battleAxe3",
-    "title": "Battle Axe +3",
-    "type": "Axe"
   },
   {
     "description": "Battle axe +2: 'Battle Axe of Mauletar.' During the Tethyr civil war, the Battle Axe of Mauletar was in the possession of the house of Ormynd. This family was betrayed while trying to flee the country, and Mauletar, lead guard and personal friend, took up the axe and sacrifiiced himself to buy enough time for his companions to flee. His battle cry was favored by the gods, and was echoed across the lands as a symbol of devoted friendship and loyalty. Thus, the magical axe was used to uphold these virtues, to be used against those who lacked honor and courage.",
@@ -638,17 +517,6 @@
     "type": "Belt"
   },
   {
-    "description": "Long has the world marveled at the Golden Pantaloons, the Silver Pantaloons, and to a lesser extent, the Bronze Pantalettes. Revealed here for the first time are the secrets of their gregariously girding gussets that so softly shield your shanks. Ye gods! Get to identifyin' already! Now it can be told!",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Big_Metal_Unit",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7e/PSECRT0500000.PNG/revision/latest?cb=20171110021552",
-    "price": 0,
-    "slug": "bigMetalUnit",
-    "title": "Big Metal Unit",
-    "type": "Heavy Armor"
-  },
-  {
     "description": "A fist-shaped brass buckle secures this belt of thick elk hide. The old bloodstains on the leather hint at unspeakable carnage, but the misspelled graffiti scratched into its surface suggests that the girdle's former owners were none too bright.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -704,17 +572,6 @@
     "type": "Bastard Sword"
   },
   {
-    "description": "This is a part of the Equalizer, a great long sword forged long ago as a tool for balancing the powers of the universe. Also known as the 'sword of neutrality', it did greater damage the further the target's alignment was from True Neutral. The Equalizer was last rumored to have been wielded by the elven hero Alaine Greenleaf, who was lost during a voyage to the Underdark. Other rumors have, however, proposed that the blade's pommel gem was stolen by an escaped slave who returned to the surface world.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Blade_of_the_Equalizer",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/f8/Blade_of_the_Equalizer_item_artwork_BG2.png/revision/latest?cb=20130604142426",
-    "price": 200,
-    "slug": "bladeOfTheEqualizer",
-    "title": "Blade of the Equalizer",
-    "type": "Component"
-  },
-  {
     "description": "The lore of this suit is difficult to determine, either due to the exotic circumstances from which it sprang, or the wish of its previous owner to conceal its location. Secrecy would certainly be desirable, as even rumors of such a mail as this could provoke deadly interest. It is the pinnacle of elven craft, and a truly blessed item.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -768,28 +625,6 @@
     "slug": "bloodyBonePlate",
     "title": "Bloody Bone Plate",
     "type": "Heavy Armor"
-  },
-  {
-    "description": "Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size.  However this bolt has been imbued with a small amount of magical properties which enhances performance in flight, almost as if the bolt was guided towards its target.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bolt_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/e6/Bolt_%2B1_item_artwork_BG2.png/revision/latest?cb=20130629070831",
-    "price": 10,
-    "slug": "bolt1",
-    "title": "Bolt +1",
-    "type": "Crossbow"
-  },
-  {
-    "description": "These enchanted missiles far surpass the craftsmanship of any bolt, magical or otherwise, you have ever seen.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bolt_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/e/e2/Bolt_%2B3_item_artwork_BG2.png/revision/latest?cb=20130629071125",
-    "price": 20,
-    "slug": "bolt3",
-    "title": "Bolt +3",
-    "type": "Crossbow"
   },
   {
     "description": "The bolt of biting was designed as a deadly compliment to the crossbow. With the barbed tip coated in a nasty poison that will infiltrate the bloodstream of its victim causing agony and oft-times, death.",
@@ -1067,28 +902,6 @@
     "type": "Ioun Stone"
   },
   {
-    "description": "A buckler is a small shield of wood or metal that fastens to the forearm. Because of its size it is light and can be worn with very little restriction to movement. This buckler has some form of generic enchantment, making it more resistant to blows.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Buckler_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/99/Small_shield2.png/revision/latest?cb=20120124223941",
-    "price": 250,
-    "slug": "buckler1",
-    "title": "Buckler +1",
-    "type": "Buckler"
-  },
-  {
-    "description": "A buckler is a small shield of wood or metal that fastens to the forearm. Because of its size it is light and can be worn with very little restriction to movement. This buckler has some form of generic enchantment, making it more resistant to blows.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Buckler_%2B1_(Skeleton_shield)",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/99/Small_shield2.png/revision/latest?cb=20120124223941",
-    "price": 250,
-    "slug": "buckler1SkeletonShield",
-    "title": "Buckler +1 (Skeleton shield)",
-    "type": "Buckler"
-  },
-  {
     "description": "Members of the Flaming Fist mercenary company that serves Baldur's Gate and surrounding areas often carry these bucklers. A red flame emblazoned on the front of the shining bucklers clearly identifies the bearer's loyalty. Experienced Flaming Fist members often have their shields enchanted.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -1109,50 +922,6 @@
     "slug": "buckleysBuckler",
     "title": "Buckley's Buckler",
     "type": "Buckler"
-  },
-  {
-    "description": "Magical currents are embedded inside this bullet so that it seems a little more balanced and lighter as it jumps towards an opponent.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/30/Bullet_%2B1_item_artwork_BG2.png/revision/latest?cb=20130625083327",
-    "price": 15,
-    "slug": "bullet1",
-    "title": "Bullet +1",
-    "type": "Sling"
-  },
-  {
-    "description": "Magical currents are embedded inside this bullet so that it seems a little more balanced and lighter as it jumps towards an opponent.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d4/Bullet_enchanted_item_artwork_BG2.png/revision/latest?cb=20130625083924",
-    "price": 15,
-    "slug": "bullet2",
-    "title": "Bullet +2",
-    "type": "Sling"
-  },
-  {
-    "description": "Magical currents are embedded inside this bullet so that it seems a little more balanced and lighter as it jumps towards an opponent.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d4/Bullet_enchanted_item_artwork_BG2.png/revision/latest?cb=20130625083924",
-    "price": 20,
-    "slug": "bullet3",
-    "title": "Bullet +3",
-    "type": "Bullet"
-  },
-  {
-    "description": "Magical currents are embedded inside this bullet so that it seems a little more balanced and lighter as it jumps towards an opponent.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bullet_%2B4",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d4/Bullet_enchanted_item_artwork_BG2.png/revision/latest?cb=20130625083924",
-    "price": 25,
-    "slug": "bullet4",
-    "title": "Bullet +4",
-    "type": "Bullet"
   },
   {
     "description": "Each of these copper bullets is molded around the vertebrae of an electric eel. Upon impact, they release a powerful jolt to the target.",
@@ -1208,17 +977,6 @@
     "slug": "celestialFury",
     "title": "Celestial Fury",
     "type": "Katana"
-  },
-  {
-    "description": "Chain mail is made of interlocking metal rings. It is always worn over a layer of padded fabric or soft leather to prevent chafing and lessen the impact of blows. Extra protection is given by magical enchantments placed on this armor.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Chain_Mail_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8c/Chain_Mail_%2B2_item_artwork_BG2.png/revision/latest?cb=20130625085913",
-    "price": 5000,
-    "slug": "chainMail2",
-    "title": "Chain Mail +2",
-    "type": "Heavy Armor"
   },
   {
     "description": "These rare suits of armor allow the wearer to assume a number of interesting forms.",
@@ -1331,17 +1089,6 @@
     "type": "Cloak"
   },
   {
-    "description": "This simple cloak has been imbued with some small magical properties to help protect its wearer. It does so by affecting both saving throws and armor class. It is ideal for mages and others who cannot wear bulkier or more restrictive types of armor.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cloak_of_Protection_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3f/Cloak_of_Protection_%2B1_item_artwork_BG2.png/revision/latest?cb=20200330141422",
-    "price": 5000,
-    "slug": "cloakOfProtection1",
-    "title": "Cloak of Protection +1",
-    "type": "Cloak"
-  },
-  {
     "description": "Cloak of Reflection: Vorn Druidslayer crafted this cloak and used it with great success in his campaign to eliminate the druids from all the woods south of Baldur's Gate. His campaign ended abruptly when he encountered a flock of wyverns, who were attracted by the cloak's sheen. They killed Vorn and used the cloak to cover their nest, serving to protect their young during electrical storms.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -1408,39 +1155,6 @@
     "type": "Girdle"
   },
   {
-    "description": "Most clubs are stout, hardwood sticks, narrow at the grip and wider at the end. This simple weapon has been used since mankind first began using tools. Anyone can find a good stout piece of wood and swing it; hence the club's widespread use.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Club",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Club_item_artwork_BG2.png/revision/latest?cb=20200318104537",
-    "price": 0,
-    "slug": "club",
-    "title": "Club",
-    "type": "Club"
-  },
-  {
-    "description": "From chair legs to felled trees, clubs are the universal weapons of everyone from tavern brawlers to hill giants. A little extra weight, maybe a spike or two, and a little enchantment never hurt. Which is to say, it always hurts.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Club_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Club_item_artwork_BG2.png/revision/latest?cb=20200318104537",
-    "price": 1200,
-    "slug": "club1",
-    "title": "Club +1",
-    "type": "Club"
-  },
-  {
-    "description": "Most clubs are stout, hardwood sticks, narrow at the grip and wider at the end. This simple weapon has been used since mankind first began using tools. Anyone can find a good stout piece of wood and swing it; hence the club's widespread use. This particular club has been magically enhanced.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Club_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Club_item_artwork_BG2.png/revision/latest?cb=20200318104537",
-    "price": 3000,
-    "slug": "club3",
-    "title": "Club +3",
-    "type": "Club"
-  },
-  {
     "description": "This crude wooden club burns with the raging spirit of the demon forever trapped within by the powerful enchantments placed on the weapon. Occasionally, however, the demon's wrath escapes in a fiery blast.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -1450,50 +1164,6 @@
     "slug": "clubOfDetonation",
     "title": "Club of Detonation",
     "type": "Club"
-  },
-  {
-    "description": "Composite bows are longbows or shortbows whose staves are made from more than one type of material.  This gives greater flexibility, and thus better range.  These were developed after the normal longbow.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/77/Composite_long_bow2.png/revision/latest?cb=20200317120352",
-    "price": 100,
-    "slug": "compositeLongbow",
-    "title": "Composite Longbow",
-    "type": "Composite Longbow"
-  },
-  {
-    "description": "Composite bows are longbows or shortbows whose staves are made from more than one type of material.  This gives greater flexibility, and thus better range.  These were developed after the normal longbow.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/be/Composite_Longbow%2B1.png/revision/latest?cb=20121222153444",
-    "price": 2500,
-    "slug": "compositeLongbow1",
-    "title": "Composite Longbow +1",
-    "type": "Composite Longbow"
-  },
-  {
-    "description": "This longbow is marked with the seal of a sunburst. It probably once was a bow used by guards in the service of the god Amaunator. These guards would use the enchanted bows to keep the priests of that long dead faith safe.  Few of these bows still exist, so they are sought after by many archers looking to improve both their accuracy and their lethality. This bow requires a strength of 18 to use.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/31/Composite_Long_Bow_item_artwork_1_BG2.png/revision/latest?cb=20130625165621",
-    "price": 2750,
-    "slug": "compositeLongbow2",
-    "title": "Composite Longbow +2",
-    "type": "Composite Longbow"
-  },
-  {
-    "description": "This longbow is marked with the seal of a sunburst. It probably once was a bow used by guards in the service of the god Amaunator. These guards would use the enchanted bows to keep the priests of that long dead faith safe.  Few of these bows still exist, so they are sought after by many archers looking to improve both their accuracy and their lethality. This bow requires a strength of 18 to use.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Composite_Longbow_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/31/Composite_Long_Bow_item_artwork_1_BG2.png/revision/latest?cb=20130625165621",
-    "price": 3750,
-    "slug": "compositeLongbow3",
-    "title": "Composite Longbow +3",
-    "type": "Composite Longbow"
   },
   {
     "description": "This armor, long in the Corthala bloodline, protects the user against all forms of attacks. The armor is enchanted so that it grants a +3 bonus to Valygar's armor class. It also adds a bonus to resisting acid, fire and magical damage. The armor also makes Valygar immune to charm while he wears it. As it is specially fitted for Valygar, few other than he may wear it.",
@@ -1628,50 +1298,6 @@
     "type": "Mace"
   },
   {
-    "description": "This scroll is cursed. It would be unwise to read it, as the effects could prove fatal.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Foolishness",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a5/CSCRL3D00000.PNG/revision/latest?cb=20200410145443",
-    "price": 300,
-    "slug": "cursedScrollOfFoolishness",
-    "title": "Cursed Scroll of Foolishness",
-    "type": "Cursed Scroll"
-  },
-  {
-    "description": "This scroll is cursed. It would be unwise to read it, as the effects could prove fatal.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Petrification",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a5/CSCRL3D00000.PNG/revision/latest?cb=20200410145443",
-    "price": 300,
-    "slug": "cursedScrollOfPetrification",
-    "title": "Cursed Scroll of Petrification",
-    "type": "Cursed Scroll"
-  },
-  {
-    "description": "This scroll is cursed. It would be unwise to read it, as the effects could prove fatal.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Summon_Monster",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a5/CSCRL3D00000.PNG/revision/latest?cb=20200410145443",
-    "price": 0,
-    "slug": "cursedScrollOfSummonMonster",
-    "title": "Cursed Scroll of Summon Monster",
-    "type": "Cursed Scroll"
-  },
-  {
-    "description": "This scroll is cursed. It would be unwise to read it, as the effects could prove fatal.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Cursed_Scroll_of_Ugliness",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a5/CSCRL3D00000.PNG/revision/latest?cb=20200410145443",
-    "price": 0,
-    "slug": "cursedScrollOfUgliness",
-    "title": "Cursed Scroll of Ugliness",
-    "type": "Cursed Scroll"
-  },
-  {
     "description": "This weapon has a bloody history, having been used to exercise its namesake many times. Popular among the assassin trade for its size and enchantment, it has been in the possession of many of the Realms' more dangerous citizens, though seldom remaining in one place any length of time.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -1681,50 +1307,6 @@
     "slug": "cutthroat",
     "title": "Cutthroat",
     "type": "Short Sword"
-  },
-  {
-    "description": "The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Dagger",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/26/CDAGG0100000.PNG/revision/latest?cb=20200330062725",
-    "price": 0,
-    "slug": "dagger",
-    "title": "Dagger",
-    "type": "Dagger"
-  },
-  {
-    "description": "The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Dagger_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b2/Dagger_plus_one.png/revision/latest?cb=20200319093927",
-    "price": 300,
-    "slug": "dagger1",
-    "title": "Dagger +1",
-    "type": "Dagger"
-  },
-  {
-    "description": "The typical dagger has a pointed, double-edged blade, as opposed to a knife which has a single edge and is a bit shorter. This particular dagger is magical, having special bonuses to its speed, accuracy, and damage it causes.  Also, since it is magical, is it capable of striking opponents that are immune to normal weapons, such as vampires, elementals and mummies.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Dagger_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/36/Dagger_%2B2_item_artwork_BG2.png/revision/latest?cb=20130711083122",
-    "price": 2000,
-    "slug": "dagger2",
-    "title": "Dagger +2",
-    "type": "Dagger"
-  },
-  {
-    "description": "The typical dagger has a pointed, double-edged blade, as opposed to a knife which has a single edge and is a bit shorter. This particular dagger is magical, having special bonuses to its speed, accuracy, and damage it causes. Also, since it is magical, is it capable of striking opponents that are immune to normal weapons, such as vampires, elementals and mummies.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Dagger_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/34/Dagger_%2B3_item_artwork_BG2.png/revision/latest?cb=20140704224311",
-    "price": 3000,
-    "slug": "dagger3",
-    "title": "Dagger +3",
-    "type": "Dagger"
   },
   {
     "description": "This dagger is a potent blade favored by assassins all across the realms. This particular dagger of venom was created for use by the Shadow Thieves of Amn. Every time it hits an opponent, it secretes a venom into the bloodstream of the creature. The venom works quickly and efficiently.",
@@ -2222,17 +1804,6 @@
     "type": "Dagger"
   },
   {
-    "description": "Woven by the finest of elven craftsmen, this mail feels more akin to cloth than to metal. The armor may be worn by thieves with few penalties and by fighter-mages without removing their spellcasting ability.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Elven_Chain_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3e/Elven_Chain_Mail_%2B1_item_artwork_BG2.png/revision/latest?cb=20130716132832",
-    "price": 7500,
-    "slug": "elvenChain1",
-    "title": "Elven Chain +1",
-    "type": "Heavy Armor"
-  },
-  {
     "description": "This yew bow is more a work of art than a weapon of war: Fine engravings dance over the polished wood, and the bowstring gleams of gold, almost singing when drawn. This was a ceremonial bow in the Elven Court for a thousand years, though that is scarcely a single lifetime in elven terms. Every 50 years or so it was granted to someone who had performed a great service, the recipient eventually choosing who would hold it next. Two centuries ago, a human, Yin Pon, rescued an elven prince and was gifted the bow, which he carried with him to Baldur's Gate, where it was subsequently lost.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -2365,39 +1936,6 @@
     "type": "Throwing Dagger"
   },
   {
-    "description": "The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon has been enhanced magically, effectively forming a bond between the weapon and its wielder.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Flail_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8c/Flail_%2B1_item_artwork_BG2.png/revision/latest?cb=20200318104805",
-    "price": 2000,
-    "slug": "flail1",
-    "title": "Flail +1",
-    "type": "Flail"
-  },
-  {
-    "description": "The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. This particular flail has been magically enhanced.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Flail_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0e/Flail_item_artwork_1_BG2.png/revision/latest?cb=20130730163033",
-    "price": 3000,
-    "slug": "flail2",
-    "title": "Flail +2",
-    "type": "Flail"
-  },
-  {
-    "description": "The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. This particular flail has been magically enhanced.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Flail_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0e/Flail_item_artwork_1_BG2.png/revision/latest?cb=20130730163033",
-    "price": 4000,
-    "slug": "flail3",
-    "title": "Flail +3",
-    "type": "Flail"
-  },
-  {
     "description": "Two Handed Sword: Flame of the North\nThe title does not refer to the blade itself, but rather to the woman who originally wielded it in the icy hinterlands of Faerun. Her name was Carerra, and she was a veritable firestorm that swept across arctic trolls and the northern orcish tribes.  She was a hated enemy of many a shaman whose magic often floundered against her fury. After a lifetime of raucous battle, it was old age that eventually claimed her. The sword was passed to her granddaughter, an adventurer, who presumably brought it to Amn.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -2464,28 +2002,6 @@
     "type": "Axe"
   },
   {
-    "description": "Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail. With its magical enchantments, this suit of full plate is ideal for warriors.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Full_Plate_Armor_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/cb/CPLAT1400000.PNG/revision/latest?cb=20200511063056",
-    "price": 8000,
-    "slug": "fullPlateArmor1",
-    "title": "Full Plate Armor +1",
-    "type": "Full Plate"
-  },
-  {
-    "description": "Full plate armor is the best armor a warrior can buy, both in appearance and protection, and the enchantments on this suit are particularly powerful. The intricate engraving and spectacular embossing adorning the suit are of indeterminate origin, as is the armor itself.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Full_Plate_Mail_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/44/Full_Plate_Mail_%2B2_item_artwork_BG2.png/revision/latest?cb=20130730164329",
-    "price": 15000,
-    "slug": "fullPlateMail2",
-    "title": "Full Plate Mail +2",
-    "type": "Heavy Armor"
-  },
-  {
     "description": "Legend holds that the mage who created this magical footwear trapped the spirit of an actual gargoyle within these boots. Unfortunately, they couldn't protect the nameless wizard from the vengeance of the gargoyle's mate.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -2539,28 +2055,6 @@
     "slug": "gemOfSeeing",
     "title": "Gem of Seeing",
     "type": "GARBAGE"
-  },
-  {
-    "description": "This is one part of the Gesen Bow, a powerful short bow created by Gesen Khan... and used on its own creator when it was stolen by the Shadow Thieves.  Legend relates that the bow fires bolts of lightning instead of arrows, and it has been highly sought in the past by Shadow Thieves for use by their assassins and by Cowled Wizards for study..",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Gesen_Bow_String",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0a/Bow_String_item_artwork_BG2.png/revision/latest?cb=20130629071550",
-    "price": 0,
-    "slug": "gesenBowString",
-    "title": "Gesen Bow String",
-    "type": "Component"
-  },
-  {
-    "description": "(placeholder) Ghost Locket description",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Ghost_Locket",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/18/Lock_of_Jaheira%27s_hair_item_artwork_BG2.png/revision/latest?cb=20131116160541",
-    "price": 100,
-    "slug": "ghostLocket",
-    "title": "Ghost Locket",
-    "type": "Necklace"
   },
   {
     "description": "Though hard to verify, it is claimed that the bowstring of this crossbow is made from the hair of a frost giant. Whatever the truth, the weapon is incredibly hard to draw, although its accuracy and subsequent damage are well worth the strain required (strength of 15 or greater).",
@@ -2761,17 +2255,6 @@
     "type": "Ioun Stone"
   },
   {
-    "description": "Pantaloons of a quality heretofore unseen by the eyes of either man or beast. Dynamic styling and comfort that cradles, cuddles and coddles. Seduce your thighs, cajole your calves; enjoy Golden Pantaloons... TODAY! Trousers you would be proud to take home to mother, if mother rode fast and fought hard.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Golden_Pantaloons",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/cb/CMISC4700000.PNG/revision/latest?cb=20180218093424",
-    "price": 2,
-    "slug": "goldenPantaloons",
-    "title": "Golden Pantaloons",
-    "type": "Component"
-  },
-  {
     "description": "Judging by the arcane symbols printed on its cover, it is clear that this book is imbued with magical properties of one sort or another. Until you attempt to either read or identify it, however, its precise nature will remain unknown to you.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -2836,39 +2319,6 @@
     "slug": "greenstoneAmulet",
     "title": "Greenstone Amulet",
     "type": "Amulet"
-  },
-  {
-    "description": "Like others of its type, this halberds consists of a cleaver-like axe blade mounted on a staff approximately six feet in lenght. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone, while its barbed tip will seek out gaps in their armor.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Halberd_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/5/58/Halberd_%2B1_item_artwork_BG2.png/revision/latest?cb=20130822194735",
-    "price": 2000,
-    "slug": "halberd1",
-    "title": "Halberd +1",
-    "type": "Halberd"
-  },
-  {
-    "description": "Consisting of a cleaver-like axe blade mounted on a staff averaging six feet in length, the halberd is the oldest and most often used pole-arm. It is best described as a cross between a spear and an axe. Magic has been used to forge this particular weapon, gifting it with enhanced abilities to slaughter foes.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Halberd_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7c/Halberd_%2B2_item_artwork_BG2.png/revision/latest?cb=20130822194915",
-    "price": 3500,
-    "slug": "halberd2",
-    "title": "Halberd +2",
-    "type": "Halberd"
-  },
-  {
-    "description": "Consisting of a cleaver-like axe blade mounted on a staff averaging six feet in length, the halberd is the oldest and most often used pole-arm. It is best described as a cross between a spear and an axe. Magic has been used to forge this particular weapon, gifting it with enhanced abilities to slaughter foes.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Halberd_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7c/Halberd_%2B2_item_artwork_BG2.png/revision/latest?cb=20130822194915",
-    "price": 4500,
-    "slug": "halberd3",
-    "title": "Halberd +3",
-    "type": "Halberd"
   },
   {
     "description": "The electrum-plated shaft of this weapon hums with magical power. Occasionally, blue bolts of energy run down the length of the spear, charging it. In battle when it hits an opponent, it strikes for additional electricity damage.",
@@ -3036,39 +2486,6 @@
     "type": "Composite Longbow"
   },
   {
-    "description": "A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt). This crossbow is magical.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Heavy_Crossbow_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8f/Heavy_Crossbow_%2B1_item_artwork_BG2.png/revision/latest?cb=20130822200843",
-    "price": 3000,
-    "slug": "heavyCrossbow1",
-    "title": "Heavy Crossbow +1",
-    "type": "Heavy Crossbow"
-  },
-  {
-    "description": "A crossbow is a bow mounted crosswise on a wooden or metal shaft, and usually made of ash or yew. This particular weapon has been enchanted with an aspect of life from the plane of air, harnessed by a master sorcerer. The aspect acts as a guiding hand, directing bolts to strike true and for more damage than normal.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Heavy_Crossbow_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7c/Heavy_Crossbow_item_artwork_1_BG2.png/revision/latest?cb=20130822201224",
-    "price": 4500,
-    "slug": "heavyCrossbow2",
-    "title": "Heavy Crossbow +2",
-    "type": "Heavy Crossbow"
-  },
-  {
-    "description": "A crossbow is a bow mounted crosswise on a wooden or metal shaft, and usually made of ash or yew. This particular weapon has been enchanted with an aspect of life from the plane of air, harnessed by a master sorcerer. The aspect acts as a guiding hand, directing bolts to strike true and for more damage than normal.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Heavy_Crossbow_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/7c/Heavy_Crossbow_item_artwork_1_BG2.png/revision/latest?cb=20130822201224",
-    "price": 5500,
-    "slug": "heavyCrossbow3",
-    "title": "Heavy Crossbow +3",
-    "type": "Heavy Crossbow"
-  },
-  {
     "description": "A marvel of engineering, this crossbow covers bolts in oil and sets them alight when fired. It is enchanted as well, likely to keep the mechanism working smoothly.  It bears the hallmarks of the inventor's god, Gond.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3168,28 +2585,6 @@
     "type": "Short Sword"
   },
   {
-    "description": "Hide armor is made from the thick hide of a very large animal (an elephant for example) or from many layers of normal leather from common animals, like cows. Hide armor is far too bulky, inflexible and heavy to be used much in advanced human cultures. However, among the barbaric humanoid masses throughout the dark forests and misty jungles of the world, hide armor is common. Even though it does offer more protection than leather armor, one must get by the offensive odor and shoddy appearance in order to wear it effectively. Even though Thieves can wear this armor, it has a negative effect on their abilities. This armor is enchanted, granting the wearer additional protection.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Hide_Armor_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/5/56/Hide_Armor_item_artwork_BG2.png/revision/latest?cb=20130907183408",
-    "price": 1750,
-    "slug": "hideArmor1",
-    "title": "Hide Armor +1",
-    "type": "Hide Armor"
-  },
-  {
-    "description": "A Piece of the Equalizer\n\nThis is a part of the Equalizer, a great long sword forged long ago as a tool for balancing the powers of the universe. Also known as the 'sword of neutrality', it did greater damage the further the target's alignment was from True Neutral. The Equalizer was last rumored to have been wielded by the elven hero Alaine Greenleaf, who was lost during a voyage to the Underdark. Other rumors have, however, proposed that the blade's pommel gem was stolen by an escaped slave who returned to the surface world.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Hilt_of_the_Equalizer",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/42/Hilt_of_the_Equalizer_item_artwork_BG2.png/revision/latest?cb=20131205193411",
-    "price": 50,
-    "slug": "hiltOfTheEqualizer",
-    "title": "Hilt of the Equalizer",
-    "type": "Weapon"
-  },
-  {
     "description": "Hindo was a samurai of great reknown, a staunch defender of his people against the evil undead that often ravaged his homelands.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3221,28 +2616,6 @@
     "slug": "hornOfBlasting",
     "title": "Horn of Blasting",
     "type": "GARBAGE"
-  },
-  {
-    "description": "This silver insignia bears the crest of a drow family.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/House_Catanzaro_Insignia",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/ac/CMISC2A.PNG/revision/latest?cb=20190406054646",
-    "price": 75,
-    "slug": "houseCatanzaroInsignia",
-    "title": "House Catanzaro Insignia",
-    "type": "Gem"
-  },
-  {
-    "description": "This silver insignia bears the crest of a drow family.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/House_Ryrrl_Insignia",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b7/Wardstone_Forgery.png/revision/latest?cb=20121222225721",
-    "price": 75,
-    "slug": "houseRyrrlInsignia",
-    "title": "House Ryrrl Insignia",
-    "type": "Gem"
   },
   {
     "description": "This is a tunic made from the badly sewn together human flesh that you took from the tanner's house in the Bridge District. If completed it may make serviceable armor, albeit only the most evil of humans could wear such a vile item.",
@@ -3388,50 +2761,6 @@
     "type": "Light Armor"
   },
   {
-    "description": "The katana is a single-edged, slightly curved sword that ends with a chisel point. The katana is perhaps one of the finest swords ever made, the steps to its creation a long and secret process, that is more art form than anything else.  This blade is an important facet of Kara-Tur culture.  To touch or wield a samurai's katana is to insult the samurai and to incite his wrath.  For a gaijin, or foreigner, to own such a blade is a rare occurrence. Either the gaijin is a greatly honored friend of an important minister, or  the gaijin has murdered a samurai.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Katana",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/da/Katana_item_artwork_BG2.png/revision/latest?cb=20200320075848",
-    "price": 500,
-    "slug": "katana",
-    "title": "Katana",
-    "type": "Katana"
-  },
-  {
-    "description": "To enchant a katana is no simple process. Unlike conventional weapons, the katana is already a near-perfect fighting sword. To improve it usually requires a sacrifice, perhaps a dying samurai might beg a Wu Jen to infuse his fighting spirit into the spirit of the katana. The wielder of an enchanted katana, such as this one, must respect the customs of Kara-Tur and of the samurai who once carried this blade into battle. Not doing so could drastically change one's luck for the worse.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Katana_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/18/Katana_%2B1_%2B2_item_artwork_BG2.png/revision/latest?cb=20200318121314",
-    "price": 1000,
-    "slug": "katana1",
-    "title": "Katana +1",
-    "type": "Katana"
-  },
-  {
-    "description": "To enchant a katana is no simple process. Unlike conventional weapons, the katana is already a near-perfect fighting sword. To improve it usually requires a sacrifice, perhaps a dying samurai might beg a Wu Jen to infuse his fighting spirit into the spirit of the katana. The wielder of an enchanted katana, such as this one, must respect the customs of Kara-Tur and of the samurai who once carried this blade into battle. Not doing so could drastically change one's luck for the worse.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Katana_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/18/Katana_%2B1_%2B2_item_artwork_BG2.png/revision/latest?cb=20200318121314",
-    "price": 2200,
-    "slug": "katana2",
-    "title": "Katana +2",
-    "type": "Katana"
-  },
-  {
-    "description": "To enchant a katana is no simple process. Unlike conventional weapons, the katana is already a near-perfect fighting sword. To improve it usually requires a sacrifice, perhaps a dying samurai might beg a Wu Jen to infuse his fighting spirit into the spirit of the katana. The wielder of an enchanted katana, such as this one, must respect the customs of Kara-Tur and of the samurai who once carried this blade into battle. Not doing so could drastically change one's luck for the worse.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Katana_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/18/Katana_%2B1_%2B2_item_artwork_BG2.png/revision/latest?cb=20200318121314",
-    "price": 5200,
-    "slug": "katana3",
-    "title": "Katana +3",
-    "type": "Katana"
-  },
-  {
     "description": "A slim gold chain like the one described by Kendra's brother.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3498,17 +2827,6 @@
     "type": "Bastard Sword"
   },
   {
-    "description": "Ring of Protection +1: Ring of the Princes\nThis ring and several of its type were originally crafted to protect the sons of King Castter De'wess, though who uttered the enchantment is unknown. History records that the rings remained within that family for at least thirteen generations, though they were all apparently lost within the space of one. Enmity between the king and the family of the creator may be to blame.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Koveras%27s_Ring_of_Protection",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/68/CRING0600000.PNG/revision/latest?cb=20171117121708",
-    "price": 3000,
-    "slug": "koverassRingOfProtection",
-    "title": "Koveras's Ring of Protection",
-    "type": "Ring"
-  },
-  {
     "description": "Mace +2: 'Krotan's Skullcrusher.' Even the hordes have their heroes, and while they are vilified in civilized company, their deeds are sometimes impressive nonetheless.Krotan was an expectionally intelligent orc, as far as orcs go, who commanded an ever-shifting legion of ogres, orcs, hobgoblins, and other assorted beasties during the Year of the Lost Lady, 1241 DR. It was in this tear that a group of bandit orcs allegdly kidnapped and killed a Tethyrian noblewoman, and the response from authorities was genocidal slaughter of orcs throughout the south in her memory. Krotan mounted a defense that ensured his people were not entirely destroyed; though they were displaced. Krotan himself fell near the end of the conflict, and his head was mounted outside the graveyard where the young lady was buried. As a point of interest, orc's called this time the \"Year of Pushing Too Far.\"",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3531,17 +2849,6 @@
     "type": "Short Sword"
   },
   {
-    "description": "A large shield inlaid with a golden griffin. This shield, also known as the kite shield or tower shield, is a massive metal shield reaching nearly from the chin to the toe of the user. It must be firmly fastened to the forearm and the shield hand must firmly grip it at all times. Naturally, this precludes use of the shield hand for anything but holding the body shield in place. Strangely though, this shield feels unnaturally light for its size.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Large_Shield_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/66/Large_Shield_%2B2.png/revision/latest?cb=20130112131840",
-    "price": 3500,
-    "slug": "largeShield2",
-    "title": "Large Shield +2",
-    "type": "Large Shield"
-  },
-  {
     "description": "The bright lavender hue of this stone dances and sparkles, as if the stone itself were alive.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3551,39 +2858,6 @@
     "slug": "lavenderIounStone",
     "title": "Lavender Ioun Stone",
     "type": "Ioun Stone"
-  },
-  {
-    "description": "Leather armor, despite the popular misconception, is not soft and supple like the leather used to make a ranger's boots or a druid's robe. That kind of leather offers no better protection than common clothing.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Leather_Armor_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/89/Leather_Armor_%2B1_item_artwork_BG2.png/revision/latest?cb=20200328155811",
-    "price": 1000,
-    "slug": "leatherArmor1",
-    "title": "Leather Armor +1",
-    "type": "Light Armor"
-  },
-  {
-    "description": "Basic armor made of thick, wax or water-hardened leather. It is sturdy protection, not supple like boots or a cloak. Soft garment leathers like that would offer no more protection than common clothing. Magical enchantments have improved the protective abilities of this particular suit.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Leather_Armor_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/ac/Leather_Armor_%2B2_item_artwork_BG2.png/revision/latest?cb=20131116154136",
-    "price": 3500,
-    "slug": "leatherArmor2",
-    "title": "Leather Armor +2",
-    "type": "Light Armor"
-  },
-  {
-    "description": "Basic armor made of thick, wax or water-hardened leather. It is sturdy protection, not supple like boots or a cloak. Soft garment leathers like that would offer no more protection than common clothing. Magical enchantments have improved the protective abilities of this particular suit.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Leather_Armor_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/30/Leather_Armor_%2B3_item_artwork_BG2.png/revision/latest?cb=20131120183336",
-    "price": 5500,
-    "slug": "leatherArmor3",
-    "title": "Leather Armor +3",
-    "type": "Light Armor"
   },
   {
     "description": "Highly sought after among novice warriors, these items were once the property of the royal family of Threskel. Imparting a portion of the prince's legendary skill, these gauntlets grant the bearer mastery over all forms of weapons. The majority of their many previous owners seem to have come to bloody ends though: The gloves grant the ability of experience, but not the wisdom.",
@@ -3608,50 +2882,6 @@
     "type": "Dagger"
   },
   {
-    "description": "A crossbow is a '''bow''' mounted '''cross'''wise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt).",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Light_Crossbow",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/01/Light_Crossbow_item_artwork_BG2.png/revision/latest?cb=20200321065630",
-    "price": 35,
-    "slug": "lightCrossbow",
-    "title": "Light Crossbow",
-    "type": "Light Crossbow"
-  },
-  {
-    "description": "A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt).",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Light_Crossbow_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/05/Light_Crossbow_%2B1_item_artwork_BG2.png/revision/latest?cb=20200328154259",
-    "price": 2500,
-    "slug": "lightCrossbow1",
-    "title": "Light Crossbow +1",
-    "type": "Light Crossbow"
-  },
-  {
-    "description": "A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt). This magical crossbow is elegant and light in the hand, with little recoil.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Light_Crossbow_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Light_Crossbow_Item_artwork_1_BG2.png/revision/latest?cb=20200328154541",
-    "price": 3000,
-    "slug": "lightCrossbow2",
-    "title": "Light Crossbow +2",
-    "type": "Light Crossbow"
-  },
-  {
-    "description": "A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt). This magical crossbow is elegant and light in the hand, with little recoil.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Light_Crossbow_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Light_Crossbow_Item_artwork_1_BG2.png/revision/latest?cb=20200328154541",
-    "price": 4000,
-    "slug": "lightCrossbow3",
-    "title": "Light Crossbow +3",
-    "type": "Light Crossbow"
-  },
-  {
     "description": "Lawrence Lilarcor was well known, not for being brave, but as an idiot. As the tale goes, the boastful Lilarcor left his village at the urging of his friends so that the \"great hero\" could do battle with a devious Treant. He walked for days in the dead of winter until, feverish, he found his target and began an epic wrestling match.  Unfortunately (or perhaps luckily), the \"Treant\" was nothing more than a craggy old normal oak. His friends had been jesting, not actually expecting that Lilarcor would go fight the fictitiously dangerous tree. That might have been the end of it, but Lilarcor, not really knowing what a Treant was in the first, didn't realize the truth. He eventually uprooted the oak and, marching proudly home, he declared himself a hero. Thus was born a laughing stock of epic proportions, and over time the name of Lilarcor became the sacrificial fool in many tales of \"less than brilliance\".It is not known whether this enchanted weapon is Lilarcor himself, perhaps imprisoned by an evil mage or some other odd coincidence of fate, but it certainly acts in a manner consistent with his level of competence. If it is he, he has never bemoaned his captivity. He might not realize, or care, that he is no longer a human.As a weapon, Lilarcor has its uses, but many a warrior has eventually given it away. Banter such as \"Ouch, that musta hurt\", \"Oh yeah!  Got 'im good\", and \"Beware my bite for it might...might...might really hurt or something\" is a constant barrage on a warrior's psyche.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3661,17 +2891,6 @@
     "slug": "lilarcor",
     "title": "Lilarcor",
     "type": "Two-Handed Sword"
-  },
-  {
-    "description": "This lock of hair comes from the head of a succubus, a demonic creature that seduces men into accompanying her to the Abyss.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Lock_of_Hair_from_Kirinhale",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/6e/Item_LockHairKirinhale.png/revision/latest?cb=20161113033854",
-    "price": 0,
-    "slug": "lockOfHairFromKirinhale",
-    "title": "Lock of Hair from Kirinhale",
-    "type": "Quest Item"
   },
   {
     "description": "Esthia and Ambrose both served as Knights of the Mystic Fire, paladins dedicated to Mystra, goddess of magic. Esthia had this necklace commissioned for Ambrose, telling him it would ensure his safety when she could not hold him in her arms. \n\nOn his last mission, Ambrose sent the necklace back to Esthia with a note telling her he had met another woman and would never return to the chapterhouse. Heartbroken, Esthia threw the necklace into a ditch, where it was later found by a peddler.",
@@ -3696,72 +2915,6 @@
     "type": "Amulet"
   },
   {
-    "description": "These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Long_Sword_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8a/Large_swords_CSW1H05_Description_image_BG2EE.png/revision/latest?cb=20190915050142",
-    "price": 1250,
-    "slug": "longSword1",
-    "title": "Long Sword +1",
-    "type": "Long Sword"
-  },
-  {
-    "description": "Long Sword +2\nA sword of standardized enchantment, powerful though it is. The great southern nations are said to have once had legions of their soldiers armed in such a fashion, a force that must have appeared truly imposing on the battlefield. The days of such extravagance are long past though.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Long_Sword_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c4/Long_Sword_%2B2_item_artwork_BG2.png/revision/latest?cb=20200409101122",
-    "price": 4250,
-    "slug": "longSword2",
-    "title": "Long Sword +2",
-    "type": "Long Sword"
-  },
-  {
-    "description": "These swords are usually referred to as doubled-edged swords, war swords, or military swords. The blade hums slightly in your hand, the only overt evidence that magic runs through it.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Long_Sword_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8a/Large_swords_CSW1H05_Description_image_BG2EE.png/revision/latest?cb=20190915050142",
-    "price": 6250,
-    "slug": "longSword3",
-    "title": "Long Sword +3",
-    "type": "Long Sword"
-  },
-  {
-    "description": "The longbow is similar to the shortbow, except that the staff is about as tall as the archer is—usually six to six-and-a-half feet. It has better range and accuracy than the shortbow, but a slower Speed Factor. The smooth staff of this bow is warm to the touch, just a hint of the energy that surges through the wood.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Longbow_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/f2/Long_Bow_%2B1_item_artwork_BG1.png/revision/latest?cb=20160318191738",
-    "price": 1600,
-    "slug": "longbow1",
-    "title": "Longbow +1",
-    "type": "Ammunition"
-  },
-  {
-    "description": "The longbow is similar to the shortbow, except that the staff is about as tall as the archer is—usually six to six-and-a-half feet. It has better range and accuracy than the shortbow, but a slower Speed Factor. The smooth staff of this bow is warm to the touch, just a hint of the energy that surges through the wood.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Longbow_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/ff/Long_Bow_item_artwork_1_BG2.png/revision/latest?cb=20131116160819",
-    "price": 2000,
-    "slug": "longbow2",
-    "title": "Longbow +2",
-    "type": "Ammunition"
-  },
-  {
-    "description": "The longbow is similar to the shortbow, except that the staff is about as tall as the archer is—usually six to six-and-a-half feet. It has better range and accuracy than the shortbow, but a slower Speed Factor. The smooth staff of this bow is warm to the touch, just a hint of the energy that surges through the wood.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Longbow_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/ff/Long_Bow_item_artwork_1_BG2.png/revision/latest?cb=20131116160819",
-    "price": 3000,
-    "slug": "longbow3",
-    "title": "Longbow +3",
-    "type": "Ammunition"
-  },
-  {
     "description": "An exquisitely crafted pair of bearskin boots.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3782,28 +2935,6 @@
     "slug": "lupineSling",
     "title": "Lupine Sling",
     "type": "Sling"
-  },
-  {
-    "description": "The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with an iron head mounted on the end. The shaft of this magical mace seems to guide the wielder, becoming an extension of his hand.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Mace_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/46/CBLUN2100000.PNG/revision/latest?cb=20171130041711",
-    "price": 2500,
-    "slug": "mace2",
-    "title": "Mace +2",
-    "type": "Mace"
-  },
-  {
-    "description": "The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with an iron head mounted on the end. In this case, the head is pyramidal and seems to glow with an inner blue light, as it sits atop a polished oak shaft.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Mace_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d3/Mace_item_artwork_2_BG2.png/revision/latest?cb=20131128085058",
-    "price": 3500,
-    "slug": "mace3",
-    "title": "Mace +3",
-    "type": "Mace"
   },
   {
     "description": "This heavy mace was created for a very specific purpose: to slay undead. Any such creature hit by it not only feels the sting of the weapon, but also has a chance of being simply blasted from existence. There are legends that speak of a priest so holy a single glancing touch could send a vampire to oblivion, but whether the weapon empowered her or she empowered it is a topic for theologians.",
@@ -3938,17 +3069,6 @@
     "type": "Amulet"
   },
   {
-    "description": "A standard magical shield given to elite troops and bodyguards, this particular shield is relatively new.  Forged recently by Taerom Fuiruim of Beregost, this shield has few stories to tell. Perhaps it will take a brave young warrior to perform legendary deeds while wearing it, to finally give it a history.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Medium_Shield_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/32/Medium_Shield_1_item_artwork_BG2.png/revision/latest?cb=20200328095545",
-    "price": 2500,
-    "slug": "mediumShield2",
-    "title": "Medium Shield +2",
-    "type": "Medium Shield"
-  },
-  {
     "description": "The Bards of Melody were a small band of half-elf bardic warriors who entertained and defended scattered elven communities throughout Calimshan. Enchantments allowed only minstrels to wear their armor, the magical links sliding together to produce beautiful melodies as they danced or fought. Unfortunately the Bards of Melody were disbanded hundreds of years ago, and the secret of 'playing' the armor faded with them.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -3982,17 +3102,6 @@
     "type": "Club"
   },
   {
-    "description": "This is the personal armor of Drizzt, the famous dark elf ranger.  It was forged for him by his friend Bruenor.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Mithral_Chain_Mail",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/cd/Drizzt_armor2.png/revision/latest?cb=20120125185223",
-    "price": 9450,
-    "slug": "mithralChainMail",
-    "title": "Mithral Chain Mail",
-    "type": "Heavy Armor"
-  },
-  {
     "description": "The enchanted cloak of the man who trained the famous ranger Drizzt Do'Urden undoubtedly possesses powerful abilities. However, since this cloak is missing the enchanted clasp which keeps it in place it is virtually useless.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -4002,39 +3111,6 @@
     "slug": "montoliosCloak",
     "title": "Montolio's Cloak",
     "type": "Cloak"
-  },
-  {
-    "description": "The morning star is wooden shaft topped with a metal head made up of a spiked iron sheat. Morning stars have a overall lenght of about four feet. This particular one is mounted with a golden head that has been magically enhanced so as to improve performance and escape the malleability of gold.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Morning_Star_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/66/Morning_Star_%2B1_item_artwork_BG2.png/revision/latest?cb=20131206115914",
-    "price": 1800,
-    "slug": "morningStar1",
-    "title": "Morning Star +1",
-    "type": "Morning Star"
-  },
-  {
-    "description": "The morning star is a wooden shaft topped with a metal head made up of a spiked iron sheath. Morning stars have an overall length of about four feet. Enchantments have made this morning star lighter, faster, and far more deadly than a normal weapon of this kind.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Morning_Star_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/5/56/CBLUN1500000.PNG/revision/latest?cb=20171118032925",
-    "price": 2500,
-    "slug": "morningStar2",
-    "title": "Morning Star +2",
-    "type": "Morning Star"
-  },
-  {
-    "description": "The morning star is a wooden shaft topped with a metal head made up of a spiked iron sheath. Morning stars have an overall length of about four feet. Enchantments have made this morning star lighter, faster, and far more deadly than a normal weapon of this kind.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Morning_Star_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/4b/Morning_Star_1_item_artwork_BG2.png/revision/latest?cb=20131206120431",
-    "price": 3500,
-    "slug": "morningStar3",
-    "title": "Morning Star +3",
-    "type": "Morning Star"
   },
   {
     "description": "This bulbous organic pod apparently holds the key to myconid reproduction.",
@@ -4101,28 +3177,6 @@
     "slug": "nightClub",
     "title": "Night Club",
     "type": "Club"
-  },
-  {
-    "description": "Ninja-To +1\nSaito Kagizu or 'Cat of the East' as the thieves of Athkatla called him, brought several of these ninja swords with him when he arrived in Faerun. They were part of his personal collection, ninja-to that he either 'collected' from rivals or designed himself. When he died, his mistress gave away the swords to her other lovers, all of them powerful thieves in their own right.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Ninjat%C5%8D_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d5/Ninja-To_%2B1_item_artwork_BG2.png/revision/latest?cb=20130810132658",
-    "price": 1000,
-    "slug": "ninjato1",
-    "title": "Ninjatō +1",
-    "type": "Ninjato"
-  },
-  {
-    "description": "Saito Kagizu, or \"Cat of the East\" as the thieves of Athkatla called him, brought several of these ninja swords with him when he arrived in Faerûn. They were part of his personal collection, ninjatō that he either \"collected\" from rivals or designed himself. When he died, his mistress gave away the swords to her other lovers, all of them powerful thieves in their own right.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Ninjat%C5%8D_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d5/Ninja-To_%2B1_item_artwork_BG2.png/revision/latest?cb=20130810132658",
-    "price": 1900,
-    "slug": "ninjato2",
-    "title": "Ninjatō +2",
-    "type": "Large Sword"
   },
   {
     "description": "When a member of the Scarlet Brotherhood kills one of that organization's \"great enemies\", they are often rewarded with this sword. How this sword made its way from the world of Greyhawk (where the Brotherhood is based) to Faerûn is a mystery. When unsheathed, the ninjatō will glow blood red.",
@@ -4257,17 +3311,6 @@
     "type": "Dagger"
   },
   {
-    "description": "Plate mail is a combination of chain armor with metal plates covering the vital areas such as the chest, abdomen, and groin. Similar in construction to bronze plate mail, true plate mail comprises chain and leather. In addition, this suit of plate mail is enchanted{{sic",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Plate_Mail_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/4/45/Plate_Mail_%2B1_CPLAT10_Description_image_SoA_%28resized%29.png/revision/latest?cb=20191203122236",
-    "price": 5000,
-    "slug": "plateMail1",
-    "title": "Plate Mail +1",
-    "type": "Plate Mail"
-  },
-  {
     "description": "This plate was worn by the famous hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -4290,28 +3333,6 @@
     "type": "Heavy Armor"
   },
   {
-    "description": "A Piece of the Equalizer\n\nThis is a part of the Equalizer, a great long sword forged long ago as a tool for balancing the powers of the universe.  Also known as the 'sword of neutrality', it did greater damage the further the target's alignment was from True Neutral.  The Equalizer was last rumored to have been wielded by the elven hero Alaine Greenleaf, who was lost during a voyage to the Underdark.  Other rumors have, however, proposed that the blade's pommel gem was stolen by an escaped slave who returned to the surface world.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Pommel_Jewel_of_the_Equalizer",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a9/Pommel_Jewel_of_the_Equalizer_item_artwork_BG2.png/revision/latest?cb=20140522214549",
-    "price": 750,
-    "slug": "pommelJewelOfTheEqualizer",
-    "title": "Pommel Jewel of the Equalizer",
-    "type": "Component"
-  },
-  {
-    "description": "An intricate key, presumably once owned by the lover of your captor.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Portal_Key",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/cd/Key_15_item_artwork_BG2.png/revision/latest?cb=20151201000253",
-    "price": 0,
-    "slug": "portalKey",
-    "title": "Portal Key",
-    "type": "Key"
-  },
-  {
     "description": "Not many suits of this armor, originally used by the legions of Unther, remain in use today. The few suits that exist are usually in the hands of rich collectors. Simply finding a suit of this armor is enough to earn an adventurer a small fortune.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -4332,50 +3353,6 @@
     "slug": "pritchardsFamilyStiletto",
     "title": "Pritchard's Family Stiletto",
     "type": "Dagger"
-  },
-  {
-    "description": "A Protection From Acid scroll offers protection to the target from all forms of acid, be they of a natural or magical nature. The effect is not permanent, however, and will wear off after 12 hours.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Protection_From_Acid_(protection_scroll)",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/06/Scrolls_CSCRL3D_Description_image_BG1.png/revision/latest?cb=20190122235901",
-    "price": 750,
-    "slug": "protectionFromAcidProtectionScroll",
-    "title": "Protection From Acid (protection scroll)",
-    "type": "Protection Scroll"
-  },
-  {
-    "description": "A Protection From Cold scroll offers protection to the target from all forms of cold, be they of a natural or magical nature. This effect is not permanent, however, and will wear off after 12 hours.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Protection_From_Cold_(protection_scroll)",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/06/Scrolls_CSCRL3D_Description_image_BG1.png/revision/latest?cb=20190122235901",
-    "price": 750,
-    "slug": "protectionFromColdProtectionScroll",
-    "title": "Protection From Cold (protection scroll)",
-    "type": "Protection Scroll"
-  },
-  {
-    "description": "A Protection From Electricity scroll offers protection to the target from all forms of electrical damage, be it of a natural or magical nature. The effect is not permanent, however, and will wear off after 12 hours.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Protection_From_Electricity_(protection_scroll)",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/06/Scrolls_CSCRL3D_Description_image_BG1.png/revision/latest?cb=20190122235901",
-    "price": 750,
-    "slug": "protectionFromElectricityProtectionScroll",
-    "title": "Protection From Electricity (protection scroll)",
-    "type": "Protection Scroll"
-  },
-  {
-    "description": "A Protection From Poison scroll offers protection to the target from all forms of poison, be they of a natural or magical nature. The effect is not permanent, however, and will wear off after 6 hours.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Protection_From_Poison",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/06/Scrolls_CSCRL3D_Description_image_BG1.png/revision/latest?cb=20190122235901",
-    "price": 750,
-    "slug": "protectionFromPoison",
-    "title": "Protection From Poison",
-    "type": "Protection Scroll"
   },
   {
     "description": "In order to protect their community from an encroaching orc logging encampment, the hero Hannable the White was given this magnificent bow by the dryads of Gulthmere Forest. A deadly confrontation followed when the loggers dared to try to cut down a great oak tree, nearly killing the dryad linked to it. With the help of powerful forest animals, Hannable slew entire bands of orcs before any more damage was inflicted upon the wood. The orcs were forced to abandon their plans, lest they suffer the continued wrath of Hannable and the forest. Needless to say, the hero who aided the grateful dryads lived happily... nay, VERY happily ever after!",
@@ -4431,28 +3408,6 @@
     "slug": "purifier",
     "title": "Purifier",
     "type": "Bastard Sword"
-  },
-  {
-    "description": "The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High quality quarterstaves are made of stout oak and are shod with metal at both ends. This one is particularly special as it has been imbued with magical properties.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Quarterstaff_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/78/Quarter_staff_plusone2.png/revision/latest?cb=20120113193219",
-    "price": 600,
-    "slug": "quarterstaff1",
-    "title": "Quarterstaff +1",
-    "type": "Quarterstave"
-  },
-  {
-    "description": "''The simplest of staff weapons is the quarterstaff, a length of wood six to nine feet in length. High quality quarterstaves are made of stout oak and are shod with metal at both ends. Powerful enchantments during the making of this staff have improved its accuracy and the damage it can cause, but they bear no signature.''",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Quarterstaff_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/2b/Quarter_Staff_%2B2_item_artwork_BG2.png/revision/latest?cb=20140106221134",
-    "price": 2500,
-    "slug": "quarterstaff2",
-    "title": "Quarterstaff +2",
-    "type": "Quarterstave"
   },
   {
     "description": "When the half-elven bard Beleress left his home in Evereska, his musical tutor gave him this suit of armor as a parting gift. The brightly colored armor looks stylish as it protects, though it wasn't able to keep its original owner from falling prey to hill giants on his travels. On the breastplate of the armor appears a stylized golden heart, a mark of respect to Hanali Celanil. When Beleress died, a scar appeared on the golden heart that persists to this day.",
@@ -4519,17 +3474,6 @@
     "slug": "reachingRing",
     "title": "Reaching Ring",
     "type": "Ring"
-  },
-  {
-    "description": "Close examination reveals this liquid to be very peculiar in nature. It could be a sorcerors dream, but that would depend entirely on who you asked. After ingesting the mixture, the drinker becomes the weakest, most unwise, yet incredibly intelligent person to have ever lived, with an innate 50% magic resistance as well.  The effects remain for an entire 24 hours, so think carefully before unplugging the cork.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Red_Potion",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/05/Potion3.png/revision/latest?cb=20200312110257",
-    "price": 500,
-    "slug": "redPotion",
-    "title": "Red Potion",
-    "type": "Potion"
   },
   {
     "description": "A Harper bard crafted this item, intending it to be a gift for Storm Silverhand. Once completed, however, its maker decided that the reed was simply too plain. He gave it instead to a fellow Harper, the bard who carried it on missions for many years. The reed has changed hands many times since, and though it still serves its original purpose—allowing its bearer to prepare additional spells—when played as an instrument, it emits a mournful tone no musician, however skilled, can vitiate.",
@@ -4862,17 +3806,6 @@
     "type": "Light Armor"
   },
   {
-    "description": "The dwarven clan of Clangeddin were reknowned for their enchanted forges, and the magical darksteel hammers which came from them. There is a powerful aura of magic on this rune etched stone, though by itself the stone has no obvious use.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Rune_of_Clangeddin",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c4/Rune_of_Clangeddin_item_artwork_BG2.png/revision/latest?cb=20140125102532",
-    "price": 450,
-    "slug": "runeOfClangeddin",
-    "title": "Rune of Clangeddin",
-    "type": "Component"
-  },
-  {
     "description": "This darksteel hammer has a rune of power inscribed upon its head, and has many of the powers of a Mace of Disruption.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -4915,28 +3848,6 @@
     "slug": "savingGrace",
     "title": "Saving Grace",
     "type": "Medium Shield"
-  },
-  {
-    "description": "The scimitar, or \"shamshir\" as it was originally called, has a single-edged blade with a significant curve, and is tapered to an elongated, sharp point. It is perhaps slower than other weapons of the same type, though it compensates by the amount of damage it is capable of. This particular weapon has been enhanced magically to compliment the skill of the wielder.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Scimitar_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/fe/Scimitar_item_artwork_BG2.png/revision/latest?cb=20200319133334",
-    "price": 1000,
-    "slug": "scimitar1",
-    "title": "Scimitar +1",
-    "type": "Scimitar"
-  },
-  {
-    "description": "The scimitar, or \"shamshir\" as it was originally called, has a single-edged blade with a significant curve, and is tapered to an elongated, sharp point. It is perhaps slower than other weapons of the same type, though it compensates by the amount of damage it is capable of.  This particular weapon has been enhanced magically to compliment the skill of the wielder.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Scimitar_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/a9/Scimitar_%2B3_item_artwork_BG2.png/revision/latest?cb=20140726103140",
-    "price": 5000,
-    "slug": "scimitar3",
-    "title": "Scimitar +3",
-    "type": "Scimitar"
   },
   {
     "description": "Boots of avoidance: 'Senses of the Cat'. The magic of these boots was specially designed to detect incoming missiles and aid the wearer in avoiding them. They were originally commisioned by the instructor of an archery academy, who had tired of suffering 'accidents' at the hands of inexperienced students.",
@@ -5071,39 +3982,6 @@
     "type": "Medium Shield"
   },
   {
-    "description": "The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with  a blade so long it can no longer be called a dagger. The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Short_Sword_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/5/5e/Short_Sword_%2B1_item_artwork_BG2.png/revision/latest?cb=20200319133153",
-    "price": 800,
-    "slug": "shortSword1",
-    "title": "Short Sword +1",
-    "type": "Short Sword"
-  },
-  {
-    "description": "The term \"short sword\" does not exist in sword classifications, but has come describe the earliest type of sword, a double-edged blade about two feet in length. There are etched runes on the surface of this weapon that glow during combat, indicating it has undergone some form of enchantment, but no identifying marks can be recognized.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Short_Sword_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/ba/Short_Sword_%2B2_%282%29_item_artwork_BG2.png/revision/latest?cb=20140216204200",
-    "price": 4000,
-    "slug": "shortSword2",
-    "title": "Short Sword +2",
-    "type": "Short Sword"
-  },
-  {
-    "description": "---",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Short_Sword_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3c/Short_Sword_%2B2_item_artwork_BG2.png/revision/latest?cb=20140216204300",
-    "price": 0,
-    "slug": "shortSword3",
-    "title": "Short Sword +3",
-    "type": "Short Sword"
-  },
-  {
     "description": "This blade is highly prized by those who serve the Shadowlord, as well as any who engage in shadowy business.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -5113,39 +3991,6 @@
     "slug": "shortSwordOfMask",
     "title": "Short Sword of Mask",
     "type": "Short Sword"
-  },
-  {
-    "description": "Shortbows were the first to be developed, although they were not called such. This is more of a default term that refers to anything which is not a longbow. Shortbow staves are about five feet long on the average. As the years passed, attempts were made to increase bow ranges.  Bows were either given longer staves or flexibility was increased with no change to the length. The former resulted in what is now called the longbow.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Shortbow_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/38/Short_Bow_%2B1_item_artwork_BG2.png/revision/latest?cb=20200327174024",
-    "price": 350,
-    "slug": "shortbow1",
-    "title": "Shortbow +1",
-    "type": "Short Bow"
-  },
-  {
-    "description": "Shortbows were the first bows to be developed, although they were not called such. This is more of a default term that refers to anything which is not a longbow. Shortbow staves are about 5 feet long on the average. This shortbow is the rival of any of the larger bows. The magic inherent within it, whether from the wood or the spellcasting of a mage, makes this bow more accurate and damaging than a normal bow.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Shortbow_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/ce/Short_Bow_item_artwork_1_BG2.png/revision/latest?cb=20140216204020",
-    "price": 2200,
-    "slug": "shortbow2",
-    "title": "Shortbow +2",
-    "type": "Ammunition"
-  },
-  {
-    "description": "Shortbows were the first bows to be developed, although they were not called such. This is more of a default term that refers to anything which is not a longbow. Shortbow staves are about 5 feet long on the average. This shortbow is the rival of any of the larger bows. The magic inherent within it, whether from the wood or the spellcasting of a mage, makes this bow more accurate and damaging than a normal bow.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Shortbow_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/ce/Short_Bow_item_artwork_1_BG2.png/revision/latest?cb=20140216204020",
-    "price": 3300,
-    "slug": "shortbow3",
-    "title": "Shortbow +3",
-    "type": "Ammunition"
   },
   {
     "description": "Shuruppak, the infamous right hand of the now dead god Gilgeam, earned the title of \"Reaper\" for his savage butchery of any who opposed him... an identity the bloodthirsty madman eagerly embraced. Before Gilgeam's destruction, the god presented Shuruppak with an enchanted suit of armor, to better enable the Reaper to slaughter his foes.\nShuruppak's plate is surprisingly light and grants the wearer an unnatural quickness and grace. It is not known how Shuruppak lost this treasured item, but one could safely assume he is still looking for it...",
@@ -5203,50 +4048,6 @@
     "type": "Mace"
   },
   {
-    "description": "Slings have existed since the beginning of recorded history. The basic sling consists of a leather or fabric strap with a pouch for holding the missile. The weapon is held by both ends of the strap and twirled around the wielder's head. When top speed is attained, the missile is launched by releasing one of the strap's ends.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Sling",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/a/ad/Sling_item_artwork_BG2.png/revision/latest?cb=20200324224911",
-    "price": 0,
-    "slug": "sling",
-    "title": "Sling",
-    "type": "Sling"
-  },
-  {
-    "description": "Slings have existed since the beginning of recorded history. The basic sling consists of a leather or fabric strap with a pouch holding the missile, however this one has been imbued with a small magical enchantment. The weapon is held with both ends of the strap twirled around the wielder's hand. When top speed is attained, the missile is launched by releasing one of the strap's hand.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Sling_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d3/CSLNG0200000.PNG/revision/latest?cb=20200330122208",
-    "price": 100,
-    "slug": "sling1",
-    "title": "Sling +1",
-    "type": "Sling"
-  },
-  {
-    "description": "Magical slings are the hallmark of stout halfling warriors. Usually their mothers or a talented aunt will create this sling for the halfling lad or lass who is about to embark on their second great adventure. The reason that the sling is given on the second adventure and not the first is that many halflings decide not to pursue the life of an adventurer after getting a taste of it.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Sling_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/f2/Sling_enchanted_item_artwork_BG2.png/revision/latest?cb=20140307234153",
-    "price": 750,
-    "slug": "sling2",
-    "title": "Sling +2",
-    "type": "Ammunition"
-  },
-  {
-    "description": "Magical slings are the hallmark of stout halfling warriors. Usually their mothers or a talented aunt will create this sling for the halfling lad or lass who is about to embark on their second great adventure. The reason that the sling is given on the second adventure and not the first is that many halflings decide not to pursue the life of an adventurer after getting a taste of it.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Sling_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/f/f2/Sling_enchanted_item_artwork_BG2.png/revision/latest?cb=20140307234153",
-    "price": 1550,
-    "slug": "sling3",
-    "title": "Sling +3",
-    "type": "Ammunition"
-  },
-  {
     "description": "Sling of Arvoreen\nThis sling is blessed by the Halfling goddess Arvoreen. The weapon was granted to the heroic Tuckerby Lettleworp after the Battle of Moor Road, in which an invading army of Yuan-ti were slain by Lettleworp's forces, saving his halfling village.\n\nThe sling has the ability to rend the senses of the wielders enemies with a wall of sound said to be the voice of the goddess herself.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -5280,17 +4081,6 @@
     "type": "Bullet"
   },
   {
-    "description": "Despite the effectiveness of the enchantments on this shield, it is otherwise nondescript and defies precise identification. Such standardization makes it likely that it is from the militia of some forgotten barony, though it is hard to be certain.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Small_Shield_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/32/Small_Shield_item_artwork_BG2.png/revision/latest?cb=20140307234705",
-    "price": 2500,
-    "slug": "smallShield2",
-    "title": "Small Shield +2",
-    "type": "Small Shield"
-  },
-  {
     "description": "These boots were crafted by a young mage who wished to be trained as a shadowdancer, but was turned away for being too loud when he walked. \"A shadowdancer weaves between the shadows and makes no sound,\" they said. \"You move like an elephant climbing a tree.\"\n\nUndeterred, the mage crafted a set of boots that caused his feet to become insubstantial, allowing him to walk with quiet confidence and avoid stepping on nasty substances.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -5311,28 +4101,6 @@
     "slug": "soulReaver",
     "title": "Soul Reaver",
     "type": "Two-Handed Sword"
-  },
-  {
-    "description": "One of man's earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When man mastered metals, spearheads were made from iron and steel. Having reached this end, weaponers began experimenting with different types of spear heads, thus leading to the development of certain polearm types. Another line of tinkering led to the integration of magic with spears. Tribal shaman would enchant the spears so that they would hit more often and do greater damage to their wielder's opponents.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Spear_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/92/Spear_%2B2_item_artwork_BG2.png/revision/latest?cb=20140307235104",
-    "price": 1500,
-    "slug": "spear2",
-    "title": "Spear +2",
-    "type": "Spear"
-  },
-  {
-    "description": "One of man's earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When man mastered metals, spearheads were made from iron and steel. This spear trembles from the powerful magic used in its creation.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Spear_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/73/Spear_%2B3_item_artwork_BG2.png/revision/latest?cb=20140307235222",
-    "price": 2000,
-    "slug": "spear3",
-    "title": "Spear +3",
-    "type": "Spear"
   },
   {
     "description": "Carved from the heart of a rotten Treant, this spear smells of death. When held in your hands it groans a little as if reluctant to allow a living thing to touch it. In battle the Spear of Withering spits a foul poison into its target upon each succesful hit.",
@@ -5388,17 +4156,6 @@
     "slug": "spidersBane",
     "title": "Spider's Bane",
     "type": "Two-Handed Sword"
-  },
-  {
-    "description": "Splint Mail is a variant of banded mail in which the metal strips are applied vertically to the backing of chain, leather, or cloth rather than horizontally as in banded mail. Since the human body does not swivel in mid-torso as much as it flexes back to front, splint mail is more restrictive in battle. This suit of armor is enchanted, granting the wearer a bonus of +1 to their armor class.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Splint_Mail_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/26/Splint_Mail_%2B1_item_artowrk_BG2.png/revision/latest?cb=20200413183030",
-    "price": 2000,
-    "slug": "splintMail1",
-    "title": "Splint Mail +1",
-    "type": "Heavy Armor"
   },
   {
     "description": "When this seemingly ordinary quarterstaff is examined magically, it has an aura of alteration. Upon command, a long sharp spear blade will shoot forth from the upper end, making the staff into a spear. This weapon was designed mainly for priests and wizards although it is usable by anybody.",
@@ -5599,17 +4356,6 @@
     "type": "Dagger"
   },
   {
-    "description": "This scroll will remove the effects of petrification from anyone afflicted by such an unfortunate condition. Simply approach the victim who has been turned to stone, read the scroll, and target the statue.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Stone_to_Flesh_Scroll",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/06/Scrolls_CSCRL3D_Description_image_BG1.png/revision/latest?cb=20190122235901",
-    "price": 0,
-    "slug": "stoneToFleshScroll",
-    "title": "Stone to Flesh Scroll",
-    "type": "Protection Scroll"
-  },
-  {
     "description": "Stonefire, Battle Axe +3\nThe Stonefires were an old lineage of dwarves, and the eldest male of the line carried this axe, an heirloom of utmost importance. Unfortunately they were decimated in 1150DR, falling in a mere two years to a mysterious plague. Ulgan, keeper of the axe, fled in the hopes of escaping the inevitable, but he died several weeks later.  His body was found in the Cloakwood Forest, but the axe was missing.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -5652,17 +4398,6 @@
     "slug": "strongArm",
     "title": "Strong Arm",
     "type": "Composite Longbow"
-  },
-  {
-    "description": "Studded leather armor has little in common with normal leather armor. While leather armor is a hardened shell, studded leather armor is soft and supple with hundreds of metal rivets affixed. The rivets are so close together that they form a flexible coasting of hard metal that turns aside slashing and cutting attacks. The soft leather backing is little more than a means of securing the rivets in place.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Studded_Leather_Armor_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/7/76/Studded_Leather_Armor_%2B1_item_artwork_BG2.png/revision/latest?cb=20200328155506",
-    "price": 1500,
-    "slug": "studdedLeatherArmor1",
-    "title": "Studded Leather Armor +1",
-    "type": "Light Armor"
   },
   {
     "description": "Fashioned by the Hierophant Wassalia before she chose to forever dwell on the Elemental Plane of Fire, this suit of armor is not covered by typical metal studs but by heavy red thorns.",
@@ -6215,50 +4950,6 @@
     "type": "Two-Handed Sword"
   },
   {
-    "description": "The hand axe or throwing axe is also known as a hatchet. The axe blade has a sharp steel tip counterbalanced by a pointed fluke. The short handle has a point on the bottom, and the head may have a spike on the top. This throwing axe is balanced and enchanted, making it more accurate and damaging. Since the throwing axe is designed differently than a normal axe, it is less effective as a melee weapon.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Throwing_Axe_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/d6/Throwing_axe2.png/revision/latest?cb=20200314073228",
-    "price": 15,
-    "slug": "throwingAxe1",
-    "title": "Throwing Axe +1",
-    "type": "Throwing Axe"
-  },
-  {
-    "description": "This throwing axe has not only been finely balanced for use as a missile weapon but has also been the subject of significant magical enhancement. As a result, it is both more damaging and more accurate than any non-magical weapon of a similar style.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Throwing_Axe_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/33/Throwing_Axe_%2B2.png/revision/latest?cb=20121222224911",
-    "price": 2500,
-    "slug": "throwingAxe2",
-    "title": "Throwing Axe +2",
-    "type": "Throwing Axe"
-  },
-  {
-    "description": "The typical throwing dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger. Unlike a normal dagger, this one has a smaller handle and is balanced for throwing. It is also enchanted to make it more effective in combat. Since the throwing dagger is designed differently than a normal dagger, it is not very effective as a melee weapon.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Throwing_Dagger_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/b/b9/Throwing_Dagger_item_artwork_BG2.png/revision/latest?cb=20200314205731",
-    "price": 15,
-    "slug": "throwingDagger1",
-    "title": "Throwing Dagger +1",
-    "type": "Throwing Dagger"
-  },
-  {
-    "description": "A typical tome of clear thought contains a collection of esoteric and scholarly literature, often involving obscure mathematical or  algebraic formulae or the occasional reference to inter-planar  biology. Such tomes are usually magically enhanced, thereby allowing an individual to raise his or her Intelligence by a single point. Unfortunately, the manual will disappear after a single use.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Tome_of_Clear_Thought",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/36/Book1.png/revision/latest?cb=20200403095232",
-    "price": 5000,
-    "slug": "tomeOfClearThought",
-    "title": "Tome of Clear Thought",
-    "type": "Miscellaneous"
-  },
-  {
     "description": "This infernal longsword, forged to resemble a devil's tongue, has a blade \"sharper than any scream\" according to the writing on the hilt. Its edge cuts easily through armor and bone and leaves acid sizzling in the wounds it inflicts. The pain its wounds inflict is so severe that its victims have difficulty functioning, even walking, due to the agony.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -6325,39 +5016,6 @@
     "type": "Robe"
   },
   {
-    "description": "The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one is particularly good at its job as it has been enchanted with a few magical properties.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Two-handed_Sword_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/c/c3/Two-handed_swords_CSW2H02_Description_image_BG1.png/revision/latest?cb=20191106131606",
-    "price": 900,
-    "slug": "twoHandedSword1",
-    "title": "Two-handed Sword +1",
-    "type": "Two-Handed Sword"
-  },
-  {
-    "description": "A derivative of the long sword, the two-handed sword is significantly longer, both in blade and hilt. Its primary function is cleaving mounted knights and breaking up pike formations. This magical version is even more capable of such functions, serving as a fearful reminder of what comes of the union between weapons and sorcery.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Two-handed_Sword_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/2/28/Two_Handed_Sword_%2B2_item_artwork_BG2.png/revision/latest?cb=20140416213529",
-    "price": 3000,
-    "slug": "twoHandedSword2",
-    "title": "Two-handed Sword +2",
-    "type": "Two-Handed Sword"
-  },
-  {
-    "description": "A derivative of the long sword, the two-handed sword is significantly longer, both in blade and hilt. Its primary function is cleaving mounted knights and breaking up pike formations. This magical version is even more capable of such functions, serving as a fearful reminder of what comes of the union between weapons and sorcery.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Two-handed_Sword_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/03/Two_Handed_Sword_%2B3_item_artwork_BG2.png/revision/latest?cb=20140416213646",
-    "price": 5000,
-    "slug": "twoHandedSword3",
-    "title": "Two-handed Sword +3",
-    "type": "Two-Handed Sword"
-  },
-  {
     "description": "This is a cursed sword which performs perfectly under every test, save the heat of the battle. Upon entering combat, the wielder will immediatly go berserk, killing everything within reach either calming down or falling unconcious. A very powerful sword, but one must decide whether or not it is worth the risk. Even once the battle-fury has ended, this sword can only be removed via exorcism using a remove curse spell.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -6422,17 +5080,6 @@
     "slug": "violetPotion",
     "title": "Violet Potion",
     "type": "Potion"
-  },
-  {
-    "description": "The wakizashi, or companion sword, is extremely important to the samurai. It is worn at all times, even indoors, and is near the samurai when he sleeps at night. Wu Jen masters have concealed within this wakishashi great power, unleashed only when the wielder is in the thick of battle. How or why this wakizashi made it to Faerun is unknown, but if the samurai who owned it still lives, he will certainly be looking for it.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Wakizashi_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/8d/Wakizashi_%2B1_item_artwork_BG2.png/revision/latest?cb=20130810132303",
-    "price": 1500,
-    "slug": "wakizashi1",
-    "title": "Wakizashi +1",
-    "type": "Wakizashi"
   },
   {
     "description": "This wand emits a vapor bubble that travels towards the target exploding into a deadly cloud of noxious gas that expands to fill an area roughly 20 feet in radius.  The cloud will instantly kill any creature with 4 HD or less with no saving throw. Any creature within 5 to 6 HD must make a saving throw or be slain. Creatures with greater than 6 HD simply take 1-10 damage for every round that they remain within the cloud.  The cloud will dissipate after approximately 1 turn.",
@@ -6556,39 +5203,6 @@
     "type": "Wand"
   },
   {
-    "description": "Like others of its type, this warhammer is made entirely of steel, with a bone-crushing hammer mounted upon an 18\" shaft. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/War_Hammer_%2B1",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/85/War_Hammer_%2B1_item_artwork_BG2.png/revision/latest?cb=20140426144542",
-    "price": 1500,
-    "slug": "warHammer1",
-    "title": "War Hammer +1",
-    "type": "Hammer"
-  },
-  {
-    "description": "Mounted knights cannot effectively use pole arms while on horseback, and as a result, many weapons have been altered so they may be used one-handed. The horseman's war hammer is made entirely of steel, and has a shaft about 18 inches long. Powerful magical energy flows through this weapon, though its origins are nondescript.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/War_Hammer_%2B2",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/3a/War_Hammer_%2B2_item_artwork_BG2.png/revision/latest?cb=20140426144651",
-    "price": 3000,
-    "slug": "warHammer2",
-    "title": "War Hammer +2",
-    "type": "Hammer"
-  },
-  {
-    "description": "Mounted knights cannot effectively use pole arms while on horseback, and as a result, many weapons have been altered so they may be used one-handed. The horseman's war hammer is made entirely of steel and has a shaft about eighteen inches long. Powerful magical energy flows through this weapon, though its origins are nondescript.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/War_Hammer_%2B3",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/3/39/CHAMM0800000.png/revision/latest?cb=20200422054938",
-    "price": 4200,
-    "slug": "warHammer3",
-    "title": "War Hammer +3",
-    "type": "Hammer"
-  },
-  {
     "description": "This large sword is an enchanted version of the barbaric swords of the Northern tribes. Forged during battle and dipped in the blood of the brave fallen, the enchantment granted to the blade by the barbarian gods is incredible.",
     "game": "Baldur's Gate",
     "gameSlug": "baldur",
@@ -6609,28 +5223,6 @@
     "slug": "watersEdge",
     "title": "Water's Edge",
     "type": "Scimitar"
-  },
-  {
-    "description": "This is a piece of the Wave, a powerful halberd created as a weapon of vengeance by a cult worshipping Umberlee. It apparently draws water out of its victims and is able to slay creatures of fire almost instantly. Tales say the Wave was lost long ago to the fire giants of the Storm Horn Mountains, but was eventually found by the adventurer Arganon of the Long Reach. He either lost the weapon to a wager in the planar city of Sigil, or it rests with his bones when his ship was sunk during a great storm in the Sea of Swords. No one knows for sure.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Wave_Blade",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/1/1a/CHALB09B.PNG/revision/latest?cb=20190110051002",
-    "price": 250,
-    "slug": "waveBlade",
-    "title": "Wave Blade",
-    "type": "Miscellaneous"
-  },
-  {
-    "description": "Part of the Wave\nThis is a piece of the Wave, a powerful halberd created as a weapon of vengeance by a cult worshipping Umberlee. It apparently draws water out of its victims, and is able to slay creatures of fire almost instantly. Tales say the Wave was lost long ago to the fire giants of the Storm Horn Mountains, but was eventually found by the adventurer Arganon of the Long Reach. He either lost the weapon to a wager in the planar city of Sigil, or it rests with his bones when his ship was sunk during a great storm in the Sea of Swords. No one knows for sure.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Wave_Shaft",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/9/99/Wave_Shaft_item_artwork_BG2.png/revision/latest?cb=20140426145537",
-    "price": 50,
-    "slug": "waveShaft",
-    "title": "Wave Shaft",
-    "type": "Component"
   },
   {
     "description": "This +1 dagger acts like a +4 dagger vs. lycanthropes. Dynala Goldenhand, an elven ranger who wished to rid her homeland of its werejackal problem, forged the dagger. She was killed by a tribe of orcs in the Greypeak Mountains as she tracked the werejackal leader.",
