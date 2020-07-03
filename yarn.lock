@@ -1995,7 +1995,7 @@ ajv@^6.5.5:
 
 algolia-indexing@1.0.1:
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/algolia-indexing/-/algolia-indexing-1.0.1.tgz#747c98ab0e4b6c174fe357b421a10a6a8592f82a"
+  resolved "https://registry.npmjs.org/algolia-indexing/-/algolia-indexing-1.0.1.tgz#747c98ab0e4b6c174fe357b421a10a6a8592f82a"
   integrity sha512-o0gJRb/N0CEsvczZMBXrV028WZLtljX6/XjYMONPI5eRIYDlqMFHvjRV3jSa158Qbg8owaJC9sFQm/f/XZTMXQ==
   dependencies:
     algoliasearch "4.2.0"

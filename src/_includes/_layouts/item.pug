@@ -9,8 +9,8 @@ block content
     .fln.bg-gray-3.rounded-4.shadow.p-1
       .flrnw
         .fln.w-13.flcnw
-          .flrnw.flc.bg-baldur-scroll.rounded-4.shadow-2
-            +img(src=`/assets/pictures/${data.item.gameSlug}/${data.item.slug}.png`)
+          .flrnw.flc.bg-baldur-scroll.rounded-4.shadow-2.h-13.p-1
+            +img.h-100p.w-100p.object-contain(src=`/assets/pictures/${data.item.gameSlug}/${data.item.slug}.png`)
           .fln.flcnw.py-1
             .fln.text-2.text-center=data.item.type
             a.fln.pt-1.text-2.blue-8.hover_blue.transition-colors(href=data.item.originalUrl target="_blank") See on wiki
