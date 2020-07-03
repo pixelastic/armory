@@ -1,0 +1,11 @@
+/**
+ * Previews
+ **/
+#previews {
+  .ais-Hits-list {
+    @apply flrnw flspa;
+  }
+  .ais-Hits-item {
+    @apply fln flrnw;
+  }
+}

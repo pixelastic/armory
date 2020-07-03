@@ -1,22 +1,23 @@
 /**
  * Hits
  **/
-.ais-Hits-list {
-  @apply flrw;
-}
-.ais-Hits-item {
-  @apply fla w-100p relative flcnw h-14;
-}
+#hits {
+  .ais-Hits-list {
+    @apply flrw;
+  }
+  .ais-Hits-item {
+    @apply fla w-100p relative flcnw h-14;
+  }
 
-/* Empty results */
-#hits > div:first-child {
-  @apply fla flcnw;
-}
-.ais-Hits--empty {
-  @apply fla flcnw;
-}
-
-/* Highlight */
-.ais-highlight {
-  @apply px-001 bold orange bg-black bg-opacity-10p;
+  /* Empty results */
+  > div:first-child {
+    @apply fla flcnw;
+  }
+  .ais-Hits--empty {
+    @apply fla flcnw;
+  }
+  /* Highlight */
+  .ais-highlight {
+    @apply px-001 bold orange bg-black bg-opacity-10p;
+  }
 }

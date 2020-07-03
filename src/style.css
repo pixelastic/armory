@@ -6,6 +6,7 @@
 @import '_styles/searchbox.css';
 @import '_styles/filters.css';
 @import '_styles/hits.css';
+@import '_styles/previews.css';
 
 .bg-baldur-scroll {
   background-image: url('./assets/baldur-scroll-bg.jpg');

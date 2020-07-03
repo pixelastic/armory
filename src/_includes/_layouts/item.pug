@@ -4,8 +4,7 @@ block config
   - pageId = "item"
 
 block content
-
-  .flrnw.flc.helvetica
+  .flcnw.flc.helvetica
     .fln.bg-gray-3.rounded-4.shadow.p-1
       .flrnw
         .fln.w-13.flcnw
@@ -19,3 +18,11 @@ block content
           .bold.text-4=data.item.title
           .w-75ch.helvetica.pt-02.text-3.lh-4=data.item.description
 
+  .__previews.mt-2
+    - displayType = _.lowerCase(data.item.typePlural);
+    .bold.text-4.white=`Other interesting ${displayType}`
+    #previews
+
+  script!=`window.ITEM = ${JSON.stringify(data.item)};`
+  textarea#previewTemplate(hidden)
+    include /_includes/_templates/preview
