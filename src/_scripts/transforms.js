@@ -3,6 +3,10 @@ cloudinary.init(window.CONFIG.cloudinary);
 const lazyloadAttributes = require('norska/frontend/lazyload/attributes');
 
 module.exports = {
+  link(item) {
+    const { gameSlug, slug } = item;
+    return `${gameSlug}/${slug}/`;
+  },
   preview(item) {
     const baseUrl = window.CONFIG.baseUrl;
     const { gameSlug, slug } = item;

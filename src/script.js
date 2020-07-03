@@ -58,6 +58,13 @@ algolia
   .init(credentials)
   .setWidgets(widgets)
   .setTransforms(transforms)
+  .onSearch((query) => {
+    if (!query) {
+      document.body.removeAttribute('data-hasQuery');
+      return;
+    }
+    document.body.setAttribute('data-hasQuery', '');
+  })
   // .onDisplay(hit => {
   //   console.info(hit.picture);
   // })

@@ -1,15 +1,6 @@
 extends /_includes/_layouts/core
 
 block config
-  //- see also: pageAuthor, pageImage, pageTwitter, pageUrl
+  - pageId = "index"
 
 block content
-  .container.mx-auto.pt-1
-    #searchbox.mb-2
-    #hits.mx-2
-    #pagination.hidden
-
-  textarea#hitTemplate(hidden)
-    include /_includes/_templates/hit
-  textarea#emptyTemplate(hidden)
-    include /_includes/_templates/empty

@@ -26,8 +26,18 @@ html(lang='en')
     script!=tweaks.ensureUrlTrailingSlashSource
     link(rel="shortcut icon", href=`${url.pathToRoot}favicon.png`)
     link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))
-  body.verdana.bg-gray-8
-    block content
+  body.verdana.bg-gray-8(id=pageId)
+    .container.mx-auto.pt-1
+      .__header
+        #searchbox.mb-2
+      .__hits
+        #hits.mx-2
+        textarea#hitTemplate(hidden)
+          include /_includes/_templates/hit
+        textarea#emptyTemplate(hidden)
+          include /_includes/_templates/empty
+      .__content
+        block content
 
     script!=`window.CONFIG = ${JSON.stringify(data.config)};`
     each jsFile in runtime.jsFiles

@@ -9,3 +9,21 @@
 .bg-baldur-scroll {
   background-image: url('../assets/baldur-scroll-bg.jpg');
 }
+
+/**
+ * Hide/show search result and page content based on if a query is made or not
+ **/
+#index .__content {
+  @apply hidden;
+}
+#page .__hits {
+  @apply hidden;
+}
+#page[data-hasQuery] {
+  .__hits {
+    @apply block;
+  }
+  .__content {
+    @apply hidden;
+  }
+}
