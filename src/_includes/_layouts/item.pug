@@ -4,24 +4,22 @@ block config
   - pageId = "item"
 
 block content
-  .flcnw.flc.helvetica
-    .fln.bg-gray-3.rounded-4.shadow.p-1
-      .flrnw
-        .fln.w-13.flcnw
-          .flrnw.flc.bg-baldur-scroll.rounded-4.shadow-2.h-13.p-1
-            +img.h-100p.w-100p.object-contain(src=`/assets/pictures/${data.item.gameSlug}/${data.item.slug}.png`)
-          .fln.flcnw.py-1
-            .fln.text-2.text-center=data.item.type
-            a.fln.pt-1.text-2.blue-8.hover_blue.transition-colors(href=data.item.originalUrl target="_blank") See on wiki
+  .flcnw.flcch
+    .fln.max-w-100p.flrnw.shadow-2.bg-gray-3.rounded-4.px-1.py-01
+      .fln.w-9.sm_w-10.md_w-12.text-1.md_text-2
+        .h-9.sm_h-10.md_h-12.p-01.bg-baldur-scroll.rounded-4.shadow-2
+          +img.h-100p.w-100p.object-contain(src=`/assets/pictures/${data.item.gameSlug}/${data.item.slug}.png`)
+        .pt-1=data.item.type
+        a.pt-1.blue-8.hover_blue.transition-colors(href=data.item.originalUrl target="_blank") See on wiki
+      .fla.ml-1
+        .flcnw.max-w-75ch
+          .fln.bold.text-4=data.item.title
+          .fln.py-1.text-3.lh-4=data.item.description
+    .__previews.fln.mt-2.w-100p
+      - displayType = _.lowerCase(data.item.typePlural);
+      .bold.text-4.white=`Other interesting ${displayType}:`
+      #previews
 
-        .fln.flcnw.py-01.px-1
-          .bold.text-4=data.item.title
-          .w-75ch.helvetica.pt-02.text-3.lh-4=data.item.description
-
-  .__previews.mt-2
-    - displayType = _.lowerCase(data.item.typePlural);
-    .bold.text-4.white=`Other interesting ${displayType}`
-    #previews
 
   script!=`window.ITEM = ${JSON.stringify(data.item)};`
   textarea#previewTemplate(hidden)

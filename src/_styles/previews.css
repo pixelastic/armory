@@ -3,7 +3,7 @@
  **/
 #previews {
   .ais-Hits-list {
-    @apply flrnw flspa;
+    @apply flrw flspa;
   }
   .ais-Hits-item {
     @apply fln flrnw;

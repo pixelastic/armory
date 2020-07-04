@@ -3,10 +3,10 @@
  **/
 #hits {
   .ais-Hits-list {
-    @apply flrw;
+    @apply flcnw;
   }
   .ais-Hits-item {
-    @apply fla w-100p relative flcnw h-14;
+    @apply fln flrnw;
   }
 
   /* Empty results */

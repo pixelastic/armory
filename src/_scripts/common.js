@@ -3,7 +3,6 @@ const algolia = require('norska/frontend/algolia');
 const {
   configure,
   hits,
-  pagination,
   refinementList,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
@@ -41,7 +40,7 @@ module.exports = {
         options: {
           container: '#type',
           attribute: 'type',
-          limit: 8,
+          limit: 10,
           sortBy: ['count:desc', 'name:asc'],
         },
       },
@@ -56,12 +55,6 @@ module.exports = {
             item: document.getElementById('hitTemplate').value,
             empty: document.getElementById('emptyTemplate').value,
           },
-        },
-      },
-      {
-        type: pagination,
-        options: {
-          container: '#pagination',
         },
       },
     ];

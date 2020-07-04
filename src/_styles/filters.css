@@ -5,7 +5,7 @@
   @apply flrw;
 }
 .ais-RefinementList-item {
-  @apply fln pr-1;
+  @apply fln pr-1 pb-1;
   .ais-RefinementList-label {
     @apply bg-gray-3 rounded-2 flrnw pointer shadow-2;
     @apply transform transition-transform transition-colors;

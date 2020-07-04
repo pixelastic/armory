@@ -18,13 +18,18 @@
   }
 }
 .ais-SearchBox-input {
-  @apply h-8 text-6 w-100p bg-transparent pl-2;
+  @apply h-7 text-3 w-100p bg-transparent pl-2;
   @apply white text-opacity-75p;
   &::placeholder {
-    @apply white text-opacity-50p italic;
+    @apply black text-opacity-50p italic;
   }
   &:focus {
     @apply outline-none gray-9 text-opacity-100p;
+  }
+}
+@screen md {
+  .ais-SearchBox-input {
+    @apply h-8 text-6;
   }
 }
 /* Powered By */
