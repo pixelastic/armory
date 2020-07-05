@@ -40,6 +40,9 @@ html(lang='en')
       .__content
         block content
 
+    //- TODO: Add a footer with some links to the repo
+    //- and to https://twitter.com/dungeon_junk which is funny
+
     script!=`window.CONFIG = ${JSON.stringify(data.config)};`
     each jsFile in runtime.jsFiles
       script(src=`${url.pathToRoot}${jsFile}`)

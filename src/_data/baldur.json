@@ -1,8 +1,8 @@
 [
   {
     "_geoloc": {
-      "lat": -3.45,
-      "lng": 62.616
+      "lat": 39.846,
+      "lng": -44.602
     },
     "description": "This arrow is coated in acid. When it strikes an enemy, it not only pierces flesh but also eats it away, enlarging and deepening the wound.",
     "game": "Baldur's Gate",
@@ -12,8 +12,8 @@
     "price": 0,
     "slug": "acidArrow",
     "title": "Acid Arrow",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-acidArrow"
   },
   {
@@ -49,23 +49,6 @@
     "type": "Medium Armor",
     "typePlural": "Medium Armors",
     "uniqueSlug": "baldur-aegersHide"
-  },
-  {
-    "_geoloc": {
-      "lat": 28.848,
-      "lng": 47.676
-    },
-    "description": "Created by the mad dwarf alchemist Agathor, this highly corrosive material comes in two vials. Individually, the chemicals within are harmless, but when combined, they create a powerful substance that will eat away at almost any material exposed to it. Handle the vials with caution; lunatic dwarf alchemy is not something you want to play around with.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Agathor%27s_Near-Universal_Solvent",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/07/Potion7.png/revision/latest?cb=20200312165119",
-    "price": 50,
-    "slug": "agathorsNearUniversalSolvent",
-    "title": "Agathor's Near-Universal Solvent",
-    "type": "Potion",
-    "typePlural": "Potions",
-    "uniqueSlug": "baldur-agathorsNearUniversalSolvent"
   },
   {
     "_geoloc": {
@@ -358,8 +341,8 @@
   },
   {
     "_geoloc": {
-      "lat": 62.019,
-      "lng": -33.988
+      "lat": -52.924,
+      "lng": 39.373
     },
     "description": "This is an arrow whose head has been enchanted with the same energy used in an Antimagic Field spell. It is said that the wizard who perfected the creation of these arrows was later hunted down and murdered by his own peers. Very few wizards in Faerûn know how to create these arrows, and they seldom reveal this knowledge for fear of retribution from other wizards.",
     "game": "Baldur's Gate",
@@ -369,14 +352,14 @@
     "price": 300,
     "slug": "arrowOfAntimagic1",
     "title": "Arrow of Antimagic +1",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-arrowOfAntimagic1"
   },
   {
     "_geoloc": {
-      "lat": -57.462,
-      "lng": -26.273
+      "lat": 6.446,
+      "lng": -19.463
     },
     "description": "The arrow of biting was designed as a deadly compliment to the archer.  With the barbed arrow tip coated in a nasty poison that will infiltrate the bloodstream of its victims causing agony and oft-times, death.",
     "game": "Baldur's Gate",
@@ -386,14 +369,14 @@
     "price": null,
     "slug": "arrowOfBiting",
     "title": "Arrow of Biting",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-arrowOfBiting"
   },
   {
     "_geoloc": {
-      "lat": -43.131,
-      "lng": 65.033
+      "lat": 37.223,
+      "lng": 62.566
     },
     "description": "This arrow has a particularly debilitating effect on its victims as, upon impact, it explodes into a huge ball of fire and shrapnel affecting all within the area.",
     "game": "Baldur's Gate",
@@ -403,14 +386,14 @@
     "price": 300,
     "slug": "arrowOfDetonation",
     "title": "Arrow of Detonation",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-arrowOfDetonation"
   },
   {
     "_geoloc": {
-      "lat": -34.614,
-      "lng": -19.706
+      "lat": 21.692,
+      "lng": -28.019
     },
     "description": "This arrow will remove the magical enchantments that its victim is surrounded by.",
     "game": "Baldur's Gate",
@@ -420,14 +403,14 @@
     "price": 300,
     "slug": "arrowOfDispelling",
     "title": "Arrow of Dispelling",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-arrowOfDispelling"
   },
   {
     "_geoloc": {
-      "lat": 29.53,
-      "lng": -17.057
+      "lat": 57.092,
+      "lng": -52.689
     },
     "description": "This is a magical arrow that will burst into flames as it is fired at an enemy. The effect is similar to an arrow doused in oil and set to flame.",
     "game": "Baldur's Gate",
@@ -437,14 +420,14 @@
     "price": null,
     "slug": "arrowOfFire",
     "title": "Arrow of Fire",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-arrowOfFire"
   },
   {
     "_geoloc": {
-      "lat": 15.438,
-      "lng": 5.456
+      "lat": 38.451,
+      "lng": -35.969
     },
     "description": "This arrow is long and thin, imbued with magical properties that allow it to \"push\" itself through armor, striking out towards the heart of the victim.",
     "game": "Baldur's Gate",
@@ -454,14 +437,14 @@
     "price": 50,
     "slug": "arrowOfPiercing",
     "title": "Arrow of Piercing",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-arrowOfPiercing"
   },
   {
     "_geoloc": {
-      "lat": 15.917,
-      "lng": 64.221
+      "lat": 48.267,
+      "lng": -16.517
     },
     "description": "This arrow is twisted and black, almost radiating evil as if possessed by something larger than itself. It was made specifically to kill one type of creature and one type only. In this case the unlucky being is the Ogre Mage.",
     "game": "Baldur's Gate",
@@ -471,8 +454,8 @@
     "price": 2500,
     "slug": "arrowOfSlaying",
     "title": "Arrow of Slaying",
-    "type": "Longbow",
-    "typePlural": "Longbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-arrowOfSlaying"
   },
   {
@@ -545,8 +528,8 @@
   },
   {
     "_geoloc": {
-      "lat": -32.935,
-      "lng": -10.348
+      "lat": 30.795,
+      "lng": -25.589
     },
     "description": "This finely crafted stave was among the spoils taken from the invaders of Durlag's Tower. It is very deadly in combat, and was apparently the property of a spellcaster enjoyed standing on the frontlines. It appears to have a core of iron, yet it is comparable in weight to a normal weapon of its type. Part of the enchantment seems to come from the hide that strenghtens the grip, leather no doubt made from a battle-ready creature or some sort. With the tastes and inclinations of the attackers of the Tower well documented, the hide could be almost anything...or anyone.",
     "game": "Baldur's Gate",
@@ -556,8 +539,8 @@
     "price": 5500,
     "slug": "aulesStaff",
     "title": "Aule's Staff",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-aulesStaff"
   },
   {
@@ -596,8 +579,8 @@
   },
   {
     "_geoloc": {
-      "lat": 23.12,
-      "lng": 13.75
+      "lat": 45.402,
+      "lng": -52.615
     },
     "description": "Azuredge Axe +3:\nGulen Rockfire, Slayer of Undead, crafted this powerful throwing axe expressly for reinforcing his claim to his namesake. Blessed by a cross-section of gods, this weapon does phenomenal damage against creatures unwisely rebelling against their deceased status, and can potentially destroy them in a single blow. Obviously Gulen no longer carries Azuredge, and it is rumored that he died fighting a powerful vampire years ago, only to rise as one himself. This may have softened his stance regarding the undead, at the very least prompting a change of name.",
     "game": "Baldur's Gate",
@@ -607,8 +590,8 @@
     "price": 3500,
     "slug": "azuredge",
     "title": "Azuredge",
-    "type": "Throwing Ax",
-    "typePlural": "Throwing Axes",
+    "type": "Axe",
+    "typePlural": "Axes",
     "uniqueSlug": "baldur-azuredge"
   },
   {
@@ -664,8 +647,8 @@
   },
   {
     "_geoloc": {
-      "lat": 40.842,
-      "lng": -58.273
+      "lat": 46.06,
+      "lng": -12.24
     },
     "description": "These leather gloves do not appear to have any special properties, though they are quite fashionable.",
     "game": "Baldur's Gate",
@@ -675,8 +658,8 @@
     "price": 50,
     "slug": "bardsGloves",
     "title": "Bard's Gloves",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bardsGloves"
   },
   {
@@ -987,8 +970,8 @@
   },
   {
     "_geoloc": {
-      "lat": -53.06,
-      "lng": -3.634
+      "lat": 47.441,
+      "lng": 49.095
     },
     "description": "This bolt is magically enhanced so as to burst into a rolling ball of ice when it is fired. When the bolt strikes its victim, a shock of cold will travel through its body, both burning and numbing to the very core.",
     "game": "Baldur's Gate",
@@ -998,14 +981,14 @@
     "price": 30,
     "slug": "boltOfIce1",
     "title": "Bolt of Ice +1",
-    "type": "Bolt",
-    "typePlural": "Bolts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-boltOfIce1"
   },
   {
     "_geoloc": {
-      "lat": -20.362,
-      "lng": 29.585
+      "lat": -26.134,
+      "lng": 38.953
     },
     "description": "This bolt seems to crackle with energy as it is held in the hand. When shot from the crossbow, it seems to leap forward towards its target leaving behind an electric sulphuric smell. As it hits there is a crackle as the energy stored is released into the targets wound.",
     "game": "Baldur's Gate",
@@ -1015,8 +998,8 @@
     "price": 30,
     "slug": "boltOfLightning",
     "title": "Bolt of Lightning",
-    "type": "Bolt",
-    "typePlural": "Bolts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-boltOfLightning"
   },
   {
@@ -1174,8 +1157,8 @@
   },
   {
     "_geoloc": {
-      "lat": 22.49,
-      "lng": -16.875
+      "lat": 62.998,
+      "lng": 6.548
     },
     "description": "Bracers of Archery: The Dale's Protector\nDuring a dangerous meeting with a rival ruler, the king of the Great Dale requested the protection of his best archers in addition to his usual guard. The archers, each equipped with an enchanted bow and bracers, hid within range of the gathering. As predicted, enemy troops attempted to seize the king and force their will over his rule, but none had anticipated the amazing accuracy and lethality of the hidden archers. The king was able to escape unharmed; in fact, none of the ambush members even lived to approach him.",
     "game": "Baldur's Gate",
@@ -1185,14 +1168,14 @@
     "price": 5000,
     "slug": "bracersOfArchery",
     "title": "Bracers of Archery",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfArchery"
   },
   {
     "_geoloc": {
-      "lat": -58.532,
-      "lng": -42.84
+      "lat": -35.921,
+      "lng": 56.107
     },
     "description": "The bracers appear to be Bracers of Specialization, but when donned, bind the wearer wrists together, making it quite difficult to wield a weapon or cast a spell. These bracers are sometimes offered as rewards for services rendered by the drow. The recipient, believing them to be very powerful, will often don them before examining them. At this point, the drow find it amusing to conjure a hook horror.",
     "game": "Baldur's Gate",
@@ -1202,14 +1185,14 @@
     "price": 0,
     "slug": "bracersOfBinding",
     "title": "Bracers of Binding",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfBinding"
   },
   {
     "_geoloc": {
-      "lat": 21.029,
-      "lng": 38.56
+      "lat": 38.989,
+      "lng": -34.329
     },
     "description": "Bracers of Blinding Strike: Knight Wesic of the Most Noble Order of the Radiant Heart often said 'Attack swiftly and your enemy will be so overwhelmed that the battle will be yours'. He lived this principle through these bracers. Before engaging in righteous battle he would unlock the magic of the Blinding Strike and quickly rush at his enemy. More often than not his opponent would fall within the first few seconds of battle.",
     "game": "Baldur's Gate",
@@ -1219,14 +1202,14 @@
     "price": 7000,
     "slug": "bracersOfBlindingStrike",
     "title": "Bracers of Blinding Strike",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfBlindingStrike"
   },
   {
     "_geoloc": {
-      "lat": -35.252,
-      "lng": -18.181
+      "lat": -32.806,
+      "lng": 45.277
     },
     "description": "Grinning Glen, the Knight of Fools, wore these bracers while competing in jousting tourneys. With his skill, charm, and bravado -- no man other than he would joust without armor --  he soon became a favorite to the ladies that watched the events. Too much of a favorite it would seem, for one afternoon he was caught frolicking with a knight's betrothed.  A challenge was issued, but in his rush Glen forget to don his bracers. Glen died with a confused grin on his face as the knight's sword struck him, never knowing his own folly.",
     "game": "Baldur's Gate",
@@ -1236,8 +1219,8 @@
     "price": 6500,
     "slug": "bracersOfDefenseAc3",
     "title": "Bracers of Defense AC 3",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfDefenseAc3"
   },
   {
@@ -1259,8 +1242,8 @@
   },
   {
     "_geoloc": {
-      "lat": -27.304,
-      "lng": 47.86
+      "lat": -20.182,
+      "lng": 48.199
     },
     "description": "Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm. Generally, the magic that is instilled in bracers is good only during combat, since most bracers help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.",
     "game": "Baldur's Gate",
@@ -1270,14 +1253,14 @@
     "price": 5250,
     "slug": "bracersOfDefenseAc5",
     "title": "Bracers of Defense AC 5",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfDefenseAc5"
   },
   {
     "_geoloc": {
-      "lat": 7.307,
-      "lng": -36.533
+      "lat": -41.663,
+      "lng": -45.024
     },
     "description": "Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm. Generally, the magic that is instilled in bracers is good only during combat, since most bracers help to protect the wearer from injury, or improve chances to strike at an opponent. Exceptions do exist, though such specialized items are rare at best.",
     "game": "Baldur's Gate",
@@ -1287,14 +1270,14 @@
     "price": 1000,
     "slug": "bracersOfDefenseAc8",
     "title": "Bracers of Defense AC 8",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfDefenseAc8"
   },
   {
     "_geoloc": {
-      "lat": -3.085,
-      "lng": 63.921
+      "lat": -10.883,
+      "lng": -17.674
     },
     "description": "Each of these soft leather bracers, dyed gray, displays the embroidered figure of a boar in shimmering red thread. The bracers were crafted by a monk of the Black Raven Monastery who took longer to achieve mastery of her art than her peers, but reached her goals eventually.",
     "game": "Baldur's Gate",
@@ -1304,14 +1287,14 @@
     "price": 6750,
     "slug": "bracersOfPerseverance",
     "title": "Bracers of Perseverance",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfPerseverance"
   },
   {
     "_geoloc": {
-      "lat": -33.723,
-      "lng": 8.174
+      "lat": -8.503,
+      "lng": -25.756
     },
     "description": "Rumor tells that a remote sect of monks, living in deep caverns beneath the Spine of the World, learned to fight in absolute darkness. The sound of their enemy's movement and breathing were enough for them to accurately target their blows. These bracers put their enemy on an even footing.",
     "game": "Baldur's Gate",
@@ -1321,14 +1304,14 @@
     "price": 5500,
     "slug": "bracersOfTheShutteredLid",
     "title": "Bracers of the Shuttered Lid",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfTheShutteredLid"
   },
   {
     "_geoloc": {
-      "lat": 64.795,
-      "lng": 32.129
+      "lat": -19.65,
+      "lng": 24.221
     },
     "description": "These bracers were held for decades by an undefeated gladiator, and found extensive use in arena combat. The death of this champion marked the disappearance of this magical item, but rumors persist that they are used to this day in competitive combat across the lands.",
     "game": "Baldur's Gate",
@@ -1338,14 +1321,14 @@
     "price": 4000,
     "slug": "bracersToTheDeath",
     "title": "Bracers to the Death",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersToTheDeath"
   },
   {
     "_geoloc": {
-      "lat": -60.669,
-      "lng": 6.877
+      "lat": -24.881,
+      "lng": 39.961
     },
     "description": "The soldier Brevin brought this quarterstaff from home when he first left to make his fortune. Once he earned enough money to purchase a better weapon, the quarterstaff wound up in a weapons supply in Candlekeep. At some point it was retrieved and enchanted, switching owners several times along the way.",
     "game": "Baldur's Gate",
@@ -1355,8 +1338,8 @@
     "price": 1500,
     "slug": "brevinsQuarterstaff",
     "title": "Brevin's Quarterstaff",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-brevinsQuarterstaff"
   },
   {
@@ -1412,8 +1395,8 @@
   },
   {
     "_geoloc": {
-      "lat": 46.154,
-      "lng": -34.071
+      "lat": -61.381,
+      "lng": -3.68
     },
     "description": "A rectangle of mammoth hide forms this small shield. No amount of cleansing can dispel the pong of decay from this poorly tanned device, yet somehow the malodorous shield fortifies its wielder.",
     "game": "Baldur's Gate",
@@ -1423,14 +1406,14 @@
     "price": 800,
     "slug": "buckleysBuckler",
     "title": "Buckley's Buckler",
-    "type": "Buckler",
-    "typePlural": "Bucklers",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-buckleysBuckler"
   },
   {
     "_geoloc": {
-      "lat": -42.335,
-      "lng": -52.549
+      "lat": 62.104,
+      "lng": 13.883
     },
     "description": "Each of these copper bullets is molded around the vertebrae of an electric eel. Upon impact, they release a powerful jolt to the target.",
     "game": "Baldur's Gate",
@@ -1440,14 +1423,14 @@
     "price": 10,
     "slug": "bulletOfElectricity",
     "title": "Bullet of Electricity",
-    "type": "Bullet",
-    "typePlural": "Bullets",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-bulletOfElectricity"
   },
   {
     "_geoloc": {
-      "lat": 22.569,
-      "lng": 6.896
+      "lat": 5.963,
+      "lng": 63.998
     },
     "description": "Carved from the knucklebones of slain salamanders, these incendiary missiles burst into flames once they are hurled from a sling.",
     "game": "Baldur's Gate",
@@ -1457,14 +1440,14 @@
     "price": 10,
     "slug": "bulletOfFire",
     "title": "Bullet of Fire",
-    "type": "Bullet",
-    "typePlural": "Bullets",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-bulletOfFire"
   },
   {
     "_geoloc": {
-      "lat": 39.392,
-      "lng": -51.574
+      "lat": -52.882,
+      "lng": -50.396
     },
     "description": "Chipped from the corpse of an ice elemental, these sharp projectiles shatter upon impact to chill the target with unnatural cold.",
     "game": "Baldur's Gate",
@@ -1474,8 +1457,8 @@
     "price": 10,
     "slug": "bulletOfIce",
     "title": "Bullet of Ice",
-    "type": "Bullet",
-    "typePlural": "Bullets",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-bulletOfIce"
   },
   {
@@ -1514,8 +1497,8 @@
   },
   {
     "_geoloc": {
-      "lat": 22.171,
-      "lng": -34.152
+      "lat": 63.569,
+      "lng": -32.874
     },
     "description": "These rare suits of armor allow the wearer to assume a number of interesting forms.",
     "game": "Baldur's Gate",
@@ -1525,8 +1508,8 @@
     "price": 4500,
     "slug": "changelingsVest",
     "title": "Changeling's Vest",
-    "type": "Studded Leather Armor",
-    "typePlural": "Studded Leather Armors",
+    "type": "Light Armor",
+    "typePlural": "Light Armors",
     "uniqueSlug": "baldur-changelingsVest"
   },
   {
@@ -1548,8 +1531,8 @@
   },
   {
     "_geoloc": {
-      "lat": 21.624,
-      "lng": -27.453
+      "lat": -18.569,
+      "lng": -27.441
     },
     "description": "A circlet is a circular band, typically made of precious metal, worn on the head as an ornament or symbol of status. Circlets carrying low-level enchantments are commonly worn by mages across Faerûn.",
     "game": "Baldur's Gate",
@@ -1559,14 +1542,14 @@
     "price": 5000,
     "slug": "circletOfLostSouls",
     "title": "Circlet of Lost Souls",
-    "type": "Circlet",
-    "typePlural": "Circlets",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-circletOfLostSouls"
   },
   {
     "_geoloc": {
-      "lat": -9.917,
-      "lng": -3.35
+      "lat": 45.536,
+      "lng": -59.002
     },
     "description": "This powerful circlet was enchanted to complement the robes customarily worn by archmages, building even further on their magical protection and benefits. Due to the nature of the enchantment, it can only be worn by Mages.",
     "game": "Baldur's Gate",
@@ -1576,8 +1559,8 @@
     "price": 5100,
     "slug": "circletOfTheArchmagi",
     "title": "Circlet of the Archmagi",
-    "type": "Circlet",
-    "typePlural": "Circlets",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-circletOfTheArchmagi"
   },
   {
@@ -1599,8 +1582,8 @@
   },
   {
     "_geoloc": {
-      "lat": -8.517,
-      "lng": -10.831
+      "lat": -16.992,
+      "lng": 63.974
     },
     "description": "This simple staff radiates a powerful enchantment, though its plain design suggests a simple origin. It reflects the quiet strength that faith brings, and was likely the modest weapon of a priest or cleric.",
     "game": "Baldur's Gate",
@@ -1610,8 +1593,8 @@
     "price": 5500,
     "slug": "clericsStaff",
     "title": "Cleric's Staff",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-clericsStaff"
   },
   {
@@ -2602,23 +2585,6 @@
   },
   {
     "_geoloc": {
-      "lat": -59.416,
-      "lng": 56.032
-    },
-    "description": "Dark and rancid blood lurks within this pewter goblet. The lip is black and caked where it appears others have tasted from it. Scratched deep into the pewter are the words \"Taste My Fear.\"",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Durlag%27s_Goblet",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/8/89/CMISC9800000.PNG/revision/latest?cb=20170817121641",
-    "price": 1100,
-    "slug": "durlagsGoblet",
-    "title": "Durlag's Goblet",
-    "type": "Potion",
-    "typePlural": "Potions",
-    "uniqueSlug": "baldur-durlagsGoblet"
-  },
-  {
-    "_geoloc": {
       "lat": -52.53,
       "lng": -18.835
     },
@@ -2653,8 +2619,8 @@
   },
   {
     "_geoloc": {
-      "lat": -43.55,
-      "lng": -44.448
+      "lat": 63.177,
+      "lng": -58.436
     },
     "description": "This hammer -- not to be confused with the elven made Dwarf Thrower -- is only usable by dwarves. In the capable hands of a dwarven warrior the hammer may be thrown at an opponent. The magic in the hammer draws it back to the hand of its wielder. If it hits an opponent it does double the normal damage that a hammer would normally do.  Against giants and ogres the hammer does an additional +8 damage, due to the special hatred that dwarves hold against these races.",
     "game": "Baldur's Gate",
@@ -2664,8 +2630,8 @@
     "price": 12000,
     "slug": "dwarvenThrower",
     "title": "Dwarven Thrower",
-    "type": "Throwing Hammer",
-    "typePlural": "Throwing Hammers",
+    "type": "Hammer",
+    "typePlural": "Hammers",
     "uniqueSlug": "baldur-dwarvenThrower"
   },
   {
@@ -2687,8 +2653,8 @@
   },
   {
     "_geoloc": {
-      "lat": 4.765,
-      "lng": 56.958
+      "lat": -3.041,
+      "lng": -51.339
     },
     "description": "A devil of Avernus once possessed this gnarled wooden staff. Though the devil long since escaped from the staff, a residue of its essence permeated the weapon and lingers still. When a command word is spoken, an aura of fire springs up around anyone wielding the staff; though the flames leave the wielder untouched, they sear others with devastating heat.",
     "game": "Baldur's Gate",
@@ -2698,8 +2664,8 @@
     "price": 12000,
     "slug": "echoOfTheFiend",
     "title": "Echo of the Fiend",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-echoOfTheFiend"
   },
   {
@@ -2738,8 +2704,8 @@
   },
   {
     "_geoloc": {
-      "lat": 23.236,
-      "lng": 45.773
+      "lat": 32.599,
+      "lng": -10.527
     },
     "description": "This circlet is made of the purest silver and embedded with a green and shimmering jewel that seems to emit a faint glow when caught by moonlight. It was blessed by the Drow goddess Eilistraee, granting the wearer increased protection against harmful magic.",
     "game": "Baldur's Gate",
@@ -2749,8 +2715,8 @@
     "price": 2100,
     "slug": "eilistraeesBoon",
     "title": "Eilistraee's Boon",
-    "type": "Circlet",
-    "typePlural": "Circlets",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-eilistraeesBoon"
   },
   {
@@ -3078,8 +3044,8 @@
   },
   {
     "_geoloc": {
-      "lat": -10.816,
-      "lng": 40.51
+      "lat": 56.461,
+      "lng": -11.745
     },
     "description": "Aln Zekk, as he began calling himself, rose as a tyrant and master amongst the ranks of monks devoted to Ilmater, the Broken God. His view regarding suffering and how it brought the faithful closer to their god was not shared by the other monks of his order. Eventually, they rose up to cast him down. He fled, leaving his gauntlets behind. Zekk has not been seen or heard from since.",
     "game": "Baldur's Gate",
@@ -3089,14 +3055,14 @@
     "price": 4000,
     "slug": "gauntletsOfAlnZekk",
     "title": "Gauntlets of Aln Zekk",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-gauntletsOfAlnZekk"
   },
   {
     "_geoloc": {
-      "lat": -50.067,
-      "lng": 13.002
+      "lat": 46.161,
+      "lng": -49.209
     },
     "description": "Gauntlets of Dexterity: 'The Brawling Hands'. This pair of gauntlets was likely developed in Kara-Tur to aid masters of the martial art. Legends speak of such masters from the Far East bringing these items with them on their journeys, though details remain sketchy.",
     "game": "Baldur's Gate",
@@ -3106,14 +3072,14 @@
     "price": 5000,
     "slug": "gauntletsOfDexterity",
     "title": "Gauntlets of Dexterity",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-gauntletsOfDexterity"
   },
   {
     "_geoloc": {
-      "lat": 55.419,
-      "lng": 30.011
+      "lat": 54.231,
+      "lng": 30.73
     },
     "description": "These rarest of gauntlets are highly sought after by duelists, warriors, and fighters of all kinds.",
     "game": "Baldur's Gate",
@@ -3123,26 +3089,9 @@
     "price": 9000,
     "slug": "gauntletsOfExtraordinarySpecialization",
     "title": "Gauntlets of Extraordinary Specialization",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-gauntletsOfExtraordinarySpecialization"
-  },
-  {
-    "_geoloc": {
-      "lat": -61.118,
-      "lng": -36.216
-    },
-    "description": "This finely cut and polished stone is indistinguishable from an ordinary jewel in appearance, although a Detect Magic will reveal its enchantment. When gazed through, the gem of seeing enables the user to detect all hidden, illusionary, invisible, astral, ethereal, or out-of-phase things within viewing range, as though they were affected by a True Seeing spell.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Gem_of_Seeing",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/d/dd/CMISC6O00000.PNG/revision/latest?cb=20170824115735",
-    "price": 6000,
-    "slug": "gemOfSeeing",
-    "title": "Gem of Seeing",
-    "type": "GARBAGE",
-    "typePlural": "GARBAGE",
-    "uniqueSlug": "baldur-gemOfSeeing"
   },
   {
     "_geoloc": {
@@ -3299,8 +3248,8 @@
   },
   {
     "_geoloc": {
-      "lat": 45.978,
-      "lng": 45.789
+      "lat": -2.795,
+      "lng": -27.958
     },
     "description": "These polished bracers reflect harsh light into the eyes of the wearer's foes, distracting them from parrying incoming fists.",
     "game": "Baldur's Gate",
@@ -3310,14 +3259,14 @@
     "price": 9000,
     "slug": "glimmeringBands",
     "title": "Glimmering Bands",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-glimmeringBands"
   },
   {
     "_geoloc": {
-      "lat": -28.421,
-      "lng": -34.564
+      "lat": -3.961,
+      "lng": -59.676
     },
     "description": "A few years back, Fong Moo, a famous cutpurse known in both Baldur's Gate and Athkatla, was found dead on the road between the Gate and Beregost. Seems he'd stolen an artifact from a powerful mage and tried escaping, with little success. His possessions went to a nephew, who took up the same trade as his uncle and became especially good at pickpocketing. Whether these gloves were magical before falling into Fong's hands or if they are somehow imbued with the master's essence is not known.",
     "game": "Baldur's Gate",
@@ -3327,8 +3276,8 @@
     "price": 5000,
     "slug": "glovesOfPickpocketing",
     "title": "Gloves of Pickpocketing",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-glovesOfPickpocketing"
   },
   {
@@ -3622,8 +3571,8 @@
   },
   {
     "_geoloc": {
-      "lat": 53.774,
-      "lng": -17.605
+      "lat": 38.294,
+      "lng": -24.646
     },
     "description": "Gauntlets of Ogre Power: Hands of Takkok\nThe Hands of Takkok are exactly that: his very hands. He lost them when he attacked a strange man crossing the Spine of the World. The mysterious man turned out to be a mage of incredible power, and he used Takkok's hands to create this pair of ogre skin gauntlets.",
     "game": "Baldur's Gate",
@@ -3633,8 +3582,8 @@
     "price": 6500,
     "slug": "handsOfTakkok",
     "title": "Hands of Takkok",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-handsOfTakkok"
   },
   {
@@ -3741,8 +3690,8 @@
   },
   {
     "_geoloc": {
-      "lat": -25.242,
-      "lng": -16.66
+      "lat": -2.691,
+      "lng": -57.662
     },
     "description": "A worshipper of Nobanion crafted this gold silk headband, embroidered with abstract running lions along its length, while meditating on the teachings of Lord Firemane. When the headband was complete, the worshipper found that Nobanion had rewarded his fealty by granting the headband the ability to conjure a surge of might within the wearer.",
     "game": "Baldur's Gate",
@@ -3752,8 +3701,8 @@
     "price": 7500,
     "slug": "headbandOfFocus",
     "title": "Headband of Focus",
-    "type": "Circlet",
-    "typePlural": "Circlets",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-headbandOfFocus"
   },
   {
@@ -3996,23 +3945,6 @@
   },
   {
     "_geoloc": {
-      "lat": 24.249,
-      "lng": -0.34
-    },
-    "description": "This is a small horn. Horns are typically made of bone or metal and can produce a large variety of sounds.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Horn_of_Blasting",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/5/59/CMISC3H00000.PNG/revision/latest?cb=20170923014416",
-    "price": 2000,
-    "slug": "hornOfBlasting",
-    "title": "Horn of Blasting",
-    "type": "GARBAGE",
-    "typePlural": "GARBAGE",
-    "uniqueSlug": "baldur-hornOfBlasting"
-  },
-  {
-    "_geoloc": {
       "lat": -3.527,
       "lng": -17.866
     },
@@ -4115,8 +4047,8 @@
   },
   {
     "_geoloc": {
-      "lat": 37.199,
-      "lng": -10.88
+      "lat": -49.786,
+      "lng": -26.641
     },
     "description": "These bracers once belonged to a traveling bard famed for his sharp tongue and quick retorts. One rainy night, the bard took refuge in a rickety inn on the road to Shadowdale. There he performed for his supper, sprinkling his routine with caustic jibes as was his custom. One of the drinkers in the tavern, an old woman, stood up midway through the performance and snapped, \"You think it clever to insult and belittle others? Do so, then, for as long as you live!\" The bard found himself unable to remove his now-cursed protective bracers and was forced to spout corny jokes until he could pay a wizard to remove them.",
     "game": "Baldur's Gate",
@@ -4126,8 +4058,8 @@
     "price": 1,
     "slug": "jestersBracers",
     "title": "Jester's Bracers",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-jestersBracers"
   },
   {
@@ -4251,8 +4183,8 @@
   },
   {
     "_geoloc": {
-      "lat": -20.378,
-      "lng": -60.762
+      "lat": 56.33,
+      "lng": -43.265
     },
     "description": "This is the buckler of Kiel the Legion-Killer, first-born son of Durlag Trollkiller and Clan-prince of his father's ill-fated tower. Its light weight and excellent craftmanship increase the dexterity of all who bear it by a single point.",
     "game": "Baldur's Gate",
@@ -4262,8 +4194,8 @@
     "price": 2000,
     "slug": "kielsBuckler",
     "title": "Kiel's Buckler",
-    "type": "Buckler",
-    "typePlural": "Bucklers",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-kielsBuckler"
   },
   {
@@ -4387,8 +4319,8 @@
   },
   {
     "_geoloc": {
-      "lat": -8.912,
-      "lng": -43.968
+      "lat": 15.699,
+      "lng": 48.543
     },
     "description": "Highly sought after among novice warriors, these items were once the property of the royal family of Threskel. Imparting a portion of the prince's legendary skill, these gauntlets grant the bearer mastery over all forms of weapons. The majority of their many previous owners seem to have come to bloody ends though: The gloves grant the ability of experience, but not the wisdom.",
     "game": "Baldur's Gate",
@@ -4398,8 +4330,8 @@
     "price": 6000,
     "slug": "legacyOfTheMasters",
     "title": "Legacy of the Masters",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-legacyOfTheMasters"
   },
   {
@@ -4846,8 +4778,8 @@
   },
   {
     "_geoloc": {
-      "lat": 6.227,
-      "lng": 38.034
+      "lat": -60.369,
+      "lng": -17.208
     },
     "description": "Dydaar'a of the Altered was a witch of great temper who rewarded the slightest insult with harsh punishment. Often this meant several weeks transformed into some form of wild beast, which of course earned her many enemies. It is recorded that she once fought a Mage named Maxell who had previously suffered such a fate. For his return he had prepared this necklace, designed to prevent her changing his form, but he could not shield those around him as well. Apparently an impromptu army of farmers-turned-bears eventually overwhelmed him.",
     "game": "Baldur's Gate",
@@ -4857,8 +4789,8 @@
     "price": 1800,
     "slug": "necklaceOfFormStability",
     "title": "Necklace of Form Stability",
-    "type": "Necklace",
-    "typePlural": "Necklaces",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-necklaceOfFormStability"
   },
   {
@@ -4948,8 +4880,8 @@
   },
   {
     "_geoloc": {
-      "lat": -52.103,
-      "lng": -50.758
+      "lat": -25.672,
+      "lng": -10.669
     },
     "description": "Defenders of justice are ever eager to acquire another tool which may be used to thwart the machinations of evil. However, these particular gauntlets can only be worn by a warrior of the purest heart.",
     "game": "Baldur's Gate",
@@ -4959,8 +4891,8 @@
     "price": 9000,
     "slug": "paladinsBracers",
     "title": "Paladin's Bracers",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-paladinsBracers"
   },
   {
@@ -5798,8 +5730,8 @@
   },
   {
     "_geoloc": {
-      "lat": 62.95,
-      "lng": -17.698
+      "lat": -19.511,
+      "lng": 45.982
     },
     "description": "''This long, thin rod can be wielded as a staff.  This rod has been designed to destroy golems. Any golem struck by the rod must make a saving throw or be destroyed. In the hands of any other than a cleric or mage the rod becomes unusable.''",
     "game": "Baldur's Gate",
@@ -5809,14 +5741,14 @@
     "price": 9900,
     "slug": "rodOfSmiting",
     "title": "Rod of Smiting",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-rodOfSmiting"
   },
   {
     "_geoloc": {
-      "lat": 37.053,
-      "lng": 16.361
+      "lat": -58.064,
+      "lng": -51.891
     },
     "description": "''When activated this rod may be used as a staff +3. Any creature hit by the rod must make a saving throw vs. spells or flee in terror, fearing the wielder as if he or she were a flesh eating demon from the Abyss. There is a drawback to using this rod however. Each time the rod is used there is a 20% chance that the wielder loses one point of Charisma permanently.''",
     "game": "Baldur's Gate",
@@ -5826,8 +5758,8 @@
     "price": 5500,
     "slug": "rodOfTerror",
     "title": "Rod of Terror",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-rodOfTerror"
   },
   {
@@ -5951,8 +5883,8 @@
   },
   {
     "_geoloc": {
-      "lat": 13.546,
-      "lng": 39.283
+      "lat": 13.772,
+      "lng": -26.522
     },
     "description": "Adorned with serpentine designs, this powerful quarter staff has a chance to release a lethal toxin against its opponents with every blow.",
     "game": "Baldur's Gate",
@@ -5962,8 +5894,8 @@
     "price": 2500,
     "slug": "serpentShaft",
     "title": "Serpent Shaft",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-serpentShaft"
   },
   {
@@ -6019,8 +5951,8 @@
   },
   {
     "_geoloc": {
-      "lat": -3.344,
-      "lng": 39.984
+      "lat": 23.17,
+      "lng": 39.553
     },
     "description": "The Egons were a family of well-respected Lathander worshippers that earned their fortune protecting those weaker than themselves. Though the Egon line has ended, its influence is still felt in the form of this shield, which is imbued with some of the power of the Morninglord himself.",
     "game": "Baldur's Gate",
@@ -6030,14 +5962,14 @@
     "price": 3500,
     "slug": "shieldOfEgons",
     "title": "Shield of Egons",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfEgons"
   },
   {
     "_geoloc": {
-      "lat": -61.41,
-      "lng": 46.62
+      "lat": 39.141,
+      "lng": 45.964
     },
     "description": "Fyrus Khal and his wife Amanis were well-known entertainers across Calimshan. They would travel from city to city, festival to festival, performing feats of magic and acrobatic skill. As part of their act, Fyrus would enter into a mock argument with his wife, who would hurl spells at him in a staged fit of rage. His shield, painted with a colorful and intricate design, would bounce the harmless spells back at her to the delight of the crowd.",
     "game": "Baldur's Gate",
@@ -6047,8 +5979,8 @@
     "price": 5000,
     "slug": "shieldOfFyrusKhal",
     "title": "Shield of Fyrus Khal",
-    "type": "Small Shield",
-    "typePlural": "Small Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfFyrusKhal"
   },
   {
@@ -6257,8 +6189,8 @@
   },
   {
     "_geoloc": {
-      "lat": 45.372,
-      "lng": -41.747
+      "lat": -0.606,
+      "lng": -1.437
     },
     "description": "Unlike most other slings, the Sling of Seeking is capable of throwing stones and allowing a strength bonus to be applied to the damage it inflicts.  Although the sling is magical, giving it a bonus to hit and to damage, it is capable of inflicting strength damage due to its design, not magic.",
     "game": "Baldur's Gate",
@@ -6268,8 +6200,8 @@
     "price": 1800,
     "slug": "slingOfSeeking",
     "title": "Sling of Seeking",
-    "type": "Bullet",
-    "typePlural": "Bullets",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-slingOfSeeking"
   },
   {
@@ -6393,8 +6325,8 @@
   },
   {
     "_geoloc": {
-      "lat": 38.364,
-      "lng": -35.772
+      "lat": 30.669,
+      "lng": 7.666
     },
     "description": "When this seemingly ordinary quarterstaff is examined magically, it has an aura of alteration. Upon command, a long sharp spear blade will shoot forth from the upper end, making the staff into a spear. This weapon was designed mainly for priests and wizards although it is usable by anybody.",
     "game": "Baldur's Gate",
@@ -6404,14 +6336,14 @@
     "price": 4000,
     "slug": "staffSpear",
     "title": "Staff Spear",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffSpear"
   },
   {
     "_geoloc": {
-      "lat": 61.822,
-      "lng": -59.477
+      "lat": -1.179,
+      "lng": 63.43
     },
     "description": "''This staff seems to draw from eleven artistic traditions, though tied less to the forest than is usually customary. It was apparently designed to control air elementals, being able to summon one as a servant to the wielder, and potentially destroying creatures of the same type in a single blow. When necessary, it can also spawn a cloud of gas causing anyone within the area of effect to fall into a deep slumber. Some effects are limited by charges.''",
     "game": "Baldur's Gate",
@@ -6421,14 +6353,14 @@
     "price": 2500,
     "slug": "staffOfAir",
     "title": "Staff of Air",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfAir"
   },
   {
     "_geoloc": {
-      "lat": -35.571,
-      "lng": -3.983
+      "lat": 46.731,
+      "lng": 54.326
     },
     "description": "''The staff allows the user to dominate another creature, each use draining one charge. This item is of the kind used by nefarious people seeking to sway others to follow their ways.''",
     "game": "Baldur's Gate",
@@ -6438,14 +6370,14 @@
     "price": 2500,
     "slug": "staffOfCommand",
     "title": "Staff of Command",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfCommand"
   },
   {
     "_geoloc": {
-      "lat": -19.317,
-      "lng": 55.299
+      "lat": -52.452,
+      "lng": -3.57
     },
     "description": "Torm is said to manifest these items during times of great trouble, granting them to priests who care for the wounded, diseased, and poisoned. It is not to be taken for granted however, as the enchantment, though useful, is fleeting. It must be used with all due care.''",
     "game": "Baldur's Gate",
@@ -6455,8 +6387,8 @@
     "price": 2500,
     "slug": "staffOfCuring",
     "title": "Staff of Curing",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfCuring"
   },
   {
@@ -6478,8 +6410,8 @@
   },
   {
     "_geoloc": {
-      "lat": 64.5,
-      "lng": 45.297
+      "lat": -42.379,
+      "lng": -43.145
     },
     "description": "''This staff bears an ancient rune that may link it to the wizards of faraway Halruaa, but it is impossible to be certain. Drawing from the Plane of Fire, it can erupt in a Fire Shield that damages attackers, it can summon a Fire Elemental under the control of the wielder, and it can potentially draw all the energy from any fire elemental that it hits, destroying them instantly. Some abilities are limited with charges however.''",
     "game": "Baldur's Gate",
@@ -6489,14 +6421,14 @@
     "price": 2500,
     "slug": "staffOfFire",
     "title": "Staff of Fire",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfFire"
   },
   {
     "_geoloc": {
-      "lat": -59.563,
-      "lng": 45.566
+      "lat": -49.617,
+      "lng": -20.013
     },
     "description": "A mage's staff is far more than just a gilded walking stick, most being enchanted to an impressive degree. This one is no exception, and whoever the previous owner was, they were powerful indeed. It enables a mage to better escape hostile magic and avoid physical blows, and can erect a Globe of Invulnerability (one charge). Offensively it can be used in melee very well, and cast a Lightning Bolt (one charge).",
     "game": "Baldur's Gate",
@@ -6506,8 +6438,8 @@
     "price": 0,
     "slug": "staffOfPower",
     "title": "Staff of Power",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfPower"
   },
   {
@@ -6529,8 +6461,8 @@
   },
   {
     "_geoloc": {
-      "lat": -59.438,
-      "lng": -60.129
+      "lat": -0.776,
+      "lng": -36.792
     },
     "description": "Staffs of Striking are made by the Gold Elves of Drelagara on Evermeet. The staffs have a life of their own and jump to attack in their bearer's hand. The elven craftsmen rarely sell them to other races but these powerful melee weapons do surface occanionally in Faerun. However, each attack ade with the staff uses a charge, hence causing it to consume itself when no charges remain.",
     "game": "Baldur's Gate",
@@ -6540,14 +6472,14 @@
     "price": 2500,
     "slug": "staffOfStriking",
     "title": "Staff of Striking",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfStriking"
   },
   {
     "_geoloc": {
-      "lat": -2.194,
-      "lng": -44.844
+      "lat": 22.581,
+      "lng": 63.412
     },
     "description": "''There are stories that tell of these staves sprouting in the growth around druid groves when the forest is threatened. Fanciful tales, but truth or not, this staff is a powerful tool. It draws energy from storms, and there is a chance that any blow may trigger a thunderclap that knocks enemies down. It casts Lightning Bolt, and if circumstances warrant it, it can summon a lighting storm to blast enemies to dust.  Some abilities are limited by charges.''",
     "game": "Baldur's Gate",
@@ -6557,14 +6489,14 @@
     "price": 2500,
     "slug": "staffOfThunderAndLightning",
     "title": "Staff of Thunder and Lightning",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfThunderAndLightning"
   },
   {
     "_geoloc": {
-      "lat": -0.843,
-      "lng": 4.963
+      "lat": 64.363,
+      "lng": 55.593
     },
     "description": "''This staff was the culmination of a cycle of seasons in which Cernd meditated on his role within nature. His perch for this personal journey was next to a sapling, a young oak that was a particular interest of study; it seemed odd, and yet somehow wonderfully ordered. At the coming of spring Cernd examined it one last time, and it came loose in his hands, a living staff, granted as boon from nature herself. It has grown to fit his grip, and few others may wield it.''",
     "game": "Baldur's Gate",
@@ -6574,14 +6506,14 @@
     "price": 1000,
     "slug": "staffOfTheHighForest",
     "title": "Staff of the High Forest",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfTheHighForest"
   },
   {
     "_geoloc": {
-      "lat": -52.104,
-      "lng": -27.949
+      "lat": 63.214,
+      "lng": -36.435
     },
     "description": "This type of staff is thoroughly linked to the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in melee, grants invisibility, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.",
     "game": "Baldur's Gate",
@@ -6591,14 +6523,14 @@
     "price": 40000,
     "slug": "staffOfTheMagi",
     "title": "Staff of the Magi",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfTheMagi"
   },
   {
     "_geoloc": {
-      "lat": 39.786,
-      "lng": -27.429
+      "lat": -17.261,
+      "lng": -18.223
     },
     "description": "You has Staff of the Ram...5,000 gp and the Roranach's Horn and upgrades it I can.",
     "game": "Baldur's Gate",
@@ -6608,8 +6540,8 @@
     "price": 4500,
     "slug": "staffOfTheRam",
     "title": "Staff of the Ram",
-    "type": "Quarterstave",
-    "typePlural": "Quarterstaves",
+    "type": "Quarterstaff",
+    "typePlural": "Quarterstaffs",
     "uniqueSlug": "baldur-staffOfTheRam"
   },
   {
@@ -6801,8 +6733,8 @@
   },
   {
     "_geoloc": {
-      "lat": -44.186,
-      "lng": 45.506
+      "lat": -58.982,
+      "lng": 6.608
     },
     "description": "Magical currents are embedded inside this bullet so that it seems a little more balanced and lighter as it jumps towards an opponent. When the bullet strikes an opponent it explodes in a flash of fire.",
     "game": "Baldur's Gate",
@@ -6812,8 +6744,8 @@
     "price": 8,
     "slug": "sunstoneBullet",
     "title": "Sunstone Bullet",
-    "type": "Bullet",
-    "typePlural": "Bullets",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-sunstoneBullet"
   },
   {
@@ -6988,8 +6920,8 @@
   },
   {
     "_geoloc": {
-      "lat": 47.189,
-      "lng": -1.4
+      "lat": 63.89,
+      "lng": -53.124
     },
     "description": "Some say a positive mindset is key to victory. The creator of this shield, a dark elven sorcerer in life and feared lich in undeath, clearly had a different idea. Considering the comparative weakness of those concerned with the arcane arts and lack of suitable armour unacceptable, he set out to create the perfect piece of equipment if worst came to worst—a likely scenario for a wizard stuck in close range combat. Ever since, the powerful enchantments on this shield have frequently saved the lives of countless of owners in a pinch or allowed them to escape by the skin of their teeth, equally frequently at the cost of sacrificing their traveling companions.",
     "game": "Baldur's Gate",
@@ -6999,8 +6931,8 @@
     "price": 24700,
     "slug": "tarlocsContingency",
     "title": "Tarloc's Contingency",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-tarlocsContingency"
   },
   {
@@ -7124,8 +7056,8 @@
   },
   {
     "_geoloc": {
-      "lat": 61.474,
-      "lng": 46.597
+      "lat": 31.402,
+      "lng": -17.404
     },
     "description": "Driven by years of rivalry, the Dukes of Spandeliyon and Delthuntle decided to organize a private contest that would proclaim the better archer between them.  Both boasted the power of their magical bows, but that wasn't enough for Edwall Dest, Duke of Spandeliyon.  He arranged for the theft of his opponent's bow, and on the day of the contest he couldn't help gloat in his advantage.  The Duke of Delthuntle, known only as Raymond, demanded a demonstration of Edwall's skill on a scarecrow that he had placed.  Edwall Dest drew his longbow and released the arrow with determination, not stopping to think how uncannily the target resembled himself.  The missile split the large voodoo doll's head in twain, and at that moment Edwall's head did much the same.",
     "game": "Baldur's Gate",
@@ -7135,8 +7067,8 @@
     "price": 5500,
     "slug": "theDeadShot",
     "title": "The Dead Shot",
-    "type": "Arrow",
-    "typePlural": "Arrows",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-theDeadShot"
   },
   {
@@ -7243,8 +7175,8 @@
   },
   {
     "_geoloc": {
-      "lat": -59.089,
-      "lng": -8.995
+      "lat": 20.577,
+      "lng": -3.018
     },
     "description": "Heavy crossbow of accuracy: 'The Guide'. A favored siege weapon of King Shastir Longeve, crossbows of this type were designed for the systematic removal of defensive forces thought safe behind the battlements of castles. Scant few of these weapons survive to this day, mainly due to the eventual annihilation of the king's forces by a coalition of subjugated lands.",
     "game": "Baldur's Gate",
@@ -7254,8 +7186,8 @@
     "price": 8000,
     "slug": "theGuide",
     "title": "The Guide",
-    "type": "Bolt",
-    "typePlural": "Bolts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-theGuide"
   },
   {
@@ -7583,8 +7515,8 @@
   },
   {
     "_geoloc": {
-      "lat": -51.574,
-      "lng": -44.047
+      "lat": 46.408,
+      "lng": 20.947
     },
     "description": "Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.",
     "game": "Baldur's Gate",
@@ -7594,8 +7526,8 @@
     "price": 5000,
     "slug": "theWingedsGauntlet",
     "title": "The Winged's Gauntlet",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-theWingedsGauntlet"
   },
   {
@@ -7736,8 +7668,8 @@
   },
   {
     "_geoloc": {
-      "lat": -2.994,
-      "lng": -9.255
+      "lat": -34.165,
+      "lng": -52.055
     },
     "description": "Although monks traditionally shun armor, these gauntlets of Grand Master Tzu-Zan are highly sought after by the practitioners of weaponless combat.",
     "game": "Baldur's Gate",
@@ -7747,8 +7679,8 @@
     "price": 9000,
     "slug": "tzuZansBracers",
     "title": "Tzu-Zan's Bracers",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-tzuZansBracers"
   },
   {
@@ -7801,23 +7733,6 @@
     "type": "Short Sword",
     "typePlural": "Short Swords",
     "uniqueSlug": "baldur-vexation"
-  },
-  {
-    "_geoloc": {
-      "lat": 22.569,
-      "lng": -43.464
-    },
-    "description": "This is one of the oddest potions you have ever examined. Once drank, this mixture causes one's muscles to immediately bulge to completely inhuman proportions, titan like actually, while dexterity and constitution are both reduced essentially to that of a slug. The effect lasts for a full 24 hours, so think carefully before quaffing this suspect drink.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Violet_Potion",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/05/Potion3.png/revision/latest?cb=20200312110257",
-    "price": 400,
-    "slug": "violetPotion",
-    "title": "Violet Potion",
-    "type": "Potion",
-    "typePlural": "Potions",
-    "uniqueSlug": "baldur-violetPotion"
   },
   {
     "_geoloc": {
@@ -8144,8 +8059,8 @@
   },
   {
     "_geoloc": {
-      "lat": 32.467,
-      "lng": 13.204
+      "lat": -11.339,
+      "lng": -49.199
     },
     "description": "These gem-studded leather gloves are enchanted so as to augment the skills of any bard.",
     "game": "Baldur's Gate",
@@ -8155,8 +8070,8 @@
     "price": 5000,
     "slug": "wondrousGloves",
     "title": "Wondrous Gloves",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-wondrousGloves"
   },
   {
@@ -8212,8 +8127,8 @@
   },
   {
     "_geoloc": {
-      "lat": 63.893,
-      "lng": -43.272
+      "lat": 46.789,
+      "lng": 20.545
     },
     "description": "Perhaps the most well known owner of these gauntlets was a mercenary, named Xarrnous. He specialized in smuggling, and frequently loaned these gauntlets to clients if they were to travel with him. In his eyes, an extra sword arm was always handy.",
     "game": "Baldur's Gate",
@@ -8223,14 +8138,14 @@
     "price": 4000,
     "slug": "xarrnoussSecondSwordArm",
     "title": "Xarrnous's Second Sword Arm",
-    "type": "Gauntlet",
-    "typePlural": "Gauntlets",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-xarrnoussSecondSwordArm"
   },
   {
     "_geoloc": {
-      "lat": 65.456,
-      "lng": -3.125
+      "lat": 28.923,
+      "lng": 15.652
     },
     "description": "The name of the mighty Wu Jen who fashioned this \"companion sword\" is long forgotten. However, the name Yamato, loosely translated, means \"Guardian\" or \"Defender\".",
     "game": "Baldur's Gate",
@@ -8240,8 +8155,8 @@
     "price": 45000,
     "slug": "yamato",
     "title": "Yamato",
-    "type": "Wakizashi",
-    "typePlural": "Wakizashis",
+    "type": "Scimitar",
+    "typePlural": "Scimitars",
     "uniqueSlug": "baldur-yamato"
   },
   {
