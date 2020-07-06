@@ -6,7 +6,7 @@ const baseUrl = window.CONFIG.baseUrl;
 module.exports = {
   link(item) {
     const { gameSlug, slug } = item;
-    return `${baseUrl}${gameSlug}/${slug}/`;
+    return `${baseUrl}/${gameSlug}/${slug}/`;
   },
   preview(item) {
     const { gameSlug, slug } = item;
