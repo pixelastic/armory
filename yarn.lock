@@ -5529,32 +5529,6 @@ find-versions@^3.2.0:
   dependencies:
     semver-regex "^2.0.0"
 
-firost@1.10.1:
-  version "1.10.1"
-  resolved "https://registry.npmjs.org/firost/-/firost-1.10.1.tgz#92172d3ddc470d0963388795921ffaeed45091fc"
-  integrity sha512-9A941MbFSpe7nqbjcOGV/kuoEk4Ve6is2T3mEC+nnRcFhOtUKfnsIldOKP4sCOUTBYJQm5ua37/9hy6Dge8rRA==
-  dependencies:
-    callsites "3.1.0"
-    chokidar "3.4.0"
-    clear-module "4.1.1"
-    eventemitter2 "6.4.3"
-    execa "4.0.2"
-    find-up "4.1.0"
-    fs-extra "9.0.1"
-    globby "11.0.1"
-    golgoth "1.3.0"
-    inquirer "7.2.0"
-    is-glob "4.0.1"
-    json-stable-stringify "1.0.1"
-    nanoid "3.1.10"
-    ora "4.0.4"
-    shelljs "0.8.4"
-    std-mocks "1.0.1"
-    strip-ansi "6.0.0"
-    tempy "0.5.0"
-    untildify "4.0.0"
-    which "2.0.2"
-
 firost@1.11.0:
   version "1.11.0"
   resolved "https://registry.npmjs.org/firost/-/firost-1.11.0.tgz#2e06333c21a51d92ac3b85bc1de6606236c50268"
@@ -9696,10 +9670,10 @@ norska-html@^0.14.0:
     norska-revv "^0.14.0"
     pug "3.0.0"
 
-norska-init@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.npmjs.org/norska-init/-/norska-init-0.14.0.tgz#4a112205ad97bf431e8b71676445d56088f72602"
-  integrity sha512-bJIe+kUOaPP8XMFhsgGbKUd6zERqwYh+H3Ww4GeCBnsCsGjyoStNEwYPe0RjwR8F7HsPaD1PBd4fBiPUckX4Qg==
+norska-init@^0.14.1:
+  version "0.14.1"
+  resolved "https://registry.yarnpkg.com/norska-init/-/norska-init-0.14.1.tgz#d3609601b20e0f776c758ce8d374f78a475b49cd"
+  integrity sha512-Db8dJpEUrykPlCnJsl6o0cSgmlYa0mWSJ8Al24q4IIfoBv6FBnCc2qqae9+gB9uZ4OT80nCl5If9lTAytEoPiw==
   dependencies:
     firost "1.11.0"
     golgoth "1.3.0"
@@ -9742,10 +9716,10 @@ norska-revv@^0.14.0:
     norska-helper "^0.14.0"
     rev-hash "^3.0.0"
 
-norska@0.14.0:
-  version "0.14.0"
-  resolved "https://registry.npmjs.org/norska/-/norska-0.14.0.tgz#3d75ddef0f41e8356e8de9ea54572fae637e537c"
-  integrity sha512-Rxr/eiCiCemOia8m0YMyqNeGbAYTQr+yxg9WCb9M+UR/CO4dRLTw1aEmqc7S/1b7bqT2Cmlg/qnKoO1b0fv08A==
+norska@0.14.1:
+  version "0.14.1"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-0.14.1.tgz#c154d2bf0d3e5380487a1646ed935a718a4bb5fd"
+  integrity sha512-eK6M7nIhQy68bYJ7/XAn+HFtZtx6RDcMFNcqdSN+9nhf0yYSIMIg+U4zhk4l2ivA5mK7lDsprtZEG0ECWnr9JA==
   dependencies:
     firost "1.11.0"
     golgoth "1.3.0"
@@ -9759,7 +9733,7 @@ norska@0.14.0:
     norska-frontend "^0.14.0"
     norska-helper "^0.14.0"
     norska-html "^0.14.0"
-    norska-init "^0.14.0"
+    norska-init "^0.14.1"
     norska-js "^0.14.0"
     norska-netlify "^0.14.0"
     norska-revv "^0.14.0"
