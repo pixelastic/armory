@@ -9651,10 +9651,10 @@ norska-helper@^0.14.0:
     firost "1.11.0"
     golgoth "1.3.0"
 
-norska-html@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.npmjs.org/norska-html/-/norska-html-0.14.0.tgz#4e9df13b55dcc94dbd639041cf7db8a606b3fe19"
-  integrity sha512-OvjV54zhJ+rzzISLwdkR92I9byn1oyQ74zrdkU2W+qSzeDwhUcQ95bemLtHwRfGFZO+TvPWS0Z54DBqSqQoLrA==
+norska-html@^0.14.2:
+  version "0.14.2"
+  resolved "https://registry.npmjs.org/norska-html/-/norska-html-0.14.2.tgz#7b01236cd644ff37f070da8ba2adb8c99ae6daef"
+  integrity sha512-5XissqTgN5BSUFkRGUnV0Zc5/5g0W0WTpNnJDezW20rWAN8NoOZAlWkKIaehGhP0MKXu5a8yPnt4ulfJo8RiFg==
   dependencies:
     ensure-url-trailing-slash "0.1.4"
     firost "1.11.0"
@@ -9670,10 +9670,10 @@ norska-html@^0.14.0:
     norska-revv "^0.14.0"
     pug "3.0.0"
 
-norska-init@^0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/norska-init/-/norska-init-0.14.1.tgz#d3609601b20e0f776c758ce8d374f78a475b49cd"
-  integrity sha512-Db8dJpEUrykPlCnJsl6o0cSgmlYa0mWSJ8Al24q4IIfoBv6FBnCc2qqae9+gB9uZ4OT80nCl5If9lTAytEoPiw==
+norska-init@^0.14.2:
+  version "0.14.2"
+  resolved "https://registry.npmjs.org/norska-init/-/norska-init-0.14.2.tgz#959c54085187fc88f831c3c0b7a47fdeccd6ebc3"
+  integrity sha512-1yWIMIZ5CIC6fGh5Ghn/v60/DyAtaSfe+zhz5gaIDhtVpxHsKAcK2FiyJx3jQA21ukj9uK90z1ba6fD/dBMtUw==
   dependencies:
     firost "1.11.0"
     golgoth "1.3.0"
@@ -9716,10 +9716,10 @@ norska-revv@^0.14.0:
     norska-helper "^0.14.0"
     rev-hash "^3.0.0"
 
-norska@0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.14.1.tgz#c154d2bf0d3e5380487a1646ed935a718a4bb5fd"
-  integrity sha512-eK6M7nIhQy68bYJ7/XAn+HFtZtx6RDcMFNcqdSN+9nhf0yYSIMIg+U4zhk4l2ivA5mK7lDsprtZEG0ECWnr9JA==
+norska@0.14.2:
+  version "0.14.2"
+  resolved "https://registry.npmjs.org/norska/-/norska-0.14.2.tgz#c540e9d8abef3d6ed2dae3e0f1ebfcd840bc4138"
+  integrity sha512-x8yBtuoeJqq1E2cM+2pAlpN9iN9JfvNp3fPxGbnwwLCs9PbSSt7fQMPWdd2nbQYKF+U+KZNSRE5atWHYXRM7vg==
   dependencies:
     firost "1.11.0"
     golgoth "1.3.0"
@@ -9732,8 +9732,8 @@ norska@0.14.1:
     norska-css "^0.14.0"
     norska-frontend "^0.14.0"
     norska-helper "^0.14.0"
-    norska-html "^0.14.0"
-    norska-init "^0.14.1"
+    norska-html "^0.14.2"
+    norska-init "^0.14.2"
     norska-js "^0.14.0"
     norska-netlify "^0.14.0"
     norska-revv "^0.14.0"
