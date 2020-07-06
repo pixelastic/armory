@@ -1,6 +1,8 @@
 extends /_includes/_layouts/core
 
-block config
+block meta
+  - meta.title = data.item.title
+  - meta.description = data.item.description
   - pageId = "item"
 
 block content

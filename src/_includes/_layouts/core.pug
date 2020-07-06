@@ -1,31 +1,9 @@
-block config
-  //- Empty on purpose so each page can update its variables
-
-- pageAuthor = pageAuthor || data.site.defaultAuthor
-- pageDescription = pageDescription || data.site.defaultDescription
-- pageTitle = pageTitle || data.site.defaultTitle
-- pageTwitter = pageTwitter || data.site.defaultTwitter
-- pageUrl = pageUrl || data.site.defaultUrl
-- pageImage = pageImage || screenshot()
+block meta
+  // This block is empty on purpose; so each page can override the meta object
 
 doctype html
 html(lang='en')
-  head
-    meta(charset='utf-8')
-    meta('http-equiv'='x-ua-compatible', content='ie-edge')
-    title=pageTitle
-    meta(name='viewport', content='width=device-width, initial-scale=1.0, shrink-to-fit=no')
-    meta(name='description', content=pageDescription)
-    meta(name='twitter:card', content='summary_large_image')
-    meta(name='twitter:site', content=pageTwitter)
-    meta(name='twitter:creator', content=pageTwitter)
-    meta(property='og:url', content=pageUrl)
-    meta(property='og:title', content=pageTitle)
-    meta(property='og:description', content=pageDescription)
-    meta(property='og:image', content!=pageImage)
-    script!=tweaks.ensureUrlTrailingSlashSource
-    link(rel="shortcut icon", href=`${url.pathToRoot}favicon.png`)
-    link(type="text/css", rel="stylesheet", href=revv(`${url.pathToRoot}style.css`))
+  +norska_head
   body.helvetica.bg-gray-8(id=pageId)
     .container.mx-auto.p-1
       .__header
@@ -40,11 +18,5 @@ html(lang='en')
       .__content
         block content
 
-    //- TODO: Add a footer with some links to the repo
-    //- and to https://twitter.com/dungeon_junk which is funny
-
-    script!=`window.CONFIG = ${JSON.stringify(data.config)};`
-    each jsFile in runtime.jsFiles
-      script(src=`${url.pathToRoot}${jsFile}`)
-
-
+  script!=`window.CONFIG = ${JSON.stringify(data.config)};`
+  +norska_scripts
