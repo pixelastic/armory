@@ -27,6 +27,6 @@ block content
       #previews
 
 
-  script!=`window.ITEM = ${JSON.stringify(data.item)};`
+  script!=`window.ITEM = ${JSON.stringify(_.pick(data.item, ['_geoloc', 'type', 'uniqueSlug']))};`
   textarea#previewTemplate(hidden)
     include /_includes/_templates/preview
