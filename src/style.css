@@ -11,6 +11,9 @@
 .bg-baldur-scroll {
   background-image: url('./assets/baldur-scroll-bg.jpg');
 }
+.bg-baldur-wiki {
+  background-image: url('./assets/baldurwiki.favicon.png');
+}
 
 /**
  * Hide/show search result and page content based on if a query is made or not
