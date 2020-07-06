@@ -18,8 +18,8 @@
   },
   {
     "_geoloc": {
-      "lat": 45.818,
-      "lng": 7.037
+      "lat": 24.238,
+      "lng": 30.843
     },
     "description": "This blade belonged to Dabbar, a long dead servant of Bhaal that exercised control over his minions in the most brutal of ways. In addition to strengthening the mind against the guile of others, the sword absorbs life energy from an opponent with each successful hit, healing the user. Dabbar considered it a failure of his officers if he returned from battle in less than perfect health, and as the rest of the company watched, he would administer beatings until fully healed.",
     "game": "Baldur's Gate",
@@ -29,14 +29,14 @@
     "price": 3500,
     "slug": "adjathaTheDrinker",
     "title": "Adjatha the Drinker",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-adjathaTheDrinker"
   },
   {
     "_geoloc": {
-      "lat": 29.024,
-      "lng": 47.698
+      "lat": 22.695,
+      "lng": 22.255
     },
     "description": "This heavy and thick bear hide is all that remains of the fabled Aeger. Several hundred years ago, the Aeger, a giant bear, terrorized hundreds of small villages up and down the Sword Coast. The bear was invulnerable to fire, cold, or acid. Finally the young men and women of several villages banded together, forming a militia almost two hundred people strong. The Aeger was surrounded and finally slain. Less than a dozen villagers survived, and they carved the Aeger's hide amongst themselves. Out of one of the pieces this armor was created.",
     "game": "Baldur's Gate",
@@ -46,8 +46,8 @@
     "price": 9000,
     "slug": "aegersHide",
     "title": "Aeger's Hide",
-    "type": "Medium Armor",
-    "typePlural": "Medium Armors",
+    "type": "Light Armor",
+    "typePlural": "Light Armors",
     "uniqueSlug": "baldur-aegersHide"
   },
   {
@@ -86,8 +86,8 @@
   },
   {
     "_geoloc": {
-      "lat": -0.157,
-      "lng": 13.281
+      "lat": -49.762,
+      "lng": -17.407
     },
     "description": "This amulet grants its wearer fleetness of foot. Not surprisingly it is popular among fleeing felons, travelers and cowards.",
     "game": "Baldur's Gate",
@@ -97,8 +97,8 @@
     "price": 2500,
     "slug": "amuletOfCheetahSpeed",
     "title": "Amulet of Cheetah Speed",
-    "type": "Silver Amulet",
-    "typePlural": "Silver Amulets",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-amuletOfCheetahSpeed"
   },
   {
@@ -137,8 +137,8 @@
   },
   {
     "_geoloc": {
-      "lat": -10.965,
-      "lng": -44.653
+      "lat": 56.665,
+      "lng": 62.465
     },
     "description": "A favorite item of protection for a mage entering a magical duel, this amulet provides protection against spells, but does not interfere with the mage's own spellcasting.",
     "game": "Baldur's Gate",
@@ -148,8 +148,8 @@
     "price": 1800,
     "slug": "amuletOfSpellWarding",
     "title": "Amulet of Spell Warding",
-    "type": "Silver Amulet",
-    "typePlural": "Silver Amulets",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-amuletOfSpellWarding"
   },
   {
@@ -188,8 +188,8 @@
   },
   {
     "_geoloc": {
-      "lat": -17.485,
-      "lng": 54.242
+      "lat": 8.141,
+      "lng": -18.459
     },
     "description": "Also known as the Stream of Anguish, this is the legendary burning blade of Frithiof.",
     "game": "Baldur's Gate",
@@ -199,14 +199,14 @@
     "price": 7750,
     "slug": "angurvadal",
     "title": "Angurvadal",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-angurvadal"
   },
   {
     "_geoloc": {
-      "lat": -41.776,
-      "lng": 32.722
+      "lat": 14.277,
+      "lng": 39.243
     },
     "description": "Arbane's Sword of Agility: One of many created in the name of the mage who first discovered how to enchant a blade in this manner, this was the weapon of the outlaw Garno, and many a cleric died at its edge. Garno became disillusioned with the gods when his family was put to the torch by clerics of Loviatar, and spent his life seeking revenge. Despite his focussed hatred of the devout, it is thought that one of the gods of chaos had a hand in Garno's acquisition of this sword, delighting in the havoc that followed the young man.",
     "game": "Baldur's Gate",
@@ -216,8 +216,8 @@
     "price": 10000,
     "slug": "arbanesSwordOfAgility",
     "title": "Arbane's Sword of Agility",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-arbanesSwordOfAgility"
   },
   {
@@ -239,8 +239,8 @@
   },
   {
     "_geoloc": {
-      "lat": -10.966,
-      "lng": -26.542
+      "lat": 53.249,
+      "lng": -11.114
     },
     "description": "Ardulia the Agile was a man whose speed and skill at knife play made him exceptionally lethal in battle, and he repeatedly proved it by leading raids on settlements along the Sword Coast. He would often challenge the village leader for possession of the town, and with his speed, the duels were always quickly decided in his favor. Ardulia met his match one spring morn however, when he battled the priest Itgan, who wielded this mace. Ardulia seemed to stagger under each blow, slowing his pace to recoup and regain his breath. Without his speed, Ardulia was lost, and fell to the measured attacks of Itgan.",
     "game": "Baldur's Gate",
@@ -250,8 +250,8 @@
     "price": 3000,
     "slug": "arduliasFall",
     "title": "Ardulia's Fall",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-arduliasFall"
   },
   {
@@ -290,8 +290,8 @@
   },
   {
     "_geoloc": {
-      "lat": 14.454,
-      "lng": -36.316
+      "lat": -33.84,
+      "lng": 22.594
     },
     "description": "This was the armor of Seffer Ekr, and a sign of the goddess Mielikii's{{sic",
     "game": "Baldur's Gate",
@@ -301,8 +301,8 @@
     "price": 3500,
     "slug": "armorOfFaith3",
     "title": "Armor of Faith +3",
-    "type": "Medium Armor",
-    "typePlural": "Medium Armors",
+    "type": "Light Armor",
+    "typePlural": "Light Armors",
     "uniqueSlug": "baldur-armorOfFaith3"
   },
   {
@@ -460,8 +460,8 @@
   },
   {
     "_geoloc": {
-      "lat": -11.219,
-      "lng": -3.566
+      "lat": -34.062,
+      "lng": 5.075
     },
     "description": "Splint mail is a variant of banded mail in which the metal strips are applied vertically to the backing of chain, leather, or cloth rather than horizontally as in banded mail. Since the body does not swivel in mid-torso as much as it flexes back to front, splint mail is more restrictive in battle.",
     "game": "Baldur's Gate",
@@ -471,14 +471,14 @@
     "price": 2500,
     "slug": "ashenScales",
     "title": "Ashen Scales",
-    "type": "Splint Mail",
-    "typePlural": "Splint Mails",
+    "type": "Light Armor",
+    "typePlural": "Light Armors",
     "uniqueSlug": "baldur-ashenScales"
   },
   {
     "_geoloc": {
-      "lat": 13.286,
-      "lng": -9.042
+      "lat": 13.228,
+      "lng": 7.486
     },
     "description": "Lady Ashideena was a remarkable strategist who honed her skills against the orc armies in the Year of the Black Horde. She met Dergat Wiltoon -the warrior that wielded this weapon- when he foiled an ambush led by the great orc Varstok, and soon after made him her Field Captain. After serving at each other's side for the entirety of the war they fell in love and eventually married. Historians report that Dergat named his warhammer after his bride to remind himself of the love he fought to protect. What Lady Ashideena thought of this is unknown.",
     "game": "Baldur's Gate",
@@ -488,14 +488,14 @@
     "price": 3000,
     "slug": "ashideena",
     "title": "Ashideena",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-ashideena"
   },
   {
     "_geoloc": {
-      "lat": -10.506,
-      "lng": -17.047
+      "lat": 62.722,
+      "lng": 38.619
     },
     "description": "While working for the Shadow Thieves, Fargon Fol collected thousands of small poisonous snakes to create the Asp's Nest. Fargon took each snake and with her powerful magic she made a dart of each. She made the dart so that when it strikes its opponent, the snake returns to life, biting and inflicting poison damage on the target. The title Asp's Nest refers to the entire collection of darts, most of which have vanished, either destroyed in use or lost on a long forgotten battlefield.",
     "game": "Baldur's Gate",
@@ -505,14 +505,14 @@
     "price": 150,
     "slug": "aspsNest",
     "title": "Asp's Nest",
-    "type": "Dart",
-    "typePlural": "Darts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-aspsNest"
   },
   {
     "_geoloc": {
-      "lat": 47.588,
-      "lng": 22.466
+      "lat": 5.931,
+      "lng": 5.412
     },
     "description": "The silvery string of this elegant weapon gleams like the silver strings connecting Astral Travelers to their bodies. Legends speak of a deva who crafted this weapon out of bits of soul from astral travelers, willingly given to the deva to forge a weapon of good. The deva passed the crossbow down to a champion of good on the mortal Plane, who wielded it for many years before falling under a glabrezu's claws.",
     "game": "Baldur's Gate",
@@ -522,14 +522,14 @@
     "price": 4500,
     "slug": "astralCrossbow",
     "title": "Astral Crossbow",
-    "type": "Light Crossbow",
-    "typePlural": "Light Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-astralCrossbow"
   },
   {
     "_geoloc": {
-      "lat": 30.795,
-      "lng": -25.589
+      "lat": -28.214,
+      "lng": 55.904
     },
     "description": "This finely crafted stave was among the spoils taken from the invaders of Durlag's Tower. It is very deadly in combat, and was apparently the property of a spellcaster enjoyed standing on the frontlines. It appears to have a core of iron, yet it is comparable in weight to a normal weapon of its type. Part of the enchantment seems to come from the hide that strenghtens the grip, leather no doubt made from a battle-ready creature or some sort. With the tastes and inclinations of the attackers of the Tower well documented, the hide could be almost anything...or anyone.",
     "game": "Baldur's Gate",
@@ -539,8 +539,8 @@
     "price": 5500,
     "slug": "aulesStaff",
     "title": "Aule's Staff",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-aulesStaff"
   },
   {
@@ -596,8 +596,8 @@
   },
   {
     "_geoloc": {
-      "lat": -58.046,
-      "lng": -11.471
+      "lat": -43.202,
+      "lng": 61.663
     },
     "description": "This cursed spear will appear as a magical spear, however when a combat situation arises, the wielder will attack an enemy and Backbiter will attack the wielder. For every attack made, Backbiter will attack the foe and also the wielder. This is a powerful spear, but one must ask if it is worth it in the end. The only way that Backbiter can be removed is by a remove curse spell.",
     "game": "Baldur's Gate",
@@ -607,14 +607,14 @@
     "price": 2000,
     "slug": "backbiter",
     "title": "Backbiter",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-backbiter"
   },
   {
     "_geoloc": {
-      "lat": 23.279,
-      "lng": -59.742
+      "lat": 53.564,
+      "lng": -26.515
     },
     "description": "Most thieves favor bladed weapons when striking from the shadows, but not all. Whether due to religious convictions, personal preference, or anti-establishment tendencies, some thieves prefer to backstab their enemies with a blunt instrument.",
     "game": "Baldur's Gate",
@@ -624,14 +624,14 @@
     "price": 4500,
     "slug": "backwhacker",
     "title": "Backwhacker",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-backwhacker"
   },
   {
     "_geoloc": {
-      "lat": -43.343,
-      "lng": 45.095
+      "lat": -59.932,
+      "lng": -17.518
     },
     "description": "This ostentatious peacock-blue hat is festooned with green and purple feathers. Once the possession of an unfailingly chipper bard, the hat was stolen when the bard couldn't resist showing off the hat in a seedy tavern and bragging about its magical powers. In truth the hat has only moderate enchantments on it, but its stylish appearance makes it a coveted choice for many bards.",
     "game": "Baldur's Gate",
@@ -641,8 +641,8 @@
     "price": 3000,
     "slug": "bardHat",
     "title": "Bard Hat",
-    "type": "Hat",
-    "typePlural": "Hats",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-bardHat"
   },
   {
@@ -715,8 +715,8 @@
   },
   {
     "_geoloc": {
-      "lat": -36.076,
-      "lng": -49.252
+      "lat": 16.338,
+      "lng": 45.083
     },
     "description": "Scimitar of Speed +2: Belm\nThis enchanted scimitar bears the mark of Taka Kobe, an honored swordsmith of Kara-Tur, though how it came to be here is unknown. Perfectly balanced, it affords quick recovery in combat and even allows the wielder time for an additional attack.",
     "game": "Baldur's Gate",
@@ -726,8 +726,8 @@
     "price": 3000,
     "slug": "belm",
     "title": "Belm",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-belm"
   },
   {
@@ -783,8 +783,8 @@
   },
   {
     "_geoloc": {
-      "lat": -8.555,
-      "lng": -8.365
+      "lat": 65.407,
+      "lng": 12.318
     },
     "description": "A fist-shaped brass buckle secures this belt of thick elk hide. The old bloodstains on the leather hint at unspeakable carnage, but the misspelled graffiti scratched into its surface suggests that the girdle's former owners were none too bright.",
     "game": "Baldur's Gate",
@@ -794,14 +794,14 @@
     "price": 10000,
     "slug": "bigFistedBelt",
     "title": "Big-Fisted Belt",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-bigFistedBelt"
   },
   {
     "_geoloc": {
-      "lat": -33.124,
-      "lng": -3.027
+      "lat": 31.148,
+      "lng": 45.439
     },
     "description": "Club +3: Blackblood. This oak club is coated with darkened dried globs of a tar-like substance. During battle this substance glows black with an inner light, and becomes thick and fluid. When the club strikes an opponent it delivers additional acid damage from the liquid splashing over the victim.",
     "game": "Baldur's Gate",
@@ -811,14 +811,14 @@
     "price": 10000,
     "slug": "blackblood",
     "title": "Blackblood",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-blackblood"
   },
   {
     "_geoloc": {
-      "lat": -53.207,
-      "lng": -57.666
+      "lat": 65.056,
+      "lng": 62.018
     },
     "description": "Blackrazor, Long Sword +3\nThis sword radiates evil like a sour odor, and the owner never knows if he wields the weapon, or if it wields him. In addition to its combat abilities, Blackrazor slowly regenerates its owner with the drained strength of opponents.",
     "game": "Baldur's Gate",
@@ -828,14 +828,14 @@
     "price": 10000,
     "slug": "blackrazor",
     "title": "Blackrazor",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-blackrazor"
   },
   {
     "_geoloc": {
-      "lat": -20.332,
-      "lng": 37.734
+      "lat": -17.154,
+      "lng": -60.463
     },
     "description": "This blade possesses an unearthly splendor, and it is likely that Sune, the goddess of beauty and passion, had a hand in its creation. The effect it has on the wielder is immediate, and more than once in its history has this sword has been the secret behind a lackluster soldier's sudden elevation at court.",
     "game": "Baldur's Gate",
@@ -845,14 +845,14 @@
     "price": 7000,
     "slug": "bladeOfRoses",
     "title": "Blade of Roses",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-bladeOfRoses"
   },
   {
     "_geoloc": {
-      "lat": -58.77,
-      "lng": -18.94
+      "lat": -35.339,
+      "lng": 64.354
     },
     "description": "Blade of Searing, Bastard Sword +3\nThe benefits inherent in this sword are plain to see; it is exceptionally accurate, and a lick of flame follows every blow, searing the target in addition to the normal damage received. It is an efficient troll-killer, though it has not yet been heralded as such in song or legend.",
     "game": "Baldur's Gate",
@@ -862,8 +862,8 @@
     "price": 10000,
     "slug": "bladeOfSearing",
     "title": "Blade of Searing",
-    "type": "Bastard Sword",
-    "typePlural": "Bastard Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-bladeOfSearing"
   },
   {
@@ -902,8 +902,8 @@
   },
   {
     "_geoloc": {
-      "lat": -32.802,
-      "lng": 38.151
+      "lat": 12.661,
+      "lng": 62.798
     },
     "description": "This is a small stone that floats in an orbit around the owner's head. Simply equip the stone to set it in its orbit. These obviously magical stones have different properties depending on their color.",
     "game": "Baldur's Gate",
@@ -913,14 +913,14 @@
     "price": 5000,
     "slug": "bloodRedIounStone",
     "title": "Blood Red Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-bloodRedIounStone"
   },
   {
     "_geoloc": {
-      "lat": 45.138,
-      "lng": -9.505
+      "lat": -36.538,
+      "lng": 62.333
     },
     "description": "Bloodstone is a dark greenish gray variety of quartz flecked with red crystal impurities. Ninety percent of the bloodstones in the realms come from the Galena Mountains in Damara, and most of those from a single mine in Bloodstone Pass. The border pass is heavily fortified and guarded as bloodstones are the chief export for this region.",
     "game": "Baldur's Gate",
@@ -930,8 +930,8 @@
     "price": 50,
     "slug": "bloodstoneGem",
     "title": "Bloodstone Gem",
-    "type": "Gem",
-    "typePlural": "Gems",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-bloodstoneGem"
   },
   {
@@ -1004,8 +1004,8 @@
   },
   {
     "_geoloc": {
-      "lat": 5.783,
-      "lng": -52.104
+      "lat": 47.673,
+      "lng": -36.05
     },
     "description": "This vicious club was created hundreds of years ago, reportedly by a shaman on a quest for revenge. His family had fallen to undead, and so personal was his rage that he amputated his own leg, using the femur for the body of the weapon. Magical runes empower it, though it is likely the sheer force of the shaman's hatred would have served on its own.",
     "game": "Baldur's Gate",
@@ -1015,8 +1015,8 @@
     "price": 1000,
     "slug": "boneClub",
     "title": "Bone Club",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-boneClub"
   },
   {
@@ -1038,8 +1038,8 @@
   },
   {
     "_geoloc": {
-      "lat": 22.463,
-      "lng": 56.264
+      "lat": 36.87,
+      "lng": -19.522
     },
     "description": "Fullen Woolspinner, an ambitious halfling from a well to do family, left his home to spend several years adventuring. During his travels he ended up staying with a family of dwarven weaponsmiths. Much impressed by their throwing axes, which always returned to the hands of their wielder, Fullen sought to make a dagger that could do the same. With the help of his dwarven friends he succeeded, creating several of the famous Fullen Boomerang daggers.",
     "game": "Baldur's Gate",
@@ -1049,8 +1049,8 @@
     "price": 3500,
     "slug": "boomerangDagger",
     "title": "Boomerang Dagger",
-    "type": "Throwing Dagger",
-    "typePlural": "Throwing Daggers",
+    "type": "Dagger",
+    "typePlural": "Daggers",
     "uniqueSlug": "baldur-boomerangDagger"
   },
   {
@@ -1089,8 +1089,8 @@
   },
   {
     "_geoloc": {
-      "lat": 65.119,
-      "lng": -9.423
+      "lat": 29.636,
+      "lng": 54.01
     },
     "description": "Borok Thundercracker was a dwarven hero that led several campaigns against giants and other \"tall vermin\" that had plagued his people in a number of their communities. This hammer was his blessed weapon, which his elven allies called his \"little iron fist,\" though not to his face.",
     "game": "Baldur's Gate",
@@ -1100,14 +1100,14 @@
     "price": 4500,
     "slug": "boroksFist",
     "title": "Borok's Fist",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-boroksFist"
   },
   {
     "_geoloc": {
-      "lat": -50.294,
-      "lng": 6.999
+      "lat": 54.226,
+      "lng": 38.633
     },
     "description": "Bow of Arvoreen: This enchanted bow has been in Mazzy Fentan's possession for several years, given to her by her god Arvoreen.  It is usable only by halflings, granting a +2 bonus to hit rolls.",
     "game": "Baldur's Gate",
@@ -1117,14 +1117,14 @@
     "price": 100,
     "slug": "bowOfArvoreen",
     "title": "Bow of Arvoreen",
-    "type": "Short Bow",
-    "typePlural": "Short Bows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-bowOfArvoreen"
   },
   {
     "_geoloc": {
-      "lat": -4.014,
-      "lng": -3.82
+      "lat": 15.757,
+      "lng": 45.839
     },
     "description": "A wooden face carved mid-scream stares out from the shaft of this hardwood bow. It's whispered that the half-orc archer Zavruk had an elven soul bound into the bow, but the bow's lack of a necromantic aura casts doubt on the story. What's certain is that the bowstring makes a horrible screeching noise whenever fired, instilling fear in the wielder's enemies.",
     "game": "Baldur's Gate",
@@ -1134,26 +1134,9 @@
     "price": 8000,
     "slug": "bowOfTheBanshee",
     "title": "Bow of the Banshee",
-    "type": "Longbow",
-    "typePlural": "Longbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-bowOfTheBanshee"
-  },
-  {
-    "_geoloc": {
-      "lat": -33.697,
-      "lng": 30.141
-    },
-    "description": "Gond Wonderbringer, the God of invention and innovation, created this enchanted bowstring to improve the accuracy of even the most powerful of magical bows.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Bowstring_of_Gond",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/0/0a/Bow_String_item_artwork_BG2.png/revision/latest?cb=20130629071550",
-    "price": 0,
-    "slug": "bowstringOfGond",
-    "title": "Bowstring of Gond",
-    "type": "Component",
-    "typePlural": "Components",
-    "uniqueSlug": "baldur-bowstringOfGond"
   },
   {
     "_geoloc": {
@@ -1225,8 +1208,8 @@
   },
   {
     "_geoloc": {
-      "lat": 7.598,
-      "lng": 14.236
+      "lat": -59.536,
+      "lng": -52.733
     },
     "description": "Sometimes known as Gauntlets of Chain Mail, these bracers were first worn by Tapid Gornoak. He was still an active warrior at the age of seventy-five but the weight of his armor was getting harder and harder to bear. A companion, the sorceress Nadalarin, created these bracers for him. She also cast a permanent illusion over him so that his men would think he still wore his heavy chain. Tapid died twenty years later, his hands wrapped around the neck of an orc chief when old age took him.|Bracers of Defense AC 4",
     "game": "Baldur's Gate",
@@ -1236,8 +1219,8 @@
     "price": 5000,
     "slug": "bracersOfDefenseAc4",
     "title": "Bracers of Defense AC 4",
-    "type": "Bracer",
-    "typePlural": "Bracers",
+    "type": "Glove",
+    "typePlural": "Gloves",
     "uniqueSlug": "baldur-bracersOfDefenseAc4"
   },
   {
@@ -1327,8 +1310,8 @@
   },
   {
     "_geoloc": {
-      "lat": -24.881,
-      "lng": 39.961
+      "lat": -2.486,
+      "lng": 39.733
     },
     "description": "The soldier Brevin brought this quarterstaff from home when he first left to make his fortune. Once he earned enough money to purchase a better weapon, the quarterstaff wound up in a weapons supply in Candlekeep. At some point it was retrieved and enchanted, switching owners several times along the way.",
     "game": "Baldur's Gate",
@@ -1338,14 +1321,14 @@
     "price": 1500,
     "slug": "brevinsQuarterstaff",
     "title": "Brevin's Quarterstaff",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-brevinsQuarterstaff"
   },
   {
     "_geoloc": {
-      "lat": 40.831,
-      "lng": -57.659
+      "lat": -52.122,
+      "lng": 24.363
     },
     "description": "''The iron crisis sweeping across the Sword Coast region seemingly knows no mercy. This once fine weapon now lies in a jumbled heap of metal shards before you.''",
     "game": "Baldur's Gate",
@@ -1355,14 +1338,14 @@
     "price": 0,
     "slug": "brokenWeapon",
     "title": "Broken Weapon",
-    "type": "Miscellaneous Item",
-    "typePlural": "Miscellaneous Items",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-brokenWeapon"
   },
   {
     "_geoloc": {
-      "lat": -52.119,
-      "lng": -16.425
+      "lat": 47.436,
+      "lng": 64.566
     },
     "description": "The powerful enchantments on this ioun stone make it a treasure eagerly sought after by wizards and mages.",
     "game": "Baldur's Gate",
@@ -1372,14 +1355,14 @@
     "price": 5000,
     "slug": "bronzeIounStone",
     "title": "Bronze Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-bronzeIounStone"
   },
   {
     "_geoloc": {
-      "lat": 38.765,
-      "lng": -49.609
+      "lat": -19.267,
+      "lng": 16.215
     },
     "description": "Members of the Flaming Fist mercenary company that serves Baldur's Gate and surrounding areas often carry these bucklers. A red flame emblazoned on the front of the shining bucklers clearly identifies the bearer's loyalty. Experienced Flaming Fist members often have their shields enchanted.",
     "game": "Baldur's Gate",
@@ -1389,8 +1372,8 @@
     "price": 2500,
     "slug": "bucklerOfTheFist",
     "title": "Buckler of the Fist",
-    "type": "Buckler",
-    "typePlural": "Bucklers",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-bucklerOfTheFist"
   },
   {
@@ -1463,8 +1446,8 @@
   },
   {
     "_geoloc": {
-      "lat": 54.401,
-      "lng": -16.964
+      "lat": 57.115,
+      "lng": -9.791
     },
     "description": "Carsomyr is a weapon of legend, perhaps one of the most powerful blades ever forged on Faerûn, though its origin and history is thought purposefully forgotten so that the sword itself shall never overshadow the importance of the struggles that must be fought today. It is infused with the very essence of virtue, and requires as much from any Paladin that would hope to wield it. The evils of the realms must truly stand aside when this weapon is brought to bear, their magic dispelled with a word, steadfastly resisted with ease. Carsomyr also harbors a special distaste for the forces of evil and chaos, and such creatures must fear additional damage from its touch in battle.",
     "game": "Baldur's Gate",
@@ -1474,14 +1457,14 @@
     "price": 20000,
     "slug": "carsomyr",
     "title": "Carsomyr",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-carsomyr"
   },
   {
     "_geoloc": {
-      "lat": 63.494,
-      "lng": 55.361
+      "lat": 61.702,
+      "lng": 40.756
     },
     "description": "Many centuries ago, a trumpet archon named Chin Yi fell in love with a mortal man in Shou Lung and swore to protect him from enemies should he ever ride to war. When that time came, however, Chin Yi's patron goddess Kwan Ying forbade her to intervene, not wishing to contribute to the bloodshed. When Chin Yi's beloved was cut down by a yuan-ti warlord, her grief was terrible and her wrath immediate: Ignoring Kwan Ying's warnings, she flew onto the battlefield and took up her beloved's katana, using the blade to cut down the warlord and all those who served him. She continued the slaughter of the yuan-ti army until Kwan Ying herself appeared before her, arms open and eyes full of sympathy. \"If it will stop this slaughter, I will ease your pain and end your suffering.\"\n\n''\"I do not wish to end my suffering,\" replied Chin Yi. \"I wish for my fury to sound throughout the ages, now and forever.\" Wanting to help her servant, but not wishing to unleash such powerful fury on the world, Kwan Ying bound Chin Yi's spirit to the blade of the man she had failed to protect, and then hid the weapon in a warrior's tomb. The tomb was later infiltrated and the weapon stolen, and although Chin Yi's cries could no longer be heard through the steel of the blade, her vengeance was as brutal as ever.''",
     "game": "Baldur's Gate",
@@ -1491,8 +1474,8 @@
     "price": 7800,
     "slug": "celestialFury",
     "title": "Celestial Fury",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-celestialFury"
   },
   {
@@ -1582,8 +1565,8 @@
   },
   {
     "_geoloc": {
-      "lat": -16.992,
-      "lng": 63.974
+      "lat": -51.374,
+      "lng": -8.524
     },
     "description": "This simple staff radiates a powerful enchantment, though its plain design suggests a simple origin. It reflects the quiet strength that faith brings, and was likely the modest weapon of a priest or cleric.",
     "game": "Baldur's Gate",
@@ -1593,8 +1576,8 @@
     "price": 5500,
     "slug": "clericsStaff",
     "title": "Cleric's Staff",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-clericsStaff"
   },
   {
@@ -1752,8 +1735,8 @@
   },
   {
     "_geoloc": {
-      "lat": -11.498,
-      "lng": 28.764
+      "lat": -2.73,
+      "lng": -27.854
     },
     "description": "The halfling Tip Eldermaple was noted in his town for never losing at cards. The halfling attributed his good fortune to the blessings of Tyche and lived a long, quiet, and very prosperous life.\n<br>When Tip finally died at the age of one hundred and three, he left his favorite belt to his son, who discovered that the belt buckle had caught a four-leaf clover in the clasp. Whether Tip had placed the clover there himself, or whether it had simply been stuck there after a tumble down a hill in his youth, no one will ever know. What is known is that Tip’s fortune passed down to his son, until the belt was stolen from him by an ogre while he was traveling along the Sword Coast.",
     "game": "Baldur's Gate",
@@ -1763,14 +1746,14 @@
     "price": 8500,
     "slug": "cloverleaf",
     "title": "Cloverleaf",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-cloverleaf"
   },
   {
     "_geoloc": {
-      "lat": -51.567,
-      "lng": 23.203
+      "lat": -60.348,
+      "lng": -1.084
     },
     "description": "This crude wooden club burns with the raging spirit of the demon forever trapped within by the powerful enchantments placed on the weapon. Occasionally, however, the demon's wrath escapes in a fiery blast.",
     "game": "Baldur's Gate",
@@ -1780,8 +1763,8 @@
     "price": 10000,
     "slug": "clubOfDetonation",
     "title": "Club of Detonation",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-clubOfDetonation"
   },
   {
@@ -1803,8 +1786,8 @@
   },
   {
     "_geoloc": {
-      "lat": -61.184,
-      "lng": -41.733
+      "lat": 39.879,
+      "lng": 5.563
     },
     "description": "This fine katana radiates magical energy when wielded by Valygar. The blade was designed to respond only to those with the blood of the family Corthala flowing through their veins. This +2 blade causes additional bleeding damage when it strikes an opponent.",
     "game": "Baldur's Gate",
@@ -1814,14 +1797,14 @@
     "price": 20,
     "slug": "corthalaFamilyBlade",
     "title": "Corthala Family Blade",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-corthalaFamilyBlade"
   },
   {
     "_geoloc": {
-      "lat": -27.947,
-      "lng": -24.782
+      "lat": 8.068,
+      "lng": -34.101
     },
     "description": "This shield was carried into battle by High Paladin Corvyr in an assault against a notorious undead fortress. Long after his comrades had fallen, for days he tore into their seemingly endless numbers before he was eventually overcome as well. As the tower was later cleared with the help of a certain magical cube, his shield was retrieved. A previously ordinary piece of equipment, it seems to have absorbed some of the resolve and determination of his final days.",
     "game": "Baldur's Gate",
@@ -1831,14 +1814,14 @@
     "price": 2400,
     "slug": "corvyrsBlessing",
     "title": "Corvyr's Blessing",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-corvyrsBlessing"
   },
   {
     "_geoloc": {
-      "lat": -57.727,
-      "lng": -33.67
+      "lat": 5.206,
+      "lng": -35.166
     },
     "description": "This enchanted bow enhances the wielder's dexterity, allowing them to fire more accurately. Every so often, a shot will explode into a shower of wooden splinters that sprout and grasp the target firmly, preventing any escape.",
     "game": "Baldur's Gate",
@@ -1848,8 +1831,8 @@
     "price": 0,
     "slug": "corwinsBow",
     "title": "Corwin's Bow",
-    "type": "Composite Longbow",
-    "typePlural": "Composite Longbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-corwinsBow"
   },
   {
@@ -1888,8 +1871,8 @@
   },
   {
     "_geoloc": {
-      "lat": -42.195,
-      "lng": 29.231
+      "lat": -28.154,
+      "lng": -25.701
     },
     "description": "The small size of this weapon belies its great power. Immediately after striking its target, this dart reappears in the hand of the wielder, ready to be hurled again.",
     "game": "Baldur's Gate",
@@ -1899,14 +1882,14 @@
     "price": 1250,
     "slug": "crimsonDart",
     "title": "Crimson Dart",
-    "type": "Dart",
-    "typePlural": "Darts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-crimsonDart"
   },
   {
     "_geoloc": {
-      "lat": 15.626,
-      "lng": -57.428
+      "lat": -10.767,
+      "lng": -11.378
     },
     "description": "Legend tells that this elegant blade appeared at the moment the sun rose over the eastern horizon. As the dawn's rosy light flooded the forest, the blade shimmered into being atop a flat stone. Local foresters, even warriors, were afraid to touch the weapon lest it was cursed. Finally, a brave old man who had been a fighter in his youth grasped the hilt and claimed the blade as its own. Terrifying beasts sprang at him a moment later, creatures of red mist and fangs and claws. The old man clung to his courage and lay about him with the sword. He grew faster with every monster he killed until finally the clearing was empty. The old man was feasted in the village for days and then set off to live his final years seeking adventure on the road.",
     "game": "Baldur's Gate",
@@ -1916,14 +1899,14 @@
     "price": 8000,
     "slug": "crimsonDawn",
     "title": "Crimson Dawn",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-crimsonDawn"
   },
   {
     "_geoloc": {
-      "lat": 45.651,
-      "lng": 22.836
+      "lat": 40.84,
+      "lng": 23.105
     },
     "description": "This is the true name that the dwarven weaponsmith, Silverblade, gave to the weapon he intended to create for his son. Alas, his son died before the weapon was ever completed, but here it stands complete... forged from the combined magic of the original hammer with the gauntlets of ogre power and a girdle of frost giant strength. Crom Faeyr gifts its users with all the powers of the original Hammer of Thunderbolts, in addition to enormous strength and the ability to kill golems, ettins, and trolls in one blow.",
     "game": "Baldur's Gate",
@@ -1933,14 +1916,14 @@
     "price": 15500,
     "slug": "cromFaeyr",
     "title": "Crom Faeyr",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-cromFaeyr"
   },
   {
     "_geoloc": {
-      "lat": -42.258,
-      "lng": 63.8
+      "lat": -51.745,
+      "lng": 24.06
     },
     "description": "A devastating weapon, this crossbow unfortunately draws its power directly from the wielder. Some bowmen have used it regardless, and many to great effect, but the drawbacks must be carefully considered. Its most famous owner, Guil de Lyons, made good use of it fighting bandits in remote areas of Faerun, but he ultimately fell when he lacked the strength to defend against a rare assailant that got within striking distance.",
     "game": "Baldur's Gate",
@@ -1950,14 +1933,14 @@
     "price": 35,
     "slug": "crossbowOfAffliction",
     "title": "Crossbow of Affliction",
-    "type": "Light Crossbow",
-    "typePlural": "Light Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-crossbowOfAffliction"
   },
   {
     "_geoloc": {
-      "lat": -27.141,
-      "lng": 13.024
+      "lat": 28.76,
+      "lng": 54.553
     },
     "description": "This glittering golden crown looks impressive, but its substance is base fool's gold and the \"gems\" set around it are bits of colored glass. Placing the crown on one's head allows the wearer to prepare extra spells but fills the head with false knowledge.",
     "game": "Baldur's Gate",
@@ -1967,14 +1950,14 @@
     "price": 4000,
     "slug": "crownOfLies",
     "title": "Crown of Lies",
-    "type": "Headgear",
-    "typePlural": "Headgears",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-crownOfLies"
   },
   {
     "_geoloc": {
-      "lat": 31.162,
-      "lng": -61.406
+      "lat": -27.241,
+      "lng": 56.915
     },
     "description": "As a young man, the adventurer Montgomer signed aboard the \"Fairest Wind\" and worked twice as hard as any other mate. When pirates attacked, Montgomer threw himself into battle but promptly took a blow to the arm and lost his cutlass. Undaunted, he grabbed a belaying pin and used it bash pirate skulls. After the attack was over, Montgomer's mates praised his bravery and joked that he should always keep his \"cudgel\" at his side. Montgomer did so, eventually having the belaying pin enchanted with healing powers, but later traded it in for a more powerful (and wieldy) weapon.",
     "game": "Baldur's Gate",
@@ -1984,14 +1967,14 @@
     "price": 2500,
     "slug": "cudgelOfMontgomer",
     "title": "Cudgel of Montgomer",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-cudgelOfMontgomer"
   },
   {
     "_geoloc": {
-      "lat": 56.208,
-      "lng": -9.529
+      "lat": 55.832,
+      "lng": -2.535
     },
     "description": "This weapon has a bloody history, having been used to exercise its namesake many times. Popular among the assassin trade for its size and enchantment, it has been in the possession of many of the Realms' more dangerous citizens, though seldom remaining in one place any length of time.",
     "game": "Baldur's Gate",
@@ -2001,8 +1984,8 @@
     "price": 11000,
     "slug": "cutthroat",
     "title": "Cutthroat",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-cutthroat"
   },
   {
@@ -2041,8 +2024,8 @@
   },
   {
     "_geoloc": {
-      "lat": -36.049,
-      "lng": -0.218
+      "lat": 40.685,
+      "lng": 62.605
     },
     "description": "This sword was the weapon of choice of the famous githzerai Dak'kon.  Dak'kon was killed by a powerful entity while working for a creature known as the 'Nameless One'.",
     "game": "Baldur's Gate",
@@ -2052,14 +2035,14 @@
     "price": 19000,
     "slug": "dakkonsZerthBlade",
     "title": "Dak'kon's Zerth Blade",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-dakkonsZerthBlade"
   },
   {
     "_geoloc": {
-      "lat": -25.026,
-      "lng": 37.21
+      "lat": 37.927,
+      "lng": 37.733
     },
     "description": "Once a great general in a celestial army, the Winged's days were spent warring against the fiends of the Abyss. During a tremendous battle against these demon hordes, one of her command decisions resulted in the destruction of a quarter of her legions. Furious over the loss, she abandoned her post and waded into battle herself, cutting down lesser demons by the dozen. Though she was personally victorious in combat, the larger battle was lost—without her leadership, her remaining forces were thrown into disarray and forced to withdraw. For dereliction of duty and her inability to control her emotions, the god she served stripped her of her rank and cast her out of her home plane.",
     "game": "Baldur's Gate",
@@ -2069,14 +2052,14 @@
     "price": 25000,
     "slug": "darkJustice",
     "title": "Dark Justice",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-darkJustice"
   },
   {
     "_geoloc": {
-      "lat": 5.36,
-      "lng": -35.265
+      "lat": -42.037,
+      "lng": 4.124
     },
     "description": "Through arcane sorcery, the contradictory elements of fire and ice have been combined within this magnificent shortbow.",
     "game": "Baldur's Gate",
@@ -2086,8 +2069,8 @@
     "price": 4300,
     "slug": "darkfireBow",
     "title": "Darkfire Bow",
-    "type": "Shortbow",
-    "typePlural": "Shortbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-darkfireBow"
   },
   {
@@ -2109,8 +2092,8 @@
   },
   {
     "_geoloc": {
-      "lat": -34.667,
-      "lng": -57.641
+      "lat": -52.134,
+      "lng": 6.583
     },
     "description": "The body shield, also known as the kite or tower shield, is a massive metal or wooden shield reaching nearly from the chin to the toe of the user. It must be firmly fastened to the forearm, and the shield hand must firmly grip it at all times. Naturally, this precludes use of the shield hand for anything but holding the body shield in place.",
     "game": "Baldur's Gate",
@@ -2120,14 +2103,14 @@
     "price": 11000,
     "slug": "darksteelShield",
     "title": "Darksteel Shield",
-    "type": "Large Shield",
-    "typePlural": "Large Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-darksteelShield"
   },
   {
     "_geoloc": {
-      "lat": -10.055,
-      "lng": -3.202
+      "lat": -52.959,
+      "lng": 7.611
     },
     "description": "The dart of stunning looks like any other dart then the fact that it seems to pulse slightly when held in the hand. The true effect can be seen when one strikes an opponent and they fall to the ground stunned.",
     "game": "Baldur's Gate",
@@ -2137,14 +2120,14 @@
     "price": 100,
     "slug": "dartOfStunning",
     "title": "Dart of Stunning",
-    "type": "Dart",
-    "typePlural": "Darts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-dartOfStunning"
   },
   {
     "_geoloc": {
-      "lat": 56.221,
-      "lng": 61.724
+      "lat": -9.846,
+      "lng": 56.27
     },
     "description": "This dart is coated in a deadly poison that will immediatly seap into the bloodstream if striking an opponent, with very deadly results.",
     "game": "Baldur's Gate",
@@ -2154,14 +2137,14 @@
     "price": 1000,
     "slug": "dartOfWounding",
     "title": "Dart of Wounding",
-    "type": "Dart",
-    "typePlural": "Darts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-dartOfWounding"
   },
   {
     "_geoloc": {
-      "lat": 55.014,
-      "lng": 64.391
+      "lat": -2.748,
+      "lng": 6.217
     },
     "description": "Whether created specifically for use in the service of Torm or appropriated at some point in the long history of the church, Paladins of the Loyal Fury have made good use of Daystar in their battles against evil undead.  Through magic or blessing it is empowered with the Sunray, a force of pure life energy so potent that it slays both living and unliving.",
     "game": "Baldur's Gate",
@@ -2171,14 +2154,14 @@
     "price": 10000,
     "slug": "daystar",
     "title": "Daystar",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-daystar"
   },
   {
     "_geoloc": {
-      "lat": -50.498,
-      "lng": 16.27
+      "lat": 38.153,
+      "lng": 64.542
     },
     "description": "This is Anomen's family shield, given to him by his father. In addition to the magical protection the shield radiates an aura that grants the wielder fire and cold resistance. To protect against ranged attacks, Anomen can use the shield to erect a field of energy. This protection from normal missiles can be used three times per day.",
     "game": "Baldur's Gate",
@@ -2188,8 +2171,8 @@
     "price": 0,
     "slug": "delrynFamilyShield",
     "title": "Delryn Family Shield",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-delrynFamilyShield"
   },
   {
@@ -2211,8 +2194,8 @@
   },
   {
     "_geoloc": {
-      "lat": 46.493,
-      "lng": -28.524
+      "lat": 7.438,
+      "lng": 61.91
     },
     "description": "The length of this blade is etched with flames, genies, and whirlwinds. Small glittering particles along its length evoke a sandstorm. The style and quality of the blade indicates it was made in Calimshan.",
     "game": "Baldur's Gate",
@@ -2222,14 +2205,14 @@
     "price": 9000,
     "slug": "dervishCrescent",
     "title": "Dervish Crescent",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-dervishCrescent"
   },
   {
     "_geoloc": {
-      "lat": 14.844,
-      "lng": 39.555
+      "lat": -60.096,
+      "lng": 23.368
     },
     "description": "Having lost friends and dear ones to a series of raid by hill giants, Garrar The Powerful made it his mission to cleanse his homeland of their presence. It is not known where he acquired this item, but with it he single handedly dispatched dozens of the creatures, all the while protected from the blows of their clubs. The remaining hill giants fled to neighboring lands; lands that lacked a similar champion and did not fare as well",
     "game": "Baldur's Gate",
@@ -2239,8 +2222,8 @@
     "price": 1500,
     "slug": "destroyerOfTheHills",
     "title": "Destroyer of the Hills",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-destroyerOfTheHills"
   },
   {
@@ -2279,8 +2262,8 @@
   },
   {
     "_geoloc": {
-      "lat": 32.002,
-      "lng": -17.175
+      "lat": -34.59,
+      "lng": 54.439
     },
     "description": "A silver dragon with sapphire eyes curls around the hilt of this powerful two-handed sword. It is said that a legendary Rashemi warrior was given the sword for demonstrating exceptional valor in battle where he fought side by side with a silver dragon but the details of the tale have been lost to time.",
     "game": "Baldur's Gate",
@@ -2290,8 +2273,8 @@
     "price": 9000,
     "slug": "dragonBlade",
     "title": "Dragon Blade",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-dragonBlade"
   },
   {
@@ -2313,8 +2296,8 @@
   },
   {
     "_geoloc": {
-      "lat": 31.33,
-      "lng": 36.995
+      "lat": 39.208,
+      "lng": -58.33
     },
     "description": "Another powerful item created by the warlock Wormsor, this shield consists of red dragon skin stretched over a steel frame. Green and white dragon scales adorn the red background in a pattern that, when looked at in the right way, reveals the face of an ancient dragon.",
     "game": "Baldur's Gate",
@@ -2324,14 +2307,14 @@
     "price": 2500,
     "slug": "dragonScaleShield",
     "title": "Dragon Scale Shield",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-dragonScaleShield"
   },
   {
     "_geoloc": {
-      "lat": -8.668,
-      "lng": -33.874
+      "lat": -1.004,
+      "lng": 12.291
     },
     "description": "This was the weapon of Thorvin Dukal, one of seven self-proclaimed Dragonslayers who spent years railing against what they called \"an insidious dragon infestation that threatened Faerun.\" Thorvin had this weapon enchanted at great expense and used it on many occasions, though of dragons only a single white has fallen to it. The Dragonslayers met their match in a cantankerous ancient red who slew the entire group in an epic battle. This weapon did not end up in the beast's hoard however, as the creature returned to its lair to recuperate and when it emerged the field of combat was well scavenged.",
     "game": "Baldur's Gate",
@@ -2341,14 +2324,14 @@
     "price": 5500,
     "slug": "dragonsBane",
     "title": "Dragon's Bane",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-dragonsBane"
   },
   {
     "_geoloc": {
-      "lat": 56.609,
-      "lng": 39.313
+      "lat": -16.609,
+      "lng": 23.634
     },
     "description": "Trying to profit from the strength of greater beings, many years ago the mage Ullion founded a dragon-worshipping cult under the moniker \"Son of Drago.\" Attracting followers with promises of conquest, he sought to secure his authority by enchanting this symbolic weapon for his bodyguard, Jaramor Bold. When the Dragon's Breath strikes an opponent it releases the harsh flames of a red dragon, the poisonous vapor of the green dragon, the blue dragon's lightning bolt, a spray of a black dragon's acid, and the white dragon's penetrating cold. Unfortunately, Ullion was the first to feel its effects, slain by the ambitious Jaramor who sought to rule. There was no real power to be had without the mage, so the entire organization soon collapsed on itself.",
     "game": "Baldur's Gate",
@@ -2358,14 +2341,14 @@
     "price": 6500,
     "slug": "dragonsBreath",
     "title": "Dragon's Breath",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-dragonsBreath"
   },
   {
     "_geoloc": {
-      "lat": -35.751,
-      "lng": 23.075
+      "lat": -36.403,
+      "lng": -36.388
     },
     "description": "Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size. However, this bolt has been imbued with a small amount of magical properties which enhances performance in flight, almost as if the bolt was guided towards its target.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2375,14 +2358,14 @@
     "price": 2,
     "slug": "drowBolt",
     "title": "Drow Bolt",
-    "type": "Bolt",
-    "typePlural": "Bolts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-drowBolt"
   },
   {
     "_geoloc": {
-      "lat": 38.888,
-      "lng": -24.954
+      "lat": 40.031,
+      "lng": 37.731
     },
     "description": "A target hit by this bolt must save vs. Poison or fall asleep for 4 rounds. The drow often use these bolts when capturing slaves.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2392,14 +2375,14 @@
     "price": 2,
     "slug": "drowBoltOfSleep",
     "title": "Drow Bolt of Sleep",
-    "type": "Bolt",
-    "typePlural": "Bolts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-drowBoltOfSleep"
   },
   {
     "_geoloc": {
-      "lat": -59.311,
-      "lng": -60.255
+      "lat": -42.999,
+      "lng": -24.983
     },
     "description": "A target hit by this bolt must save vs. Death or be stunned for 4 rounds.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2409,8 +2392,8 @@
     "price": 2,
     "slug": "drowBoltOfStunning",
     "title": "Drow Bolt of Stunning",
-    "type": "Bolt",
-    "typePlural": "Bolts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-drowBoltOfStunning"
   },
   {
@@ -2432,8 +2415,8 @@
   },
   {
     "_geoloc": {
-      "lat": -16.731,
-      "lng": 55.937
+      "lat": 16.258,
+      "lng": 24.351
     },
     "description": "A target hit by this dart must save vs. Poison or fall asleep for 4 rounds. The drow often use these darts when capturing slaves.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if exposed to sunlight.",
     "game": "Baldur's Gate",
@@ -2443,8 +2426,8 @@
     "price": 2,
     "slug": "drowDartOfSleep",
     "title": "Drow Dart of Sleep",
-    "type": "Dart",
-    "typePlural": "Darts",
+    "type": "Ammunition",
+    "typePlural": "Ammunitions",
     "uniqueSlug": "baldur-drowDartOfSleep"
   },
   {
@@ -2466,8 +2449,8 @@
   },
   {
     "_geoloc": {
-      "lat": 38.817,
-      "lng": -0.743
+      "lat": -35.157,
+      "lng": 30.616
     },
     "description": "Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted, interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail. This drow armor will dissolve to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2477,14 +2460,14 @@
     "price": 700,
     "slug": "drowFullPlate5",
     "title": "Drow Full Plate +5",
-    "type": "Full Plate",
-    "typePlural": "Full Plates",
+    "type": "Heavy Armor",
+    "typePlural": "Heavy Armors",
     "uniqueSlug": "baldur-drowFullPlate5"
   },
   {
     "_geoloc": {
-      "lat": -2.221,
-      "lng": 12.423
+      "lat": 12.721,
+      "lng": -9.582
     },
     "description": "Drow Halberd +3\nBy far the oldest and most often used pole-arm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke, and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe. This item, like most drow equipment, is created using Adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2494,14 +2477,14 @@
     "price": 400,
     "slug": "drowHalberd",
     "title": "Drow Halberd",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-drowHalberd"
   },
   {
     "_geoloc": {
-      "lat": -27.229,
-      "lng": -0.439
+      "lat": 29.882,
+      "lng": -28.557
     },
     "description": "One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. This drow lance is a superior version of the traditional spear, often used by drow foot soldiers.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2511,14 +2494,14 @@
     "price": 300,
     "slug": "drowLance",
     "title": "Drow Lance",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-drowLance"
   },
   {
     "_geoloc": {
-      "lat": -41.969,
-      "lng": 53.468
+      "lat": -24.909,
+      "lng": 38.746
     },
     "description": "These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2528,8 +2511,8 @@
     "price": 300,
     "slug": "drowLongSword",
     "title": "Drow Long Sword",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-drowLongSword"
   },
   {
@@ -2551,8 +2534,8 @@
   },
   {
     "_geoloc": {
-      "lat": -1.551,
-      "lng": -20.256
+      "lat": 5.567,
+      "lng": -34.278
     },
     "description": "The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of Faerûn.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2562,14 +2545,14 @@
     "price": 456,
     "slug": "drowScimitar",
     "title": "Drow Scimitar",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-drowScimitar"
   },
   {
     "_geoloc": {
-      "lat": 46.399,
-      "lng": 46.901
+      "lat": 4.836,
+      "lng": 56.843
     },
     "description": "A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using their shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.\n\nThis item, like most drow equipment, is created using adamantine, an alloy of adamantite that quickly turns to dust if removed from the Underdark.",
     "game": "Baldur's Gate",
@@ -2579,14 +2562,14 @@
     "price": 240,
     "slug": "drowShield",
     "title": "Drow Shield",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-drowShield"
   },
   {
     "_geoloc": {
-      "lat": -52.53,
-      "lng": -18.835
+      "lat": -50.696,
+      "lng": -32.859
     },
     "description": "Though once a simple halberd, this weapon spent many hundreds of years in a tomb next to the soul phylactery of a powerful lich. The creature was eventually erased from existence, purportedly by another of its kind, but such close proximity to that concentrated evil has imbued this blade with the very essence of night and the chill of darkness, energy that becomes deadly in combat. It is a foul weapon, and a warrior should use it with caution.",
     "game": "Baldur's Gate",
@@ -2596,14 +2579,14 @@
     "price": 3500,
     "slug": "duskblade",
     "title": "Duskblade",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-duskblade"
   },
   {
     "_geoloc": {
-      "lat": 39.2,
-      "lng": 62.327
+      "lat": -0.346,
+      "lng": 21.177
     },
     "description": "This Ioun stone glows with a dusty rose hue, hinting at calming images and sensations. While pleasing, it does not appear to enhance the basic protection enchantment upon it.",
     "game": "Baldur's Gate",
@@ -2613,14 +2596,14 @@
     "price": 5000,
     "slug": "dustyRoseIounStone",
     "title": "Dusty Rose Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-dustyRoseIounStone"
   },
   {
     "_geoloc": {
-      "lat": 63.177,
-      "lng": -58.436
+      "lat": -1.594,
+      "lng": 6.985
     },
     "description": "This hammer -- not to be confused with the elven made Dwarf Thrower -- is only usable by dwarves. In the capable hands of a dwarven warrior the hammer may be thrown at an opponent. The magic in the hammer draws it back to the hand of its wielder. If it hits an opponent it does double the normal damage that a hammer would normally do.  Against giants and ogres the hammer does an additional +8 damage, due to the special hatred that dwarves hold against these races.",
     "game": "Baldur's Gate",
@@ -2630,14 +2613,14 @@
     "price": 12000,
     "slug": "dwarvenThrower",
     "title": "Dwarven Thrower",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-dwarvenThrower"
   },
   {
     "_geoloc": {
-      "lat": -25.392,
-      "lng": -36.559
+      "lat": -0.963,
+      "lng": 55.372
     },
     "description": "Legend has it that this elegant curving blade was forged deep beneath the sea by merfolk and its hilt bound in enchanted eelskin. The truth of the matter is more mundane. The blade was crafted in Iriaebor and given to a mercenary commander who protected cargo barges moving up and down the river Chionthar. Still, it is a finely made and serviceable weapon.",
     "game": "Baldur's Gate",
@@ -2647,14 +2630,14 @@
     "price": 2500,
     "slug": "eadrosBlade",
     "title": "Eadro's Blade",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-eadrosBlade"
   },
   {
     "_geoloc": {
-      "lat": -3.041,
-      "lng": -51.339
+      "lat": 32.25,
+      "lng": 45.146
     },
     "description": "A devil of Avernus once possessed this gnarled wooden staff. Though the devil long since escaped from the staff, a residue of its essence permeated the weapon and lingers still. When a command word is spoken, an aura of fire springs up around anyone wielding the staff; though the flames leave the wielder untouched, they sear others with devastating heat.",
     "game": "Baldur's Gate",
@@ -2664,8 +2647,8 @@
     "price": 12000,
     "slug": "echoOfTheFiend",
     "title": "Echo of the Fiend",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-echoOfTheFiend"
   },
   {
@@ -2687,8 +2670,8 @@
   },
   {
     "_geoloc": {
-      "lat": -43.12,
-      "lng": -19.303
+      "lat": -60.426,
+      "lng": 32.648
     },
     "description": "When this bottle is rubbed, an efreeti will appear. The efreeti will attack any enemies of the user, staying for up to one turn.",
     "game": "Baldur's Gate",
@@ -2698,8 +2681,8 @@
     "price": 60,
     "slug": "efreetiBottle",
     "title": "Efreeti Bottle",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-efreetiBottle"
   },
   {
@@ -2738,8 +2721,8 @@
   },
   {
     "_geoloc": {
-      "lat": -35.311,
-      "lng": -59.81
+      "lat": 64.521,
+      "lng": 64.812
     },
     "description": "This yew bow is more a work of art than a weapon of war: Fine engravings dance over the polished wood, and the bowstring gleams of gold, almost singing when drawn. This was a ceremonial bow in the Elven Court for a thousand years, though that is scarcely a single lifetime in elven terms. Every 50 years or so it was granted to someone who had performed a great service, the recipient eventually choosing who would hold it next. Two centuries ago, a human, Yin Pon, rescued an elven prince and was gifted the bow, which he carried with him to Baldur's Gate, where it was subsequently lost.",
     "game": "Baldur's Gate",
@@ -2749,14 +2732,14 @@
     "price": 2500,
     "slug": "elvenCourtBow",
     "title": "Elven Court Bow",
-    "type": "Longbow",
-    "typePlural": "Longbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-elvenCourtBow"
   },
   {
     "_geoloc": {
-      "lat": -3.105,
-      "lng": -35.616
+      "lat": -58.104,
+      "lng": 37.075
     },
     "description": "An infamous highwayman in his day, Pandar of Scardale made quite a name for himself vexing the elves of Cormanthor forest. To their annoyance he continually used the wood to escape the law; and with the aid of this girdle, the elves' arrows as well. Unfortunately for Pander, pit-traps and starvation proved a slower, but effective, substitution.",
     "game": "Baldur's Gate",
@@ -2766,8 +2749,8 @@
     "price": 1500,
     "slug": "elvesBane",
     "title": "Elves' Bane",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-elvesBane"
   },
   {
@@ -2806,8 +2789,8 @@
   },
   {
     "_geoloc": {
-      "lat": -10.391,
-      "lng": -0.101
+      "lat": -52.692,
+      "lng": -18.638
     },
     "description": "This morning star was the personal weapon of the cleric Everard.  Everard was a powerful priest of Tempus who sacrificed his life in the battle against the demon Belhifet.",
     "game": "Baldur's Gate",
@@ -2817,8 +2800,8 @@
     "price": 0,
     "slug": "everardsMorningStar",
     "title": "Everard's Morning Star",
-    "type": "Morning Star",
-    "typePlural": "Morning Stars",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-everardsMorningStar"
   },
   {
@@ -2840,8 +2823,8 @@
   },
   {
     "_geoloc": {
-      "lat": 15.637,
-      "lng": 7.83
+      "lat": -18.622,
+      "lng": 57.131
     },
     "description": "A gift from the God of Justice, this pommel gem gleams with a holy fire. If the burning stone were to be set into the hilt of a weapon of virtue the result would be a blade capable of carving a righteous swath through all the evils that plague the Realms.",
     "game": "Baldur's Gate",
@@ -2851,14 +2834,14 @@
     "price": 750,
     "slug": "eyeOfTyr",
     "title": "Eye of Tyr",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-eyeOfTyr"
   },
   {
     "_geoloc": {
-      "lat": -26.751,
-      "lng": -61.072
+      "lat": 62.38,
+      "lng": -8.215
     },
     "description": "Plate mail is a combination of chain armor with metal plates covering the vital areas such as the chest, abdomen and groin. Similar in construction to bronze plate mail, true plate mail comprises chain and leather.",
     "game": "Baldur's Gate",
@@ -2868,14 +2851,14 @@
     "price": 5000,
     "slug": "fallorainsPlate",
     "title": "Fallorain's Plate",
-    "type": "Plate Mail",
-    "typePlural": "Plate Mails",
+    "type": "Heavy Armor",
+    "typePlural": "Heavy Armors",
     "uniqueSlug": "baldur-fallorainsPlate"
   },
   {
     "_geoloc": {
-      "lat": -25.776,
-      "lng": -0.259
+      "lat": 7.166,
+      "lng": 45.417
     },
     "description": "The razor-sharp tip of this spear easily cuts through armor and down to the bone. Victims of its devastating attacks bleed heavily as their wounds instantly fester and weep, dazing them with pain and making it difficult to continue the battle.",
     "game": "Baldur's Gate",
@@ -2885,14 +2868,14 @@
     "price": 3500,
     "slug": "festeringSpear",
     "title": "Festering Spear",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-festeringSpear"
   },
   {
     "_geoloc": {
-      "lat": -51.769,
-      "lng": 22.44
+      "lat": -17.444,
+      "lng": 39.324
     },
     "description": "This scabbard is the companion to Fflar's enchanted blade Foebane, and like the sword was rumored to have been lost when Myth Drannor fell.",
     "game": "Baldur's Gate",
@@ -2902,14 +2885,14 @@
     "price": 50,
     "slug": "fflarsScabbard",
     "title": "Fflar's Scabbard",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-fflarsScabbard"
   },
   {
     "_geoloc": {
-      "lat": 22.679,
-      "lng": -60.868
+      "lat": -41.164,
+      "lng": 38.909
     },
     "description": "This throwing knife is imbued with magical fire, and was supposedly carved from an extracted red dragon tooth. Tavern tales suggest that the beast is still alive, her anger fueling the enchantment within the weapon. Though fanciful, the story is consistent, and it is said the dagger returns to the thrower \"as though on wings.\"",
     "game": "Baldur's Gate",
@@ -2919,14 +2902,14 @@
     "price": 5500,
     "slug": "firetooth",
     "title": "Firetooth",
-    "type": "Throwing Dagger",
-    "typePlural": "Throwing Daggers",
+    "type": "Dagger",
+    "typePlural": "Daggers",
     "uniqueSlug": "baldur-firetooth"
   },
   {
     "_geoloc": {
-      "lat": -26.918,
-      "lng": -1.938
+      "lat": -0.712,
+      "lng": -53.178
     },
     "description": "Two Handed Sword: Flame of the North\nThe title does not refer to the blade itself, but rather to the woman who originally wielded it in the icy hinterlands of Faerun. Her name was Carerra, and she was a veritable firestorm that swept across arctic trolls and the northern orcish tribes.  She was a hated enemy of many a shaman whose magic often floundered against her fury. After a lifetime of raucous battle, it was old age that eventually claimed her. The sword was passed to her granddaughter, an adventurer, who presumably brought it to Amn.",
     "game": "Baldur's Gate",
@@ -2936,14 +2919,14 @@
     "price": 5000,
     "slug": "flameOfTheNorth",
     "title": "Flame of the North",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-flameOfTheNorth"
   },
   {
     "_geoloc": {
-      "lat": 5.425,
-      "lng": -58.735
+      "lat": -17.097,
+      "lng": -28.045
     },
     "description": "This is Jan Jansen's crossbow, and such is its complexity that only he can use it.  Likewise, only he can make the special ammunition it is capable of firing.  Substantial tinkering on this launcher has made it especially accurate.",
     "game": "Baldur's Gate",
@@ -2953,14 +2936,14 @@
     "price": 35,
     "slug": "flasherLauncher",
     "title": "Flasher Launcher",
-    "type": "Light Crossbow",
-    "typePlural": "Light Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-flasherLauncher"
   },
   {
     "_geoloc": {
-      "lat": 32.15,
-      "lng": -58.335
+      "lat": -44.893,
+      "lng": 4.318
     },
     "description": "The archmage Demron created this powerful blade for Captain Fflar of Myth Drannor. When the elven city fell, the sword was lost beneath the rubble of the once-great metropolis.",
     "game": "Baldur's Gate",
@@ -2970,14 +2953,14 @@
     "price": 5500,
     "slug": "foebane",
     "title": "Foebane",
-    "type": "Bastard Sword",
-    "typePlural": "Bastard Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-foebane"
   },
   {
     "_geoloc": {
-      "lat": -60.405,
-      "lng": 40.606
+      "lat": -9.859,
+      "lng": -17.689
     },
     "description": "This shield, as tall as a man, is aptly named. With it, Phil Pious, a paladin of the Most Noble Order of the Radiant Heart, once held a marauding battalion of hobgoblin and kobold archers at bay till they exhausted their arrows. As the shield is almost as useful in melee as it is at range, he then slew each and every creature.",
     "game": "Baldur's Gate",
@@ -2987,14 +2970,14 @@
     "price": 9000,
     "slug": "fortressShield",
     "title": "Fortress Shield",
-    "type": "Large Shield",
-    "typePlural": "Large Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-fortressShield"
   },
   {
     "_geoloc": {
-      "lat": -35.791,
-      "lng": 12.937
+      "lat": 28.791,
+      "lng": 53.764
     },
     "description": "A line of diamond-shaped mirrors run up the center of this short sword's blade. The smallest bit of light catches the mirrors, flashing and flickering as the wielder fights. Rumor has it that the blade was constructed by a particularly vain fighter from Sembia who later lost it in a duel. The fighter became distracted by his own reflection in a nearby shop window and failed to parry his opponent's blow.",
     "game": "Baldur's Gate",
@@ -3004,8 +2987,8 @@
     "price": 9000,
     "slug": "fractalBlade",
     "title": "Fractal Blade",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-fractalBlade"
   },
   {
@@ -3095,8 +3078,8 @@
   },
   {
     "_geoloc": {
-      "lat": 29.961,
-      "lng": 40.591
+      "lat": 14.467,
+      "lng": -3.724
     },
     "description": "Though hard to verify, it is claimed that the bowstring of this crossbow is made from the hair of a frost giant. Whatever the truth, the weapon is incredibly hard to draw, although its accuracy and subsequent damage are well worth the strain required (strength of 15 or greater).",
     "game": "Baldur's Gate",
@@ -3106,8 +3089,8 @@
     "price": 9000,
     "slug": "giantHairCrossbow",
     "title": "Giant Hair Crossbow",
-    "type": "Heavy Crossbow",
-    "typePlural": "Heavy Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-giantHairCrossbow"
   },
   {
@@ -3129,8 +3112,8 @@
   },
   {
     "_geoloc": {
-      "lat": 6.003,
-      "lng": 7.383
+      "lat": 64.93,
+      "lng": 64.264
     },
     "description": "This onyx blade pulses with a sickly green light. The hilt is carved of bone and the pommel resembles the grinning skull of a gelugon. Demons rarely give gifts to mortals, and those they do always possess some sort of drawback.",
     "game": "Baldur's Gate",
@@ -3140,14 +3123,14 @@
     "price": 1,
     "slug": "giftOfTheDemon",
     "title": "Gift of the Demon",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-giftOfTheDemon"
   },
   {
     "_geoloc": {
-      "lat": 20.698,
-      "lng": -58.832
+      "lat": 23.982,
+      "lng": -51.924
     },
     "description": "This belt is actually the woven hair from a fire giant's beard. When worn, the belt greatly increases the wearer's strength.",
     "game": "Baldur's Gate",
@@ -3157,14 +3140,14 @@
     "price": 15000,
     "slug": "girdleOfFireGiantStrength",
     "title": "Girdle of Fire Giant Strength",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-girdleOfFireGiantStrength"
   },
   {
     "_geoloc": {
-      "lat": 37.627,
-      "lng": 62.449
+      "lat": -49.709,
+      "lng": -34.785
     },
     "description": "This girdle greatly increases the wearer's constitution. King Violos used it when leading an expedition against marsh trolls. He'd been severely sickened the past winter and was no longer the healthy man he once was. The belt gave extra years to his life and inspired his men to renew their confidence in their king once more.",
     "game": "Baldur's Gate",
@@ -3174,14 +3157,14 @@
     "price": 6600,
     "slug": "girdleOfFortitude",
     "title": "Girdle of Fortitude",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-girdleOfFortitude"
   },
   {
     "_geoloc": {
-      "lat": 15.847,
-      "lng": 37.429
+      "lat": -25.692,
+      "lng": 57.215
     },
     "description": "This belt is actually the woven hair from a frost giant's beard. When worn, the belt greatly increases the wearer's Strength, making [them] as strong as a frost giant.",
     "game": "Baldur's Gate",
@@ -3191,14 +3174,14 @@
     "price": 13000,
     "slug": "girdleOfFrostGiantStrength",
     "title": "Girdle of Frost Giant Strength",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-girdleOfFrostGiantStrength"
   },
   {
     "_geoloc": {
-      "lat": 23.633,
-      "lng": -1.825
+      "lat": 13.204,
+      "lng": 24.268
     },
     "description": "This plain belt makes the wearer as strong as a hill giant, but does not make him or her giant size. Many a cocky warrior has been surprised by a much smaller opponent with remarkable strength. More often than not a belt such as this is the reason.",
     "game": "Baldur's Gate",
@@ -3208,14 +3191,14 @@
     "price": 10000,
     "slug": "girdleOfHillGiantStrength",
     "title": "Girdle of Hill Giant Strength",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-girdleOfHillGiantStrength"
   },
   {
     "_geoloc": {
-      "lat": -42.988,
-      "lng": 12.646
+      "lat": -42.707,
+      "lng": -11.977
     },
     "description": "The cursed Girdle of Femininity and Masculinity, a rare yet oft-discussed magical item, is wrought with a most powerful magic. Anyone unfortunate enough to secure it around their waist instantly finds their gender to be transformed. It is said that not fifty years past, a nameless court jester was beheaded for presenting the girdle as a gift to Duke Lobelahn's lover.",
     "game": "Baldur's Gate",
@@ -3225,14 +3208,14 @@
     "price": 200,
     "slug": "girdleOfMasculinityFemininity",
     "title": "Girdle of Masculinity/Femininity",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-girdleOfMasculinityFemininity"
   },
   {
     "_geoloc": {
-      "lat": -41.816,
-      "lng": -8.433
+      "lat": 6.417,
+      "lng": 55.626
     },
     "description": "As a young boy, Stewart Elttil was kidnapped by raiding kobolds after his family was slain. However, en route to their den, the kobolds surprised a family of stone giants. These giants rescued Stewart and raised him as their own. It soon became apparent that the boy, no matter how hard he tried, could not compete in the family rock-throwing contests. The stone giant father bartered with a local wizard for this girdle, which made Stewart as strong as his brothers and sisters. When Stewart met an untimely end, the girdle was stolen away.",
     "game": "Baldur's Gate",
@@ -3242,8 +3225,8 @@
     "price": 12500,
     "slug": "girdleOfStoneGiantStrength",
     "title": "Girdle of Stone Giant Strength",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-girdleOfStoneGiantStrength"
   },
   {
@@ -3282,8 +3265,8 @@
   },
   {
     "_geoloc": {
-      "lat": 31.312,
-      "lng": -0.821
+      "lat": 14.569,
+      "lng": 47.953
     },
     "description": "Makal of the Pine, a devious druid, carved this club and bonded it with the spirit of his wolverine companion. Like that tenacious creature, Gnasher is a dangerous weapon in the hands of a skilled user. When the club strikes, sharp splinters dig into the victim's flesh, causing extreme pain and even extra damage that continues for some time after the blow. Makal used the club successfully on several occasions, earning the anger of orc loggers threatening his forests.",
     "game": "Baldur's Gate",
@@ -3293,8 +3276,8 @@
     "price": 1000,
     "slug": "gnasher",
     "title": "Gnasher",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-gnasher"
   },
   {
@@ -3316,8 +3299,8 @@
   },
   {
     "_geoloc": {
-      "lat": 24.047,
-      "lng": 7.059
+      "lat": 39.947,
+      "lng": 48.56
     },
     "description": "Crafted by dwarves in service to the temple of Waukeen in Amn, this two-handed sword draws power from the gold in its wielder's purse. For the wealthy it strikes mighty blows. For the impoverished, the Gold Digger is no better than a mundane greatsword.",
     "game": "Baldur's Gate",
@@ -3327,8 +3310,8 @@
     "price": 2000,
     "slug": "goldDigger",
     "title": "Gold Digger",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-goldDigger"
   },
   {
@@ -3350,8 +3333,8 @@
   },
   {
     "_geoloc": {
-      "lat": -49.279,
-      "lng": 56.378
+      "lat": -18.557,
+      "lng": 29.179
     },
     "description": "This golden calf idol fits in the palm of your hand. Engraved on the base is the command word that activates the idol. When the command word is spoken, the idol comes to life, grows, and changes shape into a life-sized minotaur. This minotaur will obey its master's commands for the duration of the spell or until slain. After 1 turn, regardless if the minotaur lived or died, it will revert back to its previous size and shape. It takes a day to recharge the idol.",
     "game": "Baldur's Gate",
@@ -3361,14 +3344,14 @@
     "price": 6000,
     "slug": "goldenCalfIdol",
     "title": "Golden Calf Idol",
-    "type": "Figurine",
-    "typePlural": "Figurines",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-goldenCalfIdol"
   },
   {
     "_geoloc": {
-      "lat": 54.2,
-      "lng": -2.124
+      "lat": -25.964,
+      "lng": 22.175
     },
     "description": "Created to protect a powerful wizard from malevelont warriors, this magical garment is made of red silk strewn with golden flakes. It is enchanted to give limited protection against slashing weapons of any type.",
     "game": "Baldur's Gate",
@@ -3378,14 +3361,14 @@
     "price": 1500,
     "slug": "goldenGirdleOfUrnst",
     "title": "Golden Girdle of Urnst",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-goldenGirdleOfUrnst"
   },
   {
     "_geoloc": {
-      "lat": -27.714,
-      "lng": -17.188
+      "lat": -35.488,
+      "lng": -32.96
     },
     "description": "Highly sought out by wizards and mages, this ioun stone raises the intelligence of those who possess it.",
     "game": "Baldur's Gate",
@@ -3395,26 +3378,9 @@
     "price": 5000,
     "slug": "goldenIounStone",
     "title": "Golden Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-goldenIounStone"
-  },
-  {
-    "_geoloc": {
-      "lat": 7.926,
-      "lng": -17.035
-    },
-    "description": "Judging by the arcane symbols printed on its cover, it is clear that this book is imbued with magical properties of one sort or another. Until you attempt to either read or identify it, however, its precise nature will remain unknown to you.",
-    "game": "Baldur's Gate",
-    "gameSlug": "baldur",
-    "originalUrl": "http://baldursgate.wikia.com/wiki/Golem_Manual",
-    "picture": "https://vignette.wikia.nocookie.net/baldursgategame/images/6/60/PTOME0100000.PNG/revision/latest?cb=20171120115418",
-    "price": 5000,
-    "slug": "golemManual",
-    "title": "Golem Manual",
-    "type": "Component",
-    "typePlural": "Components",
-    "uniqueSlug": "baldur-golemManual"
   },
   {
     "_geoloc": {
@@ -3435,8 +3401,8 @@
   },
   {
     "_geoloc": {
-      "lat": -26.297,
-      "lng": 48.761
+      "lat": 13.23,
+      "lng": -60.356
     },
     "description": "This large shield of dwarven darksteel provides more protection than most suits of armor. It was forged and enchanted with one goal, and one goal only: to keep the wielder protected in combat. What might seem a redundant point to make becomes clear when one looks at the sacrifices that have been made towards this aim. Far heavier than most shields of its size and imbued with an antimagical aura, it is somewhat cumbersome to use in battle, and casting with it in hand is virtually impossible.",
     "game": "Baldur's Gate",
@@ -3446,14 +3412,14 @@
     "price": 11000,
     "slug": "gormsArm",
     "title": "Gorm's Arm",
-    "type": "Large Shield",
-    "typePlural": "Large Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-gormsArm"
   },
   {
     "_geoloc": {
-      "lat": -57.477,
-      "lng": 7.995
+      "lat": -1.667,
+      "lng": 31.273
     },
     "description": "This is one of the many weapons of the great hero Siegfried. The blade is particularly sharp and well-balanced, and in a certain light one can see the faint image of a serpent within the hilt.",
     "game": "Baldur's Gate",
@@ -3463,8 +3429,8 @@
     "price": 12500,
     "slug": "gramTheSwordOfGrief",
     "title": "Gram the Sword of Grief",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-gramTheSwordOfGrief"
   },
   {
@@ -3503,8 +3469,8 @@
   },
   {
     "_geoloc": {
-      "lat": 7.539,
-      "lng": -2.637
+      "lat": 6.707,
+      "lng": 14.727
     },
     "description": "The electrum-plated shaft of this weapon hums with magical power. Occasionally, blue bolts of energy run down the length of the spear, charging it. In battle when it hits an opponent, it strikes for additional electricity damage.",
     "game": "Baldur's Gate",
@@ -3514,14 +3480,14 @@
     "price": 3300,
     "slug": "halcyon",
     "title": "Halcyon",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-halcyon"
   },
   {
     "_geoloc": {
-      "lat": 63.099,
-      "lng": -51.363
+      "lat": 45.489,
+      "lng": 31.862
     },
     "description": "Keldorn distinguished himself early in his career as a paladin and received this blade as a boon from Torm. It is exceptionally accurate, but also protects him in battle with a special Fireshield, and any that strike him while he wields it suffer Torm's wrath in the form of magical damage. None but Keldorn may use this sword.",
     "game": "Baldur's Gate",
@@ -3531,14 +3497,14 @@
     "price": 4250,
     "slug": "hallowedRedeemer",
     "title": "Hallowed Redeemer",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-hallowedRedeemer"
   },
   {
     "_geoloc": {
-      "lat": 38.761,
-      "lng": -33.46
+      "lat": 48.173,
+      "lng": 62.392
     },
     "description": "Crafted from the scales and bones of a gold dragon servant of Lathander, this warhammer sometimes channels the power of the ancient wyrm's mighty wings.",
     "game": "Baldur's Gate",
@@ -3548,14 +3514,14 @@
     "price": 1500,
     "slug": "hammerOfDawn",
     "title": "Hammer of Dawn",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-hammerOfDawn"
   },
   {
     "_geoloc": {
-      "lat": 4.827,
-      "lng": 45.401
+      "lat": 39.619,
+      "lng": -24.703
     },
     "description": "Hammer of Thunderbolts: A dwarven smith, Silverblade, forged this hammer and two other items; a girdle of giant strength and gauntlets of ogre power. His intention was to gift them to his son, who was then a high officer in the dwarven armies, fighting the giant and ogre tribes of the area. Unfortunately Silverblade's son died just after the completion of the three items and before they could be gifted to him. In grief Silverblade himself donned the girdle and the gauntlets. Taking up the Hammer of Thunderbolts he went to battle against the giant folk. He died valiantly.\nAlone, the Hammer of Thunderbolts is a powerful magical weapon but when merged with the gauntlets of ogre power and a girdle of giant strength the hammer is transformed. This transformation requires magical assistance. The Hammer of Thunderbolts is then capable of doing an additional +8 damage as well as instantly killing any giant or ogre that it strikes.",
     "game": "Baldur's Gate",
@@ -3565,8 +3531,8 @@
     "price": 10000,
     "slug": "hammerOfThunderbolts",
     "title": "Hammer of Thunderbolts",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-hammerOfThunderbolts"
   },
   {
@@ -3605,8 +3571,8 @@
   },
   {
     "_geoloc": {
-      "lat": -42.242,
-      "lng": 13.4
+      "lat": -33.659,
+      "lng": 64.546
     },
     "description": "The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.<!-- The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. -->",
     "game": "Baldur's Gate",
@@ -3616,14 +3582,14 @@
     "price": 10000,
     "slug": "harbinger",
     "title": "Harbinger",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-harbinger"
   },
   {
     "_geoloc": {
-      "lat": -33.128,
-      "lng": -36.527
+      "lat": -35.032,
+      "lng": -11.248
     },
     "description": "Harmonium Halberd +3\nThis weapon is a powerful weapon usually given out to the most important of Harmonium captains. The Harmonium is an faction based out of the planar city known as 'Sigil'.",
     "game": "Baldur's Gate",
@@ -3633,14 +3599,14 @@
     "price": 10000,
     "slug": "harmoniumHalberd",
     "title": "Harmonium Halberd",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-harmoniumHalberd"
   },
   {
     "_geoloc": {
-      "lat": -44.503,
-      "lng": -3.599
+      "lat": -1.21,
+      "lng": -28.415
     },
     "description": "When Fitzallus the Footpad, a Sembian bard, had this heavy crossbow commissioned, he talked endlessly about how incredible the weapon would be. His friends teased him that the crossbow was his new \"best friend\" and that he should name it. Finally, the crossbow was ready, and Fitzallus strode into the tavern with the gleaming weapon and proudly introduced it as \"Harold.\" Fitzallus died during a burglary several months later, and though his will specified he be buried with Harold, the crossbow vanished before the ceremony.",
     "game": "Baldur's Gate",
@@ -3650,14 +3616,14 @@
     "price": 5500,
     "slug": "harold",
     "title": "Harold",
-    "type": "Heavy Crossbow",
-    "typePlural": "Heavy Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-harold"
   },
   {
     "_geoloc": {
-      "lat": -50.657,
-      "lng": -49.849
+      "lat": 64.765,
+      "lng": -60.307
     },
     "description": "This double-edged long sword gleams white even in the reddest of torchlight. The Dethek runes along its sides name the blade \"Harrower,\" a weapon once wielded by Ariabel, a Waterdhavian Paladin of Lathander who once carried the weapon into combat against the vampire Zerafex and her host of unholy spawn. Ariabel did not survive the contest, but decades later a gang of Tethyrian tomb robbers recovered her sword from the crypt where she fell.",
     "game": "Baldur's Gate",
@@ -3667,14 +3633,14 @@
     "price": 2500,
     "slug": "harrower",
     "title": "Harrower",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-harrower"
   },
   {
     "_geoloc": {
-      "lat": -10.802,
-      "lng": -19.025
+      "lat": 48.749,
+      "lng": 54.705
     },
     "description": "This scimitar has been magically enhanced to give it greater accuracy in combat. Any wielder who picks up the sword immediately feels their senses becoming keener, their reflexes sharper.",
     "game": "Baldur's Gate",
@@ -3684,8 +3650,8 @@
     "price": 3000,
     "slug": "hawksight",
     "title": "Hawksight",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-hawksight"
   },
   {
@@ -3741,8 +3707,8 @@
   },
   {
     "_geoloc": {
-      "lat": 14.402,
-      "lng": -11.652
+      "lat": -28.539,
+      "lng": -10.197
     },
     "description": "Legends say that craftsman Pinn O'Reffen fashioned this bow from the heart of a Treant, though how he came to possess such material is unknown. He certainly did not anticipate the enchantment within, magic that makes the archer's aim almost infallible for a short period every day. Pinn claimed his skill was responsible, but it is more likely that some aspect of the soul of the Treant is still within the wood. This bow requires a strength of 18 to use.",
     "game": "Baldur's Gate",
@@ -3752,14 +3718,14 @@
     "price": 7800,
     "slug": "heartseeker",
     "title": "Heartseeker",
-    "type": "Composite Longbow",
-    "typePlural": "Composite Longbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-heartseeker"
   },
   {
     "_geoloc": {
-      "lat": 15.588,
-      "lng": -34.898
+      "lat": 48.613,
+      "lng": -2.184
     },
     "description": "A marvel of engineering, this crossbow covers bolts in oil and sets them alight when fired. It is enchanted as well, likely to keep the mechanism working smoothly.  It bears the hallmarks of the inventor's god, Gond.",
     "game": "Baldur's Gate",
@@ -3769,8 +3735,8 @@
     "price": 7000,
     "slug": "heavyCrossbowOfSearing",
     "title": "Heavy Crossbow of Searing",
-    "type": "Heavy Crossbow",
-    "typePlural": "Heavy Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-heavyCrossbowOfSearing"
   },
   {
@@ -3894,8 +3860,8 @@
   },
   {
     "_geoloc": {
-      "lat": -27.582,
-      "lng": 31.147
+      "lat": 37.999,
+      "lng": -17.537
     },
     "description": "The short sword wielded by one-time caravan guard Herdrin, who died in defense of Bridgefort. The sword is of a simple and solid design, a utilitarian blade with a wolf's head carved on the pommel. Herdrin's sword strikes swiftly and keenly and serves its wielder well.",
     "game": "Baldur's Gate",
@@ -3905,14 +3871,14 @@
     "price": 4500,
     "slug": "herdrinsShortSword",
     "title": "Herdrin's Short Sword",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-herdrinsShortSword"
   },
   {
     "_geoloc": {
-      "lat": 29.908,
-      "lng": 5.342
+      "lat": -42.407,
+      "lng": 21.198
     },
     "description": "Hindo was a samurai of great reknown, a staunch defender of his people against the evil undead that often ravaged his homelands.",
     "game": "Baldur's Gate",
@@ -3922,8 +3888,8 @@
     "price": 3500,
     "slug": "hindosDoom",
     "title": "Hindo's Doom",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-hindosDoom"
   },
   {
@@ -3962,8 +3928,8 @@
   },
   {
     "_geoloc": {
-      "lat": -51.751,
-      "lng": 4.458
+      "lat": -52.433,
+      "lng": 6.137
     },
     "description": "The head of this morning star appears to be forged from unbreakable ice-blue crystal. The handle is chill to the touch, and the wielder is surrounded by a soothing nimbus of cool air which protects against even magical fire.",
     "game": "Baldur's Gate",
@@ -3973,14 +3939,14 @@
     "price": 5400,
     "slug": "iceStar",
     "title": "Ice Star",
-    "type": "Morning Star",
-    "typePlural": "Morning Stars",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-iceStar"
   },
   {
     "_geoloc": {
-      "lat": 30.129,
-      "lng": 55.506
+      "lat": -41.547,
+      "lng": -44.346
     },
     "description": "This ancient bronze sword is set with six matching bloodstones, and was apparently forged for Azoun the First, a long dead king of Cormyr. It saw little use, and eventually found its way to a favored of the king's guards. Despite the aid of its illusionary magic, that unnamed soldier fell in a later battle, and the sword was lost to brigands or scavengers.",
     "game": "Baldur's Gate",
@@ -3990,8 +3956,8 @@
     "price": 7500,
     "slug": "ilbratha",
     "title": "Ilbratha",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-ilbratha"
   },
   {
@@ -4013,8 +3979,8 @@
   },
   {
     "_geoloc": {
-      "lat": 62.27,
-      "lng": 40.105
+      "lat": -42.353,
+      "lng": -58.932
     },
     "description": "For many generations this magical shaft has been separated from Ixil's Spike, the enchanted head of the legendary spear. However, even incomplete, this artifact is still a weapon of great power.",
     "game": "Baldur's Gate",
@@ -4024,8 +3990,8 @@
     "price": 9900,
     "slug": "ixilsNail",
     "title": "Ixil's Nail",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-ixilsNail"
   },
   {
@@ -4064,8 +4030,8 @@
   },
   {
     "_geoloc": {
-      "lat": 20.867,
-      "lng": -25.819
+      "lat": -3.413,
+      "lng": -11.933
     },
     "description": "A chain mail tunic fashioned from some sort of bright metal. It is always worn over a layer of padded fabric or soft leather to prevent chafing and lessen the impact of blows.",
     "game": "Baldur's Gate",
@@ -4075,14 +4041,14 @@
     "price": 7000,
     "slug": "jestersChain",
     "title": "Jester's Chain",
-    "type": "Chain Mail",
-    "typePlural": "Chain Mails",
+    "type": "Light Armor",
+    "typePlural": "Light Armors",
     "uniqueSlug": "baldur-jestersChain"
   },
   {
     "_geoloc": {
-      "lat": -43.94,
-      "lng": -60.905
+      "lat": 6.215,
+      "lng": 55.657
     },
     "description": "This blade belonged to Ho Mang, a traveler from Kara-Tur who accepted dubious service at courts throughout Faerûn. Skilled in \"persuasion,\" he would use this sword to perform the \"Death Of A Thousand Cuts,\" an ancient ritual from his homeland involving a lengthy series of small, painful incisions. The properties of the blade prevent blood from clotting, and the victim slowly bleeds to death. The sword was stolen, and its whereabouts have been a mystery until now.",
     "game": "Baldur's Gate",
@@ -4092,14 +4058,14 @@
     "price": 11000,
     "slug": "jhorTheBleeder",
     "title": "Jhor the Bleeder",
-    "type": "Bastard Sword",
-    "typePlural": "Bastard Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-jhorTheBleeder"
   },
   {
     "_geoloc": {
-      "lat": 56.896,
-      "lng": 7.749
+      "lat": -41.836,
+      "lng": 64.721
     },
     "description": "Joril was a powerful Frost giant that lived with his clan in the Spine of the World.  His magic dagger was lost when he was killed by a band of adventurers.  Eventually the dagger wound up in the town of Kuldahar where it was reforged so that it could be used as a Two handed sword.",
     "game": "Baldur's Gate",
@@ -4109,8 +4075,8 @@
     "price": 23000,
     "slug": "jorilsDagger",
     "title": "Joril's Dagger",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-jorilsDagger"
   },
   {
@@ -4132,8 +4098,8 @@
   },
   {
     "_geoloc": {
-      "lat": 20.569,
-      "lng": 7.656
+      "lat": -27.272,
+      "lng": 37.812
     },
     "description": "This particular amulet has the initials KP on its back surface. KP, or Kaligun Poonil was the general of a small force sent into the woodlands to clear out Red Wizards.  Being particularly fearful of magic he wore this amulet into battle. Overconfident in the protection offered by this amulet, Kaligun finally died when he foolishly ambushed three high-level Red Wizards who lowered his Magic Resistance before destroying him with their spells.",
     "game": "Baldur's Gate",
@@ -4143,8 +4109,8 @@
     "price": 1800,
     "slug": "kaligunsAmuletOfMagicResistance",
     "title": "Kaligun's Amulet of Magic Resistance",
-    "type": "Silver Amulet",
-    "typePlural": "Silver Amulets",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-kaligunsAmuletOfMagicResistance"
   },
   {
@@ -4166,8 +4132,8 @@
   },
   {
     "_geoloc": {
-      "lat": 40.445,
-      "lng": 20.551
+      "lat": -25.201,
+      "lng": 7.578
     },
     "description": "A slim gold chain like the one described by Kendra's brother.",
     "game": "Baldur's Gate",
@@ -4177,8 +4143,8 @@
     "price": 500,
     "slug": "kendrasChain",
     "title": "Kendra's Chain",
-    "type": "Necklace",
-    "typePlural": "Necklaces",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-kendrasChain"
   },
   {
@@ -4217,8 +4183,8 @@
   },
   {
     "_geoloc": {
-      "lat": 29.034,
-      "lng": -27.651
+      "lat": 4.566,
+      "lng": 39.585
     },
     "description": "This is the morning star of Kiel the Legion Killer, firstborn son of Durlag Trollkiller and Clan-prince of his father's ill-fated tower. He was wielding it in his final hour as he rushed to warn his father of the doppelgangers' infiltration of their Clan-home. It is said that the intensity of his rage in these final moments permanently imprinted itself upon the weapon. All who wield it are overcome with this battle anger whenever an enemy is sighted.",
     "game": "Baldur's Gate",
@@ -4228,8 +4194,8 @@
     "price": 1500,
     "slug": "kielsMorningStar",
     "title": "Kiel's Morning Star",
-    "type": "Morning Star",
-    "typePlural": "Morning Stars",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-kielsMorningStar"
   },
   {
@@ -4251,8 +4217,8 @@
   },
   {
     "_geoloc": {
-      "lat": 39.054,
-      "lng": 63.957
+      "lat": -12.201,
+      "lng": -8.539
     },
     "description": "Bastard sword +1, +3 vs. shapeshifters: 'Kondar'. At a first glance, this sword appears as much like any other. In the presence of a shapeshifters however, the blade becomes warm as its power stirs. Its namesake was the original owner of the weapon, and his tale, through mostly long forgotten, was wrought with treachery and deceit. Rumors persist that he paid a fearsome price for this blade, but with it he revealed the true identities of those that sought to betray him. Their names and crimes however, are long since lost to history.",
     "game": "Baldur's Gate",
@@ -4262,14 +4228,14 @@
     "price": 4000,
     "slug": "kondar",
     "title": "Kondar",
-    "type": "Bastard Sword",
-    "typePlural": "Bastard Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-kondar"
   },
   {
     "_geoloc": {
-      "lat": 40.784,
-      "lng": 7.658
+      "lat": -3.968,
+      "lng": 56.815
     },
     "description": "Mace +2: 'Krotan's Skullcrusher.' Even the hordes have their heroes, and while they are vilified in civilized company, their deeds are sometimes impressive nonetheless.Krotan was an expectionally intelligent orc, as far as orcs go, who commanded an ever-shifting legion of ogres, orcs, hobgoblins, and other assorted beasties during the Year of the Lost Lady, 1241 DR. It was in this tear that a group of bandit orcs allegdly kidnapped and killed a Tethyrian noblewoman, and the response from authorities was genocidal slaughter of orcs throughout the south in her memory. Krotan mounted a defense that ensured his people were not entirely destroyed; though they were displaced. Krotan himself fell near the end of the conflict, and his head was mounted outside the graveyard where the young lady was buried. As a point of interest, orc's called this time the \"Year of Pushing Too Far.\"",
     "game": "Baldur's Gate",
@@ -4279,14 +4245,14 @@
     "price": 2500,
     "slug": "krotansSkullcrusher",
     "title": "Krotan's Skullcrusher",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-krotansSkullcrusher"
   },
   {
     "_geoloc": {
-      "lat": -34.393,
-      "lng": 5.884
+      "lat": -33.716,
+      "lng": -1.543
     },
     "description": "''Disfigured as a child, Dramnek Olk was ostracized and ridiculed by his peers. In his loneliness he spent many hours alone on the hills overlooking Trademeet. A nearby wizard, Galloma discovered the youth and found in him a kindred soul. The two fast became friends; master and apprentice. Galloma died before Dramnek's tutorage could be completed however and the youth found himself once more alone in the world.  Eventually he made his way to the streets of Athkatla. There he became a cutpurse, augmenting his thieving skills with the little magic he'd learned from Galloma.  Eventually he crafted this sword, which enhanced Dramnek's weak physical body. This weapon has no speed factor.''",
     "game": "Baldur's Gate",
@@ -4296,14 +4262,14 @@
     "price": 4000,
     "slug": "kundane",
     "title": "Kundane",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-kundane"
   },
   {
     "_geoloc": {
-      "lat": -43.872,
-      "lng": -57.838
+      "lat": -16.59,
+      "lng": 36.956
     },
     "description": "The bright lavender hue of this stone dances and sparkles, as if the stone itself were alive.",
     "game": "Baldur's Gate",
@@ -4313,8 +4279,8 @@
     "price": 5000,
     "slug": "lavenderIounStone",
     "title": "Lavender Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-lavenderIounStone"
   },
   {
@@ -4353,8 +4319,8 @@
   },
   {
     "_geoloc": {
-      "lat": 40.623,
-      "lng": 4.691
+      "lat": -10.907,
+      "lng": -41.485
     },
     "description": "Lawrence Lilarcor was well known, not for being brave, but as an idiot. As the tale goes, the boastful Lilarcor left his village at the urging of his friends so that the \"great hero\" could do battle with a devious Treant. He walked for days in the dead of winter until, feverish, he found his target and began an epic wrestling match.  Unfortunately (or perhaps luckily), the \"Treant\" was nothing more than a craggy old normal oak. His friends had been jesting, not actually expecting that Lilarcor would go fight the fictitiously dangerous tree. That might have been the end of it, but Lilarcor, not really knowing what a Treant was in the first, didn't realize the truth. He eventually uprooted the oak and, marching proudly home, he declared himself a hero. Thus was born a laughing stock of epic proportions, and over time the name of Lilarcor became the sacrificial fool in many tales of \"less than brilliance\".It is not known whether this enchanted weapon is Lilarcor himself, perhaps imprisoned by an evil mage or some other odd coincidence of fate, but it certainly acts in a manner consistent with his level of competence. If it is he, he has never bemoaned his captivity. He might not realize, or care, that he is no longer a human.As a weapon, Lilarcor has its uses, but many a warrior has eventually given it away. Banter such as \"Ouch, that musta hurt\", \"Oh yeah!  Got 'im good\", and \"Beware my bite for it might...might...might really hurt or something\" is a constant barrage on a warrior's psyche.",
     "game": "Baldur's Gate",
@@ -4364,8 +4330,8 @@
     "price": 3000,
     "slug": "lilarcor",
     "title": "Lilarcor",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-lilarcor"
   },
   {
@@ -4438,8 +4404,8 @@
   },
   {
     "_geoloc": {
-      "lat": 64.639,
-      "lng": -59.32
+      "lat": 37.729,
+      "lng": -9.955
     },
     "description": "This heavy mace was created for a very specific purpose: to slay undead. Any such creature hit by it not only feels the sting of the weapon, but also has a chance of being simply blasted from existence. There are legends that speak of a priest so holy a single glancing touch could send a vampire to oblivion, but whether the weapon empowered her or she empowered it is a topic for theologians.",
     "game": "Baldur's Gate",
@@ -4449,8 +4415,8 @@
     "price": 4500,
     "slug": "maceOfDisruption",
     "title": "Mace of Disruption",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-maceOfDisruption"
   },
   {
@@ -4523,8 +4489,8 @@
   },
   {
     "_geoloc": {
-      "lat": 32.446,
-      "lng": 54.97
+      "lat": -24.762,
+      "lng": 24.293
     },
     "description": "This sleek katana radiates magical energy when carried. The Malakar, or 'Dueling Steel', was used by a less-than-honorable samurai during duels against other samurai. As if of its own volition it will swoop down and deflect the slashing attacks of other weapons. It is perfect for the warrior concerned about defense as well as offense.",
     "game": "Baldur's Gate",
@@ -4534,14 +4500,14 @@
     "price": 2500,
     "slug": "malakar",
     "title": "Malakar",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-malakar"
   },
   {
     "_geoloc": {
-      "lat": -18.942,
-      "lng": -61.365
+      "lat": 4.361,
+      "lng": 47.703
     },
     "description": "The small star sapphire gem that holds the soul of the innocent young woman, Malla, has the magical ability to float about the forehead and act as an ioun stone of considerable power. Only those of little conscience would consider using this device, however.",
     "game": "Baldur's Gate",
@@ -4551,8 +4517,8 @@
     "price": 4000,
     "slug": "mallasSoulStone",
     "title": "Malla's Soul Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-mallasSoulStone"
   },
   {
@@ -4574,8 +4540,8 @@
   },
   {
     "_geoloc": {
-      "lat": -0.424,
-      "lng": 6.506
+      "lat": -27.587,
+      "lng": -10.864
     },
     "description": "This humble staff radiates powerful magic, and was likely the simple-seeming weapon of a traveling mage or cleric. It would certainly prove more than ample for dealing with most threats encountered on the road.",
     "game": "Baldur's Gate",
@@ -4585,14 +4551,14 @@
     "price": 5500,
     "slug": "martialStaff",
     "title": "Martial Staff",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-martialStaff"
   },
   {
     "_geoloc": {
-      "lat": 5.995,
-      "lng": 56.621
+      "lat": 22.855,
+      "lng": 21.242
     },
     "description": "Forged by Ilusarian Roan, a priest of Ilmater, this morning star sacrifices the wielder's strength in order to destroy the enemies of the faith. Roan used the morning star when he joined a company of knights and priests fighting against a cabal of Cyricists. He took down six cultists before he died, and the morning star was returned to the temple with his remains.",
     "game": "Baldur's Gate",
@@ -4602,14 +4568,14 @@
     "price": 4500,
     "slug": "martyrsMorningstar",
     "title": "Martyr's Morningstar",
-    "type": "Morning Star",
-    "typePlural": "Morning Stars",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-martyrsMorningstar"
   },
   {
     "_geoloc": {
-      "lat": -35.515,
-      "lng": -49.918
+      "lat": -59.722,
+      "lng": 22.464
     },
     "description": "Jurrg the Mauler was the proud chieftain of a northern tribe, but feared he would be the last of his family to lead. His son Kullen was sickly, and clearly couldn't meet the traditional requirements of strength for a chieftain. Jurrg knew that wise leadership took more than brawn, however, so he bargained to enchant this mace such that it would cover Kullen's weakness. Who Jurrg made the deal with is unknown, but the cost was apparently high. Kullen came to rule soon after.",
     "game": "Baldur's Gate",
@@ -4619,8 +4585,8 @@
     "price": 3500,
     "slug": "maulersArm",
     "title": "Mauler's Arm",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-maulersArm"
   },
   {
@@ -4659,8 +4625,8 @@
   },
   {
     "_geoloc": {
-      "lat": 28.76,
-      "lng": 38.463
+      "lat": 14.214,
+      "lng": 21.326
     },
     "description": "Harps are stringed instruments often used by bards. This small harp is ideal for the traveling warbler or tales and ballads.",
     "game": "Baldur's Gate",
@@ -4670,14 +4636,14 @@
     "price": 0,
     "slug": "methildsHarp",
     "title": "Methild's Harp",
-    "type": "Harp",
-    "typePlural": "Harps",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-methildsHarp"
   },
   {
     "_geoloc": {
-      "lat": 49.035,
-      "lng": -8.42
+      "lat": 54.28,
+      "lng": -3.654
     },
     "description": "Fashioned from the hardest old oak from the High Forest, this gnarled cudgel can fell an adult grizzly when wielded by a skilled warrior.",
     "game": "Baldur's Gate",
@@ -4687,8 +4653,8 @@
     "price": 2500,
     "slug": "mightyOak",
     "title": "Mighty Oak",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-mightyOak"
   },
   {
@@ -4710,8 +4676,8 @@
   },
   {
     "_geoloc": {
-      "lat": 64.242,
-      "lng": 54.345
+      "lat": -34.453,
+      "lng": -2.106
     },
     "description": "This bulbous organic pod apparently holds the key to myconid reproduction.",
     "game": "Baldur's Gate",
@@ -4721,14 +4687,14 @@
     "price": 500,
     "slug": "myconidBloomSac",
     "title": "Myconid Bloom-Sac",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-myconidBloomSac"
   },
   {
     "_geoloc": {
-      "lat": -0.309,
-      "lng": 12.914
+      "lat": 62.842,
+      "lng": -59.638
     },
     "description": "Namarra, Long Sword +2\nAlso known as Neversleep, this ancient blade is thought to have been present at some of the most influential conflicts in Faerun's history. Sightings have been noted as far north as Thay and as south as the jungles of Chult, though documentation is oddly lacking regarding the details. It is perhaps a result of the sword's ability to silence all sound within a large radius, removing the effectiveness of attacking mages but also preventing any discussion that might have followed.",
     "game": "Baldur's Gate",
@@ -4738,8 +4704,8 @@
     "price": 10000,
     "slug": "namarra",
     "title": "Namarra",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-namarra"
   },
   {
@@ -4761,8 +4727,8 @@
   },
   {
     "_geoloc": {
-      "lat": 13.396,
-      "lng": -35.407
+      "lat": 20.559,
+      "lng": -19.224
     },
     "description": "Necaradan's Crossbow +3\nBower Necaradan crafted this masterpiece almost thirty years ago, lacing strong enchantments within both the wood and the string. It is said he only fired it once, just to see if it performed as true as he had hoped. He was reportedly not disappointed, but a local nobleman sought the bow soon after, and it eventually fell into the hands of bandits.",
     "game": "Baldur's Gate",
@@ -4772,8 +4738,8 @@
     "price": 4500,
     "slug": "necaradansCrossbow",
     "title": "Necaradan's Crossbow",
-    "type": "Light Crossbow",
-    "typePlural": "Light Crossbows",
+    "type": "Crossbow",
+    "typePlural": "Crossbows",
     "uniqueSlug": "baldur-necaradansCrossbow"
   },
   {
@@ -4795,8 +4761,8 @@
   },
   {
     "_geoloc": {
-      "lat": -51.267,
-      "lng": 29.497
+      "lat": 47.272,
+      "lng": -0.32
     },
     "description": "This darkwood shaft surrounds a core of lead, giving it both stealth and heft. Its enchantment connects the club to the Shadow Weave, lending it greater power under cloak of night.",
     "game": "Baldur's Gate",
@@ -4806,14 +4772,14 @@
     "price": 1700,
     "slug": "nightClub",
     "title": "Night Club",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-nightClub"
   },
   {
     "_geoloc": {
-      "lat": -1.289,
-      "lng": 38.113
+      "lat": -49.652,
+      "lng": -36.093
     },
     "description": "When a member of the Scarlet Brotherhood kills one of that organization's \"great enemies\", they are often rewarded with this sword. How this sword made its way from the world of Greyhawk (where the Brotherhood is based) to Faerûn is a mystery. When unsheathed, the ninjatō will glow blood red.",
     "game": "Baldur's Gate",
@@ -4823,14 +4789,14 @@
     "price": 20000,
     "slug": "ninjatoOfTheScarletBrotherhood",
     "title": "Ninjatō of the Scarlet Brotherhood",
-    "type": "Ninjato",
-    "typePlural": "Ninjatoes",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-ninjatoOfTheScarletBrotherhood"
   },
   {
     "_geoloc": {
-      "lat": 39.818,
-      "lng": -10.288
+      "lat": -59.591,
+      "lng": -27.579
     },
     "description": "The tough obsidian stone imbues its owner with a similar hardiness.",
     "game": "Baldur's Gate",
@@ -4840,14 +4806,14 @@
     "price": 11000,
     "slug": "obsidianIounStone",
     "title": "Obsidian Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-obsidianIounStone"
   },
   {
     "_geoloc": {
-      "lat": -24.891,
-      "lng": -28.156
+      "lat": 63.034,
+      "lng": -27.742
     },
     "description": "This much-used but still razor-sharp blade was found in the chest of Ophyllis, a treasurer of the Ducal Palace in Baldur's Gate. While his position ensured that Ophyllis possessed many chests, he only used one to house his lungs, and it was in this particular chest the sword was placed. Ophyllis died an agonized, painful death, but not before he gave the sword to a person to whom he owed a deep personal debt. His mournful voice can still be heard by those who wield the blade.",
     "game": "Baldur's Gate",
@@ -4857,8 +4823,8 @@
     "price": 7500,
     "slug": "ophyllissShortSword",
     "title": "Ophyllis's Short Sword",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-ophyllissShortSword"
   },
   {
@@ -4897,8 +4863,8 @@
   },
   {
     "_geoloc": {
-      "lat": 20.644,
-      "lng": -27.274
+      "lat": -1.373,
+      "lng": 48.851
     },
     "description": "On his deathbed, aged hero Rigar TrueBlood begged one last request of his mage companion Spectorial: that his skill and fortitude as a warrior live on. The reluctant friend consented and transferred these traits to an item, knowing the warrior's soul would then be lacking them. This pale green Ioun stone now holds these essences, and grants the owner TrueBlood's health and skill.",
     "game": "Baldur's Gate",
@@ -4908,14 +4874,14 @@
     "price": 5000,
     "slug": "paleGreenIounStone",
     "title": "Pale Green Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-paleGreenIounStone"
   },
   {
     "_geoloc": {
-      "lat": -50.344,
-      "lng": 4.201
+      "lat": -8.669,
+      "lng": 61.673
     },
     "description": "Legend tells us that this particular type of ioun stone is crafted with the enslaved soul of a troll. This pearly white ioun stone will grant the wearer the ability to regenerate at a rate of 1 Hit Point every 5 rounds.",
     "game": "Baldur's Gate",
@@ -4925,14 +4891,14 @@
     "price": 5000,
     "slug": "pearlyWhiteIounStone",
     "title": "Pearly White Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-pearlyWhiteIounStone"
   },
   {
     "_geoloc": {
-      "lat": -27.174,
-      "lng": 63.499
+      "lat": 16.374,
+      "lng": 48.487
     },
     "description": "A large shield inlaid with a golden griffin. This shield, also known as the kite or tower shield, is a massive metal shield reaching nearly from the chin to the toe of the user. It must be firmly fastened to the forearm and the shield hand must firmly grip it at all times. Naturally, this precludes use of the shield hand for anything but holding the body shield in place. Strangely enough, this shield feels unusually light for its size.",
     "game": "Baldur's Gate",
@@ -4942,14 +4908,14 @@
     "price": 3500,
     "slug": "pellansShield",
     "title": "Pellan's Shield",
-    "type": "Large Shield",
-    "typePlural": "Large Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-pellansShield"
   },
   {
     "_geoloc": {
-      "lat": -9.497,
-      "lng": 47.464
+      "lat": -36.658,
+      "lng": -34.027
     },
     "description": "A heart-sized sapphire sits at the end of a thin silver wire. When worn, this periapt radiates life energy, infusing the wearer with power. The inscription on the back reads: \"Against Death we must all fail, but with this gem we may still prevail!\"",
     "game": "Baldur's Gate",
@@ -4959,8 +4925,8 @@
     "price": 1800,
     "slug": "periaptOfLifeProtection",
     "title": "Periapt of Life Protection",
-    "type": "Silver Amulet",
-    "typePlural": "Silver Amulets",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-periaptOfLifeProtection"
   },
   {
@@ -4982,8 +4948,8 @@
   },
   {
     "_geoloc": {
-      "lat": -8.512,
-      "lng": -52.625
+      "lat": 7.879,
+      "lng": -44.4
     },
     "description": "Long sword +2: Dragonslayer (Peridan)\nFew dare to create items such as this, for who does not fear the wrath of dragons, and what action would more tempt their reckoning? Yet, at a time lost in Faerun's past, there was a need, and this sword was forged in answer. Tempered by a wizard's skill, this blade protects the wielder from the fear they should rightly feel while staring down a dragon's maw. It also bolsters with regeneration, dispels the trickery of illusions, and dares to do double damage against the greatest creatures of the Realms.",
     "game": "Baldur's Gate",
@@ -4993,8 +4959,8 @@
     "price": 12500,
     "slug": "peridan",
     "title": "Peridan",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-peridan"
   },
   {
@@ -5084,8 +5050,8 @@
   },
   {
     "_geoloc": {
-      "lat": -0.411,
-      "lng": -9.919
+      "lat": -0.785,
+      "lng": -43.382
     },
     "description": "In order to protect their community from an encroaching orc logging encampment, the hero Hannable the White was given this magnificent bow by the dryads of Gulthmere Forest. A deadly confrontation followed when the loggers dared to try to cut down a great oak tree, nearly killing the dryad linked to it. With the help of powerful forest animals, Hannable slew entire bands of orcs before any more damage was inflicted upon the wood. The orcs were forced to abandon their plans, lest they suffer the continued wrath of Hannable and the forest. Needless to say, the hero who aided the grateful dryads lived happily... nay, VERY happily ever after!",
     "game": "Baldur's Gate",
@@ -5095,8 +5061,8 @@
     "price": 4500,
     "slug": "protectorOfTheDryads",
     "title": "Protector of the Dryads",
-    "type": "Short Bow",
-    "typePlural": "Short Bows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-protectorOfTheDryads"
   },
   {
@@ -5118,8 +5084,8 @@
   },
   {
     "_geoloc": {
-      "lat": 21.938,
-      "lng": 46.935
+      "lat": 56.524,
+      "lng": 48.427
     },
     "description": "Some believe this massive blade to be of Drow origin, though others dispute this claim. However, all agree that this great sword was fashioned with a single purpose... to rid the world of the Illithid. Those who wield the Psion's Blade are immune to the Mind Flayer's psionic attacks. The bewildering gaze of Umber Hulks, often found serving the Illithid, are similarly rendered harmless.",
     "game": "Baldur's Gate",
@@ -5129,14 +5095,14 @@
     "price": 11500,
     "slug": "psionsBlade",
     "title": "Psion's Blade",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-psionsBlade"
   },
   {
     "_geoloc": {
-      "lat": -52.187,
-      "lng": 31.991
+      "lat": 49.118,
+      "lng": 54.889
     },
     "description": "This smooth silvery-gray stone floats in the air around its user's head, untethered by gravity or other earthly concerns. Protecting its user from poison and disease, it can be used once a day to cleanse mortal bodies of unnatural contamination.",
     "game": "Baldur's Gate",
@@ -5146,14 +5112,14 @@
     "price": 5000,
     "slug": "purificationStone",
     "title": "Purification Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-purificationStone"
   },
   {
     "_geoloc": {
-      "lat": -1.324,
-      "lng": 40.244
+      "lat": -25.648,
+      "lng": -27.218
     },
     "description": "This single handed weapon is infused with the very essence of virtue, and is rumored to be the sanctified blade of the famous paladin Sir Wediyer. The weapon was lost when Sir Wediyer pursued a fleeing pit fiend through a planar rift. Neither the fiend nor Sir Wediyer ever returned.",
     "game": "Baldur's Gate",
@@ -5163,8 +5129,8 @@
     "price": 9500,
     "slug": "purifier",
     "title": "Purifier",
-    "type": "Bastard Sword",
-    "typePlural": "Bastard Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-purifier"
   },
   {
@@ -5186,8 +5152,8 @@
   },
   {
     "_geoloc": {
-      "lat": 47.737,
-      "lng": -59.171
+      "lat": 28.946,
+      "lng": 47.654
     },
     "description": "This ebony two-handed sword is covered with inscriptions that you cannot decipher. It hums softly in the presence of Dorn Il-Khan. Individuals who are good of heart are overcome with feelings of guilt and anxiety when they hold this blade.",
     "game": "Baldur's Gate",
@@ -5197,14 +5163,14 @@
     "price": 0,
     "slug": "rancor",
     "title": "Rancor",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-rancor"
   },
   {
     "_geoloc": {
-      "lat": 39.348,
-      "lng": -8.213
+      "lat": 63.628,
+      "lng": 6.27
     },
     "description": "Beroalf was a barbarian who traveled from the cold north in search of adventure. He sought treasures and glory, but soon all he wanted were companions to share in the excitement of battle, much like those he had left behind in his faraway village. Unfortunately, his coarse remarks and rudimentary hygiene repelled most travelers he met, until he expressed his thoughts to a sympathetic mage. The mage, for a price, constructed Ras, the dancing blade. Though not quite what Beroalf had in mind, he was thrilled nonetheless, and wielded the sword for many years.  How they were ultimately separated is not known.",
     "game": "Baldur's Gate",
@@ -5214,14 +5180,14 @@
     "price": 12500,
     "slug": "rasTheDancingBlade",
     "title": "Ras, The Dancing Blade",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-rasTheDancingBlade"
   },
   {
     "_geoloc": {
-      "lat": 28.794,
-      "lng": -18.813
+      "lat": -50.589,
+      "lng": 56.34
     },
     "description": "Named for Prince Rashad, former ruler of a minor principality to the east, this blade and many of the prince's possessions were taken by disgruntled palace guards after his death. The role of the guards in the unfortunate affair was never determined, but rumor has it that all died within a year, slain by this very weapon.",
     "game": "Baldur's Gate",
@@ -5231,14 +5197,14 @@
     "price": 3000,
     "slug": "rashadsTalon",
     "title": "Rashad's Talon",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-rashadsTalon"
   },
   {
     "_geoloc": {
-      "lat": 56.115,
-      "lng": 53.501
+      "lat": 55.804,
+      "lng": -16.868
     },
     "description": "Taking the blood-soaked shaft of this weapon in hand brings a sudden chill along your spine. The origins of this gruesome halberd are unknown, though the very sight of it has been know to strike terror into the heart of an opponent.",
     "game": "Baldur's Gate",
@@ -5248,8 +5214,8 @@
     "price": 7900,
     "slug": "ravager",
     "title": "Ravager",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-ravager"
   },
   {
@@ -5696,8 +5662,8 @@
   },
   {
     "_geoloc": {
-      "lat": 46.429,
-      "lng": -3.888
+      "lat": 12.903,
+      "lng": 54.833
     },
     "description": "Also called the Wrath of Three Kings, though not associated with any named king in particular, this rod was likely made in 1090 DR. It saw use during the Battle of the Bones, but for which side is uncertain, as it was found amongst the dead after a large skirmish. Three button unlock the rod's magic: The first transforms into a fearsome enchanted mace; the second, a hypnotic flaming blade, the third, a barbed spear. Only warriors can properly use its exotic mix of weaponry.",
     "game": "Baldur's Gate",
@@ -5707,8 +5673,8 @@
     "price": 0,
     "slug": "rodOfLordlyMight",
     "title": "Rod of Lordly Might",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-rodOfLordlyMight"
   },
   {
@@ -5730,8 +5696,8 @@
   },
   {
     "_geoloc": {
-      "lat": -19.511,
-      "lng": 45.982
+      "lat": -51.09,
+      "lng": -52.725
     },
     "description": "''This long, thin rod can be wielded as a staff.  This rod has been designed to destroy golems. Any golem struck by the rod must make a saving throw or be destroyed. In the hands of any other than a cleric or mage the rod becomes unusable.''",
     "game": "Baldur's Gate",
@@ -5741,14 +5707,14 @@
     "price": 9900,
     "slug": "rodOfSmiting",
     "title": "Rod of Smiting",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-rodOfSmiting"
   },
   {
     "_geoloc": {
-      "lat": -58.064,
-      "lng": -51.891
+      "lat": -19.091,
+      "lng": 22.701
     },
     "description": "''When activated this rod may be used as a staff +3. Any creature hit by the rod must make a saving throw vs. spells or flee in terror, fearing the wielder as if he or she were a flesh eating demon from the Abyss. There is a drawback to using this rod however. Each time the rod is used there is a 20% chance that the wielder loses one point of Charisma permanently.''",
     "game": "Baldur's Gate",
@@ -5758,8 +5724,8 @@
     "price": 5500,
     "slug": "rodOfTerror",
     "title": "Rod of Terror",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-rodOfTerror"
   },
   {
@@ -5781,8 +5747,8 @@
   },
   {
     "_geoloc": {
-      "lat": 63.73,
-      "lng": 32.053
+      "lat": 36.907,
+      "lng": 54.033
     },
     "description": "This darksteel hammer has a rune of power inscribed upon its head, and has many of the powers of a Mace of Disruption.",
     "game": "Baldur's Gate",
@@ -5792,8 +5758,8 @@
     "price": 11000,
     "slug": "runehammer",
     "title": "Runehammer",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-runehammer"
   },
   {
@@ -5832,8 +5798,8 @@
   },
   {
     "_geoloc": {
-      "lat": 13.843,
-      "lng": 29.452
+      "lat": 47.949,
+      "lng": 28.922
     },
     "description": "Once a very powerful shield used by the clerics of Bane, most of the enchantments fled with their god's demise. The basic magical protection of still remains, making it useful for any adventurer.",
     "game": "Baldur's Gate",
@@ -5843,8 +5809,8 @@
     "price": 5000,
     "slug": "savingGrace",
     "title": "Saving Grace",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-savingGrace"
   },
   {
@@ -5883,8 +5849,8 @@
   },
   {
     "_geoloc": {
-      "lat": 13.772,
-      "lng": -26.522
+      "lat": -10.32,
+      "lng": -61.292
     },
     "description": "Adorned with serpentine designs, this powerful quarter staff has a chance to release a lethal toxin against its opponents with every blow.",
     "game": "Baldur's Gate",
@@ -5894,14 +5860,14 @@
     "price": 2500,
     "slug": "serpentShaft",
     "title": "Serpent Shaft",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-serpentShaft"
   },
   {
     "_geoloc": {
-      "lat": -57.749,
-      "lng": 48.804
+      "lat": -24.712,
+      "lng": 7.586
     },
     "description": "This statue is a replica of a fierce gladiator, wielding a blade in each hand. By invoking this figurine, the user temporarily transforms themselves into a blue armored warrior wielding a pair of magical short swords.",
     "game": "Baldur's Gate",
@@ -5911,8 +5877,8 @@
     "price": 6000,
     "slug": "shaktiFigurine",
     "title": "Shakti Figurine",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-shaktiFigurine"
   },
   {
@@ -5934,8 +5900,8 @@
   },
   {
     "_geoloc": {
-      "lat": 63.202,
-      "lng": 55.302
+      "lat": -25.919,
+      "lng": 40.522
     },
     "description": "This shield can be traced to a line of Paladins of Velen, who carried shields like this one into battle on mounted expeditions to the Nelanther Isles under the blessing of Torm. Celebrated in lore for their memorable armour as the Red Riders, their ceaseless dedication and resilience was a vital force in establishing peace to the region. Although long since dispersed, their legacy is highly sought after as traces of their original blessing still infuse these sets of armour, granting the wearer divine favour and increased stamina.",
     "game": "Baldur's Gate",
@@ -5945,8 +5911,8 @@
     "price": 7200,
     "slug": "shieldOfDevotion",
     "title": "Shield of Devotion",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfDevotion"
   },
   {
@@ -5985,8 +5951,8 @@
   },
   {
     "_geoloc": {
-      "lat": 64.393,
-      "lng": -59.88
+      "lat": 12.81,
+      "lng": 53.984
     },
     "description": "Audn of the Field, Knight-Champion for the wizard Kekkim, carried this shield for most of his life. It protects the bearer from most forms of mind control, a benefit for a wizard who needed warrior allies to stay faithfully at his side. Both Kekkim and Audn have long since returned to the earth, leaving the shield to whomever might recover it from Kekkim's tower.",
     "game": "Baldur's Gate",
@@ -5996,14 +5962,14 @@
     "price": 5000,
     "slug": "shieldOfHarmony",
     "title": "Shield of Harmony",
-    "type": "Small Shield",
-    "typePlural": "Small Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfHarmony"
   },
   {
     "_geoloc": {
-      "lat": -34.613,
-      "lng": 48.209
+      "lat": 13.412,
+      "lng": 62.636
     },
     "description": "Ilmater himself enchanted this shield upon seeing a young squire's willingness to endure untold agony for the well-being of his mount. During a fierce battle between a human cavalry division and a hobgoblin horde, the young man was sent for reinforcements. He was beset by a cascade of arrows that nearly blocked out the sun, and he knew that even if he avoided the arrows by himself, should his horse fall he would surely be doomed. With his shield and body he positioned himself to take brunt of the onslaught, and was mortally wounded for it. His horse remained unscathed, allowing for their escape, and his body was carried back to the nearest town, where he was resurrected from death.",
     "game": "Baldur's Gate",
@@ -6013,14 +5979,14 @@
     "price": 3500,
     "slug": "shieldOfTheFallingStars",
     "title": "Shield of the Falling Stars",
-    "type": "Large Shield",
-    "typePlural": "Large Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfTheFallingStars"
   },
   {
     "_geoloc": {
-      "lat": -36.649,
-      "lng": 15.358
+      "lat": -26.94,
+      "lng": 64.224
     },
     "description": "Here... have shield to give you... is magic, from Sythillis's army... we no use. Maybe you like.",
     "game": "Baldur's Gate",
@@ -6030,14 +5996,14 @@
     "price": 2750,
     "slug": "shieldOfTheLost",
     "title": "Shield of the Lost",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfTheLost"
   },
   {
     "_geoloc": {
-      "lat": 4.604,
-      "lng": 62.538
+      "lat": 13.63,
+      "lng": 5.12
     },
     "description": "A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using [their] shield hand for anything other than carrying the medium shield.<!-- Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward. -->",
     "game": "Baldur's Gate",
@@ -6047,14 +6013,14 @@
     "price": 9800,
     "slug": "shieldOfTheOrder",
     "title": "Shield of the Order",
-    "type": "Medium Shield",
-    "typePlural": "Medium Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-shieldOfTheOrder"
   },
   {
     "_geoloc": {
-      "lat": -59.794,
-      "lng": 47.919
+      "lat": -1.056,
+      "lng": -52.672
     },
     "description": "This blade is highly prized by those who serve the Shadowlord, as well as any who engage in shadowy business.",
     "game": "Baldur's Gate",
@@ -6064,8 +6030,8 @@
     "price": 38000,
     "slug": "shortSwordOfMask",
     "title": "Short Sword of Mask",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-shortSwordOfMask"
   },
   {
@@ -6087,8 +6053,8 @@
   },
   {
     "_geoloc": {
-      "lat": -59.852,
-      "lng": 12.381
+      "lat": -19.12,
+      "lng": 62.259
     },
     "description": "Perhaps the silver and gray in this stone hints at the knowledge that only comes with age and experience.",
     "game": "Baldur's Gate",
@@ -6098,14 +6064,14 @@
     "price": 5000,
     "slug": "silverIounStone",
     "title": "Silver Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-silverIounStone"
   },
   {
     "_geoloc": {
-      "lat": 37.221,
-      "lng": -60.739
+      "lat": -49.35,
+      "lng": -50.127
     },
     "description": "This vorpal Silver Sword radiates a dark aura when you examinate it, and the blade is so finely sharpened it could likely sever a head in a single blow.",
     "game": "Baldur's Gate",
@@ -6115,8 +6081,8 @@
     "price": 2000,
     "slug": "silverSword",
     "title": "Silver Sword",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-silverSword"
   },
   {
@@ -6138,8 +6104,8 @@
   },
   {
     "_geoloc": {
-      "lat": -8.831,
-      "lng": -19.448
+      "lat": -59.362,
+      "lng": -8.599
     },
     "description": "This mace is permanently bloodstained; a telltale trace of its many years spent bashing heads. The weapon would have been the bane of humanoids throughout its history, but those that wielded it seem to have been purposely left out of historic record.",
     "game": "Baldur's Gate",
@@ -6149,8 +6115,8 @@
     "price": 5000,
     "slug": "skullcrusher",
     "title": "Skullcrusher",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-skullcrusher"
   },
   {
@@ -6223,8 +6189,8 @@
   },
   {
     "_geoloc": {
-      "lat": -42.834,
-      "lng": -44.619
+      "lat": 62.654,
+      "lng": -28.163
     },
     "description": "A social faux pas placed upstart Andor Licon in a duel with Baron Eeirk, heir to a warrior king. Though they seemed of even skill, Andor grew oddly weaker with each hit of the Baron's family blade. Panicking, he bade his bodyguards kill Eeirk. Despite his claims of morality, some noted that the young noble had positioned his men before the duel was even underway, and though he professed disdain for its dark magic, Andor made a tidy fortune off the sale of the evil blade.",
     "game": "Baldur's Gate",
@@ -6234,14 +6200,14 @@
     "price": 12500,
     "slug": "soulReaver",
     "title": "Soul Reaver",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-soulReaver"
   },
   {
     "_geoloc": {
-      "lat": 5.356,
-      "lng": -52.673
+      "lat": -34.934,
+      "lng": 47.365
     },
     "description": "Carved from the heart of a rotten Treant, this spear smells of death. When held in your hands it groans a little as if reluctant to allow a living thing to touch it. In battle the Spear of Withering spits a foul poison into its target upon each succesful hit.",
     "game": "Baldur's Gate",
@@ -6251,14 +6217,14 @@
     "price": 9900,
     "slug": "spearOfWithering",
     "title": "Spear of Withering",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-spearOfWithering"
   },
   {
     "_geoloc": {
-      "lat": 45.383,
-      "lng": 4.276
+      "lat": 55.228,
+      "lng": -19.133
     },
     "description": "Spear of the Unicorn +2\nThis graceful spear is carved to resemble the elongated horn of the unicorn. Wielders of this spear are immune to charm and hold spells, just as a unicorn might be. Whether the horn is or isn't an actual unicorn horn is the subject of much debate.",
     "game": "Baldur's Gate",
@@ -6268,14 +6234,14 @@
     "price": 1500,
     "slug": "spearOfTheUnicorn",
     "title": "Spear of the Unicorn",
-    "type": "Spear",
-    "typePlural": "Spears",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-spearOfTheUnicorn"
   },
   {
     "_geoloc": {
-      "lat": -50.655,
-      "lng": 65.177
+      "lat": 47.232,
+      "lng": -59.181
     },
     "description": "Legend has it that the the souls of those who fall beneath this dark blade are forever enslaved, and can be summoned to fight invisibly at the side of the very one who defeated them.",
     "game": "Baldur's Gate",
@@ -6285,14 +6251,14 @@
     "price": 9550,
     "slug": "spectralBrand",
     "title": "Spectral Brand",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-spectralBrand"
   },
   {
     "_geoloc": {
-      "lat": -19.39,
-      "lng": 39.01
+      "lat": -10.928,
+      "lng": 13.757
     },
     "description": "Power can corrupt even the noblest of mages, and the long-lived elves of Faerûn have seen what devastating consequences can occur when a mage loses control. This elegant longsword, its silver hilt decorated with clear blue gems, was crafted to deal with arcane spellcasters who have abused their gift. The sword assists any hunter who tracks down out-of-control mages, and has particular potency in the hands of wizard slayers or inquisitors.",
     "game": "Baldur's Gate",
@@ -6302,14 +6268,14 @@
     "price": 6000,
     "slug": "spellBreaker",
     "title": "Spell Breaker",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-spellBreaker"
   },
   {
     "_geoloc": {
-      "lat": 54.596,
-      "lng": -28.103
+      "lat": 62.431,
+      "lng": 30.937
     },
     "description": "This sword was originally forged by the dwarves of the Orothiar tribe in Cloakwood. They created the blade to help foster goodwill between them and the Grand Dukes of Baldur's Gate. Wielded by the Grand Dukes for about a century, the sword was eventually lost, ironically in a fight against ettercaps and spiders. Who wields the blade is now unknown, but its recovery would aid greatly in fighting the current spider infestation that plagues the Cloakwood.",
     "game": "Baldur's Gate",
@@ -6319,14 +6285,14 @@
     "price": 11000,
     "slug": "spidersBane",
     "title": "Spider's Bane",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-spidersBane"
   },
   {
     "_geoloc": {
-      "lat": 30.669,
-      "lng": 7.666
+      "lat": -18.217,
+      "lng": -60.985
     },
     "description": "When this seemingly ordinary quarterstaff is examined magically, it has an aura of alteration. Upon command, a long sharp spear blade will shoot forth from the upper end, making the staff into a spear. This weapon was designed mainly for priests and wizards although it is usable by anybody.",
     "game": "Baldur's Gate",
@@ -6336,14 +6302,14 @@
     "price": 4000,
     "slug": "staffSpear",
     "title": "Staff Spear",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffSpear"
   },
   {
     "_geoloc": {
-      "lat": -1.179,
-      "lng": 63.43
+      "lat": 29.502,
+      "lng": -34.238
     },
     "description": "''This staff seems to draw from eleven artistic traditions, though tied less to the forest than is usually customary. It was apparently designed to control air elementals, being able to summon one as a servant to the wielder, and potentially destroying creatures of the same type in a single blow. When necessary, it can also spawn a cloud of gas causing anyone within the area of effect to fall into a deep slumber. Some effects are limited by charges.''",
     "game": "Baldur's Gate",
@@ -6353,14 +6319,14 @@
     "price": 2500,
     "slug": "staffOfAir",
     "title": "Staff of Air",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfAir"
   },
   {
     "_geoloc": {
-      "lat": 46.731,
-      "lng": 54.326
+      "lat": -26.567,
+      "lng": -35.584
     },
     "description": "''The staff allows the user to dominate another creature, each use draining one charge. This item is of the kind used by nefarious people seeking to sway others to follow their ways.''",
     "game": "Baldur's Gate",
@@ -6370,14 +6336,14 @@
     "price": 2500,
     "slug": "staffOfCommand",
     "title": "Staff of Command",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfCommand"
   },
   {
     "_geoloc": {
-      "lat": -52.452,
-      "lng": -3.57
+      "lat": 63.344,
+      "lng": -10.649
     },
     "description": "Torm is said to manifest these items during times of great trouble, granting them to priests who care for the wounded, diseased, and poisoned. It is not to be taken for granted however, as the enchantment, though useful, is fleeting. It must be used with all due care.''",
     "game": "Baldur's Gate",
@@ -6387,14 +6353,14 @@
     "price": 2500,
     "slug": "staffOfCuring",
     "title": "Staff of Curing",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfCuring"
   },
   {
     "_geoloc": {
-      "lat": 37.962,
-      "lng": -3.312
+      "lat": 7.221,
+      "lng": -59.006
     },
     "description": "Linked to the Plane of Earth, this staff may have been fashioned by an ancient druidic sect. It can summon an Earth Elemental, though it also has the potential to slay such creatures in a single blow, possibly hinting at how difficult it is to control them.  It can also free a person from the earth by casting Stone to Flesh. Some abilities are limited by charges.",
     "game": "Baldur's Gate",
@@ -6404,14 +6370,14 @@
     "price": 15000,
     "slug": "staffOfEarth",
     "title": "Staff of Earth",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfEarth"
   },
   {
     "_geoloc": {
-      "lat": -42.379,
-      "lng": -43.145
+      "lat": -11.866,
+      "lng": -59.162
     },
     "description": "''This staff bears an ancient rune that may link it to the wizards of faraway Halruaa, but it is impossible to be certain. Drawing from the Plane of Fire, it can erupt in a Fire Shield that damages attackers, it can summon a Fire Elemental under the control of the wielder, and it can potentially draw all the energy from any fire elemental that it hits, destroying them instantly. Some abilities are limited with charges however.''",
     "game": "Baldur's Gate",
@@ -6421,14 +6387,14 @@
     "price": 2500,
     "slug": "staffOfFire",
     "title": "Staff of Fire",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfFire"
   },
   {
     "_geoloc": {
-      "lat": -49.617,
-      "lng": -20.013
+      "lat": -28.424,
+      "lng": -60.825
     },
     "description": "A mage's staff is far more than just a gilded walking stick, most being enchanted to an impressive degree. This one is no exception, and whoever the previous owner was, they were powerful indeed. It enables a mage to better escape hostile magic and avoid physical blows, and can erect a Globe of Invulnerability (one charge). Offensively it can be used in melee very well, and cast a Lightning Bolt (one charge).",
     "game": "Baldur's Gate",
@@ -6438,14 +6404,14 @@
     "price": 0,
     "slug": "staffOfPower",
     "title": "Staff of Power",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfPower"
   },
   {
     "_geoloc": {
-      "lat": -35.013,
-      "lng": 23.101
+      "lat": -50.86,
+      "lng": 5.463
     },
     "description": "There was a time when magic was distrusted even more so than now, and the burning of \"heretics\" was woefully common. Delmarey, a witch from the swamplands near Myth Rhynn, faced just such a fate when she was blamed for an unseasonable drought. Taken by surprise and sentenced by a mob, she was put to the torch in the Village Square. With her dying breath she uttered a foul curse, fueling the fire to an unstoppable magnitude. By dawn, the entire village was reduced to black coal, save the burnt remnant of the pole Delmary had been bound to. This staff has been imbued with some remnants of Delmarey's power, making it a highly enchanted weapon..",
     "game": "Baldur's Gate",
@@ -6455,14 +6421,14 @@
     "price": 13500,
     "slug": "staffOfRhynn",
     "title": "Staff of Rhynn",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfRhynn"
   },
   {
     "_geoloc": {
-      "lat": -0.776,
-      "lng": -36.792
+      "lat": -9.598,
+      "lng": 6.12
     },
     "description": "Staffs of Striking are made by the Gold Elves of Drelagara on Evermeet. The staffs have a life of their own and jump to attack in their bearer's hand. The elven craftsmen rarely sell them to other races but these powerful melee weapons do surface occanionally in Faerun. However, each attack ade with the staff uses a charge, hence causing it to consume itself when no charges remain.",
     "game": "Baldur's Gate",
@@ -6472,14 +6438,14 @@
     "price": 2500,
     "slug": "staffOfStriking",
     "title": "Staff of Striking",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfStriking"
   },
   {
     "_geoloc": {
-      "lat": 22.581,
-      "lng": 63.412
+      "lat": 4.239,
+      "lng": -1.604
     },
     "description": "''There are stories that tell of these staves sprouting in the growth around druid groves when the forest is threatened. Fanciful tales, but truth or not, this staff is a powerful tool. It draws energy from storms, and there is a chance that any blow may trigger a thunderclap that knocks enemies down. It casts Lightning Bolt, and if circumstances warrant it, it can summon a lighting storm to blast enemies to dust.  Some abilities are limited by charges.''",
     "game": "Baldur's Gate",
@@ -6489,14 +6455,14 @@
     "price": 2500,
     "slug": "staffOfThunderAndLightning",
     "title": "Staff of Thunder and Lightning",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfThunderAndLightning"
   },
   {
     "_geoloc": {
-      "lat": 64.363,
-      "lng": 55.593
+      "lat": -41.103,
+      "lng": 7.521
     },
     "description": "''This staff was the culmination of a cycle of seasons in which Cernd meditated on his role within nature. His perch for this personal journey was next to a sapling, a young oak that was a particular interest of study; it seemed odd, and yet somehow wonderfully ordered. At the coming of spring Cernd examined it one last time, and it came loose in his hands, a living staff, granted as boon from nature herself. It has grown to fit his grip, and few others may wield it.''",
     "game": "Baldur's Gate",
@@ -6506,14 +6472,14 @@
     "price": 1000,
     "slug": "staffOfTheHighForest",
     "title": "Staff of the High Forest",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfTheHighForest"
   },
   {
     "_geoloc": {
-      "lat": 63.214,
-      "lng": -36.435
+      "lat": -59.776,
+      "lng": -50.299
     },
     "description": "This type of staff is thoroughly linked to the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in melee, grants invisibility, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.",
     "game": "Baldur's Gate",
@@ -6523,14 +6489,14 @@
     "price": 40000,
     "slug": "staffOfTheMagi",
     "title": "Staff of the Magi",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfTheMagi"
   },
   {
     "_geoloc": {
-      "lat": -17.261,
-      "lng": -18.223
+      "lat": -33.072,
+      "lng": -26.186
     },
     "description": "You has Staff of the Ram...5,000 gp and the Roranach's Horn and upgrades it I can.",
     "game": "Baldur's Gate",
@@ -6540,14 +6506,14 @@
     "price": 4500,
     "slug": "staffOfTheRam",
     "title": "Staff of the Ram",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfTheRam"
   },
   {
     "_geoloc": {
-      "lat": 37.817,
-      "lng": 31.074
+      "lat": -26.108,
+      "lng": 15.708
     },
     "description": "The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.",
     "game": "Baldur's Gate",
@@ -6557,8 +6523,8 @@
     "price": 7000,
     "slug": "staffOfTheWoodlands",
     "title": "Staff of the Woodlands",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-staffOfTheWoodlands"
   },
   {
@@ -6597,8 +6563,8 @@
   },
   {
     "_geoloc": {
-      "lat": 47.897,
-      "lng": -0.284
+      "lat": 22.944,
+      "lng": -1.359
     },
     "description": "This buckler is of fine dwarven make. Its surface displays the image of a stout dwarven warrior, his face glaring resolutely at whatever foe the bearer faces.",
     "game": "Baldur's Gate",
@@ -6608,8 +6574,8 @@
     "price": 3500,
     "slug": "steadfast",
     "title": "Steadfast",
-    "type": "Buckler",
-    "typePlural": "Bucklers",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-steadfast"
   },
   {
@@ -6648,8 +6614,8 @@
   },
   {
     "_geoloc": {
-      "lat": -61.37,
-      "lng": 7.032
+      "lat": 20.679,
+      "lng": 54.233
     },
     "description": "Storm giants seldom do favors for humans, but when Threk Boltwielder was saved by the wizard Alimor, Threk offered his services as a conduit for the wizard's enchanting spells. Alimor borrowed a lightning bolt from the storm giant to craft this halberd for his companion, Haldus, who had often complained about how the party never found any magic halberds despite it being his chosen weapon. Haldus was so excited by the storm giant's gift that he wielded it immediately, striking a boulder that happened to be nearby, and was promptly struck dead by the captured lightning's power.",
     "game": "Baldur's Gate",
@@ -6659,14 +6625,14 @@
     "price": 4500,
     "slug": "stormPike",
     "title": "Storm Pike",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-stormPike"
   },
   {
     "_geoloc": {
-      "lat": -1.095,
-      "lng": 30.294
+      "lat": 63.612,
+      "lng": -35.499
     },
     "description": "This magical weapon is of ancient design, thought to have been devised in Netheril. It crackles with spectacular arcs of lightning when wielded.",
     "game": "Baldur's Gate",
@@ -6676,14 +6642,14 @@
     "price": 5500,
     "slug": "stormStar",
     "title": "Storm Star",
-    "type": "Mace",
-    "typePlural": "Maces",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-stormStar"
   },
   {
     "_geoloc": {
-      "lat": 39.618,
-      "lng": 30.64
+      "lat": -60.922,
+      "lng": -51.367
     },
     "description": "This massive bow was the property of the ranger Bearpaw, who reportedly received it from a strangely benevolent ogre. The reason for the gift was never discussed, but he earned the respect of everyone he met, and likely befriended the creature while patrolling the Cloakwood Forest. Bearpaw could draw back the bow without the slightest effort, but when he died it was bequeathed to his wife and sons, and not a one could draw the string even halfway. They eventually sold it to a merchant heading South.",
     "game": "Baldur's Gate",
@@ -6693,8 +6659,8 @@
     "price": 5500,
     "slug": "strongArm",
     "title": "Strong Arm",
-    "type": "Composite Longbow",
-    "typePlural": "Composite Longbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-strongArm"
   },
   {
@@ -6716,8 +6682,8 @@
   },
   {
     "_geoloc": {
-      "lat": -34.683,
-      "lng": 57.198
+      "lat": 54.248,
+      "lng": 45.378
     },
     "description": "Legends speak of a hammer with the power of the gods themselves called Crom Faeyr. A smith once forged an inferior hammer and claimed it Crom Faeyr. Such was the retribution of the gods that ever since, when the name \"Crom Faeyr\" is uttered, the very earth beneath the wielder's feet may rip and tear asunder, threatening to bury the blasphemer and any who happen to be standing nearby.",
     "game": "Baldur's Gate",
@@ -6727,8 +6693,8 @@
     "price": 5750,
     "slug": "sundermaul",
     "title": "Sundermaul",
-    "type": "Hammer",
-    "typePlural": "Hammers",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-sundermaul"
   },
   {
@@ -6750,8 +6716,8 @@
   },
   {
     "_geoloc": {
-      "lat": 46.768,
-      "lng": 63.082
+      "lat": 31.308,
+      "lng": -26.275
     },
     "description": "Another gift to Mazzy from Arvoreen, this short sword may only be used by halflings. The enchantments that exist within this sword give it the ability to slow any opponent struck by it.",
     "game": "Baldur's Gate",
@@ -6761,14 +6727,14 @@
     "price": 10,
     "slug": "swordOfArvoreen",
     "title": "Sword of Arvoreen",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-swordOfArvoreen"
   },
   {
     "_geoloc": {
-      "lat": 65.016,
-      "lng": 37.318
+      "lat": -26.76,
+      "lng": -17.994
     },
     "description": "The blade of Sarevok, brother of Gorion's Ward, used in the battle they fought in faraway Baldur's Gate. Gorion's Ward prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. The sword itself defies identification, likely forged specifically for Sarevok, to best focus the infernal energy he hoped to control. Much of its power died with him.",
     "game": "Baldur's Gate",
@@ -6778,14 +6744,14 @@
     "price": 3000,
     "slug": "swordOfChaos",
     "title": "Sword of Chaos",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-swordOfChaos"
   },
   {
     "_geoloc": {
-      "lat": 39.354,
-      "lng": 15.871
+      "lat": 30.035,
+      "lng": -61.141
     },
     "description": "This wide, heavy blade gives way to jagged teeth near its tip, a serrated edge designed to rip and tear flesh. Little is known of the blade's origin, but the elaborate grip marked with worn runes hints that it may have been crafted in ancient Unther.",
     "game": "Baldur's Gate",
@@ -6795,8 +6761,8 @@
     "price": 4500,
     "slug": "swordOfRuin",
     "title": "Sword of Ruin",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-swordOfRuin"
   },
   {
@@ -6818,8 +6784,8 @@
   },
   {
     "_geoloc": {
-      "lat": 32.567,
-      "lng": -33.624
+      "lat": -1.276,
+      "lng": 21.86
     },
     "description": "In his aging years, Baron T'rachie coveted the wife of the lowly foot soldier Libol. Instead of openly pursuing her and causing a scandal, he instead created this suit of armor. He gifted it to the soldier. This armor's curse sickened Libol and hideously disfigured him, and his wife fled from him in disgust. Libol, trapped in the armor but not certain of T'rachie's treachery asked to be sent to the wastes for a dangerous tour of duty against marauding ogres. He never returned and Baron T'rachie was free to pursue Libol's widow. This armor is cursed and requires powerful magic to remove.",
     "game": "Baldur's Gate",
@@ -6829,8 +6795,8 @@
     "price": 8500,
     "slug": "trachiesPlate",
     "title": "T'rachie's Plate",
-    "type": "Plate Mail",
-    "typePlural": "Plate Mails",
+    "type": "Heavy Armor",
+    "typePlural": "Heavy Armors",
     "uniqueSlug": "baldur-trachiesPlate"
   },
   {
@@ -6852,8 +6818,8 @@
   },
   {
     "_geoloc": {
-      "lat": 16.187,
-      "lng": -25.115
+      "lat": -35.775,
+      "lng": -52.553
     },
     "description": "This cittern looks as if no bard could coax a tune from its crisscrossed and frayed strings. However, when played, the cittern gives off a sweet and clear tone. A clever bard can master the art of playing the tangled strings all at once, creating a jangling melody that listeners find incredibly disruptive.",
     "game": "Baldur's Gate",
@@ -6863,14 +6829,14 @@
     "price": 3500,
     "slug": "tangledStrings",
     "title": "Tangled Strings",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-tangledStrings"
   },
   {
     "_geoloc": {
-      "lat": 14.412,
-      "lng": 45.128
+      "lat": 40.386,
+      "lng": 15.133
     },
     "description": "The thin, frayed string of this bow appears unusable, but when it is drawn a solid but invisible arrow becomes tangible. The lich Tansheron gave this bow to his Watcher, the guardian of his keep who stood atop a tower with neither entrance nor exit. When anyone approached, down would fall a never-ending rain of phantom arrows until they were dead or fled. How this bow was wrested from the Watcher's hand is not known, but would probably make a great tavern story.\n\nNote: avoid equipping normal arrows on your character, else the bow will fire these instead of the phantom arrows.",
     "game": "Baldur's Gate",
@@ -6880,14 +6846,14 @@
     "price": 5000,
     "slug": "tansheronsBow",
     "title": "Tansheron's Bow",
-    "type": "Shortbow",
-    "typePlural": "Shortbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-tansheronsBow"
   },
   {
     "_geoloc": {
-      "lat": 29.327,
-      "lng": 4.15
+      "lat": 37.745,
+      "lng": -11.545
     },
     "description": "Dungeon-delving Lehorgan was lucky indeed to discover this Halruaan blade in the ruins of the ancient sorcerer Kullon's haunt, for it would save his life that very day. The ghost of Kullon himself attacked the intruder, but the flames that followed only singed, absorbed into the glowing Bloodbrand. Concealing himself, Lehorgan watched in amazement as the ancient sorcerer tried to divine his location, and again the sword protected him. Surviving this brush with death, the young man used this second chance and the gold from selling the blade to, as he put it, \"get the hell out of adventuring.\"",
     "game": "Baldur's Gate",
@@ -6897,8 +6863,8 @@
     "price": 22000,
     "slug": "taragarthTheBloodbrand",
     "title": "Taragarth the Bloodbrand",
-    "type": "Large Sword",
-    "typePlural": "Large Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-taragarthTheBloodbrand"
   },
   {
@@ -6971,8 +6937,8 @@
   },
   {
     "_geoloc": {
-      "lat": 62.844,
-      "lng": -18.451
+      "lat": 15.52,
+      "lng": -10.401
     },
     "description": "The last swing of a battle is more important than the first. Such is the philosophy embodied in this powerful weapon. Although the strange design of the Answerer makes it difficult to take the initiative in combat, with each hit it makes an opponent more vulnerable to subsequent attacks.",
     "game": "Baldur's Gate",
@@ -6982,14 +6948,14 @@
     "price": 8250,
     "slug": "theAnswerer",
     "title": "The Answerer",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-theAnswerer"
   },
   {
     "_geoloc": {
-      "lat": -51.37,
-      "lng": -25.578
+      "lat": 55.534,
+      "lng": 6.353
     },
     "description": "This shield was carried by a mercenary working with the Order of the Steel Fang. The warriors of the order were impressed with the mercenary's tenacity and courage. She charged into battle without hesitation and seemed to fight all the harder when she was wounded. When their quest was completed, the Order of the Steel Fang gifted a battleaxe to the mercenary as thanks for her service. In turn she gave the order her shield as a sign of respect. The shield stayed in the order for years until it was lost on a battlefield.",
     "game": "Baldur's Gate",
@@ -6999,14 +6965,14 @@
     "price": 5500,
     "slug": "theBloodiedGuardian",
     "title": "The Bloodied Guardian",
-    "type": "Large Shield",
-    "typePlural": "Large Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-theBloodiedGuardian"
   },
   {
     "_geoloc": {
-      "lat": -3.373,
-      "lng": -17.496
+      "lat": 14.876,
+      "lng": 7.697
     },
     "description": "This flaming, magical bastard sword was forged in the Elemental Plane of Fire's City of Brass. It was stolen from the city many centuries ago, leaving a long trail of dead behind it as the sultan who oversaw its construction attempted to hunt it down. Over time, his anger cooled and his memory faded, and the sword was left to continually change hands between mortals.",
     "game": "Baldur's Gate",
@@ -7016,14 +6982,14 @@
     "price": 25000,
     "slug": "theBrassBlade",
     "title": "The Brass Blade",
-    "type": "Large Sword",
-    "typePlural": "Large Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-theBrassBlade"
   },
   {
     "_geoloc": {
-      "lat": 14.56,
-      "lng": -42.197
+      "lat": 56.835,
+      "lng": -57.603
     },
     "description": "There was a time before Neverwinter was warm and before the great Anauroch was dry... or so it is said. Few relics remain to prove such an age existed, and fewer still have an identifiable purpose. \"The Burning Earth\" seems straightforward enough. It burns a victim with magical fire, and a cryptic rune seems to suggest that the power comes from the ground itself—but whomever constructed it remains a mystery. It looks a perfectly serviceable weapon, but something in the balance or grip is... wrong. It strains the forearm a touch, and does not fit the hand just right. It doesn't seem to hurt a warrior's performance, aside from the nagging doubt that the blade was not made for &lt;PRO_HIMHER&gt;... or any other humanoid.",
     "game": "Baldur's Gate",
@@ -7033,14 +6999,14 @@
     "price": 4750,
     "slug": "theBurningEarth",
     "title": "The Burning Earth",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-theBurningEarth"
   },
   {
     "_geoloc": {
-      "lat": 49.028,
-      "lng": 54.744
+      "lat": -34.354,
+      "lng": -9.102
     },
     "description": "Heavy Halberd: The Chesley Crusher\nFirst wielded by the much-maligned Ensign Chesley of the first exploratory fleet of Waterdeep, this famous halberd has been passed around for generations, but only to those strong enough to carry its considerable weight. The iron haft of this heavy polearm makes the weapon slow and unwieldy, but its sheer mass smashes skulls and shatters limbs.",
     "game": "Baldur's Gate",
@@ -7050,8 +7016,8 @@
     "price": 0,
     "slug": "theChesleyCrusher",
     "title": "The Chesley Crusher",
-    "type": "Halberd",
-    "typePlural": "Halberds",
+    "type": "Hast Weapon",
+    "typePlural": "Hast Weapons",
     "uniqueSlug": "baldur-theChesleyCrusher"
   },
   {
@@ -7090,8 +7056,8 @@
   },
   {
     "_geoloc": {
-      "lat": -41.188,
-      "lng": -25.744
+      "lat": -34.413,
+      "lng": -60.257
     },
     "description": "Mielikki, the Forest Queen, bestows her gifts only on those who show kindness and compassion to all living creatures. Legend tells that a bard once came upon a pack of hunters running a unicorn to ground. The bard, despite being outnumbered, threw herself at the hunters and fought them valiantly while the unicorn escaped. The hunters beat the bard near to death and left her broken body on the ground. Moments after they left, the unicorn stepped softly to the bard and extended its horn. The bard grasped the horn weakly and, to her astonishment, it came away in her hand. The bard sat up, healed of all wounds and bestowed with a valuable gift. The unicorn vanished into the trees, and the bard found the horn bestowed healing powers whenever she played it.\n\nThe cornetto can only be played by a bard of exceptional virtue and wisdom.",
     "game": "Baldur's Gate",
@@ -7101,8 +7067,8 @@
     "price": 6000,
     "slug": "theForestQueensBenediction",
     "title": "The Forest Queen's Benediction",
-    "type": "Miscellaneous",
-    "typePlural": "Miscellaneous",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-theForestQueensBenediction"
   },
   {
@@ -7192,8 +7158,8 @@
   },
   {
     "_geoloc": {
-      "lat": 57.177,
-      "lng": -41.185
+      "lat": 20.833,
+      "lng": 13.2
     },
     "description": "The three heads of this flail look like dragon heads, giving the weapon its fearsome name. As the wielder swings the weapon, its heads seem to blur and divide until a mass of hydra heads whips from the end of the chain. When the wielder ceases attacking, the weapon reverts to its original appearance.",
     "game": "Baldur's Gate",
@@ -7203,8 +7169,8 @@
     "price": 4500,
     "slug": "theHydra",
     "title": "The Hydra",
-    "type": "Flail",
-    "typePlural": "Flails",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-theHydra"
   },
   {
@@ -7294,8 +7260,8 @@
   },
   {
     "_geoloc": {
-      "lat": -42.062,
-      "lng": 56.005
+      "lat": -58.418,
+      "lng": -26.099
     },
     "description": "The naming of this necklace originates from its only owner, Ikaida Mourneve, who quested to regain his kidnapped daughter. Not many would help the determined father, but a kind and generous mage bestowed this item on him to aid his cause. Alas, the necklace was lost when Ikaida dropped it into the Immerflow River while fending off bandits upon a suspension bridge. Fortunately, it is rumored that the item was not needed to reunite the family once again.",
     "game": "Baldur's Gate",
@@ -7305,14 +7271,14 @@
     "price": 5000,
     "slug": "theOneGiftLost",
     "title": "The One Gift Lost",
-    "type": "Necklace",
-    "typePlural": "Necklaces",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-theOneGiftLost"
   },
   {
     "_geoloc": {
-      "lat": -42.129,
-      "lng": -10.446
+      "lat": 31.747,
+      "lng": 22.745
     },
     "description": "The surface of this seven-foot shaft more resembles stone than wood, but in the hands of a skilled wielder it weighs little more than a staff of oak. Along its length appear the ghost-like images of various foes caught in defensive postures, appearing almost as {{sic",
     "game": "Baldur's Gate",
@@ -7322,8 +7288,8 @@
     "price": 10,
     "slug": "theOssifier",
     "title": "The Ossifier",
-    "type": "Quarterstaff",
-    "typePlural": "Quarterstaffs",
+    "type": "Staff",
+    "typePlural": "Staff",
     "uniqueSlug": "baldur-theOssifier"
   },
   {
@@ -7379,8 +7345,8 @@
   },
   {
     "_geoloc": {
-      "lat": -41.739,
-      "lng": 23.119
+      "lat": -43.576,
+      "lng": -17.591
     },
     "description": "The most infamous owner of this item forever tainted its reputation, though it is still a truly useful item. Morinden of the Wicked Heart made his living looting the bodies of those he slew. He would goad true warriors into duels of honor—though he had little knowledge of the subject—and laugh as their blades glanced off him. Eventually he met his end at the hands of a frustrated woodsman, who had wisely cast his sword aside in favor of a tree stump.",
     "game": "Baldur's Gate",
@@ -7390,14 +7356,14 @@
     "price": 1,
     "slug": "theProtectorOfTheUnworthy",
     "title": "The Protector of the Unworthy",
-    "type": "Girdle",
-    "typePlural": "Girdles",
+    "type": "Belt",
+    "typePlural": "Belts",
     "uniqueSlug": "baldur-theProtectorOfTheUnworthy"
   },
   {
     "_geoloc": {
-      "lat": 13.526,
-      "lng": -3.715
+      "lat": 56.092,
+      "lng": 54.929
     },
     "description": "This enchanted club is said to have existed since the time of the fall of Netheril and the birth of the great Anauroch Desert. While the toll on civilization was great, the true victims of this age were nature's creatures, condemned to stand and watch as their homes decayed and died. As habitats receded, those that remained were invaded by displaced hordes of creatures, the more impatient of which marched on unspoiled land taking whatever they wished. This particular weapon is said to have come from a dryad's tree, a final gift to nature's cause from a woodland spirit that could not hold back the invaders of her land. Hers was a bittersweet pain, as her wood might not have suffered so if it had not been so strong and lush. Less respecting scholars have since bestowed the item's ironic name, though the humor is not appreciated among nature's more devout followers.",
     "game": "Baldur's Gate",
@@ -7407,14 +7373,14 @@
     "price": 2750,
     "slug": "theRootOfTheProblem",
     "title": "The Root of the Problem",
-    "type": "Club",
-    "typePlural": "Clubs",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-theRootOfTheProblem"
   },
   {
     "_geoloc": {
-      "lat": -42.019,
-      "lng": 14.71
+      "lat": 55.582,
+      "lng": 14.826
     },
     "description": "Short sword of backstabbing: 'The Shadow's Blade.' The Shadow's Blade was created to be the perfect assassin's tool. It is highly sought after by any who settle differences with a blade, and many that possess it do not do so for long.",
     "game": "Baldur's Gate",
@@ -7424,14 +7390,14 @@
     "price": 7000,
     "slug": "theShadowsBlade",
     "title": "The Shadow's Blade",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-theShadowsBlade"
   },
   {
     "_geoloc": {
-      "lat": 38.106,
-      "lng": -52.793
+      "lat": 62.236,
+      "lng": 13.642
     },
     "description": "This belonged to Ssitalc, an uncharacteristically evil elf known as the Slaver of the Sword Coast. Until his sudden death several years ago, Ssitalc commanded a large force of human, dwarf and gnomish brigands, using the Sleeper to keep them in line.  It has a chance to incapacitate any human, dwarf, gnome, or halfling by inducing deep slumber, though elves are conveniently immune.",
     "game": "Baldur's Gate",
@@ -7441,8 +7407,8 @@
     "price": 3500,
     "slug": "theSleeper",
     "title": "The Sleeper",
-    "type": "Morning Star",
-    "typePlural": "Morning Stars",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-theSleeper"
   },
   {
@@ -7464,8 +7430,8 @@
   },
   {
     "_geoloc": {
-      "lat": -9.748,
-      "lng": -42.365
+      "lat": -0.341,
+      "lng": -61.293
     },
     "description": "Shield of Barnassus: The Suncatcher\nBarnassus, a cleric of Lathander, created a polished bronze shield hundreds of years ago in order to battle a medusa rumored to be lurking in the catacombs beneath his city. Barnassus tracked the medusa to her lair and realized, almost too late, that what he faced was no ordinary medusa but one that had also succumbed to the curse of vampirism.<br /><br />Barnassus closed his eyes and charged forward, ready to take down his enemy or die trying. Lathander rewarded Barnassus's bravery by filling the room with sunlight while the priest slew the medusa.",
     "game": "Baldur's Gate",
@@ -7475,14 +7441,14 @@
     "price": 3500,
     "slug": "theSuncatcher",
     "title": "The Suncatcher",
-    "type": "Small Shield",
-    "typePlural": "Small Shields",
+    "type": "Shield",
+    "typePlural": "Shields",
     "uniqueSlug": "baldur-theSuncatcher"
   },
   {
     "_geoloc": {
-      "lat": -43.925,
-      "lng": -58.148
+      "lat": 37.586,
+      "lng": 45.867
     },
     "description": "With one rod of steel and another of bronze, this double-headed flail metes out punishment right and left. The weapon's carved wooden haft depicts scenes of battle in which champions of Helm, each wielding an identical flail, wade through a field of orcs, threshing them like so much wheat.",
     "game": "Baldur's Gate",
@@ -7492,14 +7458,14 @@
     "price": 3000,
     "slug": "theThresher",
     "title": "The Thresher",
-    "type": "Flail",
-    "typePlural": "Flails",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-theThresher"
   },
   {
     "_geoloc": {
-      "lat": 30.87,
-      "lng": -25.581
+      "lat": 12.591,
+      "lng": 40.401
     },
     "description": "Short Sword +2: 'The Whistling Sword'. Amidst the plains of the Eastern Shaar there lived a small human blacksmith, whose nearly dwarven height did not do his soul justice.  Though a skilled weaponsmith, his true gift was his ability to whistle a heartfelt song that could cause a grown man to cry like a newborn.  Only a reclusive mage shared and enjoyed time with the diminutive man, however, as others could only see his small size as a source of amusement.  Deaf to the smith's song because of their own prejudices, their ridicule slowly grew into cruel torment which eventually persuaded the light-hearted man to leave his home forever.  Before he left he forged this weapon as a gift for his one friend, who also enchanted it during the making.  Thus the blade sweetly whistles to its wielder when unsheathed.  It was not long after that the mage also deserted the small town in disgust, taking the sword with him on his journeys.",
     "game": "Baldur's Gate",
@@ -7509,8 +7475,8 @@
     "price": 4000,
     "slug": "theWhistlingSword",
     "title": "The Whistling Sword",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-theWhistlingSword"
   },
   {
@@ -7532,8 +7498,8 @@
   },
   {
     "_geoloc": {
-      "lat": 29.992,
-      "lng": -16.757
+      "lat": -19.161,
+      "lng": -9.309
     },
     "description": "The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.<!-- The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. -->",
     "game": "Baldur's Gate",
@@ -7543,14 +7509,14 @@
     "price": 3500,
     "slug": "theWorldsEdge",
     "title": "The World's Edge",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-theWorldsEdge"
   },
   {
     "_geoloc": {
-      "lat": 55.653,
-      "lng": -35.592
+      "lat": -11.101,
+      "lng": -36.837
     },
     "description": "This infernal longsword, forged to resemble a devil's tongue, has a blade \"sharper than any scream\" according to the writing on the hilt. Its edge cuts easily through armor and bone and leaves acid sizzling in the wounds it inflicts. The pain its wounds inflict is so severe that its victims have difficulty functioning, even walking, due to the agony.",
     "game": "Baldur's Gate",
@@ -7560,8 +7526,8 @@
     "price": 8750,
     "slug": "tongueOfAcid",
     "title": "Tongue of Acid",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-tongueOfAcid"
   },
   {
@@ -7600,8 +7566,8 @@
   },
   {
     "_geoloc": {
-      "lat": 49.102,
-      "lng": -41.043
+      "lat": 6.544,
+      "lng": -1.843
     },
     "description": "This ioun stone gleams dark green, like a hardened globe of troll blood. Legend tells of its creation from the blood of seven different trolls, each one captured and then subjected to magical experiments for seven nights. The resulting ioun stone both grants its user a weaker form a troll's healing ability and increases their martial prowess against trolls.",
     "game": "Baldur's Gate",
@@ -7611,14 +7577,14 @@
     "price": 4000,
     "slug": "trollbloodIounStone",
     "title": "Trollblood Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-trollbloodIounStone"
   },
   {
     "_geoloc": {
-      "lat": -9.957,
-      "lng": -49.645
+      "lat": -25.769,
+      "lng": 5.856
     },
     "description": "The Tuigans are a nomadic people widely dispersed across the steppe regions of Faerûn but bound together by a common bloodline. The bows they make are especially tailored for their mobile warriors, and the process used is carefully guarded, but the result is well known: Any bow of Tuigan origin can be fired faster than is possible with a normal one.",
     "game": "Baldur's Gate",
@@ -7628,8 +7594,8 @@
     "price": 3500,
     "slug": "tuiganBow",
     "title": "Tuigan Bow",
-    "type": "Shortbow",
-    "typePlural": "Shortbows",
+    "type": "Bow",
+    "typePlural": "Bows",
     "uniqueSlug": "baldur-tuiganBow"
   },
   {
@@ -7651,8 +7617,8 @@
   },
   {
     "_geoloc": {
-      "lat": 55.742,
-      "lng": 14.786
+      "lat": 7.294,
+      "lng": 6.072
     },
     "description": "This is a cursed sword which performs perfectly under every test, save the heat of the battle. Upon entering combat, the wielder will immediatly go berserk, killing everything within reach either calming down or falling unconcious. A very powerful sword, but one must decide whether or not it is worth the risk. Even once the battle-fury has ended, this sword can only be removed via exorcism using a remove curse spell.",
     "game": "Baldur's Gate",
@@ -7662,8 +7628,8 @@
     "price": 1000,
     "slug": "twoHandedSwordCursedBerserking",
     "title": "Two-handed Sword, Cursed Berserking",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-twoHandedSwordCursedBerserking"
   },
   {
@@ -7685,8 +7651,8 @@
   },
   {
     "_geoloc": {
-      "lat": 21.187,
-      "lng": 14.841
+      "lat": -17.883,
+      "lng": -36.274
     },
     "description": "The daughter of a high ranking official within the bureaucratic society of Kara-Tur, Usuno rejected her family's station and carved a legend for herself among the Yakuza of the underworld.\n\nThe blade of this enchanted ninja-to crackles with electrical energy.",
     "game": "Baldur's Gate",
@@ -7696,14 +7662,14 @@
     "price": 6000,
     "slug": "usunosBlade",
     "title": "Usuno's Blade",
-    "type": "Ninjato",
-    "typePlural": "Ninjatoes",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-usunosBlade"
   },
   {
     "_geoloc": {
-      "lat": 45.548,
-      "lng": 56.222
+      "lat": 64.816,
+      "lng": -41.684
     },
     "description": "Blades of this type were long used by Sharran priests during the sacrificial rites of \"Feast of the Moon\" ceremonies. Legends say that, when she passed on, the remains of this sword's wielder were mummified and the blade was placed within her chest as a symbol of power. In the first stage of a long forgotten ritual, she was to have been exhumed in a season, born again in some new form. Unfortunately, cult wars killed the few that knew of her existence; her tomb became a prison where she was forgotten, and there she developed a rage that bordered on insanity. Her grave was eventually found, but it was deserted and gave no indication of her whereabouts. Some venture to say that her anger was so concentrated that she became one with the very blade of her weapon. Regardless, after hundreds of years surrounded by constant hate, the sword harvested a power of its own. It is now exceedingly deadly in combat.",
     "game": "Baldur's Gate",
@@ -7713,14 +7679,14 @@
     "price": 4250,
     "slug": "varscona",
     "title": "Varscona",
-    "type": "Long Sword",
-    "typePlural": "Long Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-varscona"
   },
   {
     "_geoloc": {
-      "lat": 22.313,
-      "lng": -20.351
+      "lat": -41.406,
+      "lng": 46.469
     },
     "description": "This blade appears smooth and whole at first glance, but on closer examination, its surface is made of thousands of tiny overlapping scales. When the sword is used to stab a target unawares, scales break off and lodge in the wound, irritating the victim and draining their strength.",
     "game": "Baldur's Gate",
@@ -7730,8 +7696,8 @@
     "price": 6000,
     "slug": "vexation",
     "title": "Vexation",
-    "type": "Short Sword",
-    "typePlural": "Short Swords",
+    "type": "Sword",
+    "typePlural": "Swords",
     "uniqueSlug": "baldur-vexation"
   },
   {
@@ -7923,8 +7889,8 @@
   },
   {
     "_geoloc": {
-      "lat": 21.107,
-      "lng": -2.367
+      "lat": -25.066,
+      "lng": -44.632
     },
     "description": "This large sword is an enchanted version of the barbaric swords of the Northern tribes. Forged during battle and dipped in the blood of the brave fallen, the enchantment granted to the blade by the barbarian gods is incredible.",
     "game": "Baldur's Gate",
@@ -7934,14 +7900,14 @@
     "price": 17500,
     "slug": "warblade",
     "title": "Warblade",
-    "type": "Two-Handed Sword",
-    "typePlural": "Two-Handed Swords",
+    "type": "Two Handed Sword",
+    "typePlural": "Two Handed Swords",
     "uniqueSlug": "baldur-warblade"
   },
   {
     "_geoloc": {
-      "lat": -1.221,
-      "lng": -43.455
+      "lat": -41.896,
+      "lng": -20.011
     },
     "description": "The blade of this weapon seems to shimmer, revealing a fluid, razor edge. Truly there was great skill involved in its construction, as well as a blessing or two from some well-meaning eye above, even though the hilt is comparatively almost clumsily adorned.",
     "game": "Baldur's Gate",
@@ -7951,8 +7917,8 @@
     "price": 7550,
     "slug": "watersEdge",
     "title": "Water's Edge",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-watersEdge"
   },
   {
@@ -8025,8 +7991,8 @@
   },
   {
     "_geoloc": {
-      "lat": 37.359,
-      "lng": 6.871
+      "lat": 23.8,
+      "lng": 24.551
     },
     "description": "This soft cap looks neither durable nor practical. Its stylish appearance marks it as strictly decorative.",
     "game": "Baldur's Gate",
@@ -8036,14 +8002,14 @@
     "price": 0,
     "slug": "wizzardHat",
     "title": "Wizzard Hat",
-    "type": "Hat",
-    "typePlural": "Hats",
+    "type": "Helmet",
+    "typePlural": "Helmets",
     "uniqueSlug": "baldur-wizzardHat"
   },
   {
     "_geoloc": {
-      "lat": -61.248,
-      "lng": -42.626
+      "lat": -34,
+      "lng": 14.126
     },
     "description": "A silver amulet containing powdered wolfsbane.",
     "game": "Baldur's Gate",
@@ -8053,8 +8019,8 @@
     "price": 1800,
     "slug": "wolfsbaneCharm",
     "title": "Wolfsbane Charm",
-    "type": "Silver Amulet",
-    "typePlural": "Silver Amulets",
+    "type": "Amulet",
+    "typePlural": "Amulets",
     "uniqueSlug": "baldur-wolfsbaneCharm"
   },
   {
@@ -8076,8 +8042,8 @@
   },
   {
     "_geoloc": {
-      "lat": -1.33,
-      "lng": 45.826
+      "lat": 63.907,
+      "lng": -8.549
     },
     "description": "This ioun stone was said to be a gift given to the Shou-ling monk Wong Fei Hung by the Kara-Turan god of war, Chan Cheng. The god came down in the form of a dragon and fought Wong Fei for three days and three nights. Chan Cheng was so impressed by the monk's prowess that he bestowed the ioun stone upon him. The stone disappeared when Wong Fei died.",
     "game": "Baldur's Gate",
@@ -8087,8 +8053,8 @@
     "price": 5000,
     "slug": "wongFeisIounStone",
     "title": "Wong Fei's Ioun Stone",
-    "type": "Ioun Stone",
-    "typePlural": "Ioun Stones",
+    "type": "Misc Item",
+    "typePlural": "Misc Items",
     "uniqueSlug": "baldur-wongFeisIounStone"
   },
   {
@@ -8110,8 +8076,8 @@
   },
   {
     "_geoloc": {
-      "lat": 37.985,
-      "lng": 13.727
+      "lat": -25.236,
+      "lng": 38.192
     },
     "description": "The large spike at the head of this morningstar is actually the lethal stinger of a wyvern. The mage-fighter Sedej created this weapon, using his magical abilities to keep the stinger capable of producing poison. The magic he used has actually made the Wyvern's Tail a living weapon, that pulses with life in the hands of its wielder.",
     "game": "Baldur's Gate",
@@ -8121,8 +8087,8 @@
     "price": 3500,
     "slug": "wyvernsTail",
     "title": "Wyvern's Tail",
-    "type": "Morning Star",
-    "typePlural": "Morning Stars",
+    "type": "Bludgeoning Weapon",
+    "typePlural": "Bludgeoning Weapons",
     "uniqueSlug": "baldur-wyvernsTail"
   },
   {
@@ -8144,8 +8110,8 @@
   },
   {
     "_geoloc": {
-      "lat": 28.923,
-      "lng": 15.652
+      "lat": 45.632,
+      "lng": 29.425
     },
     "description": "The name of the mighty Wu Jen who fashioned this \"companion sword\" is long forgotten. However, the name Yamato, loosely translated, means \"Guardian\" or \"Defender\".",
     "game": "Baldur's Gate",
@@ -8155,14 +8121,14 @@
     "price": 45000,
     "slug": "yamato",
     "title": "Yamato",
-    "type": "Scimitar",
-    "typePlural": "Scimitars",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-yamato"
   },
   {
     "_geoloc": {
-      "lat": -49.672,
-      "lng": 48.121
+      "lat": 39.368,
+      "lng": -10.784
     },
     "description": "This blade, although only lightly enchanted, has achieved a semblance of awareness, enough so that it allows only the thief known as Yoshimo to wield it. Any other than he cannot use this flawless katana in battle.\nThough it has only a light enchantment, the sword was made with such precision that even its normal attack can be deadly. The sharpness of the blade can occasionally cause an opponent to bleed profusely.",
     "game": "Baldur's Gate",
@@ -8172,8 +8138,8 @@
     "price": 100,
     "slug": "yoshimosKatana",
     "title": "Yoshimo's Katana",
-    "type": "Katana",
-    "typePlural": "Katanas",
+    "type": "Curved Sword",
+    "typePlural": "Curved Swords",
     "uniqueSlug": "baldur-yoshimosKatana"
   }
 ]
