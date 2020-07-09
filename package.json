@@ -1,7 +1,7 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "norska": "0.14.2"
+    "norska": "0.14.3"
   },
   "description": "Collection of magical items with lore from video games",
   "devDependencies": {
