@@ -1,11 +1,11 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "norska": "0.14.6"
+    "norska": "0.14.7"
   },
   "description": "Collection of magical items with lore from video games",
   "devDependencies": {
-    "aberlaas": "1.12.0",
+    "aberlaas": "1.12.1",
     "algolia-indexing": "1.0.1",
     "firost": "1.11.1",
     "golgoth": "1.3.0",
