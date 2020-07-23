@@ -9686,10 +9686,10 @@ norska-cloudinary@^0.14.3:
     norska-config "^0.14.3"
     norska-helper "^0.14.3"
 
-norska-cms@^0.14.7:
-  version "0.14.7"
-  resolved "https://registry.yarnpkg.com/norska-cms/-/norska-cms-0.14.7.tgz#27c3fc2b3130ca3f29a41dcf88e1406c6fc8b7b4"
-  integrity sha512-KN6bh2UtYRXPaTiYAqWJlxf7wPT31RARYaw26bcvIMud1P/l6mNxxsUn5TqhdxlJQAxV28FesxsZi7ppP5wzUg==
+norska-cms@^0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/norska-cms/-/norska-cms-0.14.8.tgz#0a4d8c23912d7f878cf6e74d9af448f201c13a9d"
+  integrity sha512-ywkxGLl7hFjUq33hNygD8QsIatlKQL/RRUSmdM2mOHBjWfJJhK6jZmkWviB6q5YmZh5OXvEHCtRbBiHvMAckLA==
   dependencies:
     connect-livereload "0.6.1"
     express "4.17.1"
@@ -9699,7 +9699,7 @@ norska-cms@^0.14.7:
     multer "1.4.2"
     nodemon "2.0.4"
     norska-config "^0.14.3"
-    norska-css "^0.14.7"
+    norska-css "^0.14.8"
     norska-helper "^0.14.3"
     open "7.1.0"
 
@@ -9712,10 +9712,10 @@ norska-config@^0.14.3:
     golgoth "1.3.0"
     norska-helper "^0.14.3"
 
-norska-css@^0.14.7:
-  version "0.14.7"
-  resolved "https://registry.yarnpkg.com/norska-css/-/norska-css-0.14.7.tgz#cf0129986982087f900465d723a725f2df5a112f"
-  integrity sha512-cJHSjUV40EiZfWWXjsZ5jjegGkTxHozM0PxQpq9k/YOWqZWsSijleO+LIIjP7c83V2J+Ydl65VKeHo2Hnet+Tw==
+norska-css@^0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/norska-css/-/norska-css-0.14.8.tgz#5a04170ab8bee8e23b1dc66a5f247f9acd751867"
+  integrity sha512-EOBS03mULXrcP0Lp6MQ00Y7TFtl27Qq2+eOfnRYmARkdY2ReR4NFoi6C2YVBqlG9DKToRoOCSq9rLJpBqurVuA==
   dependencies:
     "@fullhuman/postcss-purgecss" "1.3.0"
     autoprefixer "9.8.5"
@@ -9728,7 +9728,7 @@ norska-css@^0.14.7:
     postcss-import "12.0.1"
     postcss-nested "4.2.3"
     purge-from-html "1.0.3"
-    tailwind-config-norska "0.4.1"
+    tailwind-config-norska "0.4.2"
     tailwindcss "1.5.1"
 
 norska-data@^0.14.3:
@@ -9824,10 +9824,10 @@ norska-revv@^0.14.3:
     norska-helper "^0.14.3"
     rev-hash "^3.0.0"
 
-norska@0.14.7:
-  version "0.14.7"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.14.7.tgz#74e49ac945b1967c83e2d278767bd92387d4172d"
-  integrity sha512-4E4qEPrnfPz2PRnhy51q1FWWfkDcYH1plXp7q3KnOHJSQ9n7OUJ1tLqXtxsEdJiTcpWJg0SFPRSuoFEGiprzbA==
+norska@0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-0.14.8.tgz#5443976ca694a61bbcc8409ef10d51b3c49fa1ef"
+  integrity sha512-eO/OWTOuNNuoAHaNQezJeZuxE/B1dVmKY/IOiOjt7ojxoXZyfaM3Vp5/RXbb33hUYIKoPonHjcEhLCLtP+ChBg==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.0"
@@ -9835,9 +9835,9 @@ norska@0.14.7:
     minimist "1.2.5"
     norska-assets "^0.14.6"
     norska-cloudinary "^0.14.3"
-    norska-cms "^0.14.7"
+    norska-cms "^0.14.8"
     norska-config "^0.14.3"
-    norska-css "^0.14.7"
+    norska-css "^0.14.8"
     norska-frontend "^0.14.6"
     norska-helper "^0.14.3"
     norska-html "^0.14.6"
@@ -12926,10 +12926,10 @@ table@^5.2.3, table@^5.4.6:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
-tailwind-config-norska@0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/tailwind-config-norska/-/tailwind-config-norska-0.4.1.tgz#43a9ffecad5156527c706354a2f3cf9a3aa86918"
-  integrity sha512-SamH2E6QIP5jPocqsRTfYbWPRFlFySDmXSSKpodHUffa9zjhpUsQhL9O50T6t8CtgkfMXc+KFRaopj7Hmw2xtw==
+tailwind-config-norska@0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/tailwind-config-norska/-/tailwind-config-norska-0.4.2.tgz#429a807dd485eabafbf46eb4fd1822ba1acea3b5"
+  integrity sha512-HGpPXPSIsrDUvsC6auJe6pq8B84gXwEGRCA8YDRbxK0cn+ifTZ27V/gEU4Hv9fcIdTFWPSPNu1N4jSDddrX1zA==
   dependencies:
     "@tailwindcss/typography" "0.2.0"
     golgoth "1.3.0"
