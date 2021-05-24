@@ -1,8 +1,8 @@
-const readJson = require('firost/lib/readJson');
-const download = require('firost/lib/download');
-const spinner = require('firost/lib/spinner');
-const _ = require('golgoth/lib/lodash');
-const pMap = require('golgoth/lib/pMap');
+const readJson = require('firost/readJson');
+const download = require('firost/download');
+const spinner = require('firost/spinner');
+const _ = require('golgoth/lodash');
+const pMap = require('golgoth/pMap');
 const path = require('path');
 
 (async function () {

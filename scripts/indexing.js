@@ -1,8 +1,8 @@
 const indexing = require('algolia-indexing');
-const pMap = require('golgoth/lib/pMap');
-const _ = require('golgoth/lib/lodash');
-const readJson = require('firost/lib/readJson');
-const glob = require('firost/lib/glob');
+const pMap = require('golgoth/pMap');
+const _ = require('golgoth/lodash');
+const readJson = require('firost/readJson');
+const glob = require('firost/glob');
 const config = require('../src/_data/config.js');
 
 (async function () {

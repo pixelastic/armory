@@ -1,7 +1,7 @@
 const baldurItems = require('./src/_data/baldur.json');
-const pMap = require('golgoth/lib/pMap');
+const pMap = require('golgoth/pMap');
 const isProduction = process.env.NODE_ENV === 'production';
-const _ = require('golgoth/lib/lodash');
+const _ = require('golgoth/lodash');
 
 module.exports = {
   cloudinary: {
