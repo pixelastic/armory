@@ -6,6 +6,6 @@
     @apply flex content-around;
   }
   .ais-Hits-item {
-    @apply flex-none flex flex-no-wrap;
+    @apply flex-1 flex flex-no-wrap;
   }
 }
