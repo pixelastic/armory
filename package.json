@@ -5,7 +5,7 @@
   },
   "description": "Collection of magical items with lore from video games",
   "devDependencies": {
-    "aberlaas": "1.12.2",
+    "aberlaas": "1.22.0",
     "algolia-indexing": "1.2.0",
     "firost": "2.13.1",
     "golgoth": "2.0.0",
