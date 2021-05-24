@@ -1,10 +1,6 @@
-extends /_includes/_layouts/core
-
-block meta
-  - meta.title = data.item.title
-  - meta.description = data.item.description
-  - pageId = "item"
-
+//- ---
+//- pageType: item
+//- ---
 block content
   .flcnw.flcch
     .fln.max-w-100p.flex.cnw.md_rnw.shadow-2.bg-gray-3.rounded-4.px-1.py-01
@@ -29,4 +25,4 @@ block content
 
   script!=`window.ITEM = ${JSON.stringify(_.pick(data.item, ['_geoloc', 'type', 'uniqueSlug']))};`
   textarea#previewTemplate(hidden)
-    include /_includes/_templates/preview
+    include ../templates/preview

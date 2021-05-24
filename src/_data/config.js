@@ -1,7 +1,7 @@
 const isProduction = process.env.NODE_ENV === 'production';
 const norskaConfig = require('../../norska.config.js');
-const siteConfig = require('./site.js');
-const baseUrl = isProduction ? siteConfig.defaultUrl : 'http://127.0.0.1:8083/';
+const meta = require('./meta.json');
+const baseUrl = isProduction ? meta.productionUrl : 'http://127.0.0.1:8083/';
 module.exports = {
   isProduction,
   baseUrl,

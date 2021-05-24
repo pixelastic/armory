@@ -3,9 +3,9 @@
  **/
 #previews {
   .ais-Hits-list {
-    @apply flrw flspa;
+    @apply flex content-around;
   }
   .ais-Hits-item {
-    @apply fln flrnw;
+    @apply flex-none flex flex-no-wrap;
   }
 }

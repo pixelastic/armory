@@ -1,0 +1,26 @@
+mixin layout()
+  doctype html
+  html(lang='en')
+    +norska_head
+    body.helvetica.bg-gray-8(id=data.meta.pageType)
+      .container.mx-auto.p-1.relative.pb-2
+        .__header
+          #searchbox.mb-2
+        .__hits
+          #type.my-2.ml-5
+          #hits
+          textarea#hitTemplate(hidden)
+            include ../templates/hit
+          textarea#emptyTemplate(hidden)
+            include ../templates/empty
+        .__content
+          block content
+        .__footer.container.mx-auto.text-center.py-1.white.text-opacity-50p
+            | Created by 
+            a.inline.bold.white.text-opacity-75p.hover_underline(href="https://twitter.com/pixelastic") @pixelastic
+            |  - Code available on 
+            a.inline.bold.white.text-opacity-75p.hover_underline(href="https://github.com/pixelastic/artefacts") GitHub
+
+
+    script!=`window.CONFIG = ${JSON.stringify(data.config)};`
+    +norska_scripts

@@ -1,7 +1,4 @@
-@import 'tailwindcss/base';
-@import 'norska/reset';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import 'theme:style.css';
 
 @import '_styles/searchbox.css';
 @import '_styles/filters.css';

@@ -4,12 +4,10 @@ const isProduction = process.env.NODE_ENV === 'production';
 const _ = require('golgoth/lodash');
 
 module.exports = {
-  cloudinary: {
-    bucketName: 'pixelastic-artefacts',
-  },
+  cloudinary: 'pixelastic-artefacts',
   hooks: {
     async afterHtml({ createPage }) {
-      const template = '_includes/_layouts/item.pug';
+      const template = '_includes/hooks/item.pug';
 
       let items = [...baldurItems];
       // Include fewer items in dev, to make reloading faster
@@ -19,7 +17,13 @@ module.exports = {
       await pMap(items, async (item) => {
         const { gameSlug, slug } = item;
         const destination = `${gameSlug}/${slug}/index.html`;
-        const pageData = { item };
+        const pageData = {
+          item,
+          meta: {
+            title: item.title,
+            description: item.description,
+          },
+        };
         await createPage(template, destination, pageData);
       });
     },

@@ -3,18 +3,18 @@
  **/
 #hits {
   .ais-Hits-list {
-    @apply flcnw;
+    @apply flex flex-col flex-no-wrap;
   }
   .ais-Hits-item {
-    @apply fln flrnw;
+    @apply flex-none flex flex-no-wrap;
   }
 
   /* Empty results */
   > div:first-child {
-    @apply fla flcnw;
+    @apply flex-1 flex flex-col flex-no-wrap;
   }
   .ais-Hits--empty {
-    @apply fla flcnw;
+    @apply flex-1 flex flex-col flex-no-wrap;
   }
   /* Highlight */
   .ais-highlight {

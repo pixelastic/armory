@@ -2,12 +2,12 @@
  * Filters
  **/
 .ais-RefinementList-list {
-  @apply flrw;
+  @apply flex flex-row;
 }
 .ais-RefinementList-item {
-  @apply fln pr-1 pb-1;
+  @apply flex-none pr-1 pb-1;
   .ais-RefinementList-label {
-    @apply bg-gray-3 rounded-2 flrnw pointer shadow-2;
+    @apply bg-gray-3 rounded-2 flex flex-no-wrap pointer shadow-2;
     @apply transform transition-transform transition-colors;
     &:hover {
       @apply scale-125p;
@@ -22,10 +22,10 @@
       @apply hidden;
     }
     .ais-RefinementList-labelText {
-      @apply fln py-01 px-01;
+      @apply flex-none py-01 px-01;
     }
     .ais-RefinementList-count {
-      @apply fln bg-gray-5 px-01 py-01 rounded-r-2;
+      @apply flex-none bg-gray-5 px-01 py-01 rounded-r-2;
     }
   }
 }
