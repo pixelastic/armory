@@ -11420,10 +11420,10 @@ node-object-hash@2.0.0:
   resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.0.0.tgz#9971fcdb7d254f05016bd9ccf508352bee11116b"
   integrity sha512-VZR0zroAusy1ETZMZiGeLkdu50LGjG5U1KHZqTruqtTyQ2wfWhHG2Ow4nsUbfTFGlaREgNHcCWoM/OzEm6p+NQ==
 
-node-object-hash@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.3.1.tgz#5e4a6ac7f932cec4f90aff2fbdb953cb83344416"
-  integrity sha512-ab7pm34jqISawXpJ+fHjj2E9CmzDtm2fTTdurgzbWXIrdTEk2q2cSZRzoeGrwa0cvq6Sqezq6S9bhOBYPHRzuQ==
+node-object-hash@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.3.2.tgz#6a201d4296a68d12ae454ec6f8d5e9f69d1b44e0"
+  integrity sha512-QsV+vb6Kegh1V9eKeLJf2swNGkhH1sBtGWQz1fmwknGylbsyUt60iDIJWyGq2DeBRtuywdb+xXJydKa9BFNxTA==
 
 node-releases@^1.1.53:
   version "1.1.56"

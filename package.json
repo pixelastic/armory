@@ -10,7 +10,7 @@
     "firost": "2.13.1",
     "golgoth": "2.0.0",
     "he": "1.2.0",
-    "node-object-hash": "2.3.1",
+    "node-object-hash": "2.3.2",
     "pluralize": "8.0.0",
     "wtf_wikipedia": "9.0.0"
   },
