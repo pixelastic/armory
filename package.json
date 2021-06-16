@@ -7,7 +7,7 @@
   "devDependencies": {
     "aberlaas": "1.23.0",
     "algolia-indexing": "1.2.0",
-    "firost": "2.13.1",
+    "firost": "2.14.0",
     "golgoth": "2.0.0",
     "he": "1.2.0",
     "node-object-hash": "2.3.4",
