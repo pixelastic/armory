@@ -10,9 +10,9 @@
     "firost": "2.17.0",
     "golgoth": "2.1.0",
     "he": "1.2.0",
-    "node-object-hash": "2.3.10",
+    "node-object-hash": "3.0.0",
     "pluralize": "8.0.0",
-    "wtf_wikipedia": "9.0.1"
+    "wtf_wikipedia": "10.3.2"
   },
   "files": [],
   "license": "MIT",
