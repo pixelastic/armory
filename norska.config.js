@@ -4,6 +4,8 @@ const isProduction = process.env.NODE_ENV === 'production';
 const _ = require('golgoth/lodash');
 
 module.exports = {
+  // Cloud name kept as pixelastic-artefacts: project was originally named
+  // "artefacts" and Cloudinary cloud names can't be renamed
   cloudinary: 'pixelastic-artefacts',
   hooks: {
     async afterHtml({ createPage }) {

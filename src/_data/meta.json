@@ -1,7 +1,7 @@
 {
   "description": "Find inspiration for your custom magic items by browsing lore from other items",
-  "title": "artefacts",
-  "productionUrl": "https://gamemaster.pixelastic.com/artefacts/",
+  "title": "armory",
+  "productionUrl": "https://gamemaster.pixelastic.com/armory/",
   "twitter": "pixelastic",
   "favicon": "favicon.png"
 }

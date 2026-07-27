@@ -1,8 +1,8 @@
-# Artefacts
+# Armory
 
 Find inspiration for your custom magic items by browsing lore from other items
 
-[https://gamemaster.pixelastic.com/artefacts/][1]
+[https://gamemaster.pixelastic.com/armory/][1]
 
 ## Games
 
@@ -36,7 +36,7 @@ If you know of any other game with interesting lore for items; let me know.
 - [Pillars of Eternity Wiki][3]
 - [Dark Souls Wiki][4]
 
-[1]: https://gamemaster.pixelastic.com/artefacts/
+[1]: https://gamemaster.pixelastic.com/armory/
 [2]: http://baldursgate.wikia.com/wiki/Baldur%27s_Gate_Wiki
 [3]: https://pillarsofeternity.gamepedia.com/Official_Pillars_of_Eternity_Wiki
 [4]: http://darksouls.wikia.com/wiki/Dark_Souls_Wiki

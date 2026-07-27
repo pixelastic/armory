@@ -16,8 +16,8 @@
   },
   "files": [],
   "license": "MIT",
-  "name": "artefacts",
-  "repository": "git@github.com:pixelastic/artefacts.git",
+  "name": "armory",
+  "repository": "git@github.com:pixelastic/armory.git",
   "scripts": {
     "build": "./scripts/build",
     "build:prod": "./scripts/build-prod",
